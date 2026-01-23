@@ -1,0 +1,107 @@
+=== NLU Detailed Performance Report (All 100 Questions) ===
+Total Questions: 100
+Intent Accuracy: 22.00% (Label Match Only)
+Keyword Accuracy: 93.00% (Functional Success)
+======================================================================================================================
+ID   | Query                                              | Exp. Intent | Act. Intent | Intent Check | Keyword Check
+----------------------------------------------------------------------------------------------------------------------
+1    | 화장실 변기 닦아도 냄새가 안 없어져요.             | implicit    | explicit    | FAIL         | PASS        
+2    | 문 닫을 때마다 쾅쾅 소리 나서 시끄러워요.          | implicit    | explicit    | FAIL         | PASS        
+3    | 바닥 긁히는 소리 안 나게 의자에 끼우는 거 있...    | implicit    | explicit    | FAIL         | PASS        
+4    | 싱크대 배수구가 꽉 막혀서 물이 안 내려가요.        | implicit    | explicit    | FAIL         | PASS        
+5    | 새로 산 그릇에 스티커 끈끈이가 남아서 안 떼...     | implicit    | explicit    | FAIL         | PASS        
+6    | 장마철이라 옷장에서 꿉꿉한 냄새가 나요.            | implicit    | explicit    | FAIL         | PASS        
+7    | 초파리가 자꾸 꼬이는데 잡는 트랩 같은 거 있...     | implicit    | explicit    | FAIL         | PASS        
+8    | 욕실 타일 틈새에 검은 곰팡이가 꼈어요.             | implicit    | explicit    | FAIL         | PASS        
+9    | 와이셔츠 목 때가 세탁기로 빨아도 잘 안 지워...     | implicit    | explicit    | FAIL         | PASS        
+10   | 강아지 털이 옷에 너무 많이 붙어서 떼고 싶어요.     | implicit    | explicit    | FAIL         | PASS        
+11   | 책상 밑에 전선들이 너무 지저분하게 엉켜 있어요.    | implicit    | explicit    | FAIL         | PASS        
+12   | 방충망에 구멍이 났는데 전체 갈기는 좀 그렇고...    | implicit    | explicit    | FAIL         | PASS        
+13   | 요리하다가 기름이 벽에 너무 많이 튀어요.           | implicit    | explicit    | FAIL         | PASS        
+14   | 신발장 열 때마다 발 냄새가 너무 심해요.            | implicit    | explicit    | FAIL         | PASS        
+15   | 유리에 테이프 자국 남은 거 긁어내고 싶어요.        | implicit    | explicit    | FAIL         | PASS        
+16   | 바지 허리가 너무 커서 줄이고 싶은데 바느질은...    | implicit    | explicit    | FAIL         | PASS        
+17   | 가구 모서리에 애기가 찧을까 봐 걱정돼요.           | implicit    | explicit    | FAIL         | PASS        
+18   | 화장실 거울에 김이 너무 서려서 안 보여요.          | implicit    | explicit    | FAIL         | PASS        
+19   | 검은 옷에 먼지가 너무 잘 붙어요.                   | implicit    | explicit    | FAIL         | PASS        
+20   | 냉장고 안에 김치 국물이 흘러서 굳었어요.           | implicit    | explicit    | FAIL         | PASS        
+21   | 벽에 못 안 박고 액자 걸 수 있는 핀 같은 거요.      | implicit    | explicit    | FAIL         | PASS        
+22   | 물만 묻혀서 닦으면 때 지워지는 하얀 스펀지 ...     | implicit    | explicit    | FAIL         | PASS        
+23   | 치약 끝까지 짜서 쓰게 해주는 플라스틱 있나요?      | implicit    | explicit    | FAIL         | PASS        
+24   | 전자레인지 안에 넣고 돌려도 되는 밥 보관 용기요.   | implicit    | explicit    | FAIL         | PASS        
+25   | 그물처럼 생겨서 설거지하고 수세미 말리는 거.       | implicit    | explicit    | FAIL         | PASS        
+26   | 방 문 뒤에 걸어서 옷 걸 수 있게 하는 거요.         | implicit    | explicit    | FAIL         | PASS        
+27   | 주방 서랍 안에 숟가락 젓가락 칸 나눠주는 통.       | implicit    | explicit    | FAIL         | PASS        
+28   | 여행 갈 때 샴푸랑 린스 조금씩 덜어가는 공병.       | implicit    | explicit    | FAIL         | PASS        
+29   | 핸드폰 뒤에 붙여서 손가락 끼우는 동그란 거.        | implicit    | explicit    | FAIL         | PASS        
+30   | 비누가 물러서 자꾸 녹는데 안 닿게 해주는 받...     | implicit    | explicit    | FAIL         | PASS        
+31   | 화분 흙 안 쏟아지게 바닥에 까는 망 같은 거.        | implicit    | explicit    | FAIL         | PASS        
+32   | 머리카락 배수구에 안 들어가게 걸러주는 스티커.     | implicit    | explicit    | FAIL         | PASS        
+33   | 책상 위에 놓고 쓰는 아주 작은 빗자루 세트.         | implicit    | explicit    | FAIL         | PASS        
+34   | 운동화 끈 안 묶고 그냥 당겨서 조이는 끈.           | implicit    | explicit    | FAIL         | PASS        
+35   | 의자 밑에 붙여서 잘 미끄러지게 하는 스티커.        | implicit    | explicit    | FAIL         | PASS        
+36   | 설거지할 때 옷 젖지 말라고 배에 대는 가림막.       | implicit    | explicit    | FAIL         | PASS        
+37   | 싱크대 구석에 음식물 쓰레기 모아두는 삼각 통.      | implicit    | explicit    | FAIL         | PASS        
+38   | 유리창 닦을 때 물기 싹 긁어내리는 고무 달린...     | implicit    | explicit    | FAIL         | PASS        
+39   | 긴 컵 닦을 때 쓰는 손잡이 달린 스펀지.             | implicit    | explicit    | FAIL         | PASS        
+40   | 마시다 남은 와인 막아두는 마개.                    | implicit    | explicit    | FAIL         | PASS        
+41   | 내일 자취방 처음 들어가는데 청소 필수템 좀 ...     | implicit    | explicit    | FAIL         | PASS        
+42   | 친구들이랑 홈파티 하는데 벽에 붙일 장식 추천...    | implicit    | explicit    | FAIL         | PASS        
+43   | 해외여행 가는데 비행기 안에서 편하게 있을 만...    | implicit    | implicit    | PASS         | PASS        
+44   | 강아지랑 산책 갈 때 챙겨야 할 거 뭐 있죠?          | implicit    | explicit    | FAIL         | PASS        
+45   | 회사 책상이 너무 삭막해서 좀 꾸미고 싶어요.        | implicit    | explicit    | FAIL         | PASS        
+46   | 집에서 혼자 네일아트 해보려고 하는데 뭐부터 ...    | implicit    | explicit    | FAIL         | PASS        
+47   | 겨울옷 정리해서 넣어두려는데 부피 줄이는 봉...     | implicit    | explicit    | FAIL         | PASS        
+48   | 차 박 할 때 창문 가리는 용도로 쓸 만한 거.         | implicit    | explicit    | FAIL         | PASS        
+49   | 아이들 학교 준비물로 색종이랑 풀 담을 통이 ...     | implicit    | explicit    | FAIL         | PASS        
+50   | 싱크대 상판이 너무 좁아서 공간 활용하고 싶어요.    | implicit    | explicit    | FAIL         | PASS        
+51   | 캠핑 가서 고기 구워 먹을 때 쓸 일회용 접시 ...     | implicit    | explicit    | FAIL         | PASS        
+52   | 욕실에 샴푸랑 린스 놓을 자리가 없어서 공중부...    | implicit    | explicit    | FAIL         | PASS        
+53   | 다이어리 꾸미기 입문하려는데 스티커 추천 좀.       | implicit    | explicit    | FAIL         | PASS        
+54   | 선생님께 드릴 건데 너무 비싸지 않으면서 포장...    | implicit    | explicit    | FAIL         | PASS        
+55   | 비 오는 날 신발 젖는 거 너무 싫은데 방수되는...    | implicit    | explicit    | FAIL         | PASS        
+56   | 조카가 슬라임 만들고 싶다는데 재료 어디 있어요?    | implicit    | explicit    | FAIL         | PASS        
+57   | 유튜브 촬영할 때 핸드폰 고정해 놓을 거.            | implicit    | explicit    | FAIL         | PASS        
+58   | 독서실에서 쓸 소리 안 나는 슬리퍼.                 | implicit    | explicit    | FAIL         | PASS        
+59   | 음식물 쓰레기 냄새 안 나게 밀폐 잘 되는 통.        | implicit    | explicit    | FAIL         | PASS        
+60   | 원룸인데 빨래 건조대 놓을 자리가 없어요.           | implicit    | explicit    | FAIL         | PASS        
+61   | 5000원 이하로 중학생 여자애 생일 선물 추천해 줘.   | implicit    | explicit    | FAIL         | PASS        
+62   | 유치원 생일 답례품으로 돌릴 1000원짜리 간식거리.   | implicit    | explicit    | FAIL         | PASS        
+63   | 만원으로 욕실 청소 용품 풀세트 맞추고 싶어요.      | implicit    | explicit    | FAIL         | PASS        
+64   | 3000원 안 넘는 선에서 차량용 방향제 있나요?        | explicit    | explicit    | PASS         | PASS        
+65   | 군인 친구한테 보낼 건데 반입 가능한 화장품.        | implicit    | explicit    | FAIL         | PASS        
+66   | 어르신들이 좋아할 만한 지압 용품 추천.             | implicit    | implicit    | PASS         | PASS        
+67   | AA 건전지 대용량으로 제일 싼 거.                   | explicit    | explicit    | PASS         | PASS        
+68   | 자취생인데 그릇 세트 말고 딱 하나만 산다면 제...   | implicit    | explicit    | FAIL         | PASS        
+69   | 일본 여행 가는데 110v 돼지코 2개만 필요해요.       | explicit    | explicit    | PASS         | PASS        
+70   | 다이소 꿀템이라고 소문난 거 중에 뷰티 쪽 추천...   | implicit    | implicit    | PASS         | PASS        
+71   | 지금 당장 살 수 있는 할로윈 소품.                  | explicit    | explicit    | PASS         | PASS        
+72   | 크리스마스 트리 장식 2만 원 안으로 해결하고 싶어.  | explicit    | explicit    | PASS         | PASS        
+73   | 국산 볼펜 중에 제일 잘 써지는 거.                  | explicit    | explicit    | PASS         | PASS        
+74   | 유리병 말고 안 깨지는 플라스틱 물병.               | explicit    | explicit    | PASS         | PASS        
+75   | 색깔 별로 들어있는 고무줄 세트.                    | explicit    | explicit    | PASS         | PASS        
+76   | A4 용지 들어가는 파일 홀더 10개 묶음.              | explicit    | explicit    | PASS         | PASS        
+77   | 냄새 안 나는 무향 제습제.                          | explicit    | explicit    | PASS         | PASS        
+78   | 캐리어에 붙일 만한 큰 스티커.                      | explicit    | explicit    | PASS         | PASS        
+79   | 전자레인지랑 식기세척기 둘 다 되는 그릇.           | explicit    | explicit    | PASS         | PASS        
+80   | 아이폰 충전 케이블인데 줄 긴 거(2m 이상).          | explicit    | explicit    | PASS         | PASS        
+81   | 약간 카페 같은 분위기 내는 조명 없나?                | implicit    | explicit    | FAIL         | PASS        
+82   | 방에서 나는 홀아비 냄새 잡는 거.                     | implicit    | explicit    | FAIL         | PASS        
+83   | 그... 뽁뽁이 말고 창문에 붙여서 단열하는 거.         | implicit    | explicit    | FAIL         | PASS        
+84   | 손에 뭐 안 묻히고 과자 집어 먹는 집게 같은 거.       | implicit    | explicit    | FAIL         | PASS        
+85   | 화장대 거울에 붙여서 밝게 만드는 전구.               | implicit    | explicit    | FAIL         | PASS        
+86   | 냉장고 옆면에 자석으로 붙여서 수납하는 거.           | implicit    | explicit    | FAIL         | PASS        
+87   | 싱크대 물 튀는 거 막아주는 투명한 판.                | implicit    | explicit    | FAIL         | PASS        
+88   | 샤워기 물줄기 너무 세서 아픈데 부드럽게 나오...      | implicit    | explicit    | FAIL         | PASS        
+89   | 책 읽을 때 페이지 안 넘어가게 잡아주는 거.           | implicit    | explicit    | FAIL         | PASS        
+90   | 컴퓨터 키보드 사이사이 먼지 빼내는 젤리 같은 거.     | implicit    | explicit    | FAIL         | PASS        
+91   | 방바닥에 머리카락 굴러다니는 거 싫어서 슥슥 ...      | implicit    | explicit    | FAIL         | PASS        
+92   | 운동할 때 핸드폰 팔뚝에 차는 거.                     | implicit    | explicit    | FAIL         | PASS        
+93   | 마스크 오래 쓰면 귀 아픈데 안 아프게 하는 고리.      | implicit    | explicit    | FAIL         | PASS        
+94   | 후라이팬 코팅 안 벗겨지게 긁는 뒤집개.               | implicit    | explicit    | FAIL         | PASS        
+95   | 니트 옷걸이에 걸면 어깨 튀어나오는데 안 그러...      | implicit    | explicit    | FAIL         | PASS        
+96   | 욕실 슬리퍼 물 잘 빠지고 구멍 숭숭 뚫린 거.          | implicit    | explicit    | FAIL         | PASS        
+97   | 이어폰 줄 꼬인 거 푸느라 짜증 나는데 감아두는 거.    | implicit    | explicit    | FAIL         | PASS        
+98   | 택배 송장 번호 개인정보 지우는 도장.                 | implicit    | explicit    | FAIL         | PASS        
+99   | 비누 거품 잘 나게 하는 망.                           | implicit    | explicit    | FAIL         | PASS        
+100  | 새우 껍질 까기 귀찮은데 쉽게 까는 도구.              | implicit    | explicit    | FAIL         | PASS        

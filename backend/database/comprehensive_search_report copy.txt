@@ -1,0 +1,186 @@
+🧪 Comprehensive Categorized Search Report
+Date: 2026-01-20 15:02:12
+==============================================================================================================
+
+1. 기본형 (Basic Noun)
+--------------------------------------------------------------------------------------------------------------
+Query                          | Intent          | Category                         | Result
+--------------------------------------------------------------------------------------------------------------
+컵 있어요?                         | direct_search   | N/A                              | ✅
+유리컵 있나요?                       | direct_search   | N/A                              | ✅
+멀티탭 찾아요                        | direct_search   | N/A                              | ❌
+건전지 있어요?                       | direct_search   | N/A                              | ✅
+가위 어디 있어요?                     | direct_search   | N/A                              | ✅
+방향제 어디 있어요?                    | direct_search   | N/A                              | ✅
+매트 찾고 있어요                      | direct_search   | N/A                              | ✅
+수납 바구니 있어요?                    | direct_search   | N/A                              | ✅
+청소솔 보여줘                        | direct_search   | N/A                              | ✅
+트랩 있어요?                        | direct_search   | N/A                              | ✅
+테이프 어디에요?                      | direct_search   | N/A                              | ❌
+의자 발커버 찾아요                     | direct_search   | N/A                              | ✅
+패드 있어요?                        | direct_search   | N/A                              | ❌
+스퀴지 어디 있나요?                    | direct_search   | N/A                              | ✅
+압축봉 찾아요                        | direct_search   | N/A                              | ✅
+네트망 있어요?                       | direct_search   | N/A                              | ✅
+냄비받침 어디에요?                     | direct_search   | N/A                              | ✅
+제습제 찾고 있어요                     | direct_search   | N/A                              | ✅
+걸레 빨아쓰는거 있어요?                  | ask_clarificati | N/A                              | ❌
+정리함 보여줘                        | direct_search   | N/A                              | ✅
+앞치마 있어요?                       | direct_search   | N/A                              | ✅
+스토퍼 찾아요                        | direct_search   | N/A                              | ✅
+모서리 보호대 있어요?                   | direct_search   | N/A                              | ✅
+세정제 위치 어디에요?                   | ask_clarificati | N/A                              | ❌
+물막이 찾아요                        | direct_search   | N/A                              | ✅
+S자 고리 있어요?                     | direct_search   | N/A                              | ✅
+단열시트 어디 있나요?                   | direct_search   | N/A                              | ✅
+압축팩 찾아요                        | direct_search   | N/A                              | ✅
+여행용 용기 있어요?                    | direct_search   | N/A                              | ✅
+디퓨저 찾고 있어요                     | direct_search   | N/A                              | ✅
+--------------------------------------------------------------------------------------------------------------
+
+2. 속성 결합형 (Material/Color/Size)
+--------------------------------------------------------------------------------------------------------------
+Query                          | Intent          | Category                         | Result
+--------------------------------------------------------------------------------------------------------------
+유리컵 있어요?                       | direct_search   | N/A                              | ✅
+내열 유리컵 찾아요                     | direct_search   | N/A                              | ✅
+도자기 그릇 어디에요?                   | direct_search   | N/A                              | ❌
+3단 우산 있어요?                     | direct_search   | N/A                              | ✅
+검정색 우산 있어요?                    | direct_search   | N/A                              | ❌
+규조토 제품 있어요?                    | direct_search   | N/A                              | ✅
+규조토 발매트 찾아요                    | direct_search   | N/A                              | ✅
+투명 논슬립 스티커 있어요?                | direct_search   | N/A                              | ✅
+그레이색 매트 찾아요                    | direct_search   | N/A                              | ✅
+젤타입 곰팡이 제거제                    | direct_search   | N/A                              | ✅
+스텐 거름망 있어요?                    | direct_search   | N/A                              | ✅
+실리콘 냄비받침 찾아요                   | direct_search   | N/A                              | ✅
+아크릴 정리함 어디에요?                  | direct_search   | N/A                              | ✅
+AA 건전지 있어요?                    | direct_search   | N/A                              | ❌
+캡형 물티슈 찾아요                     | direct_search   | N/A                              | ✅
+대용량 매직 스펀지                     | direct_search   | N/A                              | ✅
+260mm 슬리퍼 있어요?                 | direct_search   | N/A                              | ✅
+체크무늬 마스킹 테이프                   | direct_search   | N/A                              | ❌
+스테인리스 빨대 찾아요                   | direct_search   | N/A                              | ✅
+대형 전자레인지 덮개                    | direct_search   | N/A                              | ✅
+화이트 압축봉 있어요?                   | direct_search   | N/A                              | ✅
+소형 압축봉 찾아요                     | direct_search   | N/A                              | ✅
+브라운 의자 발커버                     | direct_search   | N/A                              | ✅
+중형 수납 바구니                      | direct_search   | N/A                              | ✅
+2m 전선 보호 튜브                    | direct_search   | N/A                              | ✅
+5p 리필 용기                       | direct_search   | N/A                              | ✅
+1L 배수구 뻥                       | direct_search   | N/A                              | ✅
+블랙체리 디퓨저                       | direct_search   | N/A                              | ✅
+일자형 꼭꼬핀                        | direct_search   | N/A                              | ✅
+4구 칫솔 꽂이                       | direct_search   | N/A                              | ❌
+--------------------------------------------------------------------------------------------------------------
+
+3. 별칭/은어형 (Alias/Slang)
+--------------------------------------------------------------------------------------------------------------
+Query                          | Intent          | Category                         | Result
+--------------------------------------------------------------------------------------------------------------
+매직블럭 있어요?                      | direct_search   | N/A                              | ❌
+샤워볼 있어요?                       | direct_search   | N/A                              | ❌
+포스트잇 찾아요                       | direct_search   | N/A                              | ❌
+방충망 테이프 있어요?                   | direct_search   | N/A                              | ✅
+돌돌이 리필 어디에요?                   | direct_search   | N/A                              | ❌
+뽁뽁이 있어요?                       | direct_search   | N/A                              | ✅
+뚫어뻥 액체 있어요?                    | direct_search   | N/A                              | ❌
+순간접착제 본드 찾아요                   | direct_search   | N/A                              | ✅
+유리창 닦이 있어요?                    | direct_search   | N/A                              | ✅
+밀대 있어요?                        | direct_search   | N/A                              | ❌
+옷걸이 봉 찾아요                      | direct_search   | N/A                              | ❌
+충전 줄 있어요?                      | direct_search   | N/A                              | ❌
+핸드폰 줄                          | direct_search   | N/A                              | ❌
+비닐 랩 있어요?                      | direct_search   | N/A                              | ❌
+수세미 있어요?                       | direct_search   | N/A                              | ❌
+행주 찾아요                         | direct_search   | N/A                              | ❌
+칙칙이 방향제                        | direct_search   | N/A                              | ❌
+습기 제거제                         | direct_search   | N/A                              | ❌
+화장실 슬리퍼                        | direct_search   | N/A                              | ❌
+욕실 신발                          | direct_search   | N/A                              | ❌
+거름망 스텐                         | direct_search   | N/A                              | ✅
+날파리 트랩                         | direct_search   | N/A                              | ❌
+문 꽝 방지                         | direct_search   | N/A                              | ❌
+애기 모서리 쿵                       | problem_solving | N/A                              | ✅
+변기 청소볼                         | direct_search   | N/A                              | ❌
+머리카락 거름망                       | direct_search   | N/A                              | ❌
+케이블 타이                         | direct_search   | N/A                              | ❌
+끈끈이 제거                         | ask_clarificati | N/A                              | ❌
+주방 세제                          | direct_search   | N/A                              | ❌
+책상 정리함                         | direct_search   | N/A                              | ❌
+--------------------------------------------------------------------------------------------------------------
+
+4. 캐릭터/브랜드형 (Character/Brand)
+--------------------------------------------------------------------------------------------------------------
+Query                          | Intent          | Category                         | Result
+--------------------------------------------------------------------------------------------------------------
+키티 빗 찾아요                       | direct_search   | N/A                              | ❌
+헬로키티 제품 있어요?                   | direct_search   | N/A                              | ✅
+카카오 프렌즈 칫솔 있어요?                | direct_search   | N/A                              | ❌
+라이언 칫솔 있어요?                    | direct_search   | N/A                              | ❌
+크린랩 어디에요?                      | direct_search   | N/A                              | ✅
+3M 스펀지 있나요?                    | direct_search   | N/A                              | ✅
+다이소 곰팡이 젤                      | direct_search   | N/A                              | ❌
+다이소 건전지                        | direct_search   | N/A                              | ❌
+다이소 물티슈                        | direct_search   | N/A                              | ✅
+아이폰 케이블                        | direct_search   | N/A                              | ✅
+갤럭시 충전기                        | direct_search   | N/A                              | ❌
+키티 캐릭터 용품                      | direct_search   | N/A                              | ❌
+카카오 라이언 칫솔                     | direct_search   | N/A                              | ❌
+크린랩 비닐                         | direct_search   | N/A                              | ✅
+크린랩 30cm                       | direct_search   | N/A                              | ✅
+헬로키티 빗                         | direct_search   | N/A                              | ❌
+카카오 칫솔                         | direct_search   | N/A                              | ❌
+라이언 구강용품                       | direct_search   | N/A                              | ❌
+아이폰 충전줄                        | direct_search   | N/A                              | ✅
+아이폰 8핀                         | direct_search   | N/A                              | ✅
+다이소 건전지 AA                     | direct_search   | N/A                              | ✅
+다이소 곰팡이 제거                     | direct_search   | N/A                              | ❌
+다이소 매직블럭                       | direct_search   | N/A                              | ❌
+다이소 뽁뽁이                        | direct_search   | N/A                              | ✅
+다이소 압축봉                        | direct_search   | N/A                              | ✅
+다이소 네트망                        | direct_search   | N/A                              | ✅
+다이소 슬리퍼                        | direct_search   | N/A                              | ✅
+다이소 변기솔                        | direct_search   | N/A                              | ❌
+다이소 보수 테이프                     | direct_search   | N/A                              | ✅
+다이소 걸레                         | direct_search   | N/A                              | ✅
+다이소 물막이                        | direct_search   | N/A                              | ✅
+--------------------------------------------------------------------------------------------------------------
+
+5. 부속/파츠형 (Part/Refill)
+--------------------------------------------------------------------------------------------------------------
+Query                          | Intent          | Category                         | Result
+--------------------------------------------------------------------------------------------------------------
+롤클리너 리필 어디에요?                  | direct_search   | N/A                              | ✅
+칫솔 꽂이 찾는데요                     | direct_search   | N/A                              | ✅
+비누 받침대 있어요?                    | direct_search   | N/A                              | ✅
+건전지 AA 사이즈 찾아요                 | direct_search   | N/A                              | ✅
+리필용 용기 있어요?                    | direct_search   | N/A                              | ❌
+매직블럭 리필                        | direct_search   | N/A                              | ❌
+테이프 리필                         | direct_search   | N/A                              | ❌
+방충망 보수용                        | direct_search   | N/A                              | ✅
+의자 발커버 낱개                      | direct_search   | N/A                              | ✅
+케이블 정리 홀더                      | direct_search   | N/A                              | ✅
+냄비 받침                          | direct_search   | N/A                              | ✅
+전자레인지 뚜껑                       | direct_search   | N/A                              | ❌
+제습제 리필                         | direct_search   | N/A                              | ❌
+걸레 리필                          | direct_search   | N/A                              | ❌
+변기 세정제 리필                      | direct_search   | N/A                              | ✅
+싱크대 거름망                        | direct_search   | N/A                              | ❌
+배수구 뚜껑                         | direct_search   | N/A                              | ❌
+청소포 리필                         | direct_search   | N/A                              | ❌
+샴푸통 펌프                         | direct_search   | N/A                              | ❌
+압축봉 고무                         | direct_search   | N/A                              | ✅
+우산 커버                          | direct_search   | N/A                              | ❌
+디퓨저 리필액                        | direct_search   | N/A                              | ❌
+리필 용기 5개                       | direct_search   | N/A                              | ✅
+롤클리너 테이프                       | direct_search   | N/A                              | ❌
+칫솔 걸이                          | direct_search   | N/A                              | ❌
+비누 곽                           | direct_search   | N/A                              | ❌
+건전지 리필                         | direct_search   | N/A                              | ❌
+테이프 심                          | direct_search   | N/A                              | ❌
+의자 양말                          | direct_search   | N/A                              | ❌
+케이블 박스 뚜껑                      | direct_search   | N/A                              | ❌
+--------------------------------------------------------------------------------------------------------------
+
+Total Success Rate: 84/151 (55.6%)

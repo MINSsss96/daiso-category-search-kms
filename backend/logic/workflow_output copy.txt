@@ -1,0 +1,831 @@
+Loaded 69 questions.
+Compiling graph...
+
+=== Processing All 69 Questions ===
+
+--- [Q1] Customer asks: '건전지 어디에 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 건전지 어디에 있어요? ---
+  -> Determined Intent: explicit
+  -> Extracted Products: ['건전지']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['건전지'] ---
+  -> Generated Keywords: ['건전지', '건전지 추천', '건전지 위치']
+
+--- [Q2] Customer asks: '멀티탭 코너는 몇 번이에요?' ---
+
+--- [Node: analyze_intent] Processing: 멀티탭 코너는 몇 번이에요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 멀티탭 코너는 몇 번이에요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q3] Customer asks: '순간접착제는 어디로 가야 돼요?' ---
+
+--- [Node: analyze_intent] Processing: 순간접착제는 어디로 가야 돼요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 순간접착제는 어디로 가야 돼요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q4] Customer asks: '욕실 슬리퍼 찾는데 안 보여요.' ---
+
+--- [Node: analyze_intent] Processing: 욕실 슬리퍼 찾는데 안 보여요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 욕실 슬리퍼 찾는데 안 보여요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q5] Customer asks: '다이소 꿀템이라고 하던데, '리들샷' 재고 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 다이소 꿀템이라고 하던데, '리들샷' 재고 있나요? ---
+  -> Determined Intent: explicit
+  -> Extracted Products: ['리들샷']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['리들샷'] ---
+  -> Generated Keywords: ['리들샷', '리들샷 추천', '리들샷 위치']
+
+--- [Q6] Customer asks: '아이폰 충전 케이블은 어디 쪽에 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 아이폰 충전 케이블은 어디 쪽에 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 아이폰 충전 케이블은 어디 쪽에 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q7] Customer asks: '포장지랑 편지지는 어디 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 포장지랑 편지지는 어디 있어요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 포장지랑 편지지는 어디 있어요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q8] Customer asks: '옷걸이 종류는 어디 모여 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 옷걸이 종류는 어디 모여 있어요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 옷걸이 종류는 어디 모여 있어요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q9] Customer asks: '강아지 배변 패드는 2층에 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 강아지 배변 패드는 2층에 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 강아지 배변 패드는 2층에 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q10] Customer asks: '줄자는 공구 쪽에 있나요, 문구 쪽에 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 줄자는 공구 쪽에 있나요, 문구 쪽에 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 줄자는 공구 쪽에 있나요, 문구 쪽에 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q11] Customer asks: '싱크대 물 안 튀게 막아주는 거 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 싱크대 물 안 튀게 막아주는 거 있어요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 싱크대 물 안 튀게 막아주는 거 있어요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q12] Customer asks: '의자 끌 때 소리 안 나게 끼우는 거 찾는데요.' ---
+
+--- [Node: analyze_intent] Processing: 의자 끌 때 소리 안 나게 끼우는 거 찾는데요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 의자 끌 때 소리 안 나게 끼우는 거 찾는데요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q13] Customer asks: '새로 이사했는데 문틈으로 바람 들어오는 거 막는 스펀지 같은 거요.' ---
+
+--- [Node: analyze_intent] Processing: 새로 이사했는데 문틈으로 바람 들어오는 거 막는 스펀지 같은 거요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 새로 이사했는데 문틈으로 바람 들어오는 거 막는 스펀지 같은 거요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q14] Customer asks: '화장실 타일 사이에 낀 곰팡이 없애는 젤 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 화장실 타일 사이에 낀 곰팡이 없애는 젤 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 화장실 타일 사이에 낀 곰팡이 없애는 젤 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q15] Customer asks: '그... 옷에 핀 보풀 제거하는 기계 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 그... 옷에 핀 보풀 제거하는 기계 있어요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 그... 옷에 핀 보풀 제거하는 기계 있어요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q16] Customer asks: '신발장 냄새 제거하는 탈취제 같은 거 어디 봐요?' ---
+
+--- [Node: analyze_intent] Processing: 신발장 냄새 제거하는 탈취제 같은 거 어디 봐요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 신발장 냄새 제거하는 탈취제 같은 거 어디 봐요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q17] Customer asks: '벽에 못 안 박고 액자 걸 수 있는 끈끈이 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 벽에 못 안 박고 액자 걸 수 있는 끈끈이 있어요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 벽에 못 안 박고 액자 걸 수 있는 끈끈이 있어요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q18] Customer asks: '여행 가는데 화장품 덜어갈 작은 공병들 모아둔 곳이요.' ---
+
+--- [Node: analyze_intent] Processing: 여행 가는데 화장품 덜어갈 작은 공병들 모아둔 곳이요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 여행 가는데 화장품 덜어갈 작은 공병들 모아둔 곳이요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q19] Customer asks: '방충망에 구멍 났는데 그거 때우는 스티커 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 방충망에 구멍 났는데 그거 때우는 스티커 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 방충망에 구멍 났는데 그거 때우는 스티커 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q20] Customer asks: '키보드 사이에 먼지 빼는 젤리 같은 거 찾고 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 키보드 사이에 먼지 빼는 젤리 같은 거 찾고 있어요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 키보드 사이에 먼지 빼는 젤리 같은 거 찾고 있어요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q21] Customer asks: '매직블럭(매직스펀지) 큰 거는 없어요?' ---
+
+--- [Node: analyze_intent] Processing: 매직블럭(매직스펀지) 큰 거는 없어요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 매직블럭(매직스펀지) 큰 거는 없어요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q22] Customer asks: '배수구 거름망 스타킹처럼 된 거요.' ---
+
+--- [Node: analyze_intent] Processing: 배수구 거름망 스타킹처럼 된 거요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 배수구 거름망 스타킹처럼 된 거요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q23] Customer asks: '에어프라이어에 까는 종이 호일 어디 있죠?' ---
+
+--- [Node: analyze_intent] Processing: 에어프라이어에 까는 종이 호일 어디 있죠? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 에어프라이어에 까는 종이 호일 어디 있죠? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q24] Customer asks: '고무장갑 M사이즈는 어디에 걸려 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 고무장갑 M사이즈는 어디에 걸려 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 고무장갑 M사이즈는 어디에 걸려 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q25] Customer asks: '밀폐용기 중에 유리로 된 것만 모아둔 곳 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 밀폐용기 중에 유리로 된 것만 모아둔 곳 있어요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 밀폐용기 중에 유리로 된 것만 모아둔 곳 있어요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q26] Customer asks: '기름 닦는 키친타월은 휴지 쪽에 있나요, 주방 쪽에 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 기름 닦는 키친타월은 휴지 쪽에 있나요, 주방 쪽에 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 기름 닦는 키친타월은 휴지 쪽에 있나요, 주방 쪽에 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q27] Customer asks: '텀블러 닦는 긴 솔 찾아요.' ---
+
+--- [Node: analyze_intent] Processing: 텀블러 닦는 긴 솔 찾아요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 텀블러 닦는 긴 솔 찾아요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q28] Customer asks: '음식물 쓰레기 봉투도 파나요?' ---
+
+--- [Node: analyze_intent] Processing: 음식물 쓰레기 봉투도 파나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 음식물 쓰레기 봉투도 파나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q29] Customer asks: '인덕션 상판 닦는 전용 세제 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 인덕션 상판 닦는 전용 세제 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 인덕션 상판 닦는 전용 세제 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q30] Customer asks: '과일 씻을 때 쓰는 베이킹소다는 어디 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 과일 씻을 때 쓰는 베이킹소다는 어디 있어요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 과일 씻을 때 쓰는 베이킹소다는 어디 있어요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q31] Customer asks: '뽁뽁이(에어캡) 롤로 말려 있는 거 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 뽁뽁이(에어캡) 롤로 말려 있는 거 있어요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 뽁뽁이(에어캡) 롤로 말려 있는 거 있어요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q32] Customer asks: '택배 보낼 때 쓰는 박스 테이프 투명한 거요.' ---
+
+--- [Node: analyze_intent] Processing: 택배 보낼 때 쓰는 박스 테이프 투명한 거요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 택배 보낼 때 쓰는 박스 테이프 투명한 거요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q33] Customer asks: '다이어리 꾸미는 스티커 모아둔 매대는 어디예요?' ---
+
+--- [Node: analyze_intent] Processing: 다이어리 꾸미는 스티커 모아둔 매대는 어디예요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 다이어리 꾸미는 스티커 모아둔 매대는 어디예요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q34] Customer asks: '화이트보드 마카랑 지우개 세트로 된 거 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 화이트보드 마카랑 지우개 세트로 된 거 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 화이트보드 마카랑 지우개 세트로 된 거 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q35] Customer asks: '제본할 때 쓰는 링 같은 거 파나요?' ---
+
+--- [Node: analyze_intent] Processing: 제본할 때 쓰는 링 같은 거 파나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 제본할 때 쓰는 링 같은 거 파나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q36] Customer asks: '축의금 봉투 글씨 안 쓰여 있는 걸로 찾는데요.' ---
+
+--- [Node: analyze_intent] Processing: 축의금 봉투 글씨 안 쓰여 있는 걸로 찾는데요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 축의금 봉투 글씨 안 쓰여 있는 걸로 찾는데요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q37] Customer asks: '네임펜 얇은 거 말고 굵은 거는요?' ---
+
+--- [Node: analyze_intent] Processing: 네임펜 얇은 거 말고 굵은 거는요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 네임펜 얇은 거 말고 굵은 거는요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q38] Customer asks: '가위가 잘 안 드는데 여기서 제일 잘 드는 가위 추천해 주세요.' ---
+
+--- [Node: analyze_intent] Processing: 가위가 잘 안 드는데 여기서 제일 잘 드는 가위 추천해 주세요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 가위가 잘 안 드는데 여기서 제일 잘 드는 가위 추천해 주세요. ---
+  -> Inferred Products: ['다이소 인기 상품', '직원 추천 템']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 인기 상품', '직원 추천 템'] ---
+  -> Generated Keywords: ['다이소 인기 상품', '다이소 인기 상품 추천', '다이소 인기 상품 위치', '직원 추천 템', '직원 추천 템 추천', '직원 추천 템 위치']
+
+--- [Q39] Customer asks: '초강력 자석 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 초강력 자석 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 초강력 자석 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q40] Customer asks: '서류 정리하는 파일 꽂이 투명한 색깔 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 서류 정리하는 파일 꽂이 투명한 색깔 있어요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 서류 정리하는 파일 꽂이 투명한 색깔 있어요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q41] Customer asks: '앞머리 롤(헤어롤) 제일 큰 사이즈 어디 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 앞머리 롤(헤어롤) 제일 큰 사이즈 어디 있어요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 앞머리 롤(헤어롤) 제일 큰 사이즈 어디 있어요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q42] Customer asks: '화장 퍼프 대용량으로 든 거 찾아요.' ---
+
+--- [Node: analyze_intent] Processing: 화장 퍼프 대용량으로 든 거 찾아요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 화장 퍼프 대용량으로 든 거 찾아요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q43] Customer asks: '젤 네일 굽는 램프도 파나요?' ---
+
+--- [Node: analyze_intent] Processing: 젤 네일 굽는 램프도 파나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 젤 네일 굽는 램프도 파나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q44] Customer asks: '머리끈 검은색 고무줄만 들어있는 거요.' ---
+
+--- [Node: analyze_intent] Processing: 머리끈 검은색 고무줄만 들어있는 거요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 머리끈 검은색 고무줄만 들어있는 거요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q45] Customer asks: '여행용 샴푸/린스 키트 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 여행용 샴푸/린스 키트 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 여행용 샴푸/린스 키트 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q46] Customer asks: '여드름 났을 때 붙이는 패치 어디 있죠?' ---
+
+--- [Node: analyze_intent] Processing: 여드름 났을 때 붙이는 패치 어디 있죠? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 여드름 났을 때 붙이는 패치 어디 있죠? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q47] Customer asks: '발 뒤꿈치 각질 제거하는 돌 같은 거요.' ---
+
+--- [Node: analyze_intent] Processing: 발 뒤꿈치 각질 제거하는 돌 같은 거요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 발 뒤꿈치 각질 제거하는 돌 같은 거요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q48] Customer asks: '손거울 탁상용으로 세울 수 있는 거 찾아요.' ---
+
+--- [Node: analyze_intent] Processing: 손거울 탁상용으로 세울 수 있는 거 찾아요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 손거울 탁상용으로 세울 수 있는 거 찾아요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q49] Customer asks: '남자들 쓰는 왁스나 스프레이도 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 남자들 쓰는 왁스나 스프레이도 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 남자들 쓰는 왁스나 스프레이도 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q50] Customer asks: '속눈썹 뷰러 고무 리필만 따로 파나요?' ---
+
+--- [Node: analyze_intent] Processing: 속눈썹 뷰러 고무 리필만 따로 파나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 속눈썹 뷰러 고무 리필만 따로 파나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q51] Customer asks: '자전거 자물쇠 비밀번호 설정되는 거요.' ---
+
+--- [Node: analyze_intent] Processing: 자전거 자물쇠 비밀번호 설정되는 거요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 자전거 자물쇠 비밀번호 설정되는 거요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q52] Customer asks: '차량용 핸드폰 거치대 송풍구에 끼우는 거 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 차량용 핸드폰 거치대 송풍구에 끼우는 거 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 차량용 핸드폰 거치대 송풍구에 끼우는 거 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q53] Customer asks: '캠핑 갈 때 쓸 일회용 숯이나 그릴 파나요?' ---
+
+--- [Node: analyze_intent] Processing: 캠핑 갈 때 쓸 일회용 숯이나 그릴 파나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 캠핑 갈 때 쓸 일회용 숯이나 그릴 파나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q54] Customer asks: '드라이버 세트 정밀 드라이버 포함된 거요.' ---
+
+--- [Node: analyze_intent] Processing: 드라이버 세트 정밀 드라이버 포함된 거요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 드라이버 세트 정밀 드라이버 포함된 거요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q55] Customer asks: '실리콘 쏘는 총(코킹건)이랑 실리콘 어디 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 실리콘 쏘는 총(코킹건)이랑 실리콘 어디 있어요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 실리콘 쏘는 총(코킹건)이랑 실리콘 어디 있어요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q56] Customer asks: '낚시용품 코너가 따로 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 낚시용품 코너가 따로 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 낚시용품 코너가 따로 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q57] Customer asks: '뜨개질 실이랑 바늘 찾는 중인데요.' ---
+
+--- [Node: analyze_intent] Processing: 뜨개질 실이랑 바늘 찾는 중인데요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 뜨개질 실이랑 바늘 찾는 중인데요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q58] Customer asks: '화분에 꽂는 영양제 초록색 그거요.' ---
+
+--- [Node: analyze_intent] Processing: 화분에 꽂는 영양제 초록색 그거요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 화분에 꽂는 영양제 초록색 그거요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q59] Customer asks: '페인트 붓이랑 롤러 작은 사이즈 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 페인트 붓이랑 롤러 작은 사이즈 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 페인트 붓이랑 롤러 작은 사이즈 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q60] Customer asks: '차 긁힌 데 바르는 컴파운드 같은 거 파나요?' ---
+
+--- [Node: analyze_intent] Processing: 차 긁힌 데 바르는 컴파운드 같은 거 파나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 차 긁힌 데 바르는 컴파운드 같은 거 파나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q61] Customer asks: '생일 파티 풍선 중에 숫자 풍선 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 생일 파티 풍선 중에 숫자 풍선 있어요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 생일 파티 풍선 중에 숫자 풍선 있어요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q62] Customer asks: '아이들 가지고 노는 슬라임 종류 많은 곳이 어디예요?' ---
+
+--- [Node: analyze_intent] Processing: 아이들 가지고 노는 슬라임 종류 많은 곳이 어디예요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 아이들 가지고 노는 슬라임 종류 많은 곳이 어디예요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q63] Customer asks: '크리스마스 트리 장식볼 찾는데요.' ---
+
+--- [Node: analyze_intent] Processing: 크리스마스 트리 장식볼 찾는데요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 크리스마스 트리 장식볼 찾는데요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q64] Customer asks: '비눗방울 놀이하는 거 큰 거 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 비눗방울 놀이하는 거 큰 거 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 비눗방울 놀이하는 거 큰 거 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q65] Customer asks: '할로윈 분장 소품 어디 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 할로윈 분장 소품 어디 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 할로윈 분장 소품 어디 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q66] Customer asks: '파티용 고깔모자랑 폭죽 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 파티용 고깔모자랑 폭죽 있나요? ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 파티용 고깔모자랑 폭죽 있나요? ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q67] Customer asks: '어버이날 카네이션 브로치 조화로 된 거요.' ---
+
+--- [Node: analyze_intent] Processing: 어버이날 카네이션 브로치 조화로 된 거요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 어버이날 카네이션 브로치 조화로 된 거요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q68] Customer asks: '스케치북이랑 크레파스 유치원생 쓸 만한 거요.' ---
+
+--- [Node: analyze_intent] Processing: 스케치북이랑 크레파스 유치원생 쓸 만한 거요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 스케치북이랑 크레파스 유치원생 쓸 만한 거요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+--- [Q69] Customer asks: '선물 상자 예쁜 거 파는 코너 좀 알려주세요.' ---
+
+--- [Node: analyze_intent] Processing: 선물 상자 예쁜 거 파는 코너 좀 알려주세요. ---
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 선물 상자 예쁜 거 파는 코너 좀 알려주세요. ---
+  -> Inferred Products: ['다이소 추천 상품']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 추천 상품'] ---
+  -> Generated Keywords: ['다이소 추천 상품', '다이소 추천 상품 추천', '다이소 추천 상품 위치']
+
+
+Graph compiled and executed successfully!

@@ -1,0 +1,782 @@
+[2026-01-16 14:35:55.727802] Analyzing text: 파란색 볼펜 어디있어?
+[2026-01-16 14:35:56.708416] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 14:35:58.061165] Response generated. Processing...
+[2026-01-16 14:40:14.240642] Analyzing text: 파란색 볼펜 어디있어?
+[2026-01-16 14:40:15.181457] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 14:40:16.603208] Response generated. Processing...
+[2026-01-16 14:41:32.645832] Analyzing text: 기미 크림 어디있어?
+[2026-01-16 14:41:32.645832] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 14:41:33.853315] Response generated. Processing...
+[2026-01-16 14:48:53.516740] Analyzing text: 파란색 볼펜 있어?
+[2026-01-16 14:48:54.545025] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 14:48:55.837397] Response generated. Processing...
+[2026-01-16 14:48:55.840767] Analyzing text: 뭐 좋은거 있어?
+[2026-01-16 14:48:55.840767] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 14:48:57.130218] Response generated. Processing...
+[2026-01-16 14:48:57.131481] Analyzing text: 3000원짜리 바구니
+[2026-01-16 14:48:57.131481] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 14:48:58.528137] Response generated. Processing...
+[2026-01-16 14:48:58.528716] Analyzing text: 안녕 반가워
+[2026-01-16 14:48:58.528716] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 14:48:59.631517] Response generated. Processing...
+[2026-01-16 14:50:44.370096] Analyzing text: 파란색 볼펜 어디있어?
+[2026-01-16 14:50:45.307392] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 14:50:46.723776] Response generated. Processing...
+[2026-01-16 14:51:07.392550] Analyzing text: 3000원 짜리 바구니
+[2026-01-16 14:51:07.393550] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 14:51:08.699381] Response generated. Processing...
+[2026-01-16 15:00:14.903285] Analyzing text: 수납함 어디있어?
+[2026-01-16 15:00:16.162145] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 15:00:17.422276] Response generated. Processing...
+[2026-01-16 15:03:47.172859] Analyzing text: 수납함 어디있어?
+[2026-01-16 15:03:48.229223] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 15:03:49.453217] Response generated. Processing...
+[2026-01-16 15:12:38.220749] Analyzing text: 글 쓸 때 뭐로 쓰는게 좋아?
+[2026-01-16 15:12:39.273476] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 15:12:40.882828] Response generated. Processing...
+[2026-01-16 15:12:47.248703] Analyzing text: 연필
+[2026-01-16 15:12:47.248703] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 15:12:48.419944] Response generated. Processing...
+[2026-01-16 15:13:08.081559] Analyzing text: 펜
+[2026-01-16 15:13:08.081559] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 15:13:09.311633] Response generated. Processing...
+[2026-01-16 15:13:20.495319] Analyzing text: 파란색 볼펜 있어?
+[2026-01-16 15:13:20.496323] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 15:13:21.758869] Response generated. Processing...
+[2026-01-16 15:13:42.747282] Analyzing text: 욕실이 미끄러워
+[2026-01-16 15:13:42.748283] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 15:13:44.081180] Response generated. Processing...
+[2026-01-16 15:13:50.617884] Analyzing text: 미끄럼 방지 매트
+[2026-01-16 15:13:50.618884] Model initialized. Calling generate_content with 30s timeout...
+[2026-01-16 15:13:51.868044] Response generated. Processing...
+[2026-01-16 15:31:59.572558] [21e6c693-df27-42fb-a7a0-01a221c3d267] Analyzing: 욕실이 많이 미끄럽네
+[2026-01-16 15:32:14.927680] [45653032-90ed-4789-83f3-292006673470] Analyzing: 미끄럼 방지 매트
+[2026-01-16 15:32:26.743533] [1a123b6b-139b-46a9-ae2e-f6c1ecc6313e] Analyzing: 욕실
+[2026-01-16 15:42:44.797358] [f4549cda-ea89-4d80-8fb9-c5507b598451] Analyzing: 욕실이 미끄러워 | History: 0 turns
+[2026-01-16 15:43:00.408132] [7efc2731-d63f-4fc4-a534-0ab2500b79f5] Analyzing: 발매트 | History: 2 turns
+[2026-01-16 15:43:09.839548] [b023fbec-48ca-409c-8414-db804a890846] Analyzing: 빨리 마르는 소재 | History: 4 turns
+[2026-01-16 15:43:19.685551] [7c443f8a-a112-453a-9343-c66b2b47549c] Analyzing: 극세사 | History: 6 turns
+[2026-01-16 15:43:25.407374] [a13513e1-e109-4b54-a66f-18c111697966] Analyzing: 네 | History: 8 turns
+[2026-01-16 15:43:36.871021] [3661429b-227f-4071-920e-b6b42233c0cf] Analyzing: 네 | History: 10 turns
+[2026-01-16 16:09:44.957944] [98e71920-7e97-4c94-9bd8-975946b7cac7] Analyzing: 욕실이 미끄러워 | History: 0 turns
+[2026-01-16 16:09:58.799397] [7d35732b-90d3-40cc-913a-5528978f5357] Analyzing: 작은 매트 | History: 0 turns
+[2026-01-16 16:10:09.808032] [f13c766a-54a8-410e-bd54-1a18d9671553] Analyzing: 아니요 | History: 0 turns
+[2026-01-16 16:15:27.419203] [8f33f617-940a-4ab2-9034-e05cd7f7af6c] Analyzing: 욕실이 미끄러워 | History: 0 turns
+[2026-01-16 16:15:36.031553] [9e467725-2b34-4437-afea-f10cd78e1a0e] Analyzing: 긴 매트 | History: 0 turns
+[2026-01-16 16:15:53.857145] [1e2080e0-b66a-4b43-8f7d-ad064673a6ca] Analyzing: 작은 매트도 알려줘 | History: 0 turns
+[2026-01-16 16:16:08.757056] [1ca712e8-9f1a-465b-913a-b424b2348799] Analyzing: 욕실이 너무 더러워 | History: 0 turns
+[2026-01-16 16:16:19.094622] [607a5985-441c-49bf-bfb3-7a73a19c67e2] Analyzing: 다른 욕실 청소 용품 | History: 0 turns
+[2026-01-16 16:37:59.983046] [fb9d0135-f08b-4579-a728-c305e1cd1bdc] Analyzing: 화장실 청소 용품 | History: 0 turns
+[2026-01-16 16:38:18.679680] [a8d56076-8a13-4a79-b64a-7fc8e7cca07f] Analyzing: 방이 더러워 | History: 0 turns
+[2026-01-16 16:38:27.950276] [838547fd-d938-4ad9-9ffd-f3d8f8013318] Analyzing: 솔 | History: 0 turns
+[2026-01-16 16:38:53.781452] [35338300-06fe-4099-9ae5-d3c234b01f86] Analyzing: 청소용 솔 | History: 0 turns
+[2026-01-16 16:39:05.382440] [fd8efafe-ed72-417b-9407-62d4b5461ef6] Analyzing: 방 청소용 솔 | History: 0 turns
+[2026-01-16 16:41:56.081794] [a140b2d5-025e-48b9-8f0e-038093ef65c4] Analyzing: 책상 낙서 지우고 싶어 | History: 0 turns
+[2026-01-16 16:42:15.288425] [04fb123c-93cc-47b9-971a-1c95a23d70af] Analyzing: 네 | History: 0 turns
+[2026-01-16 16:42:36.911990] [11daa422-6743-4cad-a18b-ba2259a4579e] Analyzing: 책상 낙서 지울 수 있게 제품 추천해줘 | History: 0 turns
+[2026-01-16 16:42:56.151595] [ef55a4b9-b3ce-44be-bb57-8aafc59f60dc] Analyzing: 유성 펜으로 낙서 되어있어 | History: 0 turns
+[2026-01-16 16:43:07.948641] [3e7c3bf5-cd59-40b2-8c56-4ff8fb2b3100] Analyzing: 클리너 | History: 0 turns
+[2026-01-16 16:43:25.575185] [8374fcf8-ccbd-46ae-9748-89e4988de588] Analyzing: 쌀을 담고 싶어 | History: 0 turns
+[2026-01-16 16:43:40.036745] [28c3de15-bef6-474e-8502-a3763680e611] Analyzing: 밀폐 용기 | History: 0 turns
+[2026-01-16 16:51:03.692565] [a732eb0b-f179-4886-bcbc-bfcf5ef9ca55] Analyzing: 아.. 나 찾을거 있는데 | History: 0 turns
+[2026-01-16 16:51:41.519691] [7d89fa02-9a1a-46c9-9cbb-1df6a05faac3] Analyzing: 아.. 그 음식물 흘리면 쓱쓱 지워지는거 있잖아 | History: 0 turns
+[2026-01-16 16:51:54.526197] [90ca5009-8ea7-4663-93fc-1467830c4448] Analyzing: 오! 맞아! 고체형은 없어? | History: 0 turns
+[2026-01-16 17:04:01.709848] [726c7634-43ef-4fe8-a0ee-003fb99aaf4f] Analyzing: 수건을 정리할 바구니를 찾고있어요. | History: 0 turns
+[2026-01-16 17:04:15.943489] [c92b4b05-edb3-4463-b4b3-6fd9e4022eaa] Analyzing: 패브릭 | History: 2 turns
+[2026-01-16 17:04:45.040337] [72b91a83-91e2-4a28-9cca-c2f5009b297d] Analyzing: 라탄/패브릭 바구니 | History: 4 turns
+[2026-01-16 17:37:48.798699] [b718777c-470d-4227-a083-f58ea6de382e] Analyzing: 벽에 못 안 박고 액자 거는 거 있어? | History: 0 turns
+[2026-01-16 17:40:32.619774] [74fc07ad-35e8-4a9d-8951-481eae88bd76] Analyzing: 벽에 못 안 박고 액자 거는 거 | History: 0 turns
+[2026-01-16 17:40:50.317557] [f747ebad-7d85-402c-b383-b1c8b38f003e] Analyzing: 꼭꼬핀 | History: 2 turns
+[2026-01-16 17:41:15.687481] [71d40c00-198a-4b56-a887-77077c0ea879] Analyzing: 안녕? | History: 4 turns
+[2026-01-16 17:41:27.661267] [fa1d7ca4-6bbe-4878-bcc2-f653cea17eca] Analyzing: 매장 왜 이렇게 시끄럽니? | History: 6 turns
+[2026-01-16 17:42:10.579369] [abeefbd5-44e4-4d80-8174-605dad05c7c3] Analyzing: 맥북 충전기 있어 | History: 8 turns
+[2026-01-16 17:42:26.005989] [18af72cd-3413-4b01-b313-07e3abaab22b] Analyzing: c 타입 케이블 | History: 10 turns
+[2026-01-16 18:30:28.472190] [8c2c1f24-3624-4753-be3d-9d4d857c9320] Analyzing: 너 오늘 기분 어때? | History: 0 turns
+[2026-01-16 18:35:24.283342] [ffaa36b5-0306-4f69-b325-45e4a8bac9c8] Analyzing: 내 곁에 있어줘~ | History: 0 turns
+[2026-01-16 19:30:32.766630] [c12825c9-5b04-4200-b837-1958c92de0cd] Analyzing: 찍찍이 테이프 옷 먼지 떼는 거 | History: 0 turns
+[2026-01-16 19:30:56.604032] [d981801f-50ca-4027-8628-56512ebb2003] Analyzing: 발 뒤꿈치 까졌을 때 붙이는 밴드 | History: 2 turns
+[2026-01-16 19:31:10.915925] [c5cb138a-4b1b-4209-a847-f9f6791430be] Analyzing: 이케아 의자 같은 거 있어? | History: 4 turns
+[2026-01-16 19:31:19.891645] [ffddf226-0acf-41b5-916b-25ca0514b4da] Analyzing: 전체 | History: 6 turns
+[2026-01-16 19:31:31.635068] [c9887753-cbb7-4678-92aa-5df7d8da48e8] Analyzing: 천 원짜리 장난감 추천해 줘. | History: 8 turns
+[2026-01-21 14:38:26.125736] [71348195-f629-4d61-aecb-74e9a1f425b0] Analyzing: 건전지 어디에 있어요? | History: 0 turns
+[2026-01-21 14:38:29.919721] [ee9fe876-997e-48e3-a7e1-927414a0d657] Analyzing: 멀티탭 코너는 몇 번이에요? | History: 0 turns
+[2026-01-21 14:38:30.948548] [1e4fd074-8512-4031-aa3a-e390213e3ea9] Analyzing: 순간접착제는 어디로 가야 돼요? | History: 0 turns
+[2026-01-21 14:38:32.018572] [f8f47d31-94bc-49f9-b1c7-925e55efc7c9] Analyzing: 욕실 슬리퍼 찾는데 안 보여요. | History: 0 turns
+[2026-01-21 14:38:33.103146] [ba9423dd-8901-4fc3-9d89-5de1242ac2a1] Analyzing: 다이소 꿀템이라고 하던데, '리들샷' 재고 있나요? | History: 0 turns
+[2026-01-21 14:38:34.172790] [e355247b-3db9-4560-9b3b-9065d5293eaf] Analyzing: 아이폰 충전 케이블은 어디 쪽에 있나요? | History: 0 turns
+[2026-01-21 14:38:35.243948] [11b5754f-af45-470e-a45c-60bc97673d08] Analyzing: 포장지랑 편지지는 어디 있어요? | History: 0 turns
+[2026-01-21 14:38:36.329542] [a12b4c22-f1cc-45c8-aace-b05eedb5379c] Analyzing: 옷걸이 종류는 어디 모여 있어요? | History: 0 turns
+[2026-01-21 14:38:37.401451] [52a6f097-dd40-4a28-a803-3def702ac85a] Analyzing: 강아지 배변 패드는 2층에 있나요? | History: 0 turns
+[2026-01-21 14:38:38.466673] [ccaba082-1998-4353-be39-f81fa0f59bf0] Analyzing: 줄자는 공구 쪽에 있나요, 문구 쪽에 있나요? | History: 0 turns
+[2026-01-21 14:38:39.447884] [d2d7db89-984a-48ad-8291-41cac149d86b] Analyzing: 싱크대 물 안 튀게 막아주는 거 있어요? | History: 0 turns
+[2026-01-21 14:38:40.518263] [4ed7a624-134f-4708-8733-05832ceb97b3] Analyzing: 의자 끌 때 소리 안 나게 끼우는 거 찾는데요. | History: 0 turns
+[2026-01-21 14:38:41.615150] [2c3efec7-e110-4990-b647-99d850e22a45] Analyzing: 새로 이사했는데 문틈으로 바람 들어오는 거 막는 스펀지 같은 거요. | History: 0 turns
+[2026-01-21 14:38:42.866898] [0f4df988-5d50-4cfc-9e22-f5fadd6f8285] Analyzing: 화장실 타일 사이에 낀 곰팡이 없애는 젤 있나요? | History: 0 turns
+[2026-01-21 14:38:43.937724] [7dc9a93e-eaf5-4517-82d8-d3b2fca0bb39] Analyzing: 그... 옷에 핀 보풀 제거하는 기계 있어요? | History: 0 turns
+[2026-01-21 14:38:45.133312] [f3bd7eec-bb1e-4191-b36a-2f08f006ed34] Analyzing: 신발장 냄새 제거하는 탈취제 같은 거 어디 봐요? | History: 0 turns
+[2026-01-21 14:38:46.177228] [cfeb80c0-8a3a-46c7-9063-ce35b0dfc83b] Analyzing: 벽에 못 안 박고 액자 걸 수 있는 끈끈이 있어요? | History: 0 turns
+[2026-01-21 14:38:47.346216] [5b3b55cd-e454-4b00-a512-197572ef6122] Analyzing: 여행 가는데 화장품 덜어갈 작은 공병들 모아둔 곳이요. | History: 0 turns
+[2026-01-21 14:38:48.408613] [b5bdc645-64c4-4c8e-a504-a0490852bd95] Analyzing: 방충망에 구멍 났는데 그거 때우는 스티커 있나요? | History: 0 turns
+[2026-01-21 14:38:49.481762] [1456ae6a-eb7a-4516-ba88-112af6ff183d] Analyzing: 키보드 사이에 먼지 빼는 젤리 같은 거 찾고 있어요? | History: 0 turns
+[2026-01-21 14:38:50.574690] [2b6604c5-74da-4328-8ed4-cea684b48375] Analyzing: 매직블럭(매직스펀지) 큰 거는 없어요? | History: 0 turns
+[2026-01-21 14:38:51.732618] [b99572a1-bb18-4939-9695-f9619bbfdf0f] Analyzing: 배수구 거름망 스타킹처럼 된 거요. | History: 0 turns
+[2026-01-21 14:38:52.898941] [d1f47847-0434-4e63-bd82-cc90a11fdda1] Analyzing: 에어프라이어에 까는 종이 호일 어디 있죠? | History: 0 turns
+[2026-01-21 14:38:53.995729] [0412a797-ce72-4e80-a830-8fa6025db18e] Analyzing: 고무장갑 M사이즈는 어디에 걸려 있나요? | History: 0 turns
+[2026-01-21 14:38:55.055405] [0411e816-c5b9-4b81-bc0f-dd85b5c52451] Analyzing: 밀폐용기 중에 유리로 된 것만 모아둔 곳 있어요? | History: 0 turns
+[2026-01-21 14:38:56.135254] [1cd36fa3-d64f-4e08-b8e8-01ba5027c0d3] Analyzing: 기름 닦는 키친타월은 휴지 쪽에 있나요, 주방 쪽에 있나요? | History: 0 turns
+[2026-01-21 14:38:57.212592] [2688d82a-00f6-4f35-8d27-6dc48c0a2a3e] Analyzing: 텀블러 닦는 긴 솔 찾아요. | History: 0 turns
+[2026-01-21 14:38:58.374492] [f38bf10c-ea63-40e5-a857-62a71d94aae1] Analyzing: 음식물 쓰레기 봉투도 파나요? | History: 0 turns
+[2026-01-21 14:38:59.449684] [2c6a2ad9-4c70-41a7-8ca8-3a218ea966ba] Analyzing: 인덕션 상판 닦는 전용 세제 있나요? | History: 0 turns
+[2026-01-21 14:39:00.611241] [b8384180-6ece-4794-a914-e80b374b4f9c] Analyzing: 과일 씻을 때 쓰는 베이킹소다는 어디 있어요? | History: 0 turns
+[2026-01-21 14:39:01.786153] [5f4b9c55-7413-4e95-bc27-24111a6c6c4b] Analyzing: 뽁뽁이(에어캡) 롤로 말려 있는 거 있어요? | History: 0 turns
+[2026-01-21 14:39:02.886129] [45c54258-2f12-4215-9357-1f85a27ca62f] Analyzing: 택배 보낼 때 쓰는 박스 테이프 투명한 거요. | History: 0 turns
+[2026-01-21 14:39:04.148522] [97d45630-5442-4633-94bb-c9620d12381a] Analyzing: 다이어리 꾸미는 스티커 모아둔 매대는 어디예요? | History: 0 turns
+[2026-01-21 14:39:05.224952] [f8aa39e1-9268-4de1-8988-dcaf0a3a6185] Analyzing: 화이트보드 마카랑 지우개 세트로 된 거 있나요? | History: 0 turns
+[2026-01-21 14:39:06.269066] [f5e3ac86-8986-4f23-8952-169ca1d460b8] Analyzing: 제본할 때 쓰는 링 같은 거 파나요? | History: 0 turns
+[2026-01-21 14:39:07.155550] [3eb3ea95-518f-40b0-b52f-689763ed970e] Analyzing: 축의금 봉투 글씨 안 쓰여 있는 걸로 찾는데요. | History: 0 turns
+[2026-01-21 14:39:08.233310] [6c02dec7-e8e2-4630-9d5c-69fafb35ee16] Analyzing: 네임펜 얇은 거 말고 굵은 거는요? | History: 0 turns
+[2026-01-21 14:39:09.211557] [1de5f17c-d2b3-451c-9607-45d0ad53db18] Analyzing: 가위가 잘 안 드는데 여기서 제일 잘 드는 가위 추천해 주세요. | History: 0 turns
+[2026-01-21 14:39:10.297324] [12baee79-2429-4cd5-b783-30fe8d11ad9e] Analyzing: 초강력 자석 있나요? | History: 0 turns
+[2026-01-21 14:39:11.354499] [85e55baa-566a-4626-bbd0-b9459e0f0878] Analyzing: 서류 정리하는 파일 꽂이 투명한 색깔 있어요? | History: 0 turns
+[2026-01-21 14:39:12.430819] [02221b58-405c-47cf-b239-d3a697b7453a] Analyzing: 앞머리 롤(헤어롤) 제일 큰 사이즈 어디 있어요? | History: 0 turns
+[2026-01-21 14:39:13.533544] [3e6a2d7d-50ea-49e6-b859-2f98ff8bec88] Analyzing: 화장 퍼프 대용량으로 든 거 찾아요. | History: 0 turns
+[2026-01-21 14:39:14.680914] [7b9c8a6f-c0e1-46b6-a00a-63c4b904d23b] Analyzing: 젤 네일 굽는 램프도 파나요? | History: 0 turns
+[2026-01-21 14:39:15.668703] [5aaa7657-560a-4a36-9606-fa4dbee8e5b9] Analyzing: 머리끈 검은색 고무줄만 들어있는 거요. | History: 0 turns
+[2026-01-21 14:39:16.861361] [d0c394bf-6784-4c0b-af89-96dfdfc3271f] Analyzing: 여행용 샴푸/린스 키트 있나요? | History: 0 turns
+[2026-01-21 14:39:18.033419] [f64cfa11-14c5-46a9-b5c1-a6931eae0de3] Analyzing: 여드름 났을 때 붙이는 패치 어디 있죠? | History: 0 turns
+[2026-01-21 14:39:19.199946] [d6a64aa2-1196-4255-967b-4f4de364d3ed] Analyzing: 발 뒤꿈치 각질 제거하는 돌 같은 거요. | History: 0 turns
+[2026-01-21 14:39:20.471272] [ec6d5278-039b-43e0-8223-ba13b9fa577f] Analyzing: 손거울 탁상용으로 세울 수 있는 거 찾아요. | History: 0 turns
+[2026-01-21 14:39:21.748821] [eb08084a-98ce-44d3-8449-a10a3f0f7ac4] Analyzing: 남자들 쓰는 왁스나 스프레이도 있나요? | History: 0 turns
+[2026-01-21 14:39:22.920609] [1ff0542e-5982-422c-9624-588a4b572f3f] Analyzing: 속눈썹 뷰러 고무 리필만 따로 파나요? | History: 0 turns
+[2026-01-21 14:39:24.085692] [7ff57427-ad5c-4578-be81-2b1273abf432] Analyzing: 자전거 자물쇠 비밀번호 설정되는 거요. | History: 0 turns
+[2026-01-21 14:39:25.142098] [0fa0de45-40da-477e-9d7c-593a81d6b71d] Analyzing: 차량용 핸드폰 거치대 송풍구에 끼우는 거 있나요? | History: 0 turns
+[2026-01-21 14:39:26.206971] [668723d2-fb0a-4245-9c02-1649c313a7a6] Analyzing: 캠핑 갈 때 쓸 일회용 숯이나 그릴 파나요? | History: 0 turns
+[2026-01-21 14:39:27.398980] [3ab82aa9-5041-4a45-bb7d-5ba014bd0082] Analyzing: 드라이버 세트 정밀 드라이버 포함된 거요. | History: 0 turns
+[2026-01-21 14:39:28.493688] [6d10b0cf-b5b0-42a7-a40c-1459fef554fc] Analyzing: 실리콘 쏘는 총(코킹건)이랑 실리콘 어디 있어요? | History: 0 turns
+[2026-01-21 14:39:29.656596] [e94b2413-67dc-43cf-a495-3141a468e939] Analyzing: 낚시용품 코너가 따로 있나요? | History: 0 turns
+[2026-01-21 14:39:30.813054] [808d0fa2-0b3e-421e-89bd-f46844326921] Analyzing: 뜨개질 실이랑 바늘 찾는 중인데요. | History: 0 turns
+[2026-01-21 14:39:31.997561] [d4714fd5-3ac5-4a43-b9b5-dc238a0b3124] Analyzing: 화분에 꽂는 영양제 초록색 그거요. | History: 0 turns
+[2026-01-21 14:39:33.061188] [df0f581c-7e51-4ea7-87a9-7dc7f7887a74] Analyzing: 페인트 붓이랑 롤러 작은 사이즈 있나요? | History: 0 turns
+[2026-01-21 14:39:34.024361] [4774676f-ecdd-47e1-b4ba-c3247d08c7a7] Analyzing: 차 긁힌 데 바르는 컴파운드 같은 거 파나요? | History: 0 turns
+[2026-01-21 14:39:35.198913] [ebfd0bbe-78f0-4c8f-a932-d1be6ad0754d] Analyzing: 생일 파티 풍선 중에 숫자 풍선 있어요? | History: 0 turns
+[2026-01-21 14:39:36.353656] [6532de04-99e2-4e47-ad29-537796bee0a1] Analyzing: 아이들 가지고 노는 슬라임 종류 많은 곳이 어디예요? | History: 0 turns
+[2026-01-21 14:39:37.421061] [bc1a2bca-8ec6-4e7f-9d4a-16c64f70d029] Analyzing: 크리스마스 트리 장식볼 찾는데요. | History: 0 turns
+[2026-01-21 14:39:38.553047] [4da41aad-bb7a-4506-bdfb-2920e08db478] Analyzing: 비눗방울 놀이하는 거 큰 거 있나요? | History: 0 turns
+[2026-01-21 14:39:39.679229] [aa4fd5e0-9786-494c-bd4a-72e9635307a0] Analyzing: 할로윈 분장 소품 어디 있나요? | History: 0 turns
+[2026-01-21 14:39:40.748337] [b0060e0b-92d4-4805-a460-37f9dd6599dc] Analyzing: 파티용 고깔모자랑 폭죽 있나요? | History: 0 turns
+[2026-01-21 14:39:41.933392] [025fcb00-6991-4479-a20a-e61f1b20e880] Analyzing: 어버이날 카네이션 브로치 조화로 된 거요. | History: 0 turns
+[2026-01-21 14:39:43.003173] [e11fbfd1-f7cb-4832-8160-58d46690794b] Analyzing: 스케치북이랑 크레파스 유치원생 쓸 만한 거요. | History: 0 turns
+[2026-01-21 14:39:44.161320] [3c2bc848-e2e7-48b0-a76b-256deef9b205] Analyzing: 선물 상자 예쁜 거 파는 코너 좀 알려주세요. | History: 0 turns
+[2026-01-21 14:45:40.965549] [ba5a115b-3b42-4d94-b330-77c2b3db1bb2] Analyzing: 건전지 어디에 있어요? | History: 0 turns
+[2026-01-21 14:45:44.211225] [6f6eaba8-0a72-464d-9f73-df952d8dd734] Analyzing: 멀티탭 코너는 몇 번이에요? | History: 0 turns
+[2026-01-21 14:45:46.153486] [de4e0162-5916-4031-a8fb-cfa8bb6211a3] Analyzing: 순간접착제는 어디로 가야 돼요? | History: 0 turns
+[2026-01-21 14:45:48.193203] [80c05a82-8da9-40d2-98de-a0dc55815d2e] Analyzing: 욕실 슬리퍼 찾는데 안 보여요. | History: 0 turns
+[2026-01-21 14:45:50.232718] [1a9cd8b6-eef7-4865-9c54-dd34243b49a1] Analyzing: 다이소 꿀템이라고 하던데, '리들샷' 재고 있나요? | History: 0 turns
+[2026-01-21 14:45:52.298367] [f7ca3885-56c5-4308-b011-86f856bce1d4] Analyzing: 아이폰 충전 케이블은 어디 쪽에 있나요? | History: 0 turns
+[2026-01-21 14:45:54.249000] [d829d031-f8a9-4848-88cc-a44d0d17b166] Analyzing: 포장지랑 편지지는 어디 있어요? | History: 0 turns
+[2026-01-21 14:45:56.286507] [710f39cb-e63a-4513-b498-2ab87ba373db] Analyzing: 옷걸이 종류는 어디 모여 있어요? | History: 0 turns
+[2026-01-21 14:45:58.236876] [a4172994-9a81-4e87-9289-89a63ea2fcb6] Analyzing: 강아지 배변 패드는 2층에 있나요? | History: 0 turns
+[2026-01-21 14:46:00.198667] [df05f74a-cad6-4fb6-b64a-54a3709eb16d] Analyzing: 줄자는 공구 쪽에 있나요, 문구 쪽에 있나요? | History: 0 turns
+[2026-01-21 14:46:02.161303] [b2d7795c-9778-4e71-87c7-93cae56a1a09] Analyzing: 싱크대 물 안 튀게 막아주는 거 있어요? | History: 0 turns
+[2026-01-21 14:46:04.174386] [78660e9e-dad9-473b-8899-7565fd80aecf] Analyzing: 의자 끌 때 소리 안 나게 끼우는 거 찾는데요. | History: 0 turns
+[2026-01-21 14:46:06.219230] [54ba129c-4c7d-4333-a808-04fa91777790] Analyzing: 새로 이사했는데 문틈으로 바람 들어오는 거 막는 스펀지 같은 거요. | History: 0 turns
+[2026-01-21 14:46:08.269204] [e015f00f-ef4e-42a0-b62f-7c5c53c6c41f] Analyzing: 화장실 타일 사이에 낀 곰팡이 없애는 젤 있나요? | History: 0 turns
+[2026-01-21 14:46:10.231303] [f83f9db3-986d-4d85-b1c3-edc71b92c858] Analyzing: 그... 옷에 핀 보풀 제거하는 기계 있어요? | History: 0 turns
+[2026-01-21 14:46:12.268325] [45461dee-83b5-4477-badb-d8f0cd10318d] Analyzing: 신발장 냄새 제거하는 탈취제 같은 거 어디 봐요? | History: 0 turns
+[2026-01-21 14:46:14.118854] [40f0c00c-f096-4cc4-96f9-449e73165359] Analyzing: 벽에 못 안 박고 액자 걸 수 있는 끈끈이 있어요? | History: 0 turns
+[2026-01-21 14:46:15.996391] [2e54fc7d-d548-4737-8f2b-1d7c20e3baec] Analyzing: 여행 가는데 화장품 덜어갈 작은 공병들 모아둔 곳이요. | History: 0 turns
+[2026-01-21 14:46:17.836105] [8c97427d-11de-424f-aca2-971a5540c860] Analyzing: 방충망에 구멍 났는데 그거 때우는 스티커 있나요? | History: 0 turns
+[2026-01-21 14:46:19.682293] [d958632e-c44a-4dfb-84d1-a9fe1c1ded7e] Analyzing: 키보드 사이에 먼지 빼는 젤리 같은 거 찾고 있어요? | History: 0 turns
+[2026-01-21 14:46:21.632103] [ebcc7814-04af-4a25-82b6-381a4565db7b] Analyzing: 매직블럭(매직스펀지) 큰 거는 없어요? | History: 0 turns
+[2026-01-21 14:46:23.481904] [debcf97a-815c-49b9-9a52-db574ad40a15] Analyzing: 배수구 거름망 스타킹처럼 된 거요. | History: 0 turns
+[2026-01-21 14:46:25.509902] [a069fd19-b8c0-4cb0-a5b6-00ed0236ad13] Analyzing: 에어프라이어에 까는 종이 호일 어디 있죠? | History: 0 turns
+[2026-01-21 14:46:27.375060] [59aed9cb-8bc2-4687-92b3-77a3f6a5ae7d] Analyzing: 고무장갑 M사이즈는 어디에 걸려 있나요? | History: 0 turns
+[2026-01-21 14:46:29.132420] [403116f9-da38-49fb-91c7-729937a60241] Analyzing: 밀폐용기 중에 유리로 된 것만 모아둔 곳 있어요? | History: 0 turns
+[2026-01-21 14:46:31.076954] [d8d8a6ec-8465-4001-9033-397533a43021] Analyzing: 기름 닦는 키친타월은 휴지 쪽에 있나요, 주방 쪽에 있나요? | History: 0 turns
+[2026-01-21 14:46:32.923050] [65893d66-7f52-4c85-8334-381e2a40c4c2] Analyzing: 텀블러 닦는 긴 솔 찾아요. | History: 0 turns
+[2026-01-21 14:46:34.969284] [41539968-a9df-4523-9a5c-e1fedcd3d8b5] Analyzing: 음식물 쓰레기 봉투도 파나요? | History: 0 turns
+[2026-01-21 14:46:36.919534] [0f9e6e96-1e56-43a5-8aeb-05706f6b041f] Analyzing: 인덕션 상판 닦는 전용 세제 있나요? | History: 0 turns
+[2026-01-21 14:46:39.079442] [459ae303-ea2c-4157-8eb1-71cccdf23a09] Analyzing: 과일 씻을 때 쓰는 베이킹소다는 어디 있어요? | History: 0 turns
+[2026-01-21 14:46:41.326875] [6c40a3cd-ec3c-42e2-abd2-73175084d7cb] Analyzing: 뽁뽁이(에어캡) 롤로 말려 있는 거 있어요? | History: 0 turns
+[2026-01-21 14:46:43.360183] [51164f91-bb4c-4ecb-988f-eef972888348] Analyzing: 택배 보낼 때 쓰는 박스 테이프 투명한 거요. | History: 0 turns
+[2026-01-21 14:46:45.219089] [d709128e-8bcd-4d64-8100-42249f32828d] Analyzing: 다이어리 꾸미는 스티커 모아둔 매대는 어디예요? | History: 0 turns
+[2026-01-21 14:46:47.081927] [93783349-e92a-4b29-a859-d1f15399945f] Analyzing: 화이트보드 마카랑 지우개 세트로 된 거 있나요? | History: 0 turns
+[2026-01-21 14:46:49.231818] [5843ef65-9512-4535-9cac-f2935be10c7f] Analyzing: 제본할 때 쓰는 링 같은 거 파나요? | History: 0 turns
+[2026-01-21 14:46:50.994265] [6e003175-bab0-4196-9dc3-8db090173c9a] Analyzing: 축의금 봉투 글씨 안 쓰여 있는 걸로 찾는데요. | History: 0 turns
+[2026-01-21 14:46:52.831658] [3a21675e-565e-4c2f-b394-a1f5ee0393d0] Analyzing: 네임펜 얇은 거 말고 굵은 거는요? | History: 0 turns
+[2026-01-21 14:46:54.685809] [7163e00e-8ad0-4891-8754-47578acedd0b] Analyzing: 가위가 잘 안 드는데 여기서 제일 잘 드는 가위 추천해 주세요. | History: 0 turns
+[2026-01-21 14:46:56.632282] [d6515d18-aafb-4005-9e22-dd3f840da91f] Analyzing: 초강력 자석 있나요? | History: 0 turns
+[2026-01-21 14:46:58.399482] [3ae6acd9-ec7b-46ba-9d25-c6664d288f80] Analyzing: 서류 정리하는 파일 꽂이 투명한 색깔 있어요? | History: 0 turns
+[2026-01-21 14:47:00.140286] [5eaacc4f-982a-49f4-9196-d9ec821b3bec] Analyzing: 앞머리 롤(헤어롤) 제일 큰 사이즈 어디 있어요? | History: 0 turns
+[2026-01-21 14:47:02.089226] [0ae014f2-e017-41d0-bc64-57c398653e49] Analyzing: 화장 퍼프 대용량으로 든 거 찾아요. | History: 0 turns
+[2026-01-21 14:47:04.033116] [2a2f8863-6453-4b2e-87a9-e9a84ceca96e] Analyzing: 젤 네일 굽는 램프도 파나요? | History: 0 turns
+[2026-01-21 14:47:05.981979] [dae3a71a-40df-4fed-8182-085ee3b56f97] Analyzing: 머리끈 검은색 고무줄만 들어있는 거요. | History: 0 turns
+[2026-01-21 14:47:08.219413] [00caaf85-20d5-40db-a4c4-f3779d508e1c] Analyzing: 여행용 샴푸/린스 키트 있나요? | History: 0 turns
+[2026-01-21 14:47:10.067494] [483641dc-2c07-4e63-a90b-7fe8155c5936] Analyzing: 여드름 났을 때 붙이는 패치 어디 있죠? | History: 0 turns
+[2026-01-21 14:47:12.103764] [f2016286-db95-4df6-bd02-c26a486bc722] Analyzing: 발 뒤꿈치 각질 제거하는 돌 같은 거요. | History: 0 turns
+[2026-01-21 14:47:13.955702] [b26a2740-bf04-4049-a48a-59c7f794e839] Analyzing: 손거울 탁상용으로 세울 수 있는 거 찾아요. | History: 0 turns
+[2026-01-21 14:47:15.897200] [21bf52e5-be26-431f-8c86-f348673b16be] Analyzing: 남자들 쓰는 왁스나 스프레이도 있나요? | History: 0 turns
+[2026-01-21 14:47:17.931742] [037b63f7-65d7-4828-9d6a-d56a0495bd17] Analyzing: 속눈썹 뷰러 고무 리필만 따로 파나요? | History: 0 turns
+[2026-01-21 14:47:19.982421] [e1587a17-27ec-4020-94ee-6503140e0c04] Analyzing: 자전거 자물쇠 비밀번호 설정되는 거요. | History: 0 turns
+[2026-01-21 14:47:21.918979] [8f106848-a541-4048-b0c2-496fdfde8e7b] Analyzing: 차량용 핸드폰 거치대 송풍구에 끼우는 거 있나요? | History: 0 turns
+[2026-01-21 14:47:23.879059] [7c45a079-c43e-4307-840e-fd179557b5ac] Analyzing: 캠핑 갈 때 쓸 일회용 숯이나 그릴 파나요? | History: 0 turns
+[2026-01-21 14:47:25.815852] [aa00db2a-8e12-4cb0-baaa-a845fb09820b] Analyzing: 드라이버 세트 정밀 드라이버 포함된 거요. | History: 0 turns
+[2026-01-21 14:47:27.861504] [a2dd539f-be7e-4e41-8dfc-09f7dcce8062] Analyzing: 실리콘 쏘는 총(코킹건)이랑 실리콘 어디 있어요? | History: 0 turns
+[2026-01-21 14:47:29.996504] [dcbc8db5-90bf-4b73-a43e-6db4699954f6] Analyzing: 낚시용품 코너가 따로 있나요? | History: 0 turns
+[2026-01-21 14:47:31.929850] [b5e31d42-fddf-46c0-b7f6-bd540295fcc7] Analyzing: 뜨개질 실이랑 바늘 찾는 중인데요. | History: 0 turns
+[2026-01-21 14:47:33.807548] [fc3234b0-069c-4349-9415-1fcf24797491] Analyzing: 화분에 꽂는 영양제 초록색 그거요. | History: 0 turns
+[2026-01-21 14:47:35.646249] [7c42760f-86a6-401f-a4f8-b0f808d2ed33] Analyzing: 페인트 붓이랑 롤러 작은 사이즈 있나요? | History: 0 turns
+[2026-01-21 14:47:37.624690] [14eb7cd3-4692-40b2-a003-261a70d66704] Analyzing: 차 긁힌 데 바르는 컴파운드 같은 거 파나요? | History: 0 turns
+[2026-01-21 14:47:39.618539] [9ec5ea86-8849-49c4-b6ff-b2af8be72759] Analyzing: 생일 파티 풍선 중에 숫자 풍선 있어요? | History: 0 turns
+[2026-01-21 14:47:41.556141] [cdd721c2-7a18-40d5-82ef-521e9a7a33e9] Analyzing: 아이들 가지고 노는 슬라임 종류 많은 곳이 어디예요? | History: 0 turns
+[2026-01-21 14:47:43.499142] [a4214a41-cb8e-408d-867e-ecc80d0dec94] Analyzing: 크리스마스 트리 장식볼 찾는데요. | History: 0 turns
+[2026-01-21 14:47:45.444502] [9372b970-8422-498e-ac22-4372281e84e5] Analyzing: 비눗방울 놀이하는 거 큰 거 있나요? | History: 0 turns
+[2026-01-21 14:47:47.496003] [c2bc3274-e2f1-4d0f-b5a3-92858ce46948] Analyzing: 할로윈 분장 소품 어디 있나요? | History: 0 turns
+[2026-01-21 14:47:49.448453] [85ea2805-fe57-4971-a2a7-340aca15a2d1] Analyzing: 파티용 고깔모자랑 폭죽 있나요? | History: 0 turns
+[2026-01-21 14:47:51.398761] [28d01c40-f5b4-4598-a447-d1223208d207] Analyzing: 어버이날 카네이션 브로치 조화로 된 거요. | History: 0 turns
+[2026-01-21 14:47:53.340425] [dead1b56-a368-4a53-ae26-1f342a2f5acf] Analyzing: 스케치북이랑 크레파스 유치원생 쓸 만한 거요. | History: 0 turns
+[2026-01-21 14:47:55.422534] [0ceceb0a-3941-472e-a4ff-a1c33e607952] Analyzing: 선물 상자 예쁜 거 파는 코너 좀 알려주세요. | History: 0 turns
+[2026-01-21 15:12:56.116210] [af1c3451-8dc7-463b-9576-45022c47357a] Analyzing: 건전지 어디에 있어요? | History: 0 turns
+[2026-01-21 15:12:59.461058] [2f5b1362-6cba-493e-ad11-5c2c1138055f] Analyzing: 멀티탭 코너는 몇 번이에요? | History: 0 turns
+[2026-01-21 15:13:01.282224] [1ad459ed-4090-4952-9eca-8aabb7cc8598] Analyzing: 순간접착제는 어디로 가야 돼요? | History: 0 turns
+[2026-01-21 15:13:03.234521] [a0a1921d-eb4a-4b3d-b43b-a989d0a12219] Analyzing: 욕실 슬리퍼 찾는데 안 보여요. | History: 0 turns
+[2026-01-21 15:13:05.295197] [2524b882-16a3-479d-a225-0aff26bff527] Analyzing: 다이소 꿀템이라고 하던데, '리들샷' 재고 있나요? | History: 0 turns
+[2026-01-21 15:13:07.433786] [52160116-17cb-4a04-8dc8-3234f6be1406] Analyzing: 아이폰 충전 케이블은 어디 쪽에 있나요? | History: 0 turns
+[2026-01-21 15:13:09.392065] [3f8705d4-2d5f-48e3-8a0b-65d2eb9befa6] Analyzing: 포장지랑 편지지는 어디 있어요? | History: 0 turns
+[2026-01-21 15:13:11.465131] [2a592045-5e76-447a-b2e2-07f72093a322] Analyzing: 옷걸이 종류는 어디 모여 있어요? | History: 0 turns
+[2026-01-21 15:13:13.469497] [6ce0dbc7-7314-4ba3-a26f-5ff4396904cf] Analyzing: 강아지 배변 패드는 2층에 있나요? | History: 0 turns
+[2026-01-21 15:13:15.841085] [f77ee34d-e016-4fa3-8c13-842a67804b33] Analyzing: 줄자는 공구 쪽에 있나요, 문구 쪽에 있나요? | History: 0 turns
+[2026-01-21 15:13:17.664526] [7c132991-c751-4037-8efb-b121084f9fed] Analyzing: 싱크대 물 안 튀게 막아주는 거 있어요? | History: 0 turns
+[2026-01-21 15:13:19.616893] [a05e4fe7-68bb-4b0c-b341-6ec789dcceec] Analyzing: 의자 끌 때 소리 안 나게 끼우는 거 찾는데요. | History: 0 turns
+[2026-01-21 15:13:21.750273] [deb08d53-189c-4359-8bd1-f5c3c588c31d] Analyzing: 새로 이사했는데 문틈으로 바람 들어오는 거 막는 스펀지 같은 거요. | History: 0 turns
+[2026-01-21 15:13:24.093919] [dbf99b78-e17e-4ea9-b6f8-2cb55b639b47] Analyzing: 화장실 타일 사이에 낀 곰팡이 없애는 젤 있나요? | History: 0 turns
+[2026-01-21 15:15:43.338707] [b89f3418-5f7f-4db8-b270-721fc70dda9b] Analyzing: 건전지 어디에 있어요? | History: 0 turns
+[2026-01-21 15:15:47.186016] [03042d5c-e152-4106-b41f-699e2368ce06] Analyzing: 멀티탭 코너는 몇 번이에요? | History: 0 turns
+[2026-01-21 15:15:49.026655] [a9bef41a-c2e5-4855-8a31-5b5b1cfda48b] Analyzing: 순간접착제는 어디로 가야 돼요? | History: 0 turns
+[2026-01-21 15:15:51.081647] [326ef626-eafa-4b3e-8c79-73e31d94fe43] Analyzing: 욕실 슬리퍼 찾는데 안 보여요. | History: 0 turns
+[2026-01-21 15:15:53.012174] [b911e85e-e969-4328-b8a0-bc0635ae0fec] Analyzing: 다이소 꿀템이라고 하던데, '리들샷' 재고 있나요? | History: 0 turns
+[2026-01-21 15:15:54.955765] [8a080df7-bebb-4355-bad5-fd278591f10b] Analyzing: 아이폰 충전 케이블은 어디 쪽에 있나요? | History: 0 turns
+[2026-01-21 15:15:56.998852] [b9692ab4-f95e-45b1-8d40-ef8561091004] Analyzing: 포장지랑 편지지는 어디 있어요? | History: 0 turns
+[2026-01-21 15:15:58.952180] [1d5b315d-be95-45f1-91d4-5aeee70b9de0] Analyzing: 옷걸이 종류는 어디 모여 있어요? | History: 0 turns
+[2026-01-21 15:16:00.986019] [93c78441-84e4-4444-aa56-ebcb85415e0f] Analyzing: 강아지 배변 패드는 2층에 있나요? | History: 0 turns
+[2026-01-21 15:17:18.113579] [2f27dd52-e6c9-4912-939a-6d7c9dbd0281] Analyzing: 건전지 어디에 있어요? | History: 0 turns
+[2026-01-21 15:17:21.937252] [d6cfb7d5-0457-45ee-b758-cb976cd1e317] Analyzing: 멀티탭 코너는 몇 번이에요? | History: 0 turns
+[2026-01-21 15:17:24.177687] [82f2dea4-cd59-4187-a530-dbbe5ed5bc49] Analyzing: 순간접착제는 어디로 가야 돼요? | History: 0 turns
+[2026-01-21 15:17:26.413382] [bc675ab9-bb63-40ee-befe-1ea73f1e274a] Analyzing: 욕실 슬리퍼 찾는데 안 보여요. | History: 0 turns
+[2026-01-21 15:17:28.599293] [551d12f6-5a3e-4cd1-804c-c21c85afb5f8] Analyzing: 다이소 꿀템이라고 하던데, '리들샷' 재고 있나요? | History: 0 turns
+[2026-01-21 15:20:44.924239] [4f0a2575-55be-4ca2-8c8a-57dbd8c8deaa] Analyzing: 건전지 어디에 있어요? | History: 0 turns
+[2026-01-21 15:20:48.126005] [7e1aa7a2-3fc3-4c69-85a2-3cfe876efe79] Analyzing: 멀티탭 코너는 몇 번이에요? | History: 0 turns
+[2026-01-21 15:20:50.152940] [886aff82-0292-46ba-816e-60f6098ab3d7] Analyzing: 순간접착제는 어디로 가야 돼요? | History: 0 turns
+[2026-01-21 15:20:52.082349] [7aa3b05d-7036-4316-a7f4-e4da28a201f9] Analyzing: 욕실 슬리퍼 찾는데 안 보여요. | History: 0 turns
+[2026-01-21 15:20:54.144944] [94a4bbbd-458f-4629-9ab5-e38b44f663f1] Analyzing: 다이소 꿀템이라고 하던데, '리들샷' 재고 있나요? | History: 0 turns
+[2026-01-21 15:20:56.080644] [a57fb762-392d-45fa-b2ab-85c1f00e9712] Analyzing: 아이폰 충전 케이블은 어디 쪽에 있나요? | History: 0 turns
+[2026-01-21 15:20:58.031877] [fbf845c9-cf42-41b3-b993-1249b919c575] Analyzing: 포장지랑 편지지는 어디 있어요? | History: 0 turns
+[2026-01-21 15:21:00.094308] [6168e007-3e27-4521-8576-b673399fe920] Analyzing: 옷걸이 종류는 어디 모여 있어요? | History: 0 turns
+[2026-01-21 15:21:02.032384] [62fcb3ba-d553-43de-9ea2-6e0ab8ab563f] Analyzing: 강아지 배변 패드는 2층에 있나요? | History: 0 turns
+[2026-01-21 15:21:04.048779] [8bf9d3b2-881e-47b5-84db-379fbfa0a762] Analyzing: 줄자는 공구 쪽에 있나요, 문구 쪽에 있나요? | History: 0 turns
+[2026-01-21 15:21:05.758497] [03a45dc8-5ade-4918-9f25-59d46f387f95] Analyzing: 싱크대 물 안 튀게 막아주는 거 있어요? | History: 0 turns
+[2026-01-21 15:21:07.781237] [e0446fb5-671d-4a32-9826-b40884d5a42c] Analyzing: 의자 끌 때 소리 안 나게 끼우는 거 찾는데요. | History: 0 turns
+[2026-01-21 15:21:10.044661] [991e0124-f237-4ef7-a953-8850dc43a58c] Analyzing: 새로 이사했는데 문틈으로 바람 들어오는 거 막는 스펀지 같은 거요. | History: 0 turns
+[2026-01-21 15:21:12.174824] [e83ccc21-04ce-46d7-a0ae-a216fa834138] Analyzing: 화장실 타일 사이에 낀 곰팡이 없애는 젤 있나요? | History: 0 turns
+[2026-01-21 15:21:14.117859] [7a923e66-ee7a-4634-96de-7149abfd2cb7] Analyzing: 그... 옷에 핀 보풀 제거하는 기계 있어요? | History: 0 turns
+[2026-01-21 15:21:16.097249] [5b86d099-4b66-4a15-befe-400af783690b] Analyzing: 신발장 냄새 제거하는 탈취제 같은 거 어디 봐요? | History: 0 turns
+[2026-01-21 15:21:17.926225] [f7f21710-839d-44e7-a3b8-6d16f81e0b9f] Analyzing: 벽에 못 안 박고 액자 걸 수 있는 끈끈이 있어요? | History: 0 turns
+[2026-01-21 15:21:20.365462] [bfe450c9-0c73-4fe1-ae5b-124a04ef41df] Analyzing: 여행 가는데 화장품 덜어갈 작은 공병들 모아둔 곳이요. | History: 0 turns
+[2026-01-21 15:21:22.329229] [568ccf43-5418-41d6-bce7-8f0704b46cd6] Analyzing: 방충망에 구멍 났는데 그거 때우는 스티커 있나요? | History: 0 turns
+[2026-01-21 15:21:24.386123] [eae46aa8-54e0-4f27-b3cf-7226ea60b448] Analyzing: 키보드 사이에 먼지 빼는 젤리 같은 거 찾고 있어요? | History: 0 turns
+[2026-01-21 15:21:26.378502] [376fb9f6-0175-480f-9dc1-e33d700b0de7] Analyzing: 매직블럭(매직스펀지) 큰 거는 없어요? | History: 0 turns
+[2026-01-21 15:21:28.226065] [f00d5c83-72fe-41ec-b313-a7bad370fc32] Analyzing: 배수구 거름망 스타킹처럼 된 거요. | History: 0 turns
+[2026-01-21 15:21:30.248667] [99671f0b-b113-4d38-8815-621847e0b200] Analyzing: 에어프라이어에 까는 종이 호일 어디 있죠? | History: 0 turns
+[2026-01-21 15:21:32.098448] [d4797133-064f-45b6-9512-dcaf239e2f6e] Analyzing: 고무장갑 M사이즈는 어디에 걸려 있나요? | History: 0 turns
+[2026-01-21 15:21:33.869223] [414b15c0-a540-464b-bb1b-3f9f6cb63497] Analyzing: 밀폐용기 중에 유리로 된 것만 모아둔 곳 있어요? | History: 0 turns
+[2026-01-21 15:21:35.624422] [2271f614-c7f5-4983-a5c2-252b440619ac] Analyzing: 기름 닦는 키친타월은 휴지 쪽에 있나요, 주방 쪽에 있나요? | History: 0 turns
+[2026-01-21 15:21:37.394803] [6a09997a-14b5-491a-af6a-278ae2f547df] Analyzing: 텀블러 닦는 긴 솔 찾아요. | History: 0 turns
+[2026-01-21 15:21:39.523631] [b2e67761-8651-417b-926b-2ef40a29efc5] Analyzing: 음식물 쓰레기 봉투도 파나요? | History: 0 turns
+[2026-01-21 15:21:41.582584] [42606b4d-985d-46b9-a91d-c4f9c116e94b] Analyzing: 인덕션 상판 닦는 전용 세제 있나요? | History: 0 turns
+[2026-01-21 15:21:43.844892] [ba78134a-0d75-4254-98a6-1105b113be12] Analyzing: 과일 씻을 때 쓰는 베이킹소다는 어디 있어요? | History: 0 turns
+[2026-01-21 15:21:45.899152] [7c17513a-c030-4f79-9697-6e908c01a542] Analyzing: 뽁뽁이(에어캡) 롤로 말려 있는 거 있어요? | History: 0 turns
+[2026-01-21 15:21:48.046613] [3031bf59-5c6a-4727-98bd-458fb228809b] Analyzing: 택배 보낼 때 쓰는 박스 테이프 투명한 거요. | History: 0 turns
+[2026-01-21 15:21:49.882489] [72cfe892-aea8-4a47-99e2-936b05e8b664] Analyzing: 다이어리 꾸미는 스티커 모아둔 매대는 어디예요? | History: 0 turns
+[2026-01-21 15:21:51.735990] [5dec90a9-eec4-4ed3-98fc-e124d468bfe0] Analyzing: 화이트보드 마카랑 지우개 세트로 된 거 있나요? | History: 0 turns
+[2026-01-21 15:21:53.774711] [7545e829-e1c7-44fa-a4cc-13a83507d288] Analyzing: 제본할 때 쓰는 링 같은 거 파나요? | History: 0 turns
+[2026-01-21 15:21:55.525129] [0557f24b-c07f-4920-841d-147ed66c9b54] Analyzing: 축의금 봉투 글씨 안 쓰여 있는 걸로 찾는데요. | History: 0 turns
+[2026-01-21 15:21:57.374587] [398d4b03-475f-402c-a511-b016d7ea3e2a] Analyzing: 네임펜 얇은 거 말고 굵은 거는요? | History: 0 turns
+[2026-01-21 15:21:59.130580] [01f743b5-ffec-4468-83e9-e97699b1c0e4] Analyzing: 가위가 잘 안 드는데 여기서 제일 잘 드는 가위 추천해 주세요. | History: 0 turns
+[2026-01-21 15:22:01.223470] [35f38aee-f93c-4752-bc22-2b7f176536af] Analyzing: 초강력 자석 있나요? | History: 0 turns
+[2026-01-21 15:22:03.211327] [2776ebf8-9cc8-4fc7-b041-8c6c82e6d35c] Analyzing: 서류 정리하는 파일 꽂이 투명한 색깔 있어요? | History: 0 turns
+[2026-01-21 15:22:05.157368] [068711ee-d6ed-4b1a-81e3-9c88d369ff7f] Analyzing: 앞머리 롤(헤어롤) 제일 큰 사이즈 어디 있어요? | History: 0 turns
+[2026-01-21 15:22:07.196144] [e7ae6c7a-9065-44c0-9896-56620f61e896] Analyzing: 화장 퍼프 대용량으로 든 거 찾아요. | History: 0 turns
+[2026-01-21 15:22:09.074662] [18cb6e4f-67ee-4e52-8c34-a23b9340606d] Analyzing: 젤 네일 굽는 램프도 파나요? | History: 0 turns
+[2026-01-21 15:22:11.018907] [f63daca6-bfab-47b5-a924-399ab7f84bc8] Analyzing: 머리끈 검은색 고무줄만 들어있는 거요. | History: 0 turns
+[2026-01-21 15:22:13.097619] [ec313721-eac9-4f11-b4eb-94f706d9ebd5] Analyzing: 여행용 샴푸/린스 키트 있나요? | History: 0 turns
+[2026-01-21 15:22:14.968542] [6e208eeb-c850-40dd-83e6-b9d7ce9e93e6] Analyzing: 여드름 났을 때 붙이는 패치 어디 있죠? | History: 0 turns
+[2026-01-21 15:22:17.010649] [e7800b38-58d4-4b01-8ea5-96bd31cd8723] Analyzing: 발 뒤꿈치 각질 제거하는 돌 같은 거요. | History: 0 turns
+[2026-01-21 15:22:19.144406] [920e043d-f6f7-43c4-a3d8-7353097a5b7f] Analyzing: 손거울 탁상용으로 세울 수 있는 거 찾아요. | History: 0 turns
+[2026-01-21 15:22:21.180942] [9db02aab-9039-4bf2-a93c-cb997f104fdc] Analyzing: 남자들 쓰는 왁스나 스프레이도 있나요? | History: 0 turns
+[2026-01-21 15:22:23.138333] [203a41b5-5860-47a0-802f-e1c6b094bba6] Analyzing: 속눈썹 뷰러 고무 리필만 따로 파나요? | History: 0 turns
+[2026-01-21 15:22:25.260903] [28793d49-558e-4441-916d-b5e4ebaded14] Analyzing: 자전거 자물쇠 비밀번호 설정되는 거요. | History: 0 turns
+[2026-01-21 15:22:27.218950] [ae9ae335-df53-4a85-b5e4-0af7fa866369] Analyzing: 차량용 핸드폰 거치대 송풍구에 끼우는 거 있나요? | History: 0 turns
+[2026-01-21 15:22:29.369005] [2b2c15ec-13e5-41d7-85df-4d81f878f804] Analyzing: 캠핑 갈 때 쓸 일회용 숯이나 그릴 파나요? | History: 0 turns
+[2026-01-21 15:22:31.446647] [ba89ff73-ac5a-401c-a6db-1f147fa93837] Analyzing: 드라이버 세트 정밀 드라이버 포함된 거요. | History: 0 turns
+[2026-01-21 15:22:33.882151] [d8bb2fcc-562c-4b9f-a260-c5e77f336feb] Analyzing: 실리콘 쏘는 총(코킹건)이랑 실리콘 어디 있어요? | History: 0 turns
+[2026-01-21 15:22:35.942402] [83994e48-82e6-4e69-94a1-0d20c407739f] Analyzing: 낚시용품 코너가 따로 있나요? | History: 0 turns
+[2026-01-21 15:22:37.882168] [8262aa7e-0e06-4cd4-88ac-d64d363a75dd] Analyzing: 뜨개질 실이랑 바늘 찾는 중인데요. | History: 0 turns
+[2026-01-21 15:22:39.831678] [0907f188-11ea-4571-b752-33710d852cb2] Analyzing: 화분에 꽂는 영양제 초록색 그거요. | History: 0 turns
+[2026-01-21 15:22:41.711945] [25203427-9b77-4de2-bec8-bffa32efb310] Analyzing: 페인트 붓이랑 롤러 작은 사이즈 있나요? | History: 0 turns
+[2026-01-21 15:22:43.749752] [4a2d2da2-3fed-441d-8196-03b7d6f1dca1] Analyzing: 차 긁힌 데 바르는 컴파운드 같은 거 파나요? | History: 0 turns
+[2026-01-21 15:22:45.881523] [47da0da6-a90a-49fb-9b5b-10ee1b26d2ce] Analyzing: 생일 파티 풍선 중에 숫자 풍선 있어요? | History: 0 turns
+[2026-01-21 15:22:47.918616] [b52a1878-9a70-4413-8fde-2e2717623395] Analyzing: 아이들 가지고 노는 슬라임 종류 많은 곳이 어디예요? | History: 0 turns
+[2026-01-21 15:22:49.770759] [0efa5606-6386-43e4-97c6-8c857de10409] Analyzing: 크리스마스 트리 장식볼 찾는데요. | History: 0 turns
+[2026-01-21 15:22:51.711168] [b6eeba2e-f209-4e9b-a2d1-d0aa10083035] Analyzing: 비눗방울 놀이하는 거 큰 거 있나요? | History: 0 turns
+[2026-01-21 15:22:53.547196] [caca9ca0-d0d7-4429-bd22-d19a18785f10] Analyzing: 할로윈 분장 소품 어디 있나요? | History: 0 turns
+[2026-01-21 15:22:55.430835] [bb9ab55e-b131-4605-b422-391b16c59037] Analyzing: 파티용 고깔모자랑 폭죽 있나요? | History: 0 turns
+[2026-01-21 15:22:57.392145] [85196169-f800-4a11-8c09-c4daa8d0286b] Analyzing: 어버이날 카네이션 브로치 조화로 된 거요. | History: 0 turns
+[2026-01-21 15:22:59.246013] [90b20475-a10f-4890-a7b5-5ee0d38bd274] Analyzing: 스케치북이랑 크레파스 유치원생 쓸 만한 거요. | History: 0 turns
+[2026-01-21 15:23:01.257752] [a7bc34a9-a729-4025-a3cf-ecac091c0195] Analyzing: 선물 상자 예쁜 거 파는 코너 좀 알려주세요. | History: 0 turns
+[2026-01-22 11:27:19.153249] [43282103-f00c-4bf7-9b91-24b1dbec804d] Analyzing: 화장실 변기 닦아도 냄새가 안 없어져요. | History: 0 turns
+[2026-01-22 11:27:24.511122] [d5278168-274e-456b-93eb-d676f74e3df8] Analyzing: 문 닫을 때마다 쾅쾅 소리 나서 시끄러워요. | History: 0 turns
+[2026-01-22 11:27:26.767849] [65be0778-9a9b-4fc2-9f4e-06d8303504be] Analyzing: 바닥 긁히는 소리 안 나게 의자에 끼우는 거 있어요? | History: 0 turns
+[2026-01-22 11:27:29.064994] [0bc97ee9-84dd-4362-9d2c-fb55c91d091c] Analyzing: 싱크대 배수구가 꽉 막혀서 물이 안 내려가요. | History: 0 turns
+[2026-01-22 11:27:31.409721] [b226aa08-c53e-4f52-8a3b-9fa691a0a5f3] Analyzing: 새로 산 그릇에 스티커 끈끈이가 남아서 안 떼져요. | History: 0 turns
+[2026-01-22 11:27:33.743463] [012fec91-2fca-431c-b316-6afe4a996c98] Analyzing: 장마철이라 옷장에서 꿉꿉한 냄새가 나요. | History: 0 turns
+[2026-01-22 11:27:35.945058] [bc3907bd-36b4-4dc6-857b-e1011ca79c2d] Analyzing: 초파리가 자꾸 꼬이는데 잡는 트랩 같은 거 있나요? | History: 0 turns
+[2026-01-22 11:27:38.156276] [010b8714-2215-4536-9ada-fe00ad9b1f0d] Analyzing: 욕실 타일 틈새에 검은 곰팡이가 꼈어요. | History: 0 turns
+[2026-01-22 11:27:40.365043] [759bb401-0959-4a97-a6d3-f051c0d1f0ac] Analyzing: 와이셔츠 목 때가 세탁기로 빨아도 잘 안 지워져요. | History: 0 turns
+[2026-01-22 11:27:42.481896] [304dbf5f-4019-4131-8d7f-2316b9985ac6] Analyzing: 강아지 털이 옷에 너무 많이 붙어서 떼고 싶어요. | History: 0 turns
+[2026-01-22 11:27:44.519703] [25fce610-7477-418b-8b71-6d43ad1c3372] Analyzing: 책상 밑에 전선들이 너무 지저분하게 엉켜 있어요. | History: 0 turns
+[2026-01-22 11:27:46.625624] [08a43724-82bc-4f85-b617-f456a7802c45] Analyzing: 방충망에 구멍이 났는데 전체 갈기는 좀 그렇고... | History: 0 turns
+[2026-01-22 11:27:48.763096] [fa099da5-32fc-4cbf-af91-406f9e80ff71] Analyzing: 요리하다가 기름이 벽에 너무 많이 튀어요. | History: 0 turns
+[2026-01-22 11:27:51.289060] [e963647a-3b58-4bfa-9272-ec57f34b0abe] Analyzing: 신발장 열 때마다 발 냄새가 너무 심해요. | History: 0 turns
+[2026-01-22 11:27:53.506488] [f16b6aa4-eb58-4dc8-8cd7-297a176ddc6c] Analyzing: 유리에 테이프 자국 남은 거 긁어내고 싶어요. | History: 0 turns
+[2026-01-22 11:27:55.702004] [e2e83e9d-59e9-487e-8c12-2dc0f661337e] Analyzing: 바지 허리가 너무 커서 줄이고 싶은데 바느질은 못해요. | History: 0 turns
+[2026-01-22 11:27:57.821125] [2e6a129b-f912-4317-b3b6-8e27bcfbd7d4] Analyzing: 가구 모서리에 애기가 찧을까 봐 걱정돼요. | History: 0 turns
+[2026-01-22 11:27:59.858203] [be4e8c0f-3dcc-420c-ab69-82c86d4705e1] Analyzing: 화장실 거울에 김이 너무 서려서 안 보여요. | History: 0 turns
+[2026-01-22 11:28:02.542926] [ce7c1c8b-5210-4aef-9a5b-abd9e7e5a78b] Analyzing: 검은 옷에 먼지가 너무 잘 붙어요. | History: 0 turns
+[2026-01-22 11:28:04.982738] [2254a25c-db2e-4321-a995-28db0deb6ee2] Analyzing: 냉장고 안에 김치 국물이 흘러서 굳었어요. | History: 0 turns
+[2026-01-22 11:28:07.303932] [9df68c82-b4fe-4ae1-a725-a13eb72385c9] Analyzing: 벽에 못 안 박고 액자 걸 수 있는 핀 같은 거요. | History: 0 turns
+[2026-01-22 11:28:09.407416] [758fd1a0-4714-47e4-988a-63f69e91427f] Analyzing: 물만 묻혀서 닦으면 때 지워지는 하얀 스펀지 주세요. | History: 0 turns
+[2026-01-22 11:28:11.438241] [428512c6-5eeb-4a01-9e96-dfcb577d7933] Analyzing: 치약 끝까지 짜서 쓰게 해주는 플라스틱 있나요? | History: 0 turns
+[2026-01-22 11:28:13.662894] [3dd0305c-db29-4f4d-a2a8-25805aff9c53] Analyzing: 전자레인지 안에 넣고 돌려도 되는 밥 보관 용기요. | History: 0 turns
+[2026-01-22 11:28:15.692743] [3ad6b28b-1a00-4d3d-b5c0-4c8bfa2946fd] Analyzing: 그물처럼 생겨서 설거지하고 수세미 말리는 거. | History: 0 turns
+[2026-01-22 11:28:18.072763] [96f72d41-3bf6-4f31-bbf7-c5db3d4b20df] Analyzing: 방 문 뒤에 걸어서 옷 걸 수 있게 하는 거요. | History: 0 turns
+[2026-01-22 11:28:20.456698] [c68d39fc-9859-42f2-a1af-f68dcbcdca05] Analyzing: 주방 서랍 안에 숟가락 젓가락 칸 나눠주는 통. | History: 0 turns
+[2026-01-22 11:28:22.520511] [2865ed96-c056-472e-b8b9-d074d059f5f3] Analyzing: 여행 갈 때 샴푸랑 린스 조금씩 덜어가는 공병. | History: 0 turns
+[2026-01-22 11:28:24.488199] [a3eadd3a-003a-488d-9b28-5274a2cdee74] Analyzing: 핸드폰 뒤에 붙여서 손가락 끼우는 동그란 거. | History: 0 turns
+[2026-01-22 11:28:26.663747] [55eb4ab7-26bb-4bb2-8390-627c7c09259d] Analyzing: 비누가 물러서 자꾸 녹는데 안 닿게 해주는 받침대. | History: 0 turns
+[2026-01-22 11:28:28.930021] [e3157990-df2c-4e36-be6c-a7d9fdbbceba] Analyzing: 화분 흙 안 쏟아지게 바닥에 까는 망 같은 거. | History: 0 turns
+[2026-01-22 11:28:31.056398] [4587f0c2-6b03-4ace-9bc7-bcc6670d89b9] Analyzing: 머리카락 배수구에 안 들어가게 걸러주는 스티커. | History: 0 turns
+[2026-01-22 11:28:33.514057] [64ad33d8-f0f3-4211-9961-7956f8149c3a] Analyzing: 책상 위에 놓고 쓰는 아주 작은 빗자루 세트. | History: 0 turns
+[2026-01-22 11:28:35.730139] [dba1cede-9a03-4ccd-b6ef-1c791cd20235] Analyzing: 운동화 끈 안 묶고 그냥 당겨서 조이는 끈. | History: 0 turns
+[2026-01-22 11:28:37.955420] [8213a64e-550c-49a1-a722-77f90ae8e7af] Analyzing: 의자 밑에 붙여서 잘 미끄러지게 하는 스티커. | History: 0 turns
+[2026-01-22 11:28:39.999638] [d2edb2a9-ed62-41ad-ac4e-aef2d6186ea2] Analyzing: 설거지할 때 옷 젖지 말라고 배에 대는 가림막. | History: 0 turns
+[2026-01-22 11:28:42.059062] [f14423e8-1d7a-4ff6-bb81-79fc87bd8dcb] Analyzing: 싱크대 구석에 음식물 쓰레기 모아두는 삼각 통. | History: 0 turns
+[2026-01-22 11:28:44.341717] [25ad4ffa-65b7-4b1e-8978-da3368c53818] Analyzing: 유리창 닦을 때 물기 싹 긁어내리는 고무 달린 막대기. | History: 0 turns
+[2026-01-22 11:28:46.805925] [e54231ce-0d83-4f8e-ad9f-22a376875cd0] Analyzing: 긴 컵 닦을 때 쓰는 손잡이 달린 스펀지. | History: 0 turns
+[2026-01-22 11:28:49.116711] [c6c23ac6-36a1-4892-b8a7-d889dfd3b6bd] Analyzing: 마시다 남은 와인 막아두는 마개. | History: 0 turns
+[2026-01-22 11:28:51.197098] [d652c05d-48e7-4a5d-bca8-49f403c80788] Analyzing: 내일 자취방 처음 들어가는데 청소 필수템 좀 알려주세요. | History: 0 turns
+[2026-01-22 11:28:53.366993] [f6c60caf-36e2-4132-963f-5a1667125211] Analyzing: 친구들이랑 홈파티 하는데 벽에 붙일 장식 추천해 줘. | History: 0 turns
+[2026-01-22 11:28:55.444913] [42492558-8491-4f44-97ec-e94c0048fe76] Analyzing: 해외여행 가는데 비행기 안에서 편하게 있을 만한 거. | History: 0 turns
+[2026-01-22 11:29:03.343714] [29c91403-3df8-418f-9562-98d7d5396363] Analyzing: 강아지랑 산책 갈 때 챙겨야 할 거 뭐 있죠? | History: 0 turns
+[2026-01-22 11:29:05.538254] [26e92147-bce9-4db9-941b-531fbcbd2ad2] Analyzing: 회사 책상이 너무 삭막해서 좀 꾸미고 싶어요. | History: 0 turns
+[2026-01-22 11:29:07.504173] [95da0d59-5e4f-4a10-828a-24bfb37164f1] Analyzing: 집에서 혼자 네일아트 해보려고 하는데 뭐부터 사야 해요? | History: 0 turns
+[2026-01-22 11:29:09.601319] [2c6bc269-1ebc-4125-ba27-91a963d5dfce] Analyzing: 겨울옷 정리해서 넣어두려는데 부피 줄이는 봉투 있나요? | History: 0 turns
+[2026-01-22 11:29:11.849670] [91f31b54-e1e8-4d1b-b447-fdafd76830f5] Analyzing: 차 박 할 때 창문 가리는 용도로 쓸 만한 거. | History: 0 turns
+[2026-01-22 11:29:14.017032] [e09c9f9b-3b56-4566-b081-70f117bfc478] Analyzing: 아이들 학교 준비물로 색종이랑 풀 담을 통이 필요해요. | History: 0 turns
+[2026-01-22 11:29:15.882910] [79ac8e53-041b-4a0f-a2cd-0f6693668962] Analyzing: 싱크대 상판이 너무 좁아서 공간 활용하고 싶어요. | History: 0 turns
+[2026-01-22 11:29:17.917282] [ee248b40-e5bd-45a4-9108-110f2f523a9b] Analyzing: 캠핑 가서 고기 구워 먹을 때 쓸 일회용 접시 세트. | History: 0 turns
+[2026-01-22 11:29:20.506097] [30bc8a54-5305-4d24-9d0e-0edf3bed607d] Analyzing: 욕실에 샴푸랑 린스 놓을 자리가 없어서 공중부양 시키고 싶어요. | History: 0 turns
+[2026-01-22 11:29:22.441573] [b083306b-d266-4c72-a4d6-95725482df13] Analyzing: 다이어리 꾸미기 입문하려는데 스티커 추천 좀. | History: 0 turns
+[2026-01-22 11:29:24.555812] [26ce84d3-f855-4fb8-8a52-9e89cf5cb964] Analyzing: 선생님께 드릴 건데 너무 비싸지 않으면서 포장 예쁜 거. | History: 0 turns
+[2026-01-22 11:29:26.697043] [3cc4e8fb-ffea-41e5-9d3e-3d7530d844e1] Analyzing: 비 오는 날 신발 젖는 거 너무 싫은데 방수되는 거 없나요? | History: 0 turns
+[2026-01-22 11:29:28.803721] [a1360b44-2f67-45a2-bb20-987512cde52f] Analyzing: 조카가 슬라임 만들고 싶다는데 재료 어디 있어요? | History: 0 turns
+[2026-01-22 11:29:30.704351] [f0cfd318-c72c-457b-85be-d3bcf9c8f7a8] Analyzing: 유튜브 촬영할 때 핸드폰 고정해 놓을 거. | History: 0 turns
+[2026-01-22 11:29:32.774070] [e1a11066-8d95-4e69-9daf-be9991388b3b] Analyzing: 독서실에서 쓸 소리 안 나는 슬리퍼. | History: 0 turns
+[2026-01-22 11:29:34.630108] [4fe79b8f-1d8b-4370-b386-3613b26b81f0] Analyzing: 음식물 쓰레기 냄새 안 나게 밀폐 잘 되는 통. | History: 0 turns
+[2026-01-22 11:29:38.951623] [63cb1a47-3007-489b-aec0-c07e990ce906] Analyzing: 원룸인데 빨래 건조대 놓을 자리가 없어요. | History: 0 turns
+[2026-01-22 11:29:41.206419] [0bfa7ed2-474a-4d7f-b976-a63935dd11f8] Analyzing: 5000원 이하로 중학생 여자애 생일 선물 추천해 줘. | History: 0 turns
+[2026-01-22 11:29:43.386685] [99a2ec67-9d91-4ee6-ae8d-0977dfd8f6a3] Analyzing: 유치원 생일 답례품으로 돌릴 1000원짜리 간식거리. | History: 0 turns
+[2026-01-22 11:29:45.382009] [f56e4419-6c1c-46ee-bafe-f42cf0ee15c3] Analyzing: 만원으로 욕실 청소 용품 풀세트 맞추고 싶어요. | History: 0 turns
+[2026-01-22 11:29:47.647898] [dc9ea08e-2120-4221-94b8-b0a1e002ddcf] Analyzing: 3000원 안 넘는 선에서 차량용 방향제 있나요? | History: 0 turns
+[2026-01-22 11:29:50.087362] [2195dda0-55c0-42c8-bdbf-421da75c0eba] Analyzing: 군인 친구한테 보낼 건데 반입 가능한 화장품. | History: 0 turns
+[2026-01-22 11:29:51.946927] [7f95b05a-cdee-4fe8-9fee-2ed5c04e71e3] Analyzing: 어르신들이 좋아할 만한 지압 용품 추천. | History: 0 turns
+[2026-01-22 11:29:54.017030] [925cf590-d929-4b95-b337-96bce1a73639] Analyzing: AA 건전지 대용량으로 제일 싼 거. | History: 0 turns
+[2026-01-22 11:29:56.221111] [61ce7bef-aa3c-4c45-a8ee-767f93487c22] Analyzing: 자취생인데 그릇 세트 말고 딱 하나만 산다면 제일 실용적인 거. | History: 0 turns
+[2026-01-22 11:29:58.147906] [24aefeb3-f6a8-41fe-8def-823f65040e77] Analyzing: 일본 여행 가는데 110v 돼지코 2개만 필요해요. | History: 0 turns
+[2026-01-22 11:30:00.240255] [51f03fcd-80bd-4a3b-8825-7c138dc330e3] Analyzing: 다이소 꿀템이라고 소문난 거 중에 뷰티 쪽 추천해 줘. | History: 0 turns
+[2026-01-22 11:30:02.165170] [be13a900-c9c9-48aa-a866-9e28bed41640] Analyzing: 지금 당장 살 수 있는 할로윈 소품. | History: 0 turns
+[2026-01-22 11:30:04.476398] [3578c3fb-dabd-41f9-b7df-e4301acecbb7] Analyzing: 크리스마스 트리 장식 2만 원 안으로 해결하고 싶어. | History: 0 turns
+[2026-01-22 11:30:06.609370] [636b6809-0604-431b-a191-7f0788be4e36] Analyzing: 국산 볼펜 중에 제일 잘 써지는 거. | History: 0 turns
+[2026-01-22 11:30:08.632915] [9dc23054-a5bb-49df-a40e-a6f879bf14db] Analyzing: 유리병 말고 안 깨지는 플라스틱 물병. | History: 0 turns
+[2026-01-22 11:30:10.825078] [953c308e-8f5f-4ce8-b1cb-675d51f241b0] Analyzing: 색깔 별로 들어있는 고무줄 세트. | History: 0 turns
+[2026-01-22 11:30:13.162339] [abd36660-0c8d-4c00-8bb9-dfbaf4c78598] Analyzing: A4 용지 들어가는 파일 홀더 10개 묶음. | History: 0 turns
+[2026-01-22 11:30:15.326893] [63dc2429-b626-4d9c-8538-5bd47a32ce40] Analyzing: 냄새 안 나는 무향 제습제. | History: 0 turns
+[2026-01-22 11:30:17.361897] [b377610e-773a-4b8b-a949-4d7399cb79a4] Analyzing: 캐리어에 붙일 만한 큰 스티커. | History: 0 turns
+[2026-01-22 11:30:19.395102] [9724c746-d343-438a-b614-25881733b6a3] Analyzing: 전자레인지랑 식기세척기 둘 다 되는 그릇. | History: 0 turns
+[2026-01-22 11:30:21.874855] [663ae5a5-e668-4e6b-9eb2-9942d42abb39] Analyzing: 아이폰 충전 케이블인데 줄 긴 거(2m 이상). | History: 0 turns
+[2026-01-22 11:30:23.707937] [a5e4d5b7-a832-4645-9ce1-0bec6c7e2e2f] Analyzing: 약간 카페 같은 분위기 내는 조명 없나? | History: 0 turns
+[2026-01-22 11:30:25.667621] [bb7706cf-ecad-453a-a3a6-08fa30b35ac7] Analyzing: 방에서 나는 홀아비 냄새 잡는 거. | History: 0 turns
+[2026-01-22 11:30:27.895074] [8dfa72e0-4a50-4d87-9af6-bbfc4087a235] Analyzing: 그... 뽁뽁이 말고 창문에 붙여서 단열하는 거. | History: 0 turns
+[2026-01-22 11:30:30.614181] [54f6e4f0-8054-4a9e-b856-27f4f2f0de23] Analyzing: 손에 뭐 안 묻히고 과자 집어 먹는 집게 같은 거. | History: 0 turns
+[2026-01-22 11:30:32.971202] [cee720fe-a082-49d9-a775-8323dc7a3055] Analyzing: 화장대 거울에 붙여서 밝게 만드는 전구. | History: 0 turns
+[2026-01-22 11:30:34.957336] [f125a0c2-0da1-4680-a0c8-d8c4fbc9bdfd] Analyzing: 냉장고 옆면에 자석으로 붙여서 수납하는 거. | History: 0 turns
+[2026-01-22 11:30:37.059579] [93626d2d-d9ab-42bb-9ac6-a1a41f3f3e16] Analyzing: 싱크대 물 튀는 거 막아주는 투명한 판. | History: 0 turns
+[2026-01-22 11:30:39.284282] [d7190713-0bed-4290-a6da-136cfe562bc1] Analyzing: 샤워기 물줄기 너무 세서 아픈데 부드럽게 나오는 헤드. | History: 0 turns
+[2026-01-22 11:30:41.682041] [552ec539-69ef-4bf2-a756-54ae6d611736] Analyzing: 책 읽을 때 페이지 안 넘어가게 잡아주는 거. | History: 0 turns
+[2026-01-22 11:30:44.088537] [943a443d-3f14-41d4-9673-f4ec12868320] Analyzing: 컴퓨터 키보드 사이사이 먼지 빼내는 젤리 같은 거. | History: 0 turns
+[2026-01-22 11:30:46.397777] [a6a90c93-eda3-4668-bcb0-0999bf9c8bd1] Analyzing: 방바닥에 머리카락 굴러다니는 거 싫어서 슥슥 미는 거. | History: 0 turns
+[2026-01-22 11:30:48.357144] [589ec62a-0cce-4e31-80dd-48b0b88b72ab] Analyzing: 운동할 때 핸드폰 팔뚝에 차는 거. | History: 0 turns
+[2026-01-22 11:30:50.422912] [7dd32d65-8858-4804-b5ec-29d97e4af1e8] Analyzing: 마스크 오래 쓰면 귀 아픈데 안 아프게 하는 고리. | History: 0 turns
+[2026-01-22 11:30:53.188287] [bbffd64d-47b2-4860-98e3-90651cc3bb72] Analyzing: 후라이팬 코팅 안 벗겨지게 긁는 뒤집개. | History: 0 turns
+[2026-01-22 11:30:55.128832] [1415bf21-9e9f-442e-9a48-c815e9dff645] Analyzing: 니트 옷걸이에 걸면 어깨 튀어나오는데 안 그러는 옷걸이. | History: 0 turns
+[2026-01-22 11:30:57.304662] [f62c8f38-0f5c-46f0-8ee0-cc7209f26d9a] Analyzing: 욕실 슬리퍼 물 잘 빠지고 구멍 숭숭 뚫린 거. | History: 0 turns
+[2026-01-22 11:30:59.563332] [1326f8c9-1f3b-4a1c-8731-d45c441b9d16] Analyzing: 이어폰 줄 꼬인 거 푸느라 짜증 나는데 감아두는 거. | History: 0 turns
+[2026-01-22 11:31:01.546841] [1360dd90-ee5f-49cc-b0c0-e9ba8578f25d] Analyzing: 택배 송장 번호 개인정보 지우는 도장. | History: 0 turns
+[2026-01-22 11:31:04.050668] [dfc0c03e-81d8-4ebd-9046-d7e289247029] Analyzing: 비누 거품 잘 나게 하는 망. | History: 0 turns
+[2026-01-22 11:31:06.174368] [b1e765e0-4858-4be2-8823-51c499be57c6] Analyzing: 새우 껍질 까기 귀찮은데 쉽게 까는 도구. | History: 0 turns
+[2026-01-22 11:55:31.908187] [78640e3b-5fa5-4d73-a9a8-9af527d3418a] Analyzing: 화장실 변기 닦아도 냄새가 안 없어져요. | History: 0 turns
+[2026-01-22 11:55:35.756906] [173633e8-6b86-4f09-ba64-9572a1149610] Analyzing: 문 닫을 때마다 쾅쾅 소리 나서 시끄러워요. | History: 0 turns
+[2026-01-22 11:55:38.137848] [7d08077f-5563-4c06-b3ef-8b28771d6395] Analyzing: 바닥 긁히는 소리 안 나게 의자에 끼우는 거 있어요? | History: 0 turns
+[2026-01-22 11:55:40.269424] [57b58775-454c-41a8-b13d-340d51e33a4f] Analyzing: 싱크대 배수구가 꽉 막혀서 물이 안 내려가요. | History: 0 turns
+[2026-01-22 11:55:42.428126] [31be013a-da14-4a8f-b3f0-b5571ee3d8c7] Analyzing: 새로 산 그릇에 스티커 끈끈이가 남아서 안 떼져요. | History: 0 turns
+[2026-01-22 11:55:45.072528] [2e9a45ba-5de5-497d-98fa-2ac6a2e18235] Analyzing: 장마철이라 옷장에서 꿉꿉한 냄새가 나요. | History: 0 turns
+[2026-01-22 11:55:47.081328] [710eceb8-f270-4c48-b9ba-e3dea41230bb] Analyzing: 초파리가 자꾸 꼬이는데 잡는 트랩 같은 거 있나요? | History: 0 turns
+[2026-01-22 11:55:49.400172] [f41b83f2-f142-49fe-bb67-13307107b2a9] Analyzing: 욕실 타일 틈새에 검은 곰팡이가 꼈어요. | History: 0 turns
+[2026-01-22 11:55:51.593918] [8e45b029-9079-4c1c-ab3f-280b0a026b5a] Analyzing: 와이셔츠 목 때가 세탁기로 빨아도 잘 안 지워져요. | History: 0 turns
+[2026-01-22 11:55:53.935627] [ade5748a-2c01-4210-b096-6f11645faea6] Analyzing: 강아지 털이 옷에 너무 많이 붙어서 떼고 싶어요. | History: 0 turns
+[2026-01-22 11:55:56.077203] [7d8638f9-b87b-468f-b0c9-5afff4907ace] Analyzing: 책상 밑에 전선들이 너무 지저분하게 엉켜 있어요. | History: 0 turns
+[2026-01-22 11:55:59.468211] [7a954703-e244-4f60-afca-8ef9371d312f] Analyzing: 방충망에 구멍이 났는데 전체 갈기는 좀 그렇고... | History: 0 turns
+[2026-01-22 11:56:01.673155] [4cdf28a7-9804-4f7e-bcea-314d7919f7d9] Analyzing: 요리하다가 기름이 벽에 너무 많이 튀어요. | History: 0 turns
+[2026-01-22 11:56:04.421438] [73d31c17-ea25-4c9d-8e83-a250da03a002] Analyzing: 신발장 열 때마다 발 냄새가 너무 심해요. | History: 0 turns
+[2026-01-22 11:56:06.682705] [290d71b2-267e-4215-af92-fc14fb499c01] Analyzing: 유리에 테이프 자국 남은 거 긁어내고 싶어요. | History: 0 turns
+[2026-01-22 11:56:08.800159] [5982033f-a7c9-4225-9504-a82edb60c5b0] Analyzing: 바지 허리가 너무 커서 줄이고 싶은데 바느질은 못해요. | History: 0 turns
+[2026-01-22 11:56:10.930421] [e05d93bf-1490-4297-bb88-f647ba5391a5] Analyzing: 가구 모서리에 애기가 찧을까 봐 걱정돼요. | History: 0 turns
+[2026-01-22 11:56:13.809832] [48003d4e-8882-4e65-b365-d2d54968ba97] Analyzing: 화장실 거울에 김이 너무 서려서 안 보여요. | History: 0 turns
+[2026-01-22 11:56:16.118810] [f40b77aa-cf19-4d08-949a-d6c307b00b71] Analyzing: 검은 옷에 먼지가 너무 잘 붙어요. | History: 0 turns
+[2026-01-22 11:56:18.246870] [d2d9fd57-ad57-4fd2-b17d-e43219560f2a] Analyzing: 냉장고 안에 김치 국물이 흘러서 굳었어요. | History: 0 turns
+[2026-01-22 12:09:11.248626] [508d94df-c22c-49f9-8edd-ddf08c47b0e8] Analyzing: 화장실 변기 닦아도 냄새가 안 없어져요. | History: 0 turns
+[2026-01-22 12:09:15.181401] [203374ef-842e-458c-b0af-2d9c90e44072] Analyzing: 문 닫을 때마다 쾅쾅 소리 나서 시끄러워요. | History: 0 turns
+[2026-01-22 12:09:17.388559] [a37591d6-e7bd-435b-a7a8-03248b333daa] Analyzing: 바닥 긁히는 소리 안 나게 의자에 끼우는 거 있어요? | History: 0 turns
+[2026-01-22 12:09:20.869506] [0d4bf601-310e-4dc0-949e-c43c8e106d22] Analyzing: 싱크대 배수구가 꽉 막혀서 물이 안 내려가요. | History: 0 turns
+[2026-01-22 12:09:23.093386] [a4e37219-191f-4273-bc2e-e31072dd7389] Analyzing: 새로 산 그릇에 스티커 끈끈이가 남아서 안 떼져요. | History: 0 turns
+[2026-01-22 12:09:26.182203] [01e90032-cc63-4f3f-ac87-572a5d47d14b] Analyzing: 장마철이라 옷장에서 꿉꿉한 냄새가 나요. | History: 0 turns
+[2026-01-22 12:09:28.301959] [49708070-a6e1-42ba-979c-d2bedd93f4d6] Analyzing: 초파리가 자꾸 꼬이는데 잡는 트랩 같은 거 있나요? | History: 0 turns
+[2026-01-22 12:09:30.417407] [8a78f51d-713a-4e93-aefe-f661b9b9838d] Analyzing: 욕실 타일 틈새에 검은 곰팡이가 꼈어요. | History: 0 turns
+[2026-01-22 12:09:32.513397] [3094ca04-745a-48f0-a2eb-a57bb4442cad] Analyzing: 와이셔츠 목 때가 세탁기로 빨아도 잘 안 지워져요. | History: 0 turns
+[2026-01-22 12:09:34.736668] [53eac72d-dac4-4b1b-a8de-aaaccf5c4ab0] Analyzing: 강아지 털이 옷에 너무 많이 붙어서 떼고 싶어요. | History: 0 turns
+[2026-01-22 12:09:36.654193] [ec52dc39-063b-4a89-b498-7b51403064fe] Analyzing: 책상 밑에 전선들이 너무 지저분하게 엉켜 있어요. | History: 0 turns
+[2026-01-22 12:09:39.153102] [eb0a24db-3ae0-47de-81eb-9f93f8140336] Analyzing: 방충망에 구멍이 났는데 전체 갈기는 좀 그렇고... | History: 0 turns
+[2026-01-22 12:09:41.662109] [4e6294c2-b174-4d98-8e51-230fc2ffd470] Analyzing: 요리하다가 기름이 벽에 너무 많이 튀어요. | History: 0 turns
+[2026-01-22 12:09:43.859736] [2c2827e0-d2a5-4c2f-b764-523813436942] Analyzing: 신발장 열 때마다 발 냄새가 너무 심해요. | History: 0 turns
+[2026-01-22 12:09:45.753853] [68c9ab5b-daf6-4536-8238-9706452e98ca] Analyzing: 유리에 테이프 자국 남은 거 긁어내고 싶어요. | History: 0 turns
+[2026-01-22 12:09:47.852079] [8f1e70a6-d1cd-4fb0-bc8b-ab0ce2aaa434] Analyzing: 바지 허리가 너무 커서 줄이고 싶은데 바느질은 못해요. | History: 0 turns
+[2026-01-22 12:09:50.299232] [0f8b3e1e-b72b-4d22-a51b-e93851ca800d] Analyzing: 가구 모서리에 애기가 찧을까 봐 걱정돼요. | History: 0 turns
+[2026-01-22 12:09:52.498046] [997551bc-5a26-4f27-bacd-3ca58964def1] Analyzing: 화장실 거울에 김이 너무 서려서 안 보여요. | History: 0 turns
+[2026-01-22 12:09:55.593066] [92ff2ac8-200c-4271-8a98-3668a9d29be7] Analyzing: 검은 옷에 먼지가 너무 잘 붙어요. | History: 0 turns
+[2026-01-22 12:09:57.678683] [4378fcc1-3502-4dd8-b654-3cf733d7a1b7] Analyzing: 냉장고 안에 김치 국물이 흘러서 굳었어요. | History: 0 turns
+[2026-01-22 12:20:53.605140] [b5c26e51-8198-48d0-8e8b-86d4d097726b] Analyzing: 화장실 변기 닦아도 냄새가 안 없어져요. | History: 0 turns
+[2026-01-22 12:20:57.791799] [0c7add76-6f68-46a9-8d52-2b8a919d12b4] Analyzing: 문 닫을 때마다 쾅쾅 소리 나서 시끄러워요. | History: 0 turns
+[2026-01-22 12:21:00.013021] [92c6a2ec-c4a2-4171-bc5b-a721b70a9a8c] Analyzing: 바닥 긁히는 소리 안 나게 의자에 끼우는 거 있어요? | History: 0 turns
+[2026-01-22 12:21:02.545791] [53561b9f-6bf1-4870-9a9f-436a72bb7a51] Analyzing: 싱크대 배수구가 꽉 막혀서 물이 안 내려가요. | History: 0 turns
+[2026-01-22 12:21:04.663265] [9582d17a-d7ce-4155-a462-52be4a5613e2] Analyzing: 새로 산 그릇에 스티커 끈끈이가 남아서 안 떼져요. | History: 0 turns
+[2026-01-22 12:21:07.721796] [66cd9e83-7923-4df0-a858-aceb931ca2b9] Analyzing: 겨울옷 정리해서 넣어두려는데 부피 줄이는 봉투 있나요? | History: 0 turns
+[2026-01-22 12:25:45.172653] [72a99664-1abf-4628-9c22-badf8de604a7] Analyzing: 화장실 변기 닦아도 냄새가 안 없어져요. | History: 0 turns
+[2026-01-22 12:25:48.896005] [d9eb614a-c1fa-4a66-9618-b932df813018] Analyzing: 문 닫을 때마다 쾅쾅 소리 나서 시끄러워요. | History: 0 turns
+[2026-01-22 12:25:51.000087] [be60da7a-6d25-4f04-8329-b18d68c5b468] Analyzing: 바닥 긁히는 소리 안 나게 의자에 끼우는 거 있어요? | History: 0 turns
+[2026-01-22 12:25:53.254299] [885dec7b-6a45-4263-8cb1-43b926a300b4] Analyzing: 싱크대 배수구가 꽉 막혀서 물이 안 내려가요. | History: 0 turns
+[2026-01-22 12:25:55.249608] [1bcc9e1b-9109-4e51-8a80-e7224cbbf903] Analyzing: 새로 산 그릇에 스티커 끈끈이가 남아서 안 떼져요. | History: 0 turns
+[2026-01-22 12:25:57.621829] [0e039070-4da4-4bdc-9055-12841682280a] Analyzing: 장마철이라 옷장에서 꿉꿉한 냄새가 나요. | History: 0 turns
+[2026-01-22 12:25:59.862688] [a2eccf9e-a8a7-4713-9450-80ff579832cd] Analyzing: 초파리가 자꾸 꼬이는데 잡는 트랩 같은 거 있나요? | History: 0 turns
+[2026-01-22 12:26:02.000223] [03d6226b-7e81-4dba-be60-951bfe53da8f] Analyzing: 욕실 타일 틈새에 검은 곰팡이가 꼈어요. | History: 0 turns
+[2026-01-22 12:26:04.491047] [f690daa7-2e6f-4b4a-9d50-72426ce85521] Analyzing: 와이셔츠 목 때가 세탁기로 빨아도 잘 안 지워져요. | History: 0 turns
+[2026-01-22 12:26:06.434219] [8bd34095-6f02-4693-9bfe-ca8a3e81667d] Analyzing: 강아지 털이 옷에 너무 많이 붙어서 떼고 싶어요. | History: 0 turns
+[2026-01-22 12:26:08.642095] [1bb21406-b3da-41f8-a7e7-4610eb1cf597] Analyzing: 책상 밑에 전선들이 너무 지저분하게 엉켜 있어요. | History: 0 turns
+[2026-01-22 12:26:10.780707] [1c084114-86bf-413e-9297-92270126f15a] Analyzing: 방충망에 구멍이 났는데 전체 갈기는 좀 그렇고... | History: 0 turns
+[2026-01-22 12:26:13.027857] [95c7416c-d816-453f-b21f-2eec67d78183] Analyzing: 요리하다가 기름이 벽에 너무 많이 튀어요. | History: 0 turns
+[2026-01-22 12:26:15.347695] [5dba2dc4-00c5-4d23-af0f-2df1b1b43f12] Analyzing: 신발장 열 때마다 발 냄새가 너무 심해요. | History: 0 turns
+[2026-01-22 12:26:17.677152] [9efea6ee-ef7b-4085-bddf-63d80ec6f11f] Analyzing: 유리에 테이프 자국 남은 거 긁어내고 싶어요. | History: 0 turns
+[2026-01-22 12:26:19.840323] [f8597215-9480-491b-a274-11c07d4009e6] Analyzing: 바지 허리가 너무 커서 줄이고 싶은데 바느질은 못해요. | History: 0 turns
+[2026-01-22 12:26:22.298678] [5c5eee15-6d5d-4cc6-9ecc-db956aa92707] Analyzing: 가구 모서리에 애기가 찧을까 봐 걱정돼요. | History: 0 turns
+[2026-01-22 12:26:24.446433] [9c2ecb71-ee51-400b-a2f2-f7e44186aef4] Analyzing: 화장실 거울에 김이 너무 서려서 안 보여요. | History: 0 turns
+[2026-01-22 12:26:26.562517] [1c9d883a-8302-4243-a775-9b9f93281b0f] Analyzing: 검은 옷에 먼지가 너무 잘 붙어요. | History: 0 turns
+[2026-01-22 12:26:29.125345] [16d2048c-8cca-4254-9c44-f27dd67b59cd] Analyzing: 냉장고 안에 김치 국물이 흘러서 굳었어요. | History: 0 turns
+[2026-01-22 12:26:31.355313] [78cce9f5-a36e-41c7-a3b4-1deec39eb25f] Analyzing: 벽에 못 안 박고 액자 걸 수 있는 핀 같은 거요. | History: 0 turns
+[2026-01-22 12:26:33.557822] [5ce99639-59bc-4a5e-9982-4d03bc977f90] Analyzing: 물만 묻혀서 닦으면 때 지워지는 하얀 스펀지 주세요. | History: 0 turns
+[2026-01-22 12:26:35.596866] [7453c33c-7bc8-418c-846c-469c926bfa62] Analyzing: 치약 끝까지 짜서 쓰게 해주는 플라스틱 있나요? | History: 0 turns
+[2026-01-22 12:26:38.547832] [0553fbe1-edaa-4520-8fb1-b700f17a04d5] Analyzing: 전자레인지 안에 넣고 돌려도 되는 밥 보관 용기요. | History: 0 turns
+[2026-01-22 12:26:40.811649] [5d167bc9-8e3c-49c7-acf1-3016dd3fb193] Analyzing: 그물처럼 생겨서 설거지하고 수세미 말리는 거. | History: 0 turns
+[2026-01-22 12:26:42.961488] [40717ab5-b8bd-4fc2-b48b-1e8c41cfdf1a] Analyzing: 방 문 뒤에 걸어서 옷 걸 수 있게 하는 거요. | History: 0 turns
+[2026-01-22 12:26:45.243986] [67261e1e-ed68-4136-aaa3-15e824b95790] Analyzing: 주방 서랍 안에 숟가락 젓가락 칸 나눠주는 통. | History: 0 turns
+[2026-01-22 12:26:47.331294] [29c07cb4-a363-44c8-a878-55079c9e15bb] Analyzing: 여행 갈 때 샴푸랑 린스 조금씩 덜어가는 공병. | History: 0 turns
+[2026-01-22 12:26:49.337405] [fc87c221-698f-4ec8-8a0c-2f3dcd025107] Analyzing: 핸드폰 뒤에 붙여서 손가락 끼우는 동그란 거. | History: 0 turns
+[2026-01-22 12:26:52.322706] [3e63b6d1-df15-4461-9bd8-46c25600de76] Analyzing: 비누가 물러서 자꾸 녹는데 안 닿게 해주는 받침대. | History: 0 turns
+[2026-01-22 12:26:54.533028] [1f88e7b6-024e-436f-9392-38865e1613ae] Analyzing: 화분 흙 안 쏟아지게 바닥에 까는 망 같은 거. | History: 0 turns
+[2026-01-22 12:26:56.605597] [0bf53247-8af1-41ba-8a6c-9220a36d53eb] Analyzing: 머리카락 배수구에 안 들어가게 걸러주는 스티커. | History: 0 turns
+[2026-01-22 12:26:58.965836] [eeb7da63-0666-4185-9cdf-e983c3c0d36a] Analyzing: 책상 위에 놓고 쓰는 아주 작은 빗자루 세트. | History: 0 turns
+[2026-01-22 12:27:01.196868] [3401ea57-ba90-4e2e-905e-ee0d55072a8a] Analyzing: 운동화 끈 안 묶고 그냥 당겨서 조이는 끈. | History: 0 turns
+[2026-01-22 12:27:03.072975] [b147a90f-9614-4dd9-96f2-7bd8eccd68a3] Analyzing: 의자 밑에 붙여서 잘 미끄러지게 하는 스티커. | History: 0 turns
+[2026-01-22 12:27:05.080836] [2630cded-c438-49f0-891e-e3351db601c2] Analyzing: 설거지할 때 옷 젖지 말라고 배에 대는 가림막. | History: 0 turns
+[2026-01-22 12:27:07.255325] [17bfbc21-19d9-48b0-9d14-9a5d2f8d4298] Analyzing: 싱크대 구석에 음식물 쓰레기 모아두는 삼각 통. | History: 0 turns
+[2026-01-22 12:27:09.391724] [e4047915-a5fb-4198-a384-51a2765fb01b] Analyzing: 유리창 닦을 때 물기 싹 긁어내리는 고무 달린 막대기. | History: 0 turns
+[2026-01-22 12:27:11.729912] [0ef26ef1-c31c-41e5-bbdb-142bc18a9689] Analyzing: 긴 컵 닦을 때 쓰는 손잡이 달린 스펀지. | History: 0 turns
+[2026-01-22 12:27:13.715932] [789e87dd-3ca6-4e67-965d-827ccab84722] Analyzing: 마시다 남은 와인 막아두는 마개. | History: 0 turns
+[2026-01-22 12:27:16.179684] [d0e96c08-a20f-4c43-ad10-8b5e732f7a07] Analyzing: 내일 자취방 처음 들어가는데 청소 필수템 좀 알려주세요. | History: 0 turns
+[2026-01-22 12:27:18.441662] [6655925c-8fe3-4f06-889a-82ff45e5637d] Analyzing: 친구들이랑 홈파티 하는데 벽에 붙일 장식 추천해 줘. | History: 0 turns
+[2026-01-22 12:27:21.322039] [3a2f1877-aef4-4cf3-bc70-fee6855c77d3] Analyzing: 해외여행 가는데 비행기 안에서 편하게 있을 만한 거. | History: 0 turns
+[2026-01-22 12:27:28.781178] [e60e8ede-127b-4253-9698-5a8efc818966] Analyzing: 강아지랑 산책 갈 때 챙겨야 할 거 뭐 있죠? | History: 0 turns
+[2026-01-22 12:27:31.005712] [ecdd1fe9-6a1b-4595-8d25-53327a92aa85] Analyzing: 회사 책상이 너무 삭막해서 좀 꾸미고 싶어요. | History: 0 turns
+[2026-01-22 12:27:33.182803] [dd9be13a-efdd-4565-b904-137ae31645eb] Analyzing: 집에서 혼자 네일아트 해보려고 하는데 뭐부터 사야 해요? | History: 0 turns
+[2026-01-22 12:27:35.315875] [2c5e3362-fe80-46d4-a64c-c7c6d4c99867] Analyzing: 겨울옷 정리해서 넣어두려는데 부피 줄이는 봉투 있나요? | History: 0 turns
+[2026-01-22 12:27:37.429435] [37ce9b35-4bb9-4bcb-82c8-bb9037849d5b] Analyzing: 차 박 할 때 창문 가리는 용도로 쓸 만한 거. | History: 0 turns
+[2026-01-22 12:27:39.855766] [58f10422-d850-4aeb-be19-fac622d783dd] Analyzing: 아이들 학교 준비물로 색종이랑 풀 담을 통이 필요해요. | History: 0 turns
+[2026-01-22 12:27:41.758009] [bdfc3300-1bfe-4811-87b0-1bac82e60ce6] Analyzing: 싱크대 상판이 너무 좁아서 공간 활용하고 싶어요. | History: 0 turns
+[2026-01-22 12:27:43.837509] [97f7db1d-585a-4783-a832-f7afc22d1529] Analyzing: 캠핑 가서 고기 구워 먹을 때 쓸 일회용 접시 세트. | History: 0 turns
+[2026-01-22 12:27:45.987489] [964646b7-336a-4d76-895b-d0ace1de6ea8] Analyzing: 욕실에 샴푸랑 린스 놓을 자리가 없어서 공중부양 시키고 싶어요. | History: 0 turns
+[2026-01-22 12:27:48.090630] [58898e1a-49a5-49b7-a93d-e7e8a351cb33] Analyzing: 다이어리 꾸미기 입문하려는데 스티커 추천 좀. | History: 0 turns
+[2026-01-22 12:27:50.200516] [b3f661fa-ec08-46b2-9701-f2dfa7ec4020] Analyzing: 선생님께 드릴 건데 너무 비싸지 않으면서 포장 예쁜 거. | History: 0 turns
+[2026-01-22 12:27:52.216060] [8e7880f8-4f3a-488b-87dc-13fc06cb7feb] Analyzing: 비 오는 날 신발 젖는 거 너무 싫은데 방수되는 거 없나요? | History: 0 turns
+[2026-01-22 12:27:54.341274] [8bd96472-f173-400b-bd14-2756dd6b68e4] Analyzing: 조카가 슬라임 만들고 싶다는데 재료 어디 있어요? | History: 0 turns
+[2026-01-22 12:27:56.355493] [840d081e-db6c-4e08-ae8e-740756b12c63] Analyzing: 유튜브 촬영할 때 핸드폰 고정해 놓을 거. | History: 0 turns
+[2026-01-22 12:27:58.484661] [7059ecca-5b47-4303-a691-f31ac5e3b891] Analyzing: 독서실에서 쓸 소리 안 나는 슬리퍼. | History: 0 turns
+[2026-01-22 12:28:00.423101] [68df7a59-c910-4861-98e1-48093ecbfb45] Analyzing: 음식물 쓰레기 냄새 안 나게 밀폐 잘 되는 통. | History: 0 turns
+[2026-01-22 12:28:02.605513] [49c0b181-4b8b-4cfc-b639-a1c6088e7fd8] Analyzing: 원룸인데 빨래 건조대 놓을 자리가 없어요. | History: 0 turns
+[2026-01-22 12:28:04.641286] [8cb97d38-7f60-4698-b66a-04f1d7576ad8] Analyzing: 5000원 이하로 중학생 여자애 생일 선물 추천해 줘. | History: 0 turns
+[2026-01-22 12:28:06.832607] [63a83535-e39e-4d57-aa56-49fd22f405c2] Analyzing: 유치원 생일 답례품으로 돌릴 1000원짜리 간식거리. | History: 0 turns
+[2026-01-22 12:28:08.840840] [03f412b4-ab7e-4681-acfb-1c3ac8555bc9] Analyzing: 만원으로 욕실 청소 용품 풀세트 맞추고 싶어요. | History: 0 turns
+[2026-01-22 12:28:10.950468] [075341b0-692c-45a3-ae71-0bdbab58f66a] Analyzing: 3000원 안 넘는 선에서 차량용 방향제 있나요? | History: 0 turns
+[2026-01-22 12:28:12.973003] [b95d39fb-0cf2-4eba-80de-450201db1f62] Analyzing: 군인 친구한테 보낼 건데 반입 가능한 화장품. | History: 0 turns
+[2026-01-22 12:28:15.032761] [b78e60d4-5bae-4fad-b5bb-8e75c5af62cc] Analyzing: 어르신들이 좋아할 만한 지압 용품 추천. | History: 0 turns
+[2026-01-22 12:28:17.262428] [441423e5-ba5e-48c6-9bca-16ee9a5ee479] Analyzing: AA 건전지 대용량으로 제일 싼 거. | History: 0 turns
+[2026-01-22 12:28:19.372181] [1091ed4e-355a-4879-93eb-d58b822f53af] Analyzing: 자취생인데 그릇 세트 말고 딱 하나만 산다면 제일 실용적인 거. | History: 0 turns
+[2026-01-22 12:28:21.265702] [06fc9fa9-9b10-4413-86fc-01cb34c575bf] Analyzing: 일본 여행 가는데 110v 돼지코 2개만 필요해요. | History: 0 turns
+[2026-01-22 12:28:23.479665] [f7b87600-3731-4925-b7f6-75b094c9fe52] Analyzing: 다이소 꿀템이라고 소문난 거 중에 뷰티 쪽 추천해 줘. | History: 0 turns
+[2026-01-22 12:28:31.373055] [7c9e3711-6ff2-4e16-bea5-5ae1a0111f50] Analyzing: 지금 당장 살 수 있는 할로윈 소품. | History: 0 turns
+[2026-01-22 12:28:34.343331] [6b8c4d41-9608-450d-9c7d-26568ac507f9] Analyzing: 크리스마스 트리 장식 2만 원 안으로 해결하고 싶어. | History: 0 turns
+[2026-01-22 12:28:36.482943] [b3e460ee-1e05-4316-b44d-ef0d29292444] Analyzing: 국산 볼펜 중에 제일 잘 써지는 거. | History: 0 turns
+[2026-01-22 12:28:38.542845] [a1b0475a-5747-4207-8aa4-196abea126c0] Analyzing: 유리병 말고 안 깨지는 플라스틱 물병. | History: 0 turns
+[2026-01-22 12:28:40.857369] [b31288bb-5578-4cf4-a696-261a246837ee] Analyzing: 색깔 별로 들어있는 고무줄 세트. | History: 0 turns
+[2026-01-22 12:28:42.761348] [2447cc88-cfbc-4c5b-af3e-fb273b324130] Analyzing: A4 용지 들어가는 파일 홀더 10개 묶음. | History: 0 turns
+[2026-01-22 12:28:44.787522] [221fdb9a-3b94-4ea2-b500-c5d11f91b902] Analyzing: 냄새 안 나는 무향 제습제. | History: 0 turns
+[2026-01-22 12:28:46.815588] [f474419d-1152-46c8-b776-5f8d256dfc91] Analyzing: 캐리어에 붙일 만한 큰 스티커. | History: 0 turns
+[2026-01-22 12:28:48.948047] [03b8a1fa-70a1-44e6-9cb2-95b6ae0a5400] Analyzing: 전자레인지랑 식기세척기 둘 다 되는 그릇. | History: 0 turns
+[2026-01-22 12:28:50.838092] [1b98e840-0e60-447c-b17e-b9a740c6edd8] Analyzing: 아이폰 충전 케이블인데 줄 긴 거(2m 이상). | History: 0 turns
+[2026-01-22 12:28:53.012756] [43f7e59c-04b5-4ead-b936-1c7956620f42] Analyzing: 약간 카페 같은 분위기 내는 조명 없나? | History: 0 turns
+[2026-01-22 12:28:55.090113] [e6774263-c080-457b-bfae-28fc7eddbb3d] Analyzing: 방에서 나는 홀아비 냄새 잡는 거. | History: 0 turns
+[2026-01-22 12:28:57.110592] [a3985f10-05d9-4be6-b302-3458b3d89f14] Analyzing: 그... 뽁뽁이 말고 창문에 붙여서 단열하는 거. | History: 0 turns
+[2026-01-22 12:28:59.246849] [d8de9d5e-5a4f-4db9-9488-edd4ba38a17d] Analyzing: 손에 뭐 안 묻히고 과자 집어 먹는 집게 같은 거. | History: 0 turns
+[2026-01-22 12:29:01.548756] [e8a5d876-9fc3-4557-85e8-24e8f30575b8] Analyzing: 화장대 거울에 붙여서 밝게 만드는 전구. | History: 0 turns
+[2026-01-22 12:29:03.565985] [527273f9-c0de-4cf3-9908-8842970dfb02] Analyzing: 냉장고 옆면에 자석으로 붙여서 수납하는 거. | History: 0 turns
+[2026-01-22 12:29:05.897410] [053a0347-9a50-4db7-968e-50102f97071b] Analyzing: 싱크대 물 튀는 거 막아주는 투명한 판. | History: 0 turns
+[2026-01-22 12:29:08.105158] [7c764195-692e-4fbc-8c4b-6641e8ea908c] Analyzing: 샤워기 물줄기 너무 세서 아픈데 부드럽게 나오는 헤드. | History: 0 turns
+[2026-01-22 12:29:10.128618] [ef24a5e6-4577-40c2-aac4-f2598703f0ee] Analyzing: 책 읽을 때 페이지 안 넘어가게 잡아주는 거. | History: 0 turns
+[2026-01-22 12:29:12.311018] [76fb864d-3d3c-4fde-b486-2e18bbbf7b04] Analyzing: 컴퓨터 키보드 사이사이 먼지 빼내는 젤리 같은 거. | History: 0 turns
+[2026-01-22 12:29:14.236495] [957cc7a0-6318-4730-8f7c-6536e2194f15] Analyzing: 방바닥에 머리카락 굴러다니는 거 싫어서 슥슥 미는 거. | History: 0 turns
+[2026-01-22 12:29:16.366136] [b6fcd615-3d63-4855-9ed3-9b878991d7ab] Analyzing: 운동할 때 핸드폰 팔뚝에 차는 거. | History: 0 turns
+[2026-01-22 12:29:18.581835] [cc56c77e-00dc-4bd7-9f28-243acc66f770] Analyzing: 마스크 오래 쓰면 귀 아픈데 안 아프게 하는 고리. | History: 0 turns
+[2026-01-22 12:29:20.682670] [91ffe967-4f7d-4e07-b6ed-460645ec6add] Analyzing: 후라이팬 코팅 안 벗겨지게 긁는 뒤집개. | History: 0 turns
+[2026-01-22 12:29:23.088333] [cbb65845-2cc5-40a8-a977-a64c30bfa609] Analyzing: 니트 옷걸이에 걸면 어깨 튀어나오는데 안 그러는 옷걸이. | History: 0 turns
+[2026-01-22 12:29:26.120851] [e9a9d38e-ee92-47d2-8b7e-3f0d56c338ca] Analyzing: 욕실 슬리퍼 물 잘 빠지고 구멍 숭숭 뚫린 거. | History: 0 turns
+[2026-01-22 12:29:28.656859] [c6daf929-1ae7-42d4-8eaf-bdd76bf6015d] Analyzing: 이어폰 줄 꼬인 거 푸느라 짜증 나는데 감아두는 거. | History: 0 turns
+[2026-01-22 12:29:30.732916] [25fb6e8a-7480-4805-ab9d-0f37f432009f] Analyzing: 택배 송장 번호 개인정보 지우는 도장. | History: 0 turns
+[2026-01-22 12:29:32.946253] [ae784b46-6e65-4c4c-a0ea-5f4ddfd61535] Analyzing: 비누 거품 잘 나게 하는 망. | History: 0 turns
+[2026-01-22 12:29:35.221588] [f3aa9506-65d2-44f3-9072-5a2896cb3435] Analyzing: 새우 껍질 까기 귀찮은데 쉽게 까는 도구. | History: 0 turns
+[2026-01-22 14:33:54.251033] [7ff753c8-02c6-4e01-8eac-8326c4e4c0ba] Analyzing: 화장실 변기 닦아도 냄새가 안 없어져요. | History: 0 turns
+[2026-01-22 14:35:38.466720] [9d526447-307d-494c-8782-7ec45edcf9e9] Analyzing: 화장실 변기 닦아도 냄새가 안 없어져요. | History: 0 turns
+[2026-01-22 14:35:41.862105] [1b7cceec-03e7-4bd8-8df4-d790d03d7805] Analyzing: 문 닫을 때마다 쾅쾅 소리 나서 시끄러워요. | History: 0 turns
+[2026-01-22 14:35:44.092179] [a7b01c62-7c1a-4123-879a-c7eb5bbdf2b7] Analyzing: 바닥 긁히는 소리 안 나게 의자에 끼우는 거 있어요? | History: 0 turns
+[2026-01-22 14:35:46.377941] [e757c65a-55e6-4c79-83ef-c78fba4bb50c] Analyzing: 싱크대 배수구가 꽉 막혀서 물이 안 내려가요. | History: 0 turns
+[2026-01-22 14:35:48.418475] [063b8256-b0be-4375-b4be-3ee0ae6062f8] Analyzing: 새로 산 그릇에 스티커 끈끈이가 남아서 안 떼져요. | History: 0 turns
+[2026-01-22 14:35:50.620724] [939e8641-2c60-4a2a-9c25-4a8841cc292a] Analyzing: 장마철이라 옷장에서 꿉꿉한 냄새가 나요. | History: 0 turns
+[2026-01-22 14:35:52.667995] [77d02f2f-82de-4bad-81e0-d6f90a8214ea] Analyzing: 초파리가 자꾸 꼬이는데 잡는 트랩 같은 거 있나요? | History: 0 turns
+[2026-01-22 14:35:54.715114] [36c1081a-8600-4928-8b02-4bd9d9d83538] Analyzing: 욕실 타일 틈새에 검은 곰팡이가 꼈어요. | History: 0 turns
+[2026-01-22 14:35:56.756858] [6fca935c-08ba-4fee-b3ca-11487848c9f8] Analyzing: 와이셔츠 목 때가 세탁기로 빨아도 잘 안 지워져요. | History: 0 turns
+[2026-01-22 14:35:58.709264] [b80251d9-efbf-47c3-9379-dc9f55cd9061] Analyzing: 강아지 털이 옷에 너무 많이 붙어서 떼고 싶어요. | History: 0 turns
+[2026-01-22 14:36:00.804751] [303dba56-a147-4375-8eef-90d4484f9c2e] Analyzing: 책상 밑에 전선들이 너무 지저분하게 엉켜 있어요. | History: 0 turns
+[2026-01-22 14:36:02.915644] [863f06b6-9bda-4d5e-a1dd-0c0c459da6b3] Analyzing: 방충망에 구멍이 났는데 전체 갈기는 좀 그렇고... | History: 0 turns
+[2026-01-22 14:36:04.940040] [2ea01e31-8f64-4c8a-8b6d-28735f2129ed] Analyzing: 요리하다가 기름이 벽에 너무 많이 튀어요. | History: 0 turns
+[2026-01-22 14:36:06.978787] [7ed62408-56ac-410e-8ec4-a2223f71f53c] Analyzing: 신발장 열 때마다 발 냄새가 너무 심해요. | History: 0 turns
+[2026-01-22 14:36:08.957961] [d8193b75-bbba-428b-9285-5d2aa242c89c] Analyzing: 유리에 테이프 자국 남은 거 긁어내고 싶어요. | History: 0 turns
+[2026-01-22 14:36:10.956237] [912a2177-8d4c-49d5-8939-baea789e9ab3] Analyzing: 바지 허리가 너무 커서 줄이고 싶은데 바느질은 못해요. | History: 0 turns
+[2026-01-22 14:36:13.084027] [2296957a-785b-4da9-abf1-d0bb6cdcfd47] Analyzing: 가구 모서리에 애기가 찧을까 봐 걱정돼요. | History: 0 turns
+[2026-01-22 14:36:14.931100] [b14ff25b-b996-44bd-a5b9-9ffa23f2d2f7] Analyzing: 화장실 거울에 김이 너무 서려서 안 보여요. | History: 0 turns
+[2026-01-22 14:36:17.024008] [644a8450-771f-4a4a-860f-e192b757cd6e] Analyzing: 검은 옷에 먼지가 너무 잘 붙어요. | History: 0 turns
+[2026-01-22 14:36:19.381478] [72546bf8-f91f-4914-a695-ae75474271de] Analyzing: 냉장고 안에 김치 국물이 흘러서 굳었어요. | History: 0 turns
+[2026-01-22 14:36:21.385628] [f52364dc-66b5-4fef-8858-9f15aa76166f] Analyzing: 벽에 못 안 박고 액자 걸 수 있는 핀 같은 거요. | History: 0 turns
+[2026-01-22 14:36:23.523766] [76537196-d59d-425f-b3d2-4c8c6af85dac] Analyzing: 물만 묻혀서 닦으면 때 지워지는 하얀 스펀지 주세요. | History: 0 turns
+[2026-01-22 14:36:25.547895] [39abcc53-5ee0-4ef1-b23f-296abaff1a3e] Analyzing: 치약 끝까지 짜서 쓰게 해주는 플라스틱 있나요? | History: 0 turns
+[2026-01-22 14:36:27.938487] [2eacec15-1d6a-4c7e-94a4-f436225f896d] Analyzing: 전자레인지 안에 넣고 돌려도 되는 밥 보관 용기요. | History: 0 turns
+[2026-01-22 14:36:30.010582] [222dd6b6-ae73-416c-962f-0f09453df1fc] Analyzing: 그물처럼 생겨서 설거지하고 수세미 말리는 거. | History: 0 turns
+[2026-01-22 14:36:31.939095] [400b75b6-e59b-4fac-991d-ddd9ecfd8950] Analyzing: 방 문 뒤에 걸어서 옷 걸 수 있게 하는 거요. | History: 0 turns
+[2026-01-22 14:36:34.040561] [07d25c3a-bac9-47af-86e4-cc807fafd3e2] Analyzing: 주방 서랍 안에 숟가락 젓가락 칸 나눠주는 통. | History: 0 turns
+[2026-01-22 14:36:36.330238] [9b3a8f08-48a1-43f4-9980-43867a32c27f] Analyzing: 여행 갈 때 샴푸랑 린스 조금씩 덜어가는 공병. | History: 0 turns
+[2026-01-22 14:36:38.465386] [467af618-e2d7-45eb-be90-83260e0af934] Analyzing: 핸드폰 뒤에 붙여서 손가락 끼우는 동그란 거. | History: 0 turns
+[2026-01-22 14:36:40.589283] [7866cfae-ccca-4bcf-90e7-f7610916aa8d] Analyzing: 비누가 물러서 자꾸 녹는데 안 닿게 해주는 받침대. | History: 0 turns
+[2026-01-22 14:36:42.722890] [555e7af5-edff-471f-9061-94fd936511bc] Analyzing: 화분 흙 안 쏟아지게 바닥에 까는 망 같은 거. | History: 0 turns
+[2026-01-22 14:36:44.747342] [c415340b-257f-4a17-9669-dd5d760da2ba] Analyzing: 머리카락 배수구에 안 들어가게 걸러주는 스티커. | History: 0 turns
+[2026-01-22 14:36:47.053484] [810e4cd7-92d1-4f22-9a8c-630a7c6d1bad] Analyzing: 책상 위에 놓고 쓰는 아주 작은 빗자루 세트. | History: 0 turns
+[2026-01-22 14:36:49.265919] [dfe57fc5-cb5a-46c6-8078-731b12a0a44c] Analyzing: 운동화 끈 안 묶고 그냥 당겨서 조이는 끈. | History: 0 turns
+[2026-01-22 14:36:51.187975] [e52dec23-aed7-45ef-862a-8d02c91e36b1] Analyzing: 의자 밑에 붙여서 잘 미끄러지게 하는 스티커. | History: 0 turns
+[2026-01-22 14:36:53.239988] [c26e3a23-fa95-4d4b-b7b7-50827af2b975] Analyzing: 설거지할 때 옷 젖지 말라고 배에 대는 가림막. | History: 0 turns
+[2026-01-22 14:36:55.217542] [abcd596e-9bca-4140-808a-145f9d2e68e0] Analyzing: 싱크대 구석에 음식물 쓰레기 모아두는 삼각 통. | History: 0 turns
+[2026-01-22 14:36:57.239091] [abda2e34-017e-4d9e-baaf-d92fff1b3cb7] Analyzing: 유리창 닦을 때 물기 싹 긁어내리는 고무 달린 막대기. | History: 0 turns
+[2026-01-22 14:36:59.289437] [9f0bf2d6-b007-4e59-9dec-2a12c2438702] Analyzing: 긴 컵 닦을 때 쓰는 손잡이 달린 스펀지. | History: 0 turns
+[2026-01-22 14:37:01.381086] [ccce64d5-437a-4495-b704-575a9b0d5df2] Analyzing: 마시다 남은 와인 막아두는 마개. | History: 0 turns
+[2026-01-22 14:37:03.508740] [dbbeeb64-d3cc-4ed5-a61f-b2dc3fac35bd] Analyzing: 내일 자취방 처음 들어가는데 청소 필수템 좀 알려주세요. | History: 0 turns
+[2026-01-22 14:37:05.603403] [c43e505e-4322-4463-b800-d56d6a6a5b6d] Analyzing: 친구들이랑 홈파티 하는데 벽에 붙일 장식 추천해 줘. | History: 0 turns
+[2026-01-22 14:37:07.720678] [efff097e-7e8a-431e-b34f-f279e4c8e247] Analyzing: 해외여행 가는데 비행기 안에서 편하게 있을 만한 거. | History: 0 turns
+[2026-01-22 14:37:16.843400] [3d9e3125-f80a-4318-9a6b-2a5755f96904] Analyzing: 강아지랑 산책 갈 때 챙겨야 할 거 뭐 있죠? | History: 0 turns
+[2026-01-22 14:37:19.097747] [1992e430-bc7e-4138-b09a-7937466924d0] Analyzing: 회사 책상이 너무 삭막해서 좀 꾸미고 싶어요. | History: 0 turns
+[2026-01-22 14:37:21.115154] [786a6d42-0ad2-442e-add3-4ba9a3e7945f] Analyzing: 집에서 혼자 네일아트 해보려고 하는데 뭐부터 사야 해요? | History: 0 turns
+[2026-01-22 14:37:23.223290] [ded27767-ef17-478d-8e0e-d7c87dfd9648] Analyzing: 겨울옷 정리해서 넣어두려는데 부피 줄이는 봉투 있나요? | History: 0 turns
+[2026-01-22 14:37:25.243077] [342fee06-2a43-4bd0-b57e-ddeaa9e9bec9] Analyzing: 차 박 할 때 창문 가리는 용도로 쓸 만한 거. | History: 0 turns
+[2026-01-22 14:37:27.632936] [b7bb04f8-9138-47d0-a368-510cc0ce50f1] Analyzing: 아이들 학교 준비물로 색종이랑 풀 담을 통이 필요해요. | History: 0 turns
+[2026-01-22 14:37:29.667449] [55ae74ab-11a3-4c58-ae99-31681f92d312] Analyzing: 싱크대 상판이 너무 좁아서 공간 활용하고 싶어요. | History: 0 turns
+[2026-01-22 14:37:31.866309] [63c3879c-2689-4ab0-aec8-74f0891f5bd2] Analyzing: 캠핑 가서 고기 구워 먹을 때 쓸 일회용 접시 세트. | History: 0 turns
+[2026-01-22 14:37:34.094879] [5b8b6baf-1a78-422d-9c6d-bcfb9b60a2c5] Analyzing: 욕실에 샴푸랑 린스 놓을 자리가 없어서 공중부양 시키고 싶어요. | History: 0 turns
+[2026-01-22 14:37:36.234518] [5251fa49-35df-42d4-b9fb-551df85b1f02] Analyzing: 다이어리 꾸미기 입문하려는데 스티커 추천 좀. | History: 0 turns
+[2026-01-22 14:37:38.333012] [110abc1b-a251-4060-b2bb-1cd46f1675f7] Analyzing: 선생님께 드릴 건데 너무 비싸지 않으면서 포장 예쁜 거. | History: 0 turns
+[2026-01-22 14:37:40.287137] [603c42e5-cbba-4486-a7e2-5b13e52c7c5d] Analyzing: 비 오는 날 신발 젖는 거 너무 싫은데 방수되는 거 없나요? | History: 0 turns
+[2026-01-22 14:37:42.375203] [4f75cd63-3d44-4691-9e73-6044275ed470] Analyzing: 조카가 슬라임 만들고 싶다는데 재료 어디 있어요? | History: 0 turns
+[2026-01-22 14:37:44.333944] [15fc4738-ff38-4fa1-9011-c60fd3004b56] Analyzing: 유튜브 촬영할 때 핸드폰 고정해 놓을 거. | History: 0 turns
+[2026-01-22 14:37:46.277008] [7add430b-5598-4c85-9add-f913f58e3948] Analyzing: 독서실에서 쓸 소리 안 나는 슬리퍼. | History: 0 turns
+[2026-01-22 14:37:48.293125] [c0d31c67-f4e2-4dc2-b1a4-961b8e1ba761] Analyzing: 음식물 쓰레기 냄새 안 나게 밀폐 잘 되는 통. | History: 0 turns
+[2026-01-22 14:37:50.325996] [ac92cf7d-58f6-4528-84a1-956ee8aec3fe] Analyzing: 원룸인데 빨래 건조대 놓을 자리가 없어요. | History: 0 turns
+[2026-01-22 14:37:52.639064] [d357e0e8-b7f3-4998-aa4f-973d4dee3fef] Analyzing: 5000원 이하로 중학생 여자애 생일 선물 추천해 줘. | History: 0 turns
+[2026-01-22 14:37:54.693278] [311679de-1658-4ca0-80b6-c3b0e1825445] Analyzing: 유치원 생일 답례품으로 돌릴 1000원짜리 간식거리. | History: 0 turns
+[2026-01-22 14:37:56.720221] [10f18af3-70a5-4869-b6b0-edc24f87cc26] Analyzing: 만원으로 욕실 청소 용품 풀세트 맞추고 싶어요. | History: 0 turns
+[2026-01-22 14:37:58.826364] [88796136-c0bb-4126-9b8c-a341653e4047] Analyzing: 3000원 안 넘는 선에서 차량용 방향제 있나요? | History: 0 turns
+[2026-01-22 14:38:00.951211] [d57abf93-8c6d-44c9-94da-afa54c61527f] Analyzing: 군인 친구한테 보낼 건데 반입 가능한 화장품. | History: 0 turns
+[2026-01-22 14:38:02.780677] [68221462-0baf-4023-bf8d-b78d1d48a7e3] Analyzing: 어르신들이 좋아할 만한 지압 용품 추천. | History: 0 turns
+[2026-01-22 14:38:04.776186] [d8f17d42-6e32-465c-98bf-fe69b9e971a6] Analyzing: AA 건전지 대용량으로 제일 싼 거. | History: 0 turns
+[2026-01-22 14:38:06.702068] [56cbc089-3bd5-4acc-9761-b5e12f55435a] Analyzing: 자취생인데 그릇 세트 말고 딱 하나만 산다면 제일 실용적인 거. | History: 0 turns
+[2026-01-22 14:38:08.915652] [0d3a3c8f-df3c-4298-b958-abe38943b084] Analyzing: 일본 여행 가는데 110v 돼지코 2개만 필요해요. | History: 0 turns
+[2026-01-22 14:38:11.035417] [91e28003-59f6-4e28-8688-850e15794df7] Analyzing: 다이소 꿀템이라고 소문난 거 중에 뷰티 쪽 추천해 줘. | History: 0 turns
+[2026-01-22 14:38:19.027931] [06174872-0891-4997-a484-bdf1b803cd1a] Analyzing: 지금 당장 살 수 있는 할로윈 소품. | History: 0 turns
+[2026-01-22 14:38:21.180960] [c712d796-189e-4c46-8f57-d45cf4be16d8] Analyzing: 크리스마스 트리 장식 2만 원 안으로 해결하고 싶어. | History: 0 turns
+[2026-01-22 14:38:23.395264] [71e57c6a-e132-4fc8-a331-83b8cfe3f6c8] Analyzing: 국산 볼펜 중에 제일 잘 써지는 거. | History: 0 turns
+[2026-01-22 14:38:25.286982] [357d9b8f-fc46-474b-8e37-dced9d86e169] Analyzing: 유리병 말고 안 깨지는 플라스틱 물병. | History: 0 turns
+[2026-01-22 14:38:27.233148] [abe744cc-f35c-4ce0-9079-ab42a24e2f78] Analyzing: 색깔 별로 들어있는 고무줄 세트. | History: 0 turns
+[2026-01-22 14:38:29.233742] [05288f5d-fe02-4f7b-8cf8-0084babb5b16] Analyzing: A4 용지 들어가는 파일 홀더 10개 묶음. | History: 0 turns
+[2026-01-22 14:38:31.344889] [d5496b19-3b24-4340-808a-f8e0ffae7aff] Analyzing: 냄새 안 나는 무향 제습제. | History: 0 turns
+[2026-01-22 14:38:33.461155] [268cc661-7224-40c7-8f45-3216c8d62c8e] Analyzing: 캐리어에 붙일 만한 큰 스티커. | History: 0 turns
+[2026-01-22 14:38:35.478193] [1d88280b-c79e-4424-96cf-c5a4b481d4ca] Analyzing: 전자레인지랑 식기세척기 둘 다 되는 그릇. | History: 0 turns
+[2026-01-22 14:38:37.592502] [09715afd-464c-47c7-8b11-c8f99b3f2f3b] Analyzing: 아이폰 충전 케이블인데 줄 긴 거(2m 이상). | History: 0 turns
+[2026-01-22 14:38:39.533467] [99659be2-f195-4306-a339-5f31fbf4b7d4] Analyzing: 약간 카페 같은 분위기 내는 조명 없나? | History: 0 turns
+[2026-01-22 14:38:41.562765] [50320bab-aa92-4575-bb2f-531cd778187f] Analyzing: 방에서 나는 홀아비 냄새 잡는 거. | History: 0 turns
+[2026-01-22 14:38:43.515978] [487b8a1a-a331-4dd8-8ea8-6bdefff42cc1] Analyzing: 그... 뽁뽁이 말고 창문에 붙여서 단열하는 거. | History: 0 turns
+[2026-01-22 14:38:45.796919] [b1d36896-c3b2-44be-9a5c-a7a7c7fead86] Analyzing: 손에 뭐 안 묻히고 과자 집어 먹는 집게 같은 거. | History: 0 turns
+[2026-01-22 14:38:48.039247] [69cb6a94-3357-4aa2-8a10-ae826945a03e] Analyzing: 화장대 거울에 붙여서 밝게 만드는 전구. | History: 0 turns
+[2026-01-22 14:38:50.047315] [a609fbe2-32ec-4d6d-ba63-4a4a550fe161] Analyzing: 냉장고 옆면에 자석으로 붙여서 수납하는 거. | History: 0 turns
+[2026-01-22 14:38:51.969574] [07822fe6-511a-42e4-85e6-f7a23af96762] Analyzing: 싱크대 물 튀는 거 막아주는 투명한 판. | History: 0 turns
+[2026-01-22 14:38:54.106909] [d55829a6-a59e-48cd-87c5-6c8e567f3cdd] Analyzing: 샤워기 물줄기 너무 세서 아픈데 부드럽게 나오는 헤드. | History: 0 turns
+[2026-01-22 14:38:55.868383] [6eb164c3-74fc-4a2d-81e2-cb4be64b4475] Analyzing: 책 읽을 때 페이지 안 넘어가게 잡아주는 거. | History: 0 turns
+[2026-01-22 14:38:57.963603] [789d0c9f-0fe5-42d8-ac63-32f29a1a158b] Analyzing: 컴퓨터 키보드 사이사이 먼지 빼내는 젤리 같은 거. | History: 0 turns
+[2026-01-22 14:38:59.905261] [192e0097-9460-46b8-8e4f-00c0595c920e] Analyzing: 방바닥에 머리카락 굴러다니는 거 싫어서 슥슥 미는 거. | History: 0 turns
+[2026-01-22 14:39:01.961894] [ab883c23-7c71-45ba-8ced-f559b76ba8c9] Analyzing: 운동할 때 핸드폰 팔뚝에 차는 거. | History: 0 turns
+[2026-01-22 14:39:04.048327] [132ff31e-d0c2-400d-8118-ae101b19d853] Analyzing: 마스크 오래 쓰면 귀 아픈데 안 아프게 하는 고리. | History: 0 turns
+[2026-01-22 14:39:06.112376] [abd3e4d2-c08f-4136-9cdb-7ca2c76c183e] Analyzing: 후라이팬 코팅 안 벗겨지게 긁는 뒤집개. | History: 0 turns
+[2026-01-22 14:39:08.036580] [3cf6771b-87ae-4434-93b4-622c4f471105] Analyzing: 니트 옷걸이에 걸면 어깨 튀어나오는데 안 그러는 옷걸이. | History: 0 turns
+[2026-01-22 14:39:10.148302] [4b3fae5d-ea15-4216-8da9-c86df1785975] Analyzing: 욕실 슬리퍼 물 잘 빠지고 구멍 숭숭 뚫린 거. | History: 0 turns
+[2026-01-22 14:39:12.174152] [f5ae085d-52a7-4d3d-b0cf-6869fda91526] Analyzing: 이어폰 줄 꼬인 거 푸느라 짜증 나는데 감아두는 거. | History: 0 turns
+[2026-01-22 14:39:14.631716] [cb5429e8-c472-4941-9320-c2b101da24d4] Analyzing: 택배 송장 번호 개인정보 지우는 도장. | History: 0 turns
+[2026-01-22 14:39:16.865784] [82411a5e-7ea7-46e7-96ae-fae43b2ce844] Analyzing: 비누 거품 잘 나게 하는 망. | History: 0 turns
+[2026-01-22 14:39:18.983960] [29fa868c-3347-455d-a279-afa8fdb579d7] Analyzing: 새우 껍질 까기 귀찮은데 쉽게 까는 도구. | History: 0 turns
+[2026-01-22 15:56:12.015672] [5801dc65-1b1f-46a1-86a4-6fee36ce5055] Analyzing (OpenAI): 화장실 변기 닦아도 냄새가 안 없어져요. | History: 0 turns
+[2026-01-22 15:56:35.693865] [85af6cab-ffe3-41eb-b4ce-5a3470aca428] Analyzing (OpenAI): 문 닫을 때마다 쾅쾅 소리 나서 시끄러워요. | History: 0 turns
+[2026-01-22 15:56:49.720350] [1471577b-6d41-4706-9fa2-6cf3850d15de] Analyzing (OpenAI): 바닥 긁히는 소리 안 나게 의자에 끼우는 거 있어요? | History: 0 turns
+[2026-01-22 15:56:54.118285] [b5ceff46-4683-4882-96cb-5b27ab188436] Analyzing (OpenAI): 싱크대 배수구가 꽉 막혀서 물이 안 내려가요. | History: 0 turns
+[2026-01-22 15:57:06.858719] [33fdefd6-5a52-4553-83ba-be52726f1bc0] Analyzing (OpenAI): 새로 산 그릇에 스티커 끈끈이가 남아서 안 떼져요. | History: 0 turns
+[2026-01-22 15:57:21.339438] [3438467e-00dd-4ebe-a968-caeab81958ce] Analyzing (OpenAI): 장마철이라 옷장에서 꿉꿉한 냄새가 나요. | History: 0 turns
+[2026-01-22 15:57:34.409128] [3b5ef07f-8996-45e1-96b3-1e5d4fe08539] Analyzing (OpenAI): 초파리가 자꾸 꼬이는데 잡는 트랩 같은 거 있나요? | History: 0 turns
+[2026-01-22 15:57:38.229579] [96de59d3-9e91-470a-8e47-821f1f8cd50d] Analyzing (OpenAI): 욕실 타일 틈새에 검은 곰팡이가 꼈어요. | History: 0 turns
+[2026-01-22 15:57:52.183993] [31e9e454-54cd-4b90-8627-e0f53498250c] Analyzing (OpenAI): 와이셔츠 목 때가 세탁기로 빨아도 잘 안 지워져요. | History: 0 turns
+[2026-01-22 15:58:04.359653] [38f05827-8ac5-4574-b745-7f80833f803a] Analyzing (OpenAI): 강아지 털이 옷에 너무 많이 붙어서 떼고 싶어요. | History: 0 turns
+[2026-01-22 15:58:08.929437] [ac1bc217-480f-48f0-b744-5eff8164b16a] Analyzing (OpenAI): 책상 밑에 전선들이 너무 지저분하게 엉켜 있어요. | History: 0 turns
+[2026-01-22 15:58:13.158034] [58cb84a1-f1cb-4f19-8882-13065cf25f22] Analyzing (OpenAI): 방충망에 구멍이 났는데 전체 갈기는 좀 그렇고... | History: 0 turns
+[2026-01-22 15:58:17.448699] [b26872ab-e89c-4cec-86a1-26338325200c] Analyzing (OpenAI): 요리하다가 기름이 벽에 너무 많이 튀어요. | History: 0 turns
+[2026-01-22 15:58:21.756534] [abe38609-71a8-425a-aec4-ea2401d628dc] Analyzing (OpenAI): 신발장 열 때마다 발 냄새가 너무 심해요. | History: 0 turns
+[2026-01-22 15:58:38.572124] [642ca13e-8607-48c1-bc1f-134239c0391f] Analyzing (OpenAI): 유리에 테이프 자국 남은 거 긁어내고 싶어요. | History: 0 turns
+[2026-01-22 15:58:43.216877] [f9702a9a-84fc-40a7-9f3f-238c75a3e2dc] Analyzing (OpenAI): 바지 허리가 너무 커서 줄이고 싶은데 바느질은 못해요. | History: 0 turns
+[2026-01-22 15:58:57.976271] [865e9c45-dd8d-4916-859e-fa5a1e540697] Analyzing (OpenAI): 가구 모서리에 애기가 찧을까 봐 걱정돼요. | History: 0 turns
+[2026-01-22 15:59:01.620089] [6203a1f4-e937-4b1d-8b8f-64a9416f31c8] Analyzing (OpenAI): 화장실 거울에 김이 너무 서려서 안 보여요. | History: 0 turns
+[2026-01-22 15:59:13.554465] [b3152e17-7a70-4563-802f-20efa78528ed] Analyzing (OpenAI): 검은 옷에 먼지가 너무 잘 붙어요. | History: 0 turns
+[2026-01-22 15:59:25.862900] [d001db29-8228-4198-994a-f6f559427631] Analyzing (OpenAI): 냉장고 안에 김치 국물이 흘러서 굳었어요. | History: 0 turns
+[2026-01-22 15:59:38.144309] [cb05fadf-c087-43c3-a668-1daeb46ac75d] Analyzing (OpenAI): 벽에 못 안 박고 액자 걸 수 있는 핀 같은 거요. | History: 0 turns
+[2026-01-22 15:59:42.201068] [7724c920-0861-46c6-b987-47fac0ae3757] Analyzing (OpenAI): 물만 묻혀서 닦으면 때 지워지는 하얀 스펀지 주세요. | History: 0 turns
+[2026-01-22 15:59:46.325751] [04ee7bc8-66f7-4317-972e-5172400d19d8] Analyzing (OpenAI): 치약 끝까지 짜서 쓰게 해주는 플라스틱 있나요? | History: 0 turns
+[2026-01-22 15:59:50.970953] [fe0d39c1-7c5c-483b-86eb-9d0c536f9d5f] Analyzing (OpenAI): 전자레인지 안에 넣고 돌려도 되는 밥 보관 용기요. | History: 0 turns
+[2026-01-22 15:59:54.756751] [411813cd-56e5-4e21-9c31-3d9378fb1b3e] Analyzing (OpenAI): 그물처럼 생겨서 설거지하고 수세미 말리는 거. | History: 0 turns
+[2026-01-22 15:59:58.558201] [67c374d5-3ea1-4934-bd59-69d1e33dfa09] Analyzing (OpenAI): 방 문 뒤에 걸어서 옷 걸 수 있게 하는 거요. | History: 0 turns
+[2026-01-22 16:00:03.189793] [adb3cd5f-1415-4131-a4a5-42e0dd0729c8] Analyzing (OpenAI): 주방 서랍 안에 숟가락 젓가락 칸 나눠주는 통. | History: 0 turns
+[2026-01-22 16:00:08.127482] [9beab57c-495a-4b49-834b-967760090739] Analyzing (OpenAI): 여행 갈 때 샴푸랑 린스 조금씩 덜어가는 공병. | History: 0 turns
+[2026-01-22 16:00:13.414163] [3d8e9c10-b2e4-4498-8dc2-d7d428869956] Analyzing (OpenAI): 핸드폰 뒤에 붙여서 손가락 끼우는 동그란 거. | History: 0 turns
+[2026-01-22 16:00:17.695005] [93c70120-82c1-471e-9712-4ab90318414d] Analyzing (OpenAI): 비누가 물러서 자꾸 녹는데 안 닿게 해주는 받침대. | History: 0 turns
+[2026-01-22 16:00:21.982852] [f2189464-083a-41ea-b7e7-c23e960d8aeb] Analyzing (OpenAI): 화분 흙 안 쏟아지게 바닥에 까는 망 같은 거. | History: 0 turns
+[2026-01-22 16:00:26.729777] [9b199e4f-eddf-4881-9e34-604ec1e0533e] Analyzing (OpenAI): 머리카락 배수구에 안 들어가게 걸러주는 스티커. | History: 0 turns
+[2026-01-22 16:00:31.919150] [9990b221-6019-4017-9723-6cc8772233eb] Analyzing (OpenAI): 책상 위에 놓고 쓰는 아주 작은 빗자루 세트. | History: 0 turns
+[2026-01-22 16:00:36.761246] [29864917-857c-4a51-af3e-7e27c7d73ead] Analyzing (OpenAI): 운동화 끈 안 묶고 그냥 당겨서 조이는 끈. | History: 0 turns
+[2026-01-22 16:00:41.384112] [49cb18ba-a7d3-4eec-852d-f1425186e8f5] Analyzing (OpenAI): 의자 밑에 붙여서 잘 미끄러지게 하는 스티커. | History: 0 turns
+[2026-01-22 16:00:46.330993] [a09b53cd-7046-473b-9d55-b05233b0b215] Analyzing (OpenAI): 설거지할 때 옷 젖지 말라고 배에 대는 가림막. | History: 0 turns
+[2026-01-22 16:00:51.114076] [2ba3ecc9-ce38-4806-911f-74859685ebe5] Analyzing (OpenAI): 싱크대 구석에 음식물 쓰레기 모아두는 삼각 통. | History: 0 turns
+[2026-01-22 16:00:55.969308] [4cb59da8-be3a-4ad9-a4d5-8e960528e171] Analyzing (OpenAI): 유리창 닦을 때 물기 싹 긁어내리는 고무 달린 막대기. | History: 0 turns
+[2026-01-22 16:01:00.638832] [05e8cdbc-8ad7-46e0-ae8a-416e0fbce530] Analyzing (OpenAI): 긴 컵 닦을 때 쓰는 손잡이 달린 스펀지. | History: 0 turns
+[2026-01-22 16:01:05.472782] [98e934df-9e86-4c1e-865e-91ea9cd4a0b1] Analyzing (OpenAI): 마시다 남은 와인 막아두는 마개. | History: 0 turns
+[2026-01-22 16:01:10.727465] [1a64c173-edbb-404e-a353-383a43e10d30] Analyzing (OpenAI): 내일 자취방 처음 들어가는데 청소 필수템 좀 알려주세요. | History: 0 turns
+[2026-01-22 16:01:15.275565] [c27be261-cc03-43bb-be77-0197a9af91ca] Analyzing (OpenAI): 친구들이랑 홈파티 하는데 벽에 붙일 장식 추천해 줘. | History: 0 turns
+[2026-01-22 16:01:20.757424] [07f19ed4-7523-4606-9476-96d566516d4e] Analyzing (OpenAI): 해외여행 가는데 비행기 안에서 편하게 있을 만한 거. | History: 0 turns
+[2026-01-22 16:01:25.065907] [14272ab5-1d7b-45c2-851f-e1f2476db5eb] Analyzing (OpenAI): 강아지랑 산책 갈 때 챙겨야 할 거 뭐 있죠? | History: 0 turns
+[2026-01-22 16:01:30.577925] [239479f8-51f3-4cd8-857a-93e680ad5b47] Analyzing (OpenAI): 회사 책상이 너무 삭막해서 좀 꾸미고 싶어요. | History: 0 turns
+[2026-01-22 16:01:35.428259] [4fdc4ae8-1d62-46f2-b2ce-15d4245e5dec] Analyzing (OpenAI): 집에서 혼자 네일아트 해보려고 하는데 뭐부터 사야 해요? | History: 0 turns
+[2026-01-22 16:01:39.437870] [76116af9-de82-422a-b9e7-cec773080805] Analyzing (OpenAI): 겨울옷 정리해서 넣어두려는데 부피 줄이는 봉투 있나요? | History: 0 turns
+[2026-01-22 16:01:43.884445] [dbbe813b-4758-4d69-9f28-bb5cc2ec8dd4] Analyzing (OpenAI): 차 박 할 때 창문 가리는 용도로 쓸 만한 거. | History: 0 turns
+[2026-01-22 16:01:47.805048] [bbf017a0-6ae7-409c-b378-0026f7dae209] Analyzing (OpenAI): 아이들 학교 준비물로 색종이랑 풀 담을 통이 필요해요. | History: 0 turns
+[2026-01-22 16:01:51.958963] [182c7a92-9149-4a50-8218-ff4d2f47b6bd] Analyzing (OpenAI): 싱크대 상판이 너무 좁아서 공간 활용하고 싶어요. | History: 0 turns
+[2026-01-22 16:01:57.485610] [9c144f72-a2eb-4081-9760-58860857836c] Analyzing (OpenAI): 캠핑 가서 고기 구워 먹을 때 쓸 일회용 접시 세트. | History: 0 turns
+[2026-01-22 16:02:01.351799] [542e1ee4-fa01-4695-ac14-b78f86518f8a] Analyzing (OpenAI): 욕실에 샴푸랑 린스 놓을 자리가 없어서 공중부양 시키고 싶어요. | History: 0 turns
+[2026-01-22 16:02:06.096281] [4a93b621-efe2-40ad-988c-1478505baa14] Analyzing (OpenAI): 다이어리 꾸미기 입문하려는데 스티커 추천 좀. | History: 0 turns
+[2026-01-22 16:02:10.438229] [63b7502c-dc03-45fa-8ee3-0458185eaf85] Analyzing (OpenAI): 선생님께 드릴 건데 너무 비싸지 않으면서 포장 예쁜 거. | History: 0 turns
+[2026-01-22 16:02:14.837681] [5f427070-89a2-4f87-85d2-ec7299378e12] Analyzing (OpenAI): 비 오는 날 신발 젖는 거 너무 싫은데 방수되는 거 없나요? | History: 0 turns
+[2026-01-22 16:02:18.558309] [a84c8bb3-a263-4354-8f7c-0453d297afec] Analyzing (OpenAI): 조카가 슬라임 만들고 싶다는데 재료 어디 있어요? | History: 0 turns
+[2026-01-22 16:02:24.743347] [1b71b54c-7164-45c9-92bb-748efbeb5fa2] Analyzing (OpenAI): 유튜브 촬영할 때 핸드폰 고정해 놓을 거. | History: 0 turns
+[2026-01-22 16:02:30.595860] [7cbe0635-68ac-4a13-b09e-9e556c247a0b] Analyzing (OpenAI): 독서실에서 쓸 소리 안 나는 슬리퍼. | History: 0 turns
+[2026-01-22 16:02:35.053135] [2df23e51-7b0f-4155-8757-fdec7e807556] Analyzing (OpenAI): 음식물 쓰레기 냄새 안 나게 밀폐 잘 되는 통. | History: 0 turns
+[2026-01-22 16:02:39.538745] [570d6fb7-2f15-4b03-8c5f-365640314954] Analyzing (OpenAI): 원룸인데 빨래 건조대 놓을 자리가 없어요. | History: 0 turns
+[2026-01-22 16:02:43.947596] [fd482d63-824f-4761-9c16-bb5fa1f4da49] Analyzing (OpenAI): 5000원 이하로 중학생 여자애 생일 선물 추천해 줘. | History: 0 turns
+[2026-01-22 16:02:48.948127] [119c0e5e-9995-439c-adc1-ffb73dd7d8b3] Analyzing (OpenAI): 유치원 생일 답례품으로 돌릴 1000원짜리 간식거리. | History: 0 turns
+[2026-01-22 16:02:53.623839] [86994726-db13-4986-962c-ff9a0eb28362] Analyzing (OpenAI): 만원으로 욕실 청소 용품 풀세트 맞추고 싶어요. | History: 0 turns
+[2026-01-22 16:02:57.848550] [e266fe0c-eb0a-40dd-b90d-1f3e88e75d37] Analyzing (OpenAI): 3000원 안 넘는 선에서 차량용 방향제 있나요? | History: 0 turns
+[2026-01-22 16:03:02.318725] [1dda99de-a8d8-452a-88d2-707b7c100ecd] Analyzing (OpenAI): 군인 친구한테 보낼 건데 반입 가능한 화장품. | History: 0 turns
+[2026-01-22 16:03:08.215130] [d7ec9622-77bc-456c-8e3f-cc73d2713af8] Analyzing (OpenAI): 어르신들이 좋아할 만한 지압 용품 추천. | History: 0 turns
+[2026-01-22 16:03:12.207987] [8da8ee63-9cab-4cdc-86ca-2f77a495ab64] Analyzing (OpenAI): AA 건전지 대용량으로 제일 싼 거. | History: 0 turns
+[2026-01-22 16:03:16.821424] [3dcd6cbe-d4d3-4d9f-ae48-44e357cd42dc] Analyzing (OpenAI): 자취생인데 그릇 세트 말고 딱 하나만 산다면 제일 실용적인 거. | History: 0 turns
+[2026-01-22 16:03:20.593278] [fab81ac6-b8b5-4ca0-9ad0-db133b29fa6c] Analyzing (OpenAI): 일본 여행 가는데 110v 돼지코 2개만 필요해요. | History: 0 turns
+[2026-01-22 16:03:24.459260] [69663001-a573-44e1-b9ca-81dc7e29c371] Analyzing (OpenAI): 다이소 꿀템이라고 소문난 거 중에 뷰티 쪽 추천해 줘. | History: 0 turns
+[2026-01-22 16:03:29.042483] [603ba95d-bdd3-4000-9bb7-fa43c0a86061] Analyzing (OpenAI): 지금 당장 살 수 있는 할로윈 소품. | History: 0 turns
+[2026-01-22 16:03:33.565365] [90333a64-11ba-49a5-b6fb-3d77b193d8b1] Analyzing (OpenAI): 크리스마스 트리 장식 2만 원 안으로 해결하고 싶어. | History: 0 turns
+[2026-01-22 16:03:37.528102] [59de6c26-a215-4966-a937-4037b5a943ff] Analyzing (OpenAI): 국산 볼펜 중에 제일 잘 써지는 거. | History: 0 turns
+[2026-01-22 16:03:41.851775] [d6e3210a-b722-4852-bbb9-21f81e4dad03] Analyzing (OpenAI): 유리병 말고 안 깨지는 플라스틱 물병. | History: 0 turns
+[2026-01-22 16:03:45.653366] [f36a4abd-85fa-4111-948e-76f6ef106fd9] Analyzing (OpenAI): 색깔 별로 들어있는 고무줄 세트. | History: 0 turns
+[2026-01-22 16:03:51.658527] [ad21b47b-010b-45fc-9fae-a1466927ea30] Analyzing (OpenAI): A4 용지 들어가는 파일 홀더 10개 묶음. | History: 0 turns
+[2026-01-22 16:03:56.360305] [ee53c3ae-c7d9-4269-9438-1c15061de4e2] Analyzing (OpenAI): 냄새 안 나는 무향 제습제. | History: 0 turns
+[2026-01-22 16:04:00.473495] [da7226ab-feba-495f-935e-99f9b77b377c] Analyzing (OpenAI): 캐리어에 붙일 만한 큰 스티커. | History: 0 turns
+[2026-01-22 16:04:04.442056] [1ef77873-59f1-4c11-954e-bdc242b6f216] Analyzing (OpenAI): 전자레인지랑 식기세척기 둘 다 되는 그릇. | History: 0 turns
+[2026-01-22 16:04:09.034745] [4aadb693-32bf-44f9-ba92-53d2c6a063ec] Analyzing (OpenAI): 아이폰 충전 케이블인데 줄 긴 거(2m 이상). | History: 0 turns
+[2026-01-22 16:04:13.615715] [30232348-a626-4cd0-91ef-48a0b19f848a] Analyzing (OpenAI): 약간 카페 같은 분위기 내는 조명 없나? | History: 0 turns
+[2026-01-22 16:04:17.808688] [a3a83516-44e3-4fe7-8455-8cbf96663db0] Analyzing (OpenAI): 방에서 나는 홀아비 냄새 잡는 거. | History: 0 turns
+[2026-01-22 16:04:22.859032] [02b82dfe-ec38-4c0c-93fa-dc6173c116c1] Analyzing (OpenAI): 그... 뽁뽁이 말고 창문에 붙여서 단열하는 거. | History: 0 turns
+[2026-01-22 16:04:27.955162] [ac3a4b24-99fa-465e-842d-117bad3f5bf3] Analyzing (OpenAI): 손에 뭐 안 묻히고 과자 집어 먹는 집게 같은 거. | History: 0 turns
+[2026-01-22 16:04:32.563381] [3d3ed0ba-4a2e-419b-9d5e-379951da8afb] Analyzing (OpenAI): 화장대 거울에 붙여서 밝게 만드는 전구. | History: 0 turns
+[2026-01-22 16:04:36.979141] [9b0c63fa-2a0a-4e81-998d-764dcc37a872] Analyzing (OpenAI): 냉장고 옆면에 자석으로 붙여서 수납하는 거. | History: 0 turns
+[2026-01-22 16:04:42.159508] [9e5deab2-0434-4b85-8961-68006ed4cdbf] Analyzing (OpenAI): 싱크대 물 튀는 거 막아주는 투명한 판. | History: 0 turns
+[2026-01-22 16:04:46.868402] [c734d768-d095-4015-b0d8-d5d0c9b0e1e8] Analyzing (OpenAI): 샤워기 물줄기 너무 세서 아픈데 부드럽게 나오는 헤드. | History: 0 turns
+[2026-01-22 16:04:51.683316] [5ee5a4d1-b001-4306-ad8a-9c43015c95c9] Analyzing (OpenAI): 책 읽을 때 페이지 안 넘어가게 잡아주는 거. | History: 0 turns
+[2026-01-22 16:04:55.973987] [d467ce98-e923-436b-81b1-c01f785d4350] Analyzing (OpenAI): 컴퓨터 키보드 사이사이 먼지 빼내는 젤리 같은 거. | History: 0 turns
+[2026-01-22 16:05:00.078586] [28b4442b-7384-4093-b9b5-d62751c03441] Analyzing (OpenAI): 방바닥에 머리카락 굴러다니는 거 싫어서 슥슥 미는 거. | History: 0 turns
+[2026-01-22 16:05:04.211900] [a64d5b1c-5321-4eaa-9775-158e8078777a] Analyzing (OpenAI): 운동할 때 핸드폰 팔뚝에 차는 거. | History: 0 turns
+[2026-01-22 16:05:09.236713] [f3b3d0c5-817c-4096-8347-3a86caaa5744] Analyzing (OpenAI): 마스크 오래 쓰면 귀 아픈데 안 아프게 하는 고리. | History: 0 turns
+[2026-01-22 16:05:14.942907] [3eb294b8-9c68-4982-90e6-0515d2ece8f4] Analyzing (OpenAI): 후라이팬 코팅 안 벗겨지게 긁는 뒤집개. | History: 0 turns
+[2026-01-22 16:05:19.079485] [ec371f0b-6efd-466c-ad85-dbade8b0008e] Analyzing (OpenAI): 니트 옷걸이에 걸면 어깨 튀어나오는데 안 그러는 옷걸이. | History: 0 turns
+[2026-01-22 16:05:23.890698] [76febff4-25dd-44e0-8134-27836baa5415] Analyzing (OpenAI): 욕실 슬리퍼 물 잘 빠지고 구멍 숭숭 뚫린 거. | History: 0 turns
+[2026-01-22 16:05:28.866185] [1bdea060-2fbf-4263-a02b-bdafa2568c87] Analyzing (OpenAI): 이어폰 줄 꼬인 거 푸느라 짜증 나는데 감아두는 거. | History: 0 turns
+[2026-01-22 16:05:33.095609] [0c49b6fe-5bdc-4d10-8f46-e2f04a0c3e71] Analyzing (OpenAI): 택배 송장 번호 개인정보 지우는 도장. | History: 0 turns
+[2026-01-22 16:05:38.012335] [07313192-3392-40dd-92b3-07432ab7bee3] Analyzing (OpenAI): 비누 거품 잘 나게 하는 망. | History: 0 turns
+[2026-01-22 16:05:43.595809] [73343abe-c53f-471b-9672-ff4d974dd1fe] Analyzing (OpenAI): 새우 껍질 까기 귀찮은데 쉽게 까는 도구. | History: 0 turns

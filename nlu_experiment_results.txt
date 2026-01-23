@@ -1,0 +1,27 @@
+=== Starting NLU Experiment with Gemini 2.0 Flash ===
+
+Test #1: '파란색 볼펜 있어?'
+  -> Intent: Intent.SEARCH
+  -> Clarification Needed: False
+  -> Slots: product_name='볼펜' category='문구' price_min=None price_max=None attributes={'color': '파란색'}
+  [PASS] ✅
+--------------------------------------------------
+Test #2: '뭐 좋은거 있어?'
+  -> Intent: Intent.SEARCH
+  -> Clarification Needed: True
+  -> Generated Question: 어떤 상품을 찾으시는지 조금 더 자세히 말씀해 주시겠어요?
+  -> Slots: product_name=None category=None price_min=None price_max=None attributes={}
+  [PASS] ✅
+--------------------------------------------------
+Test #3: '3000원짜리 바구니'
+  -> Intent: Intent.SEARCH
+  -> Clarification Needed: False
+  -> Slots: product_name='바구니' category=None price_min=3000 price_max=3000 attributes={}
+  [PASS] ✅
+--------------------------------------------------
+Test #4: '안녕 반가워'
+  -> Intent: Intent.CHIT_CHAT
+  -> Clarification Needed: False
+  -> Slots: product_name=None category=None price_min=None price_max=None attributes={}
+  [PASS] ✅
+--------------------------------------------------

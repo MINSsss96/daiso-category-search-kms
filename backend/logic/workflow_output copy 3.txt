@@ -1,0 +1,1012 @@
+Loaded 100 questions.
+=== Processing All 100 Questions ===
+
+--- [Q1] Customer asks: '화장실 변기 닦아도 냄새가 안 없어져요.' ---
+
+--- [Node: analyze_intent] Processing: 화장실 변기 닦아도 냄새가 안 없어져요. ---
+[2026-01-21 18:20:40.458413] [be569b17-4631-4784-9a5b-d2e6176e797d] Analyzing: 화장실 변기 닦아도 냄새가 안 없어져요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['변기 세정제']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['변기 세정제'] ---
+  -> Generated Keywords: ['변기 세정제', '변기', '세정제', '화장실 청소용품', '청결', '세척']
+--- [Q2] Customer asks: '문 닫을 때마다 쾅쾅 소리 나서 시끄러워요.' ---
+
+--- [Node: analyze_intent] Processing: 문 닫을 때마다 쾅쾅 소리 나서 시끄러워요. ---
+[2026-01-21 18:20:45.240591] [e2e312a8-173c-4279-8cae-f37dc123c38e] Analyzing: 문 닫을 때마다 쾅쾅 소리 나서 시끄러워요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['문 충격 방지']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['문 충격 방지'] ---
+  -> Generated Keywords: ['문 충격 방지', '문', '충격 방지', '안전용품', '보호']
+--- [Q3] Customer asks: '바닥 긁히는 소리 안 나게 의자에 끼우는 거 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 바닥 긁히는 소리 안 나게 의자에 끼우는 거 있어요? ---
+[2026-01-21 18:20:47.351905] [4742749a-96c3-41ee-9246-a3ed8004d8f0] Analyzing: 바닥 긁히는 소리 안 나게 의자에 끼우는 거 있어요? | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['의자 다리 커버']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['의자 다리 커버'] ---
+  -> Generated Keywords: ['의자 다리 커버', '의자', '다리 커버', '커버', '가구', '생활용품', '미끄럼 방지', '소음 방지']
+--- [Q4] Customer asks: '싱크대 배수구가 꽉 막혀서 물이 안 내려가요.' ---
+
+--- [Node: analyze_intent] Processing: 싱크대 배수구가 꽉 막혀서 물이 안 내려가요. ---
+[2026-01-21 18:20:49.641915] [bde8b7df-1778-432f-aa9c-bd3db5dccb45] Analyzing: 싱크대 배수구가 꽉 막혀서 물이 안 내려가요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['배수구 클리너']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['배수구 클리너'] ---
+  -> Generated Keywords: ['배수구 클리너', '배수구', '클리너', '청소용품', '배수구 청소', '세척']
+--- [Q5] Customer asks: '새로 산 그릇에 스티커 끈끈이가 남아서 안 떼져요.' ---
+
+--- [Node: analyze_intent] Processing: 새로 산 그릇에 스티커 끈끈이가 남아서 안 떼져요. ---
+[2026-01-21 18:20:51.942760] [9c73a428-24a6-4a5e-a9a1-f132b398ce1a] Analyzing: 새로 산 그릇에 스티커 끈끈이가 남아서 안 떼져요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['스티커 제거제']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['스티커 제거제'] ---
+  -> Generated Keywords: ['스티커 제거제', '제거제', '다용도', '청소용품', '스티커', '제거']
+--- [Q6] Customer asks: '장마철이라 옷장에서 꿉꿉한 냄새가 나요.' ---
+
+--- [Node: analyze_intent] Processing: 장마철이라 옷장에서 꿉꿉한 냄새가 나요. ---
+[2026-01-21 18:20:54.140797] [d4cfbe76-35e9-42a6-988c-7649061ec1b1] Analyzing: 장마철이라 옷장에서 꿉꿉한 냄새가 나요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['옷장 탈취제']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['옷장 탈취제'] ---
+  -> Generated Keywords: ['옷장 탈취제', '옷장', '탈취제', '방향제', '생활용품', '냄새 제거', '탈취']
+--- [Q7] Customer asks: '초파리가 자꾸 꼬이는데 잡는 트랩 같은 거 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 초파리가 자꾸 꼬이는데 잡는 트랩 같은 거 있나요? ---
+[2026-01-21 18:20:56.554522] [f54b2ce2-2dd6-43b2-9440-5e7df5636e61] Analyzing: 초파리가 자꾸 꼬이는데 잡는 트랩 같은 거 있나요? | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['초파리 트랩']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['초파리 트랩'] ---
+  -> Generated Keywords: ['초파리 트랩', '주방', '트랩', '벌레 퇴치 용품', '초파리 퇴치']
+--- [Q8] Customer asks: '욕실 타일 틈새에 검은 곰팡이가 꼈어요.' ---
+
+--- [Node: analyze_intent] Processing: 욕실 타일 틈새에 검은 곰팡이가 꼈어요. ---
+[2026-01-21 18:20:58.638928] [46911382-15cc-4ac1-85ff-a20f989e672d] Analyzing: 욕실 타일 틈새에 검은 곰팡이가 꼈어요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['곰팡이 제거제']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['곰팡이 제거제'] ---
+  -> Generated Keywords: ['곰팡이 제거제', '욕실', '주방', '세제', '청소용품', '곰팡이 제거']
+--- [Q9] Customer asks: '와이셔츠 목 때가 세탁기로 빨아도 잘 안 지워져요.' ---
+
+--- [Node: analyze_intent] Processing: 와이셔츠 목 때가 세탁기로 빨아도 잘 안 지워져요. ---
+[2026-01-21 18:21:00.954574] [7c92f7b6-5619-4969-a46c-30fb7acac444] Analyzing: 와이셔츠 목 때가 세탁기로 빨아도 잘 안 지워져요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['세탁 세제']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['세탁 세제'] ---
+  -> Generated Keywords: ['세탁 세제', '세탁', '세제', '세탁용품', '세척']
+--- [Q10] Customer asks: '강아지 털이 옷에 너무 많이 붙어서 떼고 싶어요.' ---
+
+--- [Node: analyze_intent] Processing: 강아지 털이 옷에 너무 많이 붙어서 떼고 싶어요. ---
+[2026-01-21 18:21:03.253710] [a3b6e6cc-053b-4dec-b2d8-5f58e13b719f] Analyzing: 강아지 털이 옷에 너무 많이 붙어서 떼고 싶어요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['옷 먼지 제거']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['옷 먼지 제거'] ---
+  -> Generated Keywords: ['옷 먼지 제거', '옷', '먼지 제거', '청소용품', '먼지', '제거']
+--- [Q11] Customer asks: '책상 밑에 전선들이 너무 지저분하게 엉켜 있어요.' ---
+
+--- [Node: analyze_intent] Processing: 책상 밑에 전선들이 너무 지저분하게 엉켜 있어요. ---
+[2026-01-21 18:21:05.190507] [d0e8379f-96cd-4fbe-91be-f3b2f8ff3454] Analyzing: 책상 밑에 전선들이 너무 지저분하게 엉켜 있어요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['전선 정리 용품']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['전선 정리 용품'] ---
+  -> Generated Keywords: ['전선 정리 용품', '전선 정리', '정리 용품', '전선', '수납/정리', '정리']
+--- [Q12] Customer asks: '방충망에 구멍이 났는데 전체 갈기는 좀 그렇고...' ---
+
+--- [Node: analyze_intent] Processing: 방충망에 구멍이 났는데 전체 갈기는 좀 그렇고... ---
+[2026-01-21 18:21:07.553018] [7041cd36-ac16-46c0-ba33-849fd836a368] Analyzing: 방충망에 구멍이 났는데 전체 갈기는 좀 그렇고... | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['방충망']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['방충망'] ---
+  -> Generated Keywords: ['방충망', '창문', '그물', '생활용품', '해충 퇴치']
+--- [Q13] Customer asks: '요리하다가 기름이 벽에 너무 많이 튀어요.' ---
+
+--- [Node: analyze_intent] Processing: 요리하다가 기름이 벽에 너무 많이 튀어요. ---
+[2026-01-21 18:21:09.855327] [4a13ad58-03e0-41f7-b358-1d23a592deb3] Analyzing: 요리하다가 기름이 벽에 너무 많이 튀어요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['기름 튐 방지']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['기름 튐 방지'] ---
+  -> Generated Keywords: ['기름 튐 방지', '주방', '가림막', '주방용품', '기름방지']
+--- [Q14] Customer asks: '신발장 열 때마다 발 냄새가 너무 심해요.' ---
+
+--- [Node: analyze_intent] Processing: 신발장 열 때마다 발 냄새가 너무 심해요. ---
+[2026-01-21 18:21:12.036337] [90e2bda6-c0b6-4b51-895e-956acaf5afeb] Analyzing: 신발장 열 때마다 발 냄새가 너무 심해요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['탈취제']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['탈취제'] ---
+  -> Generated Keywords: ['탈취제', '냄새 제거제', '방향제', '생활용품', '탈취']
+--- [Q15] Customer asks: '유리에 테이프 자국 남은 거 긁어내고 싶어요.' ---
+
+--- [Node: analyze_intent] Processing: 유리에 테이프 자국 남은 거 긁어내고 싶어요. ---
+[2026-01-21 18:21:14.141280] [65dfd573-83bb-4b23-8a4b-35147242bb05] Analyzing: 유리에 테이프 자국 남은 거 긁어내고 싶어요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['스티커 제거제']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['스티커 제거제'] ---
+  -> Generated Keywords: ['스티커 제거제', '제거제', '청소용품', '접착제 제거', '다용도 클리너']
+--- [Q16] Customer asks: '바지 허리가 너무 커서 줄이고 싶은데 바느질은 못해요.' ---
+
+--- [Node: analyze_intent] Processing: 바지 허리가 너무 커서 줄이고 싶은데 바느질은 못해요. ---
+[2026-01-21 18:21:16.367456] [294c3285-739a-4507-a4b2-068f69759c5f] Analyzing: 바지 허리가 너무 커서 줄이고 싶은데 바느질은 못해요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['허리 줄임 도구']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['허리 줄임 도구'] ---
+  -> Generated Keywords: ['허리 줄임 도구', '옷', '도구', '패션', '옷 수선', '허리 조절']
+--- [Q17] Customer asks: '가구 모서리에 애기가 찧을까 봐 걱정돼요.' ---
+
+--- [Node: analyze_intent] Processing: 가구 모서리에 애기가 찧을까 봐 걱정돼요. ---
+[2026-01-21 18:21:19.054496] [872c3326-f80c-4c7c-9a96-62603903f9b9] Analyzing: 가구 모서리에 애기가 찧을까 봐 걱정돼요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['모서리 보호대']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['모서리 보호대'] ---
+  -> Generated Keywords: ['모서리 보호대', '가구', '보호대', '생활용품', '안전', '보호']
+--- [Q18] Customer asks: '화장실 거울에 김이 너무 서려서 안 보여요.' ---
+
+--- [Node: analyze_intent] Processing: 화장실 거울에 김이 너무 서려서 안 보여요. ---
+[2026-01-21 18:21:21.140380] [dc9968ae-d14b-4a37-b9f1-b9e37c6499c0] Analyzing: 화장실 거울에 김이 너무 서려서 안 보여요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['김서림 방지제']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['김서림 방지제'] ---
+  -> Generated Keywords: ['김서림 방지제', '자동차', '방지제', '자동차 용품', '김서림 방지']
+--- [Q19] Customer asks: '검은 옷에 먼지가 너무 잘 붙어요.' ---
+
+--- [Node: analyze_intent] Processing: 검은 옷에 먼지가 너무 잘 붙어요. ---
+[2026-01-21 18:21:23.452750] [7d046e21-bef8-4fcc-a5bb-ac0d38a7fe1a] Analyzing: 검은 옷에 먼지가 너무 잘 붙어요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['먼지 제거 롤러']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['먼지 제거 롤러'] ---
+  -> Generated Keywords: ['먼지 제거 롤러', '롤러', '청소용품', '먼지 제거']
+--- [Q20] Customer asks: '냉장고 안에 김치 국물이 흘러서 굳었어요.' ---
+
+--- [Node: analyze_intent] Processing: 냉장고 안에 김치 국물이 흘러서 굳었어요. ---
+[2026-01-21 18:21:25.453213] [bd7f351c-7cf0-4c29-baa2-65321de92725] Analyzing: 냉장고 안에 김치 국물이 흘러서 굳었어요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['청소 용품']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['청소 용품'] ---
+  -> Generated Keywords: ['청소 용품', '청소', '청소용품', '생활용품', '청결']
+--- [Q21] Customer asks: '벽에 못 안 박고 액자 걸 수 있는 핀 같은 거요.' ---
+
+--- [Node: analyze_intent] Processing: 벽에 못 안 박고 액자 걸 수 있는 핀 같은 거요. ---
+[2026-01-21 18:21:27.463156] [baf84a9e-cd05-4fc2-91c1-cfa5f05571b3] Analyzing: 벽에 못 안 박고 액자 걸 수 있는 핀 같은 거요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['액자 걸이 핀']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['액자 걸이 핀'] ---
+  -> Generated Keywords: ['액자 걸이 핀', '액자', '걸이 핀', '핀', '인테리어', '장식', '벽걸이']
+--- [Q22] Customer asks: '물만 묻혀서 닦으면 때 지워지는 하얀 스펀지 주세요.' ---
+
+--- [Node: analyze_intent] Processing: 물만 묻혀서 닦으면 때 지워지는 하얀 스펀지 주세요. ---
+[2026-01-21 18:21:29.611342] [8e15cc6a-0fb7-4c03-ba7c-892e9899ef1e] Analyzing: 물만 묻혀서 닦으면 때 지워지는 하얀 스펀지 주세요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['매직 스펀지']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['매직 스펀지'] ---
+  -> Generated Keywords: ['매직 스펀지', '스펀지', '청소용품', '청소', '다용도']
+--- [Q23] Customer asks: '치약 끝까지 짜서 쓰게 해주는 플라스틱 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 치약 끝까지 짜서 쓰게 해주는 플라스틱 있나요? ---
+[2026-01-21 18:21:31.761313] [6e97cb06-26d8-40bf-847f-6d5f2bebce06] Analyzing: 치약 끝까지 짜서 쓰게 해주는 플라스틱 있나요? | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['치약 짜개']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['치약 짜개'] ---
+  -> Generated Keywords: ['치약 짜개', '치약', '짜개', '욕실용품', '생활용품', '절약', '간편']
+--- [Q24] Customer asks: '전자레인지 안에 넣고 돌려도 되는 밥 보관 용기요.' ---
+
+--- [Node: analyze_intent] Processing: 전자레인지 안에 넣고 돌려도 되는 밥 보관 용기요. ---
+[2026-01-21 18:21:33.783308] [db4fa030-c966-452e-a31b-9fe81b431ca3] Analyzing: 전자레인지 안에 넣고 돌려도 되는 밥 보관 용기요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['밥 보관 용기']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['밥 보관 용기'] ---
+  -> Generated Keywords: ['밥 보관 용기', '밥', '보관 용기', '용기', '주방', '주방용품', '보관']
+--- [Q25] Customer asks: '그물처럼 생겨서 설거지하고 수세미 말리는 거.' ---
+
+--- [Node: analyze_intent] Processing: 그물처럼 생겨서 설거지하고 수세미 말리는 거. ---
+[2026-01-21 18:21:35.704625] [d611a5dc-32cc-470c-90ed-09540a23fdc3] Analyzing: 그물처럼 생겨서 설거지하고 수세미 말리는 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['수세미 건조대']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['수세미 건조대'] ---
+  -> Generated Keywords: ['수세미 건조대', '주방', '건조대', '주방용품', '수세미', '정리']
+--- [Q26] Customer asks: '방 문 뒤에 걸어서 옷 걸 수 있게 하는 거요.' ---
+
+--- [Node: analyze_intent] Processing: 방 문 뒤에 걸어서 옷 걸 수 있게 하는 거요. ---
+[2026-01-21 18:21:37.901888] [bb04af71-dc7c-42fe-8b02-0e907413c7a3] Analyzing: 방 문 뒤에 걸어서 옷 걸 수 있게 하는 거요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['문걸이 옷걸이']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['문걸이 옷걸이'] ---
+  -> Generated Keywords: ['문걸이 옷걸이', '옷걸이', '생활용품', '수납', '정리']
+--- [Q27] Customer asks: '주방 서랍 안에 숟가락 젓가락 칸 나눠주는 통.' ---
+
+--- [Node: analyze_intent] Processing: 주방 서랍 안에 숟가락 젓가락 칸 나눠주는 통. ---
+[2026-01-21 18:21:39.926661] [627c1924-b57b-477c-b01b-2df9a514ff59] Analyzing: 주방 서랍 안에 숟가락 젓가락 칸 나눠주는 통. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['수저 정리함']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['수저 정리함'] ---
+  -> Generated Keywords: ['수저 정리함', '수저', '정리함', '주방용품', '정리']
+--- [Q28] Customer asks: '여행 갈 때 샴푸랑 린스 조금씩 덜어가는 공병.' ---
+
+--- [Node: analyze_intent] Processing: 여행 갈 때 샴푸랑 린스 조금씩 덜어가는 공병. ---
+[2026-01-21 18:21:42.036564] [a0723c8e-5285-42a8-a218-71aa2c7f0b34] Analyzing: 여행 갈 때 샴푸랑 린스 조금씩 덜어가는 공병. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['공병']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['공병'] ---
+  -> Generated Keywords: ['공병', '병', '화장품 용품', 'DIY 용품', '휴대용']
+--- [Q29] Customer asks: '핸드폰 뒤에 붙여서 손가락 끼우는 동그란 거.' ---
+
+--- [Node: analyze_intent] Processing: 핸드폰 뒤에 붙여서 손가락 끼우는 동그란 거. ---
+[2026-01-21 18:21:44.136858] [a6743b68-f7a2-47ae-8535-a784d88f7c74] Analyzing: 핸드폰 뒤에 붙여서 손가락 끼우는 동그란 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['핸드폰 거치대']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['핸드폰 거치대'] ---
+  -> Generated Keywords: ['핸드폰 거치대', '핸드폰', '거치대', '디지털', '핸드폰 용품', '스마트폰', '휴대폰']
+--- [Q30] Customer asks: '비누가 물러서 자꾸 녹는데 안 닿게 해주는 받침대.' ---
+
+--- [Node: analyze_intent] Processing: 비누가 물러서 자꾸 녹는데 안 닿게 해주는 받침대. ---
+[2026-01-21 18:21:46.414412] [759292c4-f453-43f3-ad4f-419ffc140542] Analyzing: 비누가 물러서 자꾸 녹는데 안 닿게 해주는 받침대. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['비누 받침대']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['비누 받침대'] ---
+  -> Generated Keywords: ['비누 받침대', '비누', '받침대', '욕실용품', '정리용품']
+--- [Q31] Customer asks: '화분 흙 안 쏟아지게 바닥에 까는 망 같은 거.' ---
+
+--- [Node: analyze_intent] Processing: 화분 흙 안 쏟아지게 바닥에 까는 망 같은 거. ---
+[2026-01-21 18:21:48.367712] [527dfeee-e97d-4634-bee5-7aef53e0e0c8] Analyzing: 화분 흙 안 쏟아지게 바닥에 까는 망 같은 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['화분 망']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['화분 망'] ---
+  -> Generated Keywords: ['화분 망', '화분', '망', '정원용품', '식물', '다이소']
+--- [Q32] Customer asks: '머리카락 배수구에 안 들어가게 걸러주는 스티커.' ---
+
+--- [Node: analyze_intent] Processing: 머리카락 배수구에 안 들어가게 걸러주는 스티커. ---
+[2026-01-21 18:21:50.421637] [d248df3b-2f07-49c9-93ec-b796b68bb108] Analyzing: 머리카락 배수구에 안 들어가게 걸러주는 스티커. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['배수구 머리카락 거름 스티커']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['배수구 머리카락 거름 스티커'] ---
+  -> Generated Keywords: ['배수구 머리카락 거름 스티커', '배수구', '거름 스티커', '스티커', '욕실용품', '주방용품', '머리카락 거름', '배수구 청소']
+--- [Q33] Customer asks: '책상 위에 놓고 쓰는 아주 작은 빗자루 세트.' ---
+
+--- [Node: analyze_intent] Processing: 책상 위에 놓고 쓰는 아주 작은 빗자루 세트. ---
+[2026-01-21 18:21:52.733061] [5bb5d188-fca2-44ed-aa36-0d577f1485cb] Analyzing: 책상 위에 놓고 쓰는 아주 작은 빗자루 세트. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['미니 빗자루 세트']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['미니 빗자루 세트'] ---
+  -> Generated Keywords: ['미니 빗자루 세트', '청소', '빗자루 세트', '청소용품', '미니', '먼지 제거']
+--- [Q34] Customer asks: '운동화 끈 안 묶고 그냥 당겨서 조이는 끈.' ---
+
+--- [Node: analyze_intent] Processing: 운동화 끈 안 묶고 그냥 당겨서 조이는 끈. ---
+[2026-01-21 18:21:54.928626] [6ff0e1fb-a790-4f84-9fe2-39fd43c2d528] Analyzing: 운동화 끈 안 묶고 그냥 당겨서 조이는 끈. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['운동화 끈']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['운동화 끈'] ---
+  -> Generated Keywords: ['운동화 끈', '신발', '끈', '패션', '신발 용품', '운동화', '신발끈']
+--- [Q35] Customer asks: '의자 밑에 붙여서 잘 미끄러지게 하는 스티커.' ---
+
+--- [Node: analyze_intent] Processing: 의자 밑에 붙여서 잘 미끄러지게 하는 스티커. ---
+[2026-01-21 18:21:57.240455] [2fffbb42-5d68-4e16-8af7-fc95c1e70848] Analyzing: 의자 밑에 붙여서 잘 미끄러지게 하는 스티커. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['미끄럼 방지 스티커']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['미끄럼 방지 스티커'] ---
+  -> Generated Keywords: ['미끄럼 방지 스티커', '미끄럼 방지', '스티커', '안전용품', '미끄럼방지', '접착 스티커']
+--- [Q36] Customer asks: '설거지할 때 옷 젖지 말라고 배에 대는 가림막.' ---
+
+--- [Node: analyze_intent] Processing: 설거지할 때 옷 젖지 말라고 배에 대는 가림막. ---
+[2026-01-21 18:21:59.436713] [2ccded12-5970-40e3-b9b4-4ca4232667d6] Analyzing: 설거지할 때 옷 젖지 말라고 배에 대는 가림막. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['앞치마']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['앞치마'] ---
+  -> Generated Keywords: ['앞치마', '주방', '옷', '의류', '생활용품', '작업복', '방수', '오염방지']
+--- [Q37] Customer asks: '싱크대 구석에 음식물 쓰레기 모아두는 삼각 통.' ---
+
+--- [Node: analyze_intent] Processing: 싱크대 구석에 음식물 쓰레기 모아두는 삼각 통. ---
+[2026-01-21 18:22:01.654416] [7a90f944-8318-4944-a0dd-e734353d435b] Analyzing: 싱크대 구석에 음식물 쓰레기 모아두는 삼각 통. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['음식물 쓰레기통']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['음식물 쓰레기통'] ---
+  -> Generated Keywords: ['음식물 쓰레기통', '주방', '쓰레기통', '주방용품', '정리용품', '쓰레기 처리']
+--- [Q38] Customer asks: '유리창 닦을 때 물기 싹 긁어내리는 고무 달린 막대기.' ---
+
+--- [Node: analyze_intent] Processing: 유리창 닦을 때 물기 싹 긁어내리는 고무 달린 막대기. ---
+[2026-01-21 18:22:03.847915] [a2444f97-74a0-46b1-8585-564a898ba147] Analyzing: 유리창 닦을 때 물기 싹 긁어내리는 고무 달린 막대기. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['유리창 청소기']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['유리창 청소기'] ---
+  -> Generated Keywords: ['유리창 청소기', '유리창', '청소기', '청소용품', '청소']
+--- [Q39] Customer asks: '긴 컵 닦을 때 쓰는 손잡이 달린 스펀지.' ---
+
+--- [Node: analyze_intent] Processing: 긴 컵 닦을 때 쓰는 손잡이 달린 스펀지. ---
+[2026-01-21 18:22:05.872867] [2caf8f4a-15d1-4b88-ab73-1f17a2810c3c] Analyzing: 긴 컵 닦을 때 쓰는 손잡이 달린 스펀지. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['컵솔']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['컵솔'] ---
+  -> Generated Keywords: ['컵솔', '컵', '솔', '청소용품', '청소솔']
+--- [Q40] Customer asks: '마시다 남은 와인 막아두는 마개.' ---
+
+--- [Node: analyze_intent] Processing: 마시다 남은 와인 막아두는 마개. ---
+[2026-01-21 18:22:07.889219] [8301c604-8634-4e00-8c0e-0323d062e7e3] Analyzing: 마시다 남은 와인 막아두는 마개. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['와인 마개']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['와인 마개'] ---
+  -> Generated Keywords: ['와인 마개', '와인', '마개', '주방용품', '밀봉']
+--- [Q41] Customer asks: '내일 자취방 처음 들어가는데 청소 필수템 좀 알려주세요.' ---
+
+--- [Node: analyze_intent] Processing: 내일 자취방 처음 들어가는데 청소 필수템 좀 알려주세요. ---
+[2026-01-21 18:22:10.037367] [be44c06f-596a-438d-b5d5-19e1e4520625] Analyzing: 내일 자취방 처음 들어가는데 청소 필수템 좀 알려주세요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['청소용품']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['청소용품'] ---
+  -> Generated Keywords: ['청소용품', '청소', '용품', '생활용품', '청결', '세척']
+--- [Q42] Customer asks: '친구들이랑 홈파티 하는데 벽에 붙일 장식 추천해 줘.' ---
+
+--- [Node: analyze_intent] Processing: 친구들이랑 홈파티 하는데 벽에 붙일 장식 추천해 줘. ---
+[2026-01-21 18:22:12.321658] [c4777911-bf6b-4cda-b0e3-e3b3d6ba46f1] Analyzing: 친구들이랑 홈파티 하는데 벽에 붙일 장식 추천해 줘. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['벽 장식']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['벽 장식'] ---
+  -> Generated Keywords: ['벽 장식', '벽', '장식', '인테리어', '꾸미기']
+--- [Q43] Customer asks: '해외여행 가는데 비행기 안에서 편하게 있을 만한 거.' ---
+
+--- [Node: analyze_intent] Processing: 해외여행 가는데 비행기 안에서 편하게 있을 만한 거. ---
+[2026-01-21 18:22:14.433316] [a9a4707c-00d0-44dd-a714-1f735ae985e3] Analyzing: 해외여행 가는데 비행기 안에서 편하게 있을 만한 거. | History: 0 turns
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 해외여행 가는데 비행기 안에서 편하게 있을 만한 거. ---
+  -> Inferred Products: ['목베개', '안대', '귀마개', '담요', '압박 스타킹', '슬리퍼']
+
+--- [Node: expand_keywords] Expanding keywords for: ['목베개', '안대', '귀마개', '담요', '압박 스타킹', '슬리퍼'] ---
+  -> Generated Keywords: ['목베개', '베개', '여행용품', '휴대용', '목', '쿠션', '안대', '눈', '수면용품', '휴대용품', '눈가림', '귀마개', '귀', '마개', '안전용품', '소음방지', '담요', '침실', '침구', '보온', '압박 스타킹', '스타킹', '패션잡화', '보정', '다리', '슬림', '슬리퍼', '실내', '신발', '패션', '잡화', '편안한']
+--- [Q44] Customer asks: '강아지랑 산책 갈 때 챙겨야 할 거 뭐 있죠?' ---
+
+--- [Node: analyze_intent] Processing: 강아지랑 산책 갈 때 챙겨야 할 거 뭐 있죠? ---
+[2026-01-21 18:22:22.019158] [5ceeeb5a-5baa-48c7-8306-66fd2b1b90e9] Analyzing: 강아지랑 산책 갈 때 챙겨야 할 거 뭐 있죠? | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['애견용품']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['애견용품'] ---
+  -> Generated Keywords: ['애견용품', '강아지', '고양이', '반려동물', '동물', '애완동물']
+--- [Q45] Customer asks: '회사 책상이 너무 삭막해서 좀 꾸미고 싶어요.' ---
+
+--- [Node: analyze_intent] Processing: 회사 책상이 너무 삭막해서 좀 꾸미고 싶어요. ---
+[2026-01-21 18:22:24.113413] [e0ad28f1-5a28-44db-84d1-7c3547daa70a] Analyzing: 회사 책상이 너무 삭막해서 좀 꾸미고 싶어요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['장식']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['장식'] ---
+  -> Generated Keywords: ['장식', '인테리어', '장식품', '인테리어 소품']
+--- [Q46] Customer asks: '집에서 혼자 네일아트 해보려고 하는데 뭐부터 사야 해요?' ---
+
+--- [Node: analyze_intent] Processing: 집에서 혼자 네일아트 해보려고 하는데 뭐부터 사야 해요? ---
+[2026-01-21 18:22:26.204985] [b3effa73-f2df-48e6-8a54-e0e274dee9cb] Analyzing: 집에서 혼자 네일아트 해보려고 하는데 뭐부터 사야 해요? | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['네일아트 용품']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['네일아트 용품'] ---
+  -> Generated Keywords: ['네일아트 용품', '네일', '미용 용품', '뷰티', '네일아트']
+--- [Q47] Customer asks: '겨울옷 정리해서 넣어두려는데 부피 줄이는 봉투 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 겨울옷 정리해서 넣어두려는데 부피 줄이는 봉투 있나요? ---
+[2026-01-21 18:22:28.321452] [ad753528-24c0-4958-a725-f7574924084b] Analyzing: 겨울옷 정리해서 넣어두려는데 부피 줄이는 봉투 있나요? | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['압축 봉투']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['압축 봉투'] ---
+  -> Generated Keywords: ['압축 봉투', '옷장', '봉투', '수납용품', '압축']
+--- [Q48] Customer asks: '차 박 할 때 창문 가리는 용도로 쓸 만한 거.' ---
+
+--- [Node: analyze_intent] Processing: 차 박 할 때 창문 가리는 용도로 쓸 만한 거. ---
+[2026-01-21 18:22:30.534557] [42ad0e39-1855-4e87-91f3-2cc0dc1d6ecd] Analyzing: 차 박 할 때 창문 가리는 용도로 쓸 만한 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['햇빛 가리개']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['햇빛 가리개'] ---
+  -> Generated Keywords: ['햇빛 가리개', '창문', '가리개', '인테리어', '햇빛차단', '자외선차단']
+--- [Q49] Customer asks: '아이들 학교 준비물로 색종이랑 풀 담을 통이 필요해요.' ---
+
+--- [Node: analyze_intent] Processing: 아이들 학교 준비물로 색종이랑 풀 담을 통이 필요해요. ---
+[2026-01-21 18:22:32.840188] [db891576-fe61-4373-b233-7437223e5a41] Analyzing: 아이들 학교 준비물로 색종이랑 풀 담을 통이 필요해요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['통']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['통'] ---
+  -> Generated Keywords: ['통', '수납', '정리', '다용도']
+--- [Q50] Customer asks: '싱크대 상판이 너무 좁아서 공간 활용하고 싶어요.' ---
+
+--- [Node: analyze_intent] Processing: 싱크대 상판이 너무 좁아서 공간 활용하고 싶어요. ---
+[2026-01-21 18:22:34.759461] [8252cf27-e297-4ad0-b48b-417664f9eb6b] Analyzing: 싱크대 상판이 너무 좁아서 공간 활용하고 싶어요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['싱크대 선반']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['싱크대 선반'] ---
+  -> Generated Keywords: ['싱크대 선반', '싱크대', '선반', '주방용품', '정리', '수납']
+--- [Q51] Customer asks: '캠핑 가서 고기 구워 먹을 때 쓸 일회용 접시 세트.' ---
+
+--- [Node: analyze_intent] Processing: 캠핑 가서 고기 구워 먹을 때 쓸 일회용 접시 세트. ---
+[2026-01-21 18:22:36.771605] [d584b166-d971-495a-b72e-1e5bd09b788c] Analyzing: 캠핑 가서 고기 구워 먹을 때 쓸 일회용 접시 세트. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['일회용 접시 세트']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['일회용 접시 세트'] ---
+  -> Generated Keywords: ['일회용 접시 세트', '일회용 접시', '접시 세트', '접시', '주방용품', '파티용품']
+--- [Q52] Customer asks: '욕실에 샴푸랑 린스 놓을 자리가 없어서 공중부양 시키고 싶어요.' ---
+
+--- [Node: analyze_intent] Processing: 욕실에 샴푸랑 린스 놓을 자리가 없어서 공중부양 시키고 싶어요. ---
+[2026-01-21 18:22:38.788465] [21786ee3-ce96-4ec4-b438-ed566a5b380d] Analyzing: 욕실에 샴푸랑 린스 놓을 자리가 없어서 공중부양 시키고 싶어요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['샴푸 린스 거치대']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['샴푸 린스 거치대'] ---
+  -> Generated Keywords: ['샴푸 린스 거치대', '욕실', '거치대', '욕실용품', '정리', '수납']
+--- [Q53] Customer asks: '다이어리 꾸미기 입문하려는데 스티커 추천 좀.' ---
+
+--- [Node: analyze_intent] Processing: 다이어리 꾸미기 입문하려는데 스티커 추천 좀. ---
+[2026-01-21 18:22:40.880030] [a7d3e286-0a4d-4327-9f1b-085f5f5080a7] Analyzing: 다이어리 꾸미기 입문하려는데 스티커 추천 좀. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['스티커']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['스티커'] ---
+  -> Generated Keywords: ['스티커', '다이어리', '문구', '꾸미기']
+--- [Q54] Customer asks: '선생님께 드릴 건데 너무 비싸지 않으면서 포장 예쁜 거.' ---
+
+--- [Node: analyze_intent] Processing: 선생님께 드릴 건데 너무 비싸지 않으면서 포장 예쁜 거. ---
+[2026-01-21 18:22:42.814907] [62d6c56f-4ff8-4c5b-826c-a33566ca695d] Analyzing: 선생님께 드릴 건데 너무 비싸지 않으면서 포장 예쁜 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['선물']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['선물'] ---
+  -> Generated Keywords: ['선물', '선물용품']
+--- [Q55] Customer asks: '비 오는 날 신발 젖는 거 너무 싫은데 방수되는 거 없나요?' ---
+
+--- [Node: analyze_intent] Processing: 비 오는 날 신발 젖는 거 너무 싫은데 방수되는 거 없나요? ---
+[2026-01-21 18:22:44.840866] [91601b4b-9e58-4471-bf49-e0ea4cc9c192] Analyzing: 비 오는 날 신발 젖는 거 너무 싫은데 방수되는 거 없나요? | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['방수 용품']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['방수 용품'] ---
+  -> Generated Keywords: ['방수 용품', '방수', '용품', '생활용품']
+--- [Q56] Customer asks: '조카가 슬라임 만들고 싶다는데 재료 어디 있어요?' ---
+
+--- [Node: analyze_intent] Processing: 조카가 슬라임 만들고 싶다는데 재료 어디 있어요? ---
+[2026-01-21 18:22:46.856891] [e4fde596-f8b2-4f8f-b3f4-d6df687d2ffe] Analyzing: 조카가 슬라임 만들고 싶다는데 재료 어디 있어요? | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['슬라임 재료']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['슬라임 재료'] ---
+  -> Generated Keywords: ['슬라임 재료', '슬라임', '재료', '취미용품', 'DIY']
+--- [Q57] Customer asks: '유튜브 촬영할 때 핸드폰 고정해 놓을 거.' ---
+
+--- [Node: analyze_intent] Processing: 유튜브 촬영할 때 핸드폰 고정해 놓을 거. ---
+[2026-01-21 18:22:48.961687] [3a1a4951-f494-48f7-83bb-10ae92210cec] Analyzing: 유튜브 촬영할 때 핸드폰 고정해 놓을 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['핸드폰 거치대']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['핸드폰 거치대'] ---
+  -> Generated Keywords: ['핸드폰 거치대', '핸드폰', '거치대', '디지털', '핸드폰 용품', '스마트폰', '휴대폰']
+--- [Q58] Customer asks: '독서실에서 쓸 소리 안 나는 슬리퍼.' ---
+
+--- [Node: analyze_intent] Processing: 독서실에서 쓸 소리 안 나는 슬리퍼. ---
+[2026-01-21 18:22:51.239015] [3dd70a5d-01ac-4ba3-af51-1f2624208cee] Analyzing: 독서실에서 쓸 소리 안 나는 슬리퍼. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['슬리퍼']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['슬리퍼'] ---
+  -> Generated Keywords: ['슬리퍼', '실내', '신발', '패션', '간편한']
+--- [Q59] Customer asks: '음식물 쓰레기 냄새 안 나게 밀폐 잘 되는 통.' ---
+
+--- [Node: analyze_intent] Processing: 음식물 쓰레기 냄새 안 나게 밀폐 잘 되는 통. ---
+[2026-01-21 18:22:53.430358] [9ea07412-fc9d-401c-ae9a-dc93f49b3952] Analyzing: 음식물 쓰레기 냄새 안 나게 밀폐 잘 되는 통. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['음식물 쓰레기통']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['음식물 쓰레기통'] ---
+  -> Generated Keywords: ['음식물 쓰레기통', '쓰레기통', '주방', '주방용품', '음식물 쓰레기 처리']
+--- [Q60] Customer asks: '원룸인데 빨래 건조대 놓을 자리가 없어요.' ---
+
+--- [Node: analyze_intent] Processing: 원룸인데 빨래 건조대 놓을 자리가 없어요. ---
+[2026-01-21 18:22:55.552716] [c9cb00db-d2d1-40a3-873f-c50b109e71fb] Analyzing: 원룸인데 빨래 건조대 놓을 자리가 없어요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['빨래 건조대']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['빨래 건조대'] ---
+  -> Generated Keywords: ['빨래 건조대', '빨래', '건조대', '세탁용품', '의류 건조']
+--- [Q61] Customer asks: '5000원 이하로 중학생 여자애 생일 선물 추천해 줘.' ---
+
+--- [Node: analyze_intent] Processing: 5000원 이하로 중학생 여자애 생일 선물 추천해 줘. ---
+[2026-01-21 18:22:57.561044] [85fecc41-fc4c-4817-9f48-fabb94d95b21] Analyzing: 5000원 이하로 중학생 여자애 생일 선물 추천해 줘. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['선물']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['선물'] ---
+  -> Generated Keywords: ['선물', '선물용품', '기념품', '포장']
+--- [Q62] Customer asks: '유치원 생일 답례품으로 돌릴 1000원짜리 간식거리.' ---
+
+--- [Node: analyze_intent] Processing: 유치원 생일 답례품으로 돌릴 1000원짜리 간식거리. ---
+[2026-01-21 18:22:59.653044] [c63e5424-91fa-4c42-bb66-c87cc765eff8] Analyzing: 유치원 생일 답례품으로 돌릴 1000원짜리 간식거리. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['간식']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['간식'] ---
+  -> Generated Keywords: ['간식', '식품']
+--- [Q63] Customer asks: '만원으로 욕실 청소 용품 풀세트 맞추고 싶어요.' ---
+
+--- [Node: analyze_intent] Processing: 만원으로 욕실 청소 용품 풀세트 맞추고 싶어요. ---
+[2026-01-21 18:23:01.584385] [319f552d-ea99-48c0-bc5b-ffe701da12f9] Analyzing: 만원으로 욕실 청소 용품 풀세트 맞추고 싶어요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['욕실 청소 용품']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['욕실 청소 용품'] ---
+  -> Generated Keywords: ['욕실 청소 용품', '욕실', '청소 용품', '청소', '욕실용품', '청결']
+--- [Q64] Customer asks: '3000원 안 넘는 선에서 차량용 방향제 있나요?' ---
+
+--- [Node: analyze_intent] Processing: 3000원 안 넘는 선에서 차량용 방향제 있나요? ---
+[2026-01-21 18:23:03.580426] [48bf34f7-5086-47d9-9a95-7e1f133ffbe0] Analyzing: 3000원 안 넘는 선에서 차량용 방향제 있나요? | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['차량용 방향제']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['차량용 방향제'] ---
+  -> Generated Keywords: ['차량용 방향제', '차량용', '방향제', '자동차 용품', '탈취', '향기']
+--- [Q65] Customer asks: '군인 친구한테 보낼 건데 반입 가능한 화장품.' ---
+
+--- [Node: analyze_intent] Processing: 군인 친구한테 보낼 건데 반입 가능한 화장품. ---
+[2026-01-21 18:23:05.794506] [b0f5b497-3014-4c46-82de-56a34ff951ca] Analyzing: 군인 친구한테 보낼 건데 반입 가능한 화장품. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['화장품']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['화장품'] ---
+  -> Generated Keywords: ['화장품', '얼굴', '미용', '뷰티', '피부']
+--- [Q66] Customer asks: '어르신들이 좋아할 만한 지압 용품 추천.' ---
+
+--- [Node: analyze_intent] Processing: 어르신들이 좋아할 만한 지압 용품 추천. ---
+[2026-01-21 18:23:07.811226] [52298cb1-3494-42e2-8d88-3a7abf2f52fa] Analyzing: 어르신들이 좋아할 만한 지압 용품 추천. | History: 0 turns
+[2026-01-21 18:23:12.800672] [52298cb1-3494-42e2-8d88-3a7abf2f52fa] Error: 
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 어르신들이 좋아할 만한 지압 용품 추천. ---
+  -> Inferred Products: ['지압 슬리퍼', '지압 매트', '안마 의자', '손 마사지기', '발 마사지기', '목 어깨 마사지기', '지압봉']
+
+--- [Node: expand_keywords] Expanding keywords for: ['지압 슬리퍼', '지압 매트', '안마 의자', '손 마사지기', '발 마사지기', '목 어깨 마사지기', '지압봉'] ---
+  -> Generated Keywords: ['지압 슬리퍼', '슬리퍼', '신발', '패션', '지압', '지압 매트', '매트', '홈데코', '건강', '안마', '안마 의자', '의자', '휴식', '손 마사지기', '마사지기', '마사지', '뷰티', '휴대용', '발 마사지기', '발', '건강용품', '목 어깨 마사지기', '목마사지기', '어깨마사지기', '피로회복', '지압봉', '마사지 용품']
+--- [Q67] Customer asks: 'AA 건전지 대용량으로 제일 싼 거.' ---
+
+--- [Node: analyze_intent] Processing: AA 건전지 대용량으로 제일 싼 거. ---
+[2026-01-21 18:23:30.026375] [06b55bf1-fad2-4a1a-b0cb-4eb35e854ef9] Analyzing: AA 건전지 대용량으로 제일 싼 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['AA 건전지']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['AA 건전지'] ---
+  -> Generated Keywords: ['AA 건전지', '건전지', '전지', '전자기기', '배터리']
+--- [Q68] Customer asks: '자취생인데 그릇 세트 말고 딱 하나만 산다면 제일 실용적인 거.' ---
+
+--- [Node: analyze_intent] Processing: 자취생인데 그릇 세트 말고 딱 하나만 산다면 제일 실용적인 거. ---
+[2026-01-21 18:23:32.136460] [e0538336-03c1-4195-bc91-fe9889a43594] Analyzing: 자취생인데 그릇 세트 말고 딱 하나만 산다면 제일 실용적인 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['그릇']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['그릇'] ---
+  -> Generated Keywords: ['그릇', '식기', '주방용품']
+--- [Q69] Customer asks: '일본 여행 가는데 110v 돼지코 2개만 필요해요.' ---
+
+--- [Node: analyze_intent] Processing: 일본 여행 가는데 110v 돼지코 2개만 필요해요. ---
+[2026-01-21 18:23:34.154181] [c0278373-2ea6-469c-85b7-1a2ce43d767d] Analyzing: 일본 여행 가는데 110v 돼지코 2개만 필요해요. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['돼지코']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['돼지코'] ---
+  -> Generated Keywords: ['돼지코', '변환 어댑터', '전기용품', '전자제품', '콘센트']
+--- [Q70] Customer asks: '다이소 꿀템이라고 소문난 거 중에 뷰티 쪽 추천해 줘.' ---
+
+--- [Node: analyze_intent] Processing: 다이소 꿀템이라고 소문난 거 중에 뷰티 쪽 추천해 줘. ---
+[2026-01-21 18:23:36.380905] [28d7d7a5-c100-454a-add4-1eecbc78e4b6] Analyzing: 다이소 꿀템이라고 소문난 거 중에 뷰티 쪽 추천해 줘. | History: 0 turns
+  -> Determined Intent: implicit
+  [Edge] Routing to: infer_product_name
+
+--- [Node: infer_product_name] Inferring from: 다이소 꿀템이라고 소문난 거 중에 뷰티 쪽 추천해 줘. ---
+  -> Inferred Products: ['다이소 블렌딩 퍼프', '다이소 브러쉬', '다이소 속눈썹', '다이소 화장솜', '다이소 섀도우 브러쉬']
+
+--- [Node: expand_keywords] Expanding keywords for: ['다이소 블렌딩 퍼프', '다이소 브러쉬', '다이소 속눈썹', '다이소 화장솜', '다이소 섀도우 브러쉬'] ---
+  -> Generated Keywords: ['다이소 블렌딩 퍼프', '블렌딩 퍼프', '퍼프', '미용소품', '화장', '메이크업', '다이소 브러쉬', '브러쉬', '화장품', '미용용품', '다이소 속눈썹', '속눈썹', '미용', '뷰티', '다이소 화장솜', '화장솜', '클렌징', '다이소 섀도우 브러쉬', '섀도우 브러쉬', '눈화장']
+--- [Q71] Customer asks: '지금 당장 살 수 있는 할로윈 소품.' ---
+
+--- [Node: analyze_intent] Processing: 지금 당장 살 수 있는 할로윈 소품. ---
+[2026-01-21 18:23:43.440748] [dc496168-bd80-41a9-956b-426c68314d32] Analyzing: 지금 당장 살 수 있는 할로윈 소품. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['할로윈 소품']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['할로윈 소품'] ---
+  -> Generated Keywords: ['할로윈 소품', '할로윈', '소품', '파티용품', '장식', '할로윈 장식']
+--- [Q72] Customer asks: '크리스마스 트리 장식 2만 원 안으로 해결하고 싶어.' ---
+
+--- [Node: analyze_intent] Processing: 크리스마스 트리 장식 2만 원 안으로 해결하고 싶어. ---
+[2026-01-21 18:23:45.554050] [78cce83d-a461-4be7-8d90-2e1bc1e737f0] Analyzing: 크리스마스 트리 장식 2만 원 안으로 해결하고 싶어. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['크리스마스 트리 장식']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['크리스마스 트리 장식'] ---
+  -> Generated Keywords: ['크리스마스 트리 장식', '크리스마스', '트리 장식', '장식', '파티용품', '장식품']
+--- [Q73] Customer asks: '국산 볼펜 중에 제일 잘 써지는 거.' ---
+
+--- [Node: analyze_intent] Processing: 국산 볼펜 중에 제일 잘 써지는 거. ---
+[2026-01-21 18:23:47.641212] [7541d9c4-2e3a-4c44-acdb-a1f4e3c92d3b] Analyzing: 국산 볼펜 중에 제일 잘 써지는 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['볼펜']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['볼펜'] ---
+  -> Generated Keywords: ['볼펜', '필기도구', '문구', '사무용품', '학용품']
+--- [Q74] Customer asks: '유리병 말고 안 깨지는 플라스틱 물병.' ---
+
+--- [Node: analyze_intent] Processing: 유리병 말고 안 깨지는 플라스틱 물병. ---
+[2026-01-21 18:23:49.687522] [86ff7028-e090-4db0-b8f8-d8ccde50c0b0] Analyzing: 유리병 말고 안 깨지는 플라스틱 물병. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['물병']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['물병'] ---
+  -> Generated Keywords: ['물병', '주방', '병', '주방용품', '물통']
+--- [Q75] Customer asks: '색깔 별로 들어있는 고무줄 세트.' ---
+
+--- [Node: analyze_intent] Processing: 색깔 별로 들어있는 고무줄 세트. ---
+[2026-01-21 18:23:51.602837] [c9c15501-5c59-46ed-90c6-352b66331c24] Analyzing: 색깔 별로 들어있는 고무줄 세트. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['고무줄']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['고무줄'] ---
+  -> Generated Keywords: ['고무줄', '문구', '머리끈', '다용도', '탄성있는']
+--- [Q76] Customer asks: 'A4 용지 들어가는 파일 홀더 10개 묶음.' ---
+
+--- [Node: analyze_intent] Processing: A4 용지 들어가는 파일 홀더 10개 묶음. ---
+[2026-01-21 18:23:53.613629] [db14d064-33f4-4fd5-a3a1-3ce66af8fad4] Analyzing: A4 용지 들어가는 파일 홀더 10개 묶음. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['파일 홀더']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['파일 홀더'] ---
+  -> Generated Keywords: ['파일 홀더', '사무실', '홀더', '문구', '정리', '보관']
+--- [Q77] Customer asks: '냄새 안 나는 무향 제습제.' ---
+
+--- [Node: analyze_intent] Processing: 냄새 안 나는 무향 제습제. ---
+[2026-01-21 18:23:55.824360] [1645860c-fd20-42bf-b4ad-e37567d8db2e] Analyzing: 냄새 안 나는 무향 제습제. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['제습제']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['제습제'] ---
+  -> Generated Keywords: ['제습제', '옷장', '습기 제거제', '생활용품', '습기 제거', '냄새 제거']
+--- [Q78] Customer asks: '캐리어에 붙일 만한 큰 스티커.' ---
+
+--- [Node: analyze_intent] Processing: 캐리어에 붙일 만한 큰 스티커. ---
+[2026-01-21 18:23:57.613338] [1559ab49-fb5e-42fd-b807-95e827b61d04] Analyzing: 캐리어에 붙일 만한 큰 스티커. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['스티커']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['스티커'] ---
+  -> Generated Keywords: ['스티커', '다이어리', '문구', '꾸미기']
+--- [Q79] Customer asks: '전자레인지랑 식기세척기 둘 다 되는 그릇.' ---
+
+--- [Node: analyze_intent] Processing: 전자레인지랑 식기세척기 둘 다 되는 그릇. ---
+[2026-01-21 18:23:59.471578] [053c4492-8622-4668-ac01-8a23dae0c50b] Analyzing: 전자레인지랑 식기세척기 둘 다 되는 그릇. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['그릇']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['그릇'] ---
+  -> Generated Keywords: ['그릇', '식기', '주방용품', '접시', '보관용기']
+--- [Q80] Customer asks: '아이폰 충전 케이블인데 줄 긴 거(2m 이상).' ---
+
+--- [Node: analyze_intent] Processing: 아이폰 충전 케이블인데 줄 긴 거(2m 이상). ---
+[2026-01-21 18:24:01.490897] [f84eaf18-d53f-420e-9b0c-3b12fa9c0885] Analyzing: 아이폰 충전 케이블인데 줄 긴 거(2m 이상). | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['아이폰 충전 케이블']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['아이폰 충전 케이블'] ---
+  -> Generated Keywords: ['아이폰 충전 케이블', '아이폰', '충전 케이블', '케이블', '디지털', '핸드폰 용품', '충전기']
+--- [Q81] Customer asks: '약간 카페 같은 분위기 내는 조명 없나?' ---
+
+--- [Node: analyze_intent] Processing: 약간 카페 같은 분위기 내는 조명 없나? ---
+[2026-01-21 18:24:03.521686] [500e421c-f9d3-41ce-9fe5-7d902b5e2bb4] Analyzing: 약간 카페 같은 분위기 내는 조명 없나? | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['조명']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['조명'] ---
+  -> Generated Keywords: ['조명', '침실', '거실', '인테리어', '장식']
+--- [Q82] Customer asks: '방에서 나는 홀아비 냄새 잡는 거.' ---
+
+--- [Node: analyze_intent] Processing: 방에서 나는 홀아비 냄새 잡는 거. ---
+[2026-01-21 18:24:05.622193] [54c6772a-0f95-4331-92ec-31a5250e6014] Analyzing: 방에서 나는 홀아비 냄새 잡는 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['탈취제']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['탈취제'] ---
+  -> Generated Keywords: ['탈취제', '냄새 제거제', '방향제', '생활용품', '탈취', '냄새 제거', '향기']
+--- [Q83] Customer asks: '그... 뽁뽁이 말고 창문에 붙여서 단열하는 거.' ---
+
+--- [Node: analyze_intent] Processing: 그... 뽁뽁이 말고 창문에 붙여서 단열하는 거. ---
+[2026-01-21 18:24:07.714406] [ab9442b3-49fd-48fd-9fa1-849d04a074f6] Analyzing: 그... 뽁뽁이 말고 창문에 붙여서 단열하는 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['단열 시트']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['단열 시트'] ---
+  -> Generated Keywords: ['단열 시트', '창문', '시트', '생활용품', '단열']
+--- [Q84] Customer asks: '손에 뭐 안 묻히고 과자 집어 먹는 집게 같은 거.' ---
+
+--- [Node: analyze_intent] Processing: 손에 뭐 안 묻히고 과자 집어 먹는 집게 같은 거. ---
+[2026-01-21 18:24:09.740920] [6e6239f1-be6f-41a1-a712-33f23e32630f] Analyzing: 손에 뭐 안 묻히고 과자 집어 먹는 집게 같은 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['집게']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['집게'] ---
+  -> Generated Keywords: ['집게', '주방', '조리도구', '주방용품', '고정']
+--- [Q85] Customer asks: '화장대 거울에 붙여서 밝게 만드는 전구.' ---
+
+--- [Node: analyze_intent] Processing: 화장대 거울에 붙여서 밝게 만드는 전구. ---
+[2026-01-21 18:24:11.752850] [681578b1-6461-4837-b8f3-c377450eb732] Analyzing: 화장대 거울에 붙여서 밝게 만드는 전구. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['전구']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['전구'] ---
+  -> Generated Keywords: ['전구', '조명', '전기', '생활용품', '조명용품']
+--- [Q86] Customer asks: '냉장고 옆면에 자석으로 붙여서 수납하는 거.' ---
+
+--- [Node: analyze_intent] Processing: 냉장고 옆면에 자석으로 붙여서 수납하는 거. ---
+[2026-01-21 18:24:13.932499] [720a7e51-f686-49e5-b55b-b9988abdfb6e] Analyzing: 냉장고 옆면에 자석으로 붙여서 수납하는 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['자석 수납']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['자석 수납'] ---
+  -> Generated Keywords: ['자석 수납', '자석', '수납', '정리용품', '수납 정리']
+--- [Q87] Customer asks: '싱크대 물 튀는 거 막아주는 투명한 판.' ---
+
+--- [Node: analyze_intent] Processing: 싱크대 물 튀는 거 막아주는 투명한 판. ---
+[2026-01-21 18:24:16.126688] [bc5baa02-e0ac-4dc6-98d8-c093ea9d3cc5] Analyzing: 싱크대 물 튀는 거 막아주는 투명한 판. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['물 튐 방지판']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['물 튐 방지판'] ---
+  -> Generated Keywords: ['물 튐 방지판', '주방', '방지판', '주방용품', '물 튐 방지']
+--- [Q88] Customer asks: '샤워기 물줄기 너무 세서 아픈데 부드럽게 나오는 헤드.' ---
+
+--- [Node: analyze_intent] Processing: 샤워기 물줄기 너무 세서 아픈데 부드럽게 나오는 헤드. ---
+[2026-01-21 18:24:18.240355] [f0418abd-3628-460a-8e7b-64c0f16adab6] Analyzing: 샤워기 물줄기 너무 세서 아픈데 부드럽게 나오는 헤드. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['샤워기 헤드']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['샤워기 헤드'] ---
+  -> Generated Keywords: ['샤워기 헤드', '샤워기', '헤드', '욕실용품', '샤워']
+--- [Q89] Customer asks: '책 읽을 때 페이지 안 넘어가게 잡아주는 거.' ---
+
+--- [Node: analyze_intent] Processing: 책 읽을 때 페이지 안 넘어가게 잡아주는 거. ---
+[2026-01-21 18:24:20.240628] [4dd51b3d-14a5-4e34-a151-7472a6f49608] Analyzing: 책 읽을 때 페이지 안 넘어가게 잡아주는 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['독서 페이지 홀더']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['독서 페이지 홀더'] ---
+  -> Generated Keywords: ['독서 페이지 홀더', '독서', '페이지 홀더', '홀더', '문구', '사무용품', '독서 용품']
+--- [Q90] Customer asks: '컴퓨터 키보드 사이사이 먼지 빼내는 젤리 같은 거.' ---
+
+--- [Node: analyze_intent] Processing: 컴퓨터 키보드 사이사이 먼지 빼내는 젤리 같은 거. ---
+[2026-01-21 18:24:22.443834] [b683caed-385c-427a-8d49-bdc654ad9bc3] Analyzing: 컴퓨터 키보드 사이사이 먼지 빼내는 젤리 같은 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['먼지 제거 젤리']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['먼지 제거 젤리'] ---
+  -> Generated Keywords: ['먼지 제거 젤리', '먼지제거', '젤리', '청소용품', '먼지 흡착']
+--- [Q91] Customer asks: '방바닥에 머리카락 굴러다니는 거 싫어서 슥슥 미는 거.' ---
+
+--- [Node: analyze_intent] Processing: 방바닥에 머리카락 굴러다니는 거 싫어서 슥슥 미는 거. ---
+[2026-01-21 18:24:24.561516] [f14b649c-d21d-4692-9c7e-a21aee699e75] Analyzing: 방바닥에 머리카락 굴러다니는 거 싫어서 슥슥 미는 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['밀대']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['밀대'] ---
+  -> Generated Keywords: ['밀대', '청소', '청소용품', '바닥청소', '먼지 제거']
+--- [Q92] Customer asks: '운동할 때 핸드폰 팔뚝에 차는 거.' ---
+
+--- [Node: analyze_intent] Processing: 운동할 때 핸드폰 팔뚝에 차는 거. ---
+[2026-01-21 18:24:26.858105] [f8b233f6-93af-485f-9ecc-29abed155f3a] Analyzing: 운동할 때 핸드폰 팔뚝에 차는 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['핸드폰 암밴드']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['핸드폰 암밴드'] ---
+  -> Generated Keywords: ['핸드폰 암밴드', '핸드폰', '암밴드', '핸드폰 용품', '스포츠', '팔밴드']
+--- [Q93] Customer asks: '마스크 오래 쓰면 귀 아픈데 안 아프게 하는 고리.' ---
+
+--- [Node: analyze_intent] Processing: 마스크 오래 쓰면 귀 아픈데 안 아프게 하는 고리. ---
+[2026-01-21 18:24:28.956755] [af2a86dc-446e-402e-8441-4087825a1cd5] Analyzing: 마스크 오래 쓰면 귀 아픈데 안 아프게 하는 고리. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['마스크 고리']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['마스크 고리'] ---
+  -> Generated Keywords: ['마스크 고리', '마스크', '고리', '패션소품', '마스크용품', '분실방지']
+--- [Q94] Customer asks: '후라이팬 코팅 안 벗겨지게 긁는 뒤집개.' ---
+
+--- [Node: analyze_intent] Processing: 후라이팬 코팅 안 벗겨지게 긁는 뒤집개. ---
+[2026-01-21 18:24:31.174541] [5fc6d5eb-51cc-4faa-917b-eeeeef5248e9] Analyzing: 후라이팬 코팅 안 벗겨지게 긁는 뒤집개. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['뒤집개']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['뒤집개'] ---
+  -> Generated Keywords: ['뒤집개', '주방', '조리도구', '주방용품', '요리']
+--- [Q95] Customer asks: '니트 옷걸이에 걸면 어깨 튀어나오는데 안 그러는 옷걸이.' ---
+
+--- [Node: analyze_intent] Processing: 니트 옷걸이에 걸면 어깨 튀어나오는데 안 그러는 옷걸이. ---
+[2026-01-21 18:24:33.124320] [d58303e0-4f23-4167-b9e6-4da4d0dde92f] Analyzing: 니트 옷걸이에 걸면 어깨 튀어나오는데 안 그러는 옷걸이. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['옷걸이']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['옷걸이'] ---
+  -> Generated Keywords: ['옷걸이', '옷장', '걸이', '정리용품', '수납', '옷']
+--- [Q96] Customer asks: '욕실 슬리퍼 물 잘 빠지고 구멍 숭숭 뚫린 거.' ---
+
+--- [Node: analyze_intent] Processing: 욕실 슬리퍼 물 잘 빠지고 구멍 숭숭 뚫린 거. ---
+[2026-01-21 18:24:35.204842] [bc95ffbd-14e3-4ed3-88f2-db634fbb9626] Analyzing: 욕실 슬리퍼 물 잘 빠지고 구멍 숭숭 뚫린 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['욕실 슬리퍼']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['욕실 슬리퍼'] ---
+  -> Generated Keywords: ['욕실 슬리퍼', '욕실', '슬리퍼', '욕실용품', '미끄럼방지', 'eva 슬리퍼']
+--- [Q97] Customer asks: '이어폰 줄 꼬인 거 푸느라 짜증 나는데 감아두는 거.' ---
+
+--- [Node: analyze_intent] Processing: 이어폰 줄 꼬인 거 푸느라 짜증 나는데 감아두는 거. ---
+[2026-01-21 18:24:37.509402] [7b363dbc-f62b-461b-b72a-1fa2fcb32887] Analyzing: 이어폰 줄 꼬인 거 푸느라 짜증 나는데 감아두는 거. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['이어폰 줄 감개']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['이어폰 줄 감개'] ---
+  -> Generated Keywords: ['이어폰 줄 감개', '이어폰', '줄 감개', '디지털', '핸드폰 용품', '정리']
+--- [Q98] Customer asks: '택배 송장 번호 개인정보 지우는 도장.' ---
+
+--- [Node: analyze_intent] Processing: 택배 송장 번호 개인정보 지우는 도장. ---
+[2026-01-21 18:24:39.808861] [32c69948-d41b-445a-8358-cd4a353469ea] Analyzing: 택배 송장 번호 개인정보 지우는 도장. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['개인 정보 보호 도장']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['개인 정보 보호 도장'] ---
+  -> Generated Keywords: ['개인 정보 보호 도장', '개인 정보 보호', '보호 도장', '도장', '사무용품', '개인 정보', '정보 보호']
+--- [Q99] Customer asks: '비누 거품 잘 나게 하는 망.' ---
+
+--- [Node: analyze_intent] Processing: 비누 거품 잘 나게 하는 망. ---
+[2026-01-21 18:24:42.091530] [b7459d44-7b5a-470c-a61c-e7c0236d5795] Analyzing: 비누 거품 잘 나게 하는 망. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['거품망']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['거품망'] ---
+  -> Generated Keywords: ['거품망', '세안', '망', '미용', '세안용품', '거품생성']
+--- [Q100] Customer asks: '새우 껍질 까기 귀찮은데 쉽게 까는 도구.' ---
+
+--- [Node: analyze_intent] Processing: 새우 껍질 까기 귀찮은데 쉽게 까는 도구. ---
+[2026-01-21 18:24:44.283016] [8afc86a4-5650-4910-8d4d-1e5eeb7a7797] Analyzing: 새우 껍질 까기 귀찮은데 쉽게 까는 도구. | History: 0 turns
+  -> Determined Intent: explicit
+  -> Extracted Products: ['새우 껍질 제거 도구']
+  [Edge] Routing to: expand_keywords
+
+--- [Node: expand_keywords] Expanding keywords for: ['새우 껍질 제거 도구'] ---
+  -> Generated Keywords: ['새우 껍질 제거 도구', '새우', '제거 도구', '도구', '주방용품', '껍질 제거']
+
+Graph compiled and executed successfully!

@@ -1,0 +1,111 @@
+=== Direct Search Verification Report ===
+Total Queries: 100
+Execution Time: 147.41s
+--------------------------------------------------
+Intent Accuracy (direct_search): 99/100 (99%)
+Search Success Rate (Found Items): 100/100 (100%)
+==================================================
+
+Detailed Logs:
+Query                                    | Intent          | Keyword         | Found?
+------------------------------------------------------------------------------------------
+14포켓 섹션 파일 위치 알려줘                        | problem_solving | 14포켓 섹션 파일      | ✅
+1단 데스크 서랍장 26 X 19 X 8 cm 찾아줘            | direct_search   | 데스크 서랍장         | ✅
+2080 퓨어 마운틴 핑크솔트 (100 g)                 | direct_search   | 퓨어 마운틴 핑크솔트     | ✅
+2080 퓨어 솔트 치약 크리스탈민트 100g 있어?            | direct_search   | 퓨어 솔트 치약        | ✅
+2단 도어스토퍼 2개입 파나요?                        | direct_search   | 도어스토퍼           | ✅
+2채널 유선 스피커 LED 스피커 재고 있어?                | direct_search   | 2채널 유선 스피커      | ✅
+3M 스카치 다용도 리필 테이프 12mmX21m 2개입 찾아줘       | direct_search   | 다용도 리필 테이프      | ✅
+다이소 3M 스카치 다용도 테이프 디스펜서 12mmX21m 있어?     | direct_search   | 다용도 테이프 디스펜서    | ✅
+3M 스카치 박스테이프 투명 40m 구매하고 싶어              | direct_search   | 박스테이프           | ✅
+3단 자동 우산 (블랙) 찾아줘                        | direct_search   | 3단 자동 우산        | ✅
+3색 초저점도 볼펜 0.7mm 2P 있어?                  | direct_search   | 볼펜              | ✅
+3중 청소용 스펀지 2P 재고 있어?                     | direct_search   | 청소용 스펀지         | ✅
+3칸 투명 책꽂이 블랙 어디에 있어?                     | direct_search   | 책꽂이             | ✅
+4스텝 일회용 샤워세트 5mX4매입 있어?                  | direct_search   | 샤워세트            | ✅
+9구 다용도 보관케이스 어디에 있어?                     | direct_search   | 9구 다용도 보관케이스    | ✅
+A4 카드 케이스 구매하고 싶어                        | direct_search   | 카드 케이스          | ✅
+A5 바인더 루즈 리프 노트 퍼플 구매하고 싶어               | direct_search   | A5 바인더 루즈 리프 노트 | ✅
+AHC 에이지리뉴 듀얼 텐션 마스크 타이트닝 1매 28 g 어디에 있어? | direct_search   | 에이지리뉴 듀얼 텐션 마스크 | ✅
+AHC 에이지리뉴 아이크림 링클 30 ml 있어?              | direct_search   | 아이크림            | ✅
+AHC 에이지리뉴 크림 미스트 타이트닝 100 ml 찾아줘         | direct_search   | 에이지리뉴 크림 미스트    | ✅
+AHC 에이지리뉴 크림 타이트닝 50 ml 어디에 있어?          | direct_search   | 에이지리뉴 크림 타이트닝   | ✅
+B7 UV 차단 경질 카드 케이스 2매입                   | direct_search   | 차단 카드 케이스       | ✅
+EVA 심플 패턴 슬리퍼 260~280 mm 찾아줘             | direct_search   | 슬리퍼             | ✅
+EVA 욕실 슬리퍼 (260mm) 구매하고 싶어               | direct_search   | 욕실 슬리퍼          | ✅
+EVA 푹신 쿠션 슬리퍼 230~250 mm 옐로우 구매하고 싶어     | direct_search   | 쿠션 슬리퍼          | ✅
+EVA 푹신 쿠션 슬리퍼 260~280 mm 그레이 파나요?        | direct_search   | 푹신 쿠션 슬리퍼       | ✅
+F3호 면 함유 캔버스 재고 있어?                      | direct_search   | 면 함유 캔버스        | ✅
+F4호 MDF 캔버스 있어?                          | direct_search   | 캔버스             | ✅
+GUTK 키친 타월 200매입 1롤 어디에 있어?              | direct_search   | 키친 타월           | ✅
+HDPE 일회용 위생장갑 120매입 구매하고 싶어              | direct_search   | 일회용 위생장갑        | ✅
+K일회용필터 블랙 마스크 대형 30 매입                   | direct_search   | 일회용필터           | ✅
+K일회용필터 화이트 마스크 대형 30 매입 있어?              | direct_search   | 일회용필터           | ✅
+LG생활건강 이너뷰 다이어트 가르시니아 10포 파나요?           | direct_search   | 다이어트 가르시니아      | ✅
+L자형 투톤 치간칫솔 SSSS 8P 어디에 있어?              | direct_search   | 치간칫솔            | ✅
+NEW 맘스크린 위생백 중형 400매입 어디에 있어?            | direct_search   | 맘스크린 위생백        | ✅
+NEW 맘스크린 장갑 240매입 있어?                    | direct_search   | 장갑              | ✅
+PET 클리어 바구니 3구 있어?                       | direct_search   | 클리어 바구니         | ✅
+PP 투명 케이스 14호 어디에 있어?                    | direct_search   | 투명 케이스          | ✅
+PP 투명 케이스 1호 어디에 있어?                     | direct_search   | 투명 케이스          | ✅
+RGIII 레드진생 스칼프 샴푸 300ml 구매하고 싶어          | direct_search   | 레드진생 스칼프 샴푸     | ✅
+RGIII 레드진생 스칼프 토닉 100ml 검색해줘             | direct_search   | 스칼프 토닉          | ✅
+TS 비듬케어 샴푸 300 g 위치 알려줘                  | direct_search   | 비듬케어 샴푸         | ✅
+TV 전용 통합 리모컨                             | direct_search   | TV 전용 통합 리모컨    | ✅
+VT PDRN 광채리프팅마스크 1매 27 g+광채에센스 1.5 ml 검색해줘 | direct_search   | 광채리프팅마스크        | ✅
+다이소 VT PDRN 광채선에센스 50 ml 있어?             | direct_search   | 광채선에센스          | ✅
+VT PDRN 광채시트마스크 1매 25 g 위치 알려줘           | direct_search   | 광채시트마스크         | ✅
+VT PDRN 광채에센스 2 ml 6개입 어디에 있어?           | direct_search   | 광채에센스           | ✅
+VT PDRN 광채크림 50 ml 어디에 있어?               | direct_search   | 광채크림            | ✅
+VT PDRN 광채토너 200 ml 재고 있어?               | direct_search   | 광채토너            | ✅
+VT 리들샷 100 페이셜 부스팅 퍼스트 앰플 2ml*6개입 검색해줘   | direct_search   | 리들샷             | ✅
+VT 리들샷 300 페이셜 부스팅 퍼스트 앰플 2ml*6개입 찾아줘    | direct_search   | 리들샷             | ✅
+VT 리들샷 500 페이셜 부스팅 퍼스트 앰플 2ml*8개입 검색해줘   | direct_search   | 리들샷             | ✅
+VT 리들샷 페이셜 레디언스 글루타치온 에센스 2ml*6개입 검색해줘   | direct_search   | 리들샷             | ✅
+VT 리들샷 페이셜 리페어 EGF 에센스 2ml*6개입 찾아줘       | direct_search   | 리들샷             | ✅
+VT 프로 시카 리들샷 S50 페이셜 부스팅 퍼스트 앰플 2ml*6개입 재고 있어? | direct_search   | 리들샷             | ✅
+[01 라이트 베이지] 드롭비 컬러즈 커버픽 파운데이션 리뉴 35 g   | direct_search   | 파운데이션           | ✅
+[02 베리슈가]밀크터치 디어씽 글로우 이펙트 젤리 터치팟 검색해줘    | direct_search   | 디어씽 글로우 이펙트 젤리 터치팟 | ✅
+[12 헤이지 로즈]프릴루드 딘토 라벨르로즈 립라이너 구매하고 싶어    | direct_search   | 립라이너            | ✅
+[25 모닝 로즈]프릴루드 딘토 라벨르 로즈 플럼핑 립틴트 재고 있어?  | direct_search   | 모닝 로즈           | ✅
+다이소 [63 마담 로즈]프릴루드 딘토 라벨르로즈 리퀴드치크 10 ml 있어? | direct_search   | 마담 로즈           | ✅
+[국내] 진공 밀폐 용기 정사각 2L 재고 있어?              | direct_search   | 진공 밀폐 용기        | ✅
+[국내] 진공 밀폐 용기 정사각 920ml 있어?              | direct_search   | 진공 밀폐 용기        | ✅
+[국내생산] 러버랩 니트릴장갑 10매 중형 크림핑크 검색해줘        | direct_search   | 니트릴장갑           | ✅
+다이소 [국내생산] 러버랩 두꺼운니트릴장갑 6매 대형 블랙 있어?     | direct_search   | 니트릴장갑           | ✅
+다이소 [입수 UP] 디자인 종이컵 184 ml 100개입 있어?     | direct_search   | 종이컵             | ✅
+[입수 UP] 디자인 종이컵 184 ml 50개입 재고 있어?       | direct_search   | 종이컵             | ✅
+[입수 UP] 무지 종이컵 184 ml 50개입 재고 있어?        | direct_search   | 종이컵             | ✅
+[펫] LG시리우스 윌 비프 스테이크 스틱 22 g (10g당 455원) 있어? | direct_search   | 스테이크 스틱         | ✅
+[펫] 고슴도치 애견 인형 베이지 재고 있어?                | direct_search   | 고슴도치 인형         | ✅
+[펫] 더독 슬라이스 사사미 36 g 치킨 찾아줘              | direct_search   | 사사미             | ✅
+[펫] 더독 육포 한입 80 g 오리 구매하고 싶어             | direct_search   | 육포              | ✅
+[펫] 더주스 치킨 힘줄 육포 닭고기 맛 70 g              | direct_search   | 치킨 힘줄 육포        | ✅
+[펫] 매트 30 X 30 cm 6개입 베이지 위치 알려줘         | direct_search   | 매트              | ✅
+[펫] 몬스터 굿 라이프 시그니쳐 반려견용 주식캔 110 g 닭고기＆소고기 재고 있어? | direct_search   | 주식캔             | ✅
+[펫] 몬스터 굿 라이프 시그니쳐 반려견용 주식캔 110 g 닭고기＆황태 파나요? | direct_search   | 닭고기＆황태          | ✅
+[펫] 미오크리미 15 g X 6개입 연어                  | direct_search   | 미오크리미           | ✅
+[펫] 배변 비닐 봉투 12롤 블랙 파나요?                 | direct_search   | 배변 비닐 봉투        | ✅
+[펫] 아침애 동애등에 사료 200 g (10g당 100원)        | direct_search   | 동애등에 사료         | ✅
+[펫] 이나바 트윈컵 테린 참치＆닭가슴살＆치어 35 g X 2개입 재고 있어? | direct_search   | 테린              | ✅
+[펫] 이즈칸 캣 오리지널 통통닭 26 g (10g당 385원) 구매하고 싶어 | direct_search   | 캣 오리지널 통통닭      | ✅
+[펫] 캐츠랑 저요저요 닭고기 50 g 있어?                | direct_search   | 캐츠랑 닭고기         | ✅
+[한정수량] 닥터블릿 푸응 7Days 팻버닝 21캡슐 체크리스트 포함 파나요? | direct_search   | 닥터블릿 푸응 7Days 팻버닝 21캡슐 | ✅
+[화잘먹템] 미모 바이 마몽드 로지-히알론 리퀴드 마스크 2 ml 6개입 (아모레퍼시픽) 있어? | direct_search   | 화잘먹템            | ✅
+가방 잠금 솔트레지 12 mm 4개입 실버 파나요?             | direct_search   | 가방 잠금           | ✅
+가스레인지 판넬 75 X 32 cm 파나요?                 | direct_search   | 가스레인지 판넬        | ✅
+가온2칸나눔종지(약14 cm)                         | direct_search   | 가온2칸나눔종지        | ✅
+가정용 양초 대형 6개입 위치 알려줘                     | direct_search   | 양초              | ✅
+감성 편지 세트 4세트 핑크 있어?                      | direct_search   | 편지 세트           | ✅
+감자 캡슐팩 재고 있어?                            | direct_search   | 감자 캡슐팩          | ✅
+감자알칩 70 g 검색해줘                           | direct_search   | 감자알칩            | ✅
+강력 곰팡이 제거 젤 (튜브형)                        | direct_search   | 곰팡이 제거 젤        | ✅
+개인 정보 지우개 10 ml 라벤더 향 파나요?               | direct_search   | 개인 정보 지우개       | ✅
+걸이형 스텐 집게 5개입 구매하고 싶어                    | direct_search   | 집게              | ✅
+걸이형 제습제 200 g (화이트머스크향) 재고 있어?           | direct_search   | 제습제             | ✅
+걸이형 제습제 200g 있어?                         | direct_search   | 제습제             | ✅
+걸이＆스탠드 겸용 제습제 160 g 어디에 있어?              | direct_search   | 제습제             | ✅
+고급 세로형 쇼핑백 네이비 S 위치 알려줘                  | direct_search   | 쇼핑백             | ✅
+고급 세로형 쇼핑백 베이지 S 어디에 있어?                 | direct_search   | 쇼핑백             | ✅
+고급한방때비누 있어?                              | direct_search   | 한방때비누           | ✅
+고무나무 미니 이젤 어디에 있어?                       | direct_search   | 고무나무 미니 이젤      | ✅
