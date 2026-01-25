@@ -1,0 +1,1996 @@
+=== Keyword Extraction Evaluation ===
+
+[MATCH] Q: 집에서 쓰는 건데 뭐 하나 없을까요?
+  Intention: 생활용 다용도 소품 추천 / 수납용품 추천
+  Keyword: 생활용품
+  Note: MATCH | The extracted keyword "생활용품" (household goods) is a broad term that can encompass many everyday items used in the home. This aligns well with the user's intention of finding "생활용 다용도 소품" (multi-purpose household items) or "수납용품" (storage items). While not perfectly specific, it's a reasonable starting point for a search.
+
+[MATCH] Q: 이거 좀 안 흘리게 하는 거 있어요?
+  Intention: 밀폐용기 / 컵뚜껑 / 흘림방지 마개 구매
+  Keyword: 컵
+  Note: MATCH | 컵 is a type of container, and the intention includes buying items that prevent spilling, which could include cup lids or other items related to cups.
+
+[MISMATCH] Q: 그… 여기 어디에 그런 거 있죠?
+  Intention: 매장 위치 안내 요청 / 특정 소품 탐색
+  Keyword: 물건
+  Note: MISMATCH | The extracted keyword "물건" (meaning "thing" or "object") is too broad and vague to fulfill the target intention of finding a specific store location or specific items. It doesn't help narrow down the search or guide the user towards their desired outcome.
+
+[MATCH] Q: 자취하면 하나쯤 있어야 하는 거 뭐 있어요?
+  Intention: 자취 필수템(수납함·청소도구·주방소품) 추천
+  Keyword: 자취 용품
+  Note: MATCH | "자취 용품" is a broad term that encompasses essential items needed for living alone (자취), making it a reasonable search term to find "자취 필수템".
+
+[MATCH] Q: 이거 계속 넘어져서 짜증 나는데 붙이는 거 없나요?
+  Intention: 미끄럼 방지 패드 / 논슬립 패치 구매
+  Keyword: 미끄럼 방지 패드
+  Note: MATCH | The extracted keyword "미끄럼 방지 패드" (anti-slip pad) directly addresses the user's problem of constantly falling and wanting something to stick and prevent that, aligning well with the intention of buying anti-slip pads or patches.
+
+[MATCH] Q: 애가 자꾸 만져서 위험한데 막는 거 있어요?
+  Intention: 안전가드 / 콘센트 커버 / 문손잡이 보호대 구매
+  Keyword: 안전 가드
+  Note: MATCH | "안전 가드" (safety guard) is a broad term that encompasses safety gates, edge protectors, and other similar items used to prevent children from accessing dangerous areas or objects. It is a reasonable search term for fulfilling the intention of finding items to protect a child from touching things that are dangerous.
+
+[MATCH] Q: 물기 닦는 거 말고 다른 방법 없어요?
+  Intention: 흡수 매트 / 물기 제거 패드 구매
+  Keyword: 물기 닦는 거
+  Note: MATCH | The keyword "물기 닦는 거" (wiping moisture) directly relates to the intention of finding absorbent mats or pads for water removal. It describes the action the user wants to avoid, implying they are looking for alternatives for removing water, which aligns with the product intention.
+
+[MATCH] Q: 가방 안에서 이거저거 안 섞이게 하는 거 있나요?
+  Intention: 파우치 / 가방 정리 인서트 구매
+  Keyword: 가방정리함
+  Note: MATCH | "가방정리함" is a reasonable search term to find "파우치 / 가방 정리 인서트 구매" as it directly addresses the need to organize items within a bag.
+
+[MATCH] Q: 여름에 쓰는 건데 겨울엔 안 쓰는 거요
+  Intention: 계절용품(선풍기·쿨방석·모기용품) 탐색
+  Keyword: 선풍기
+  Note: MATCH | 선풍기는 여름에 주로 사용하고 겨울에는 사용하지 않는 대표적인 계절용품이므로, 의도에 부합하는 검색어입니다.
+
+[MISMATCH] Q: 이거 좀 더 편하게 쓰는 방법 없어요?
+  Intention: 보조도구 / 인체공학 소품 추천
+  Keyword: 방법
+  Note: MISMATCH | The keyword "방법" (method) is too broad and doesn't directly relate to recommending assistive tools or ergonomic items. While it implies a search for a solution, it doesn't specify the type of solution related to ergonomics or assistance.
+
+[MATCH] Q: 집에 있으면 은근히 유용한 거 뭐 있어요?
+  Intention: 생활 편의용품 추천
+  Keyword: 생활용품
+  Note: MATCH | "생활용품" is a broad term that includes "생활 편의용품", making it a reasonable search term to fulfill the intention.
+
+[MATCH] Q: 이거 자꾸 떨어지는데 고정하는 거 있나요?
+  Intention: 양면테이프 / 고정 패드 구매
+  Keyword: 고정하는 거
+  Note: MATCH | "고정하는 거" directly relates to the user's need to fix something that keeps falling, aligning with the intention of finding products like double-sided tape or adhesive pads for fixation.
+
+[MATCH] Q: 씻고 나와서 바닥 안 미끄럽게 하는 거 있어요?
+  Intention: 욕실 미끄럼 방지 매트 구매
+  Keyword: 미끄럼 방지 매트
+  Note: MATCH | "미끄럼 방지 매트" is a good search term for finding a mat that prevents slipping in the bathroom, thus fulfilling the intention of buying a "욕실 미끄럼 방지 매트".
+
+[MATCH] Q: 차 안에 두면 좋은 거 뭐 있어요?
+  Intention: 차량용 방향제 / 차량 정리용품 추천
+  Keyword: 방향제
+  Note: MATCH | 방향제는 차량용 방향제 추천이라는 의도를 충족시키는 데 도움이 되는 키워드입니다.
+
+[MATCH] Q: 여행 갈 때 하나쯤 사두면 좋은 거 있어요?
+  Intention: 여행용 파우치 / 목베개 / 수면안대 추천
+  Keyword: 여행용품
+  Note: MATCH | "여행용품" is a broad category that can include travel pouches, neck pillows, and sleep masks, making it a reasonable search term for the user's intention.
+
+[MATCH] Q: 애 키우는 집에서 많이 사는 거 뭐에요?
+  Intention: 유아 안전용품 / 수납함 / 놀이매트 추천
+  Keyword: 유아용품
+  Note: MATCH | "유아용품" (baby products) is a broad term that includes "유아 안전용품" (baby safety products), "수납함" (storage boxes) used for baby items, and "놀이매트" (play mats), all of which are mentioned in the target intention. Therefore, it's a reasonably good search term.
+
+[MISMATCH] Q: 이거 계속 젖는데 안 젖게 하는 거 있어요?
+  Intention: 방수커버 / 방수 파우치 구매
+  Keyword: 우산
+  Note: MISMATCH | The user is asking about something to prevent getting wet, but the extracted keyword "우산" (umbrella) is a general solution for rain, not specifically a waterproof cover or pouch. The keyword doesn't directly lead to the intended product.
+
+[MATCH] Q: 냄새 안 나게 하는 거 뭐 있어요?
+  Intention: 탈취제 / 방향제 구매
+  Keyword: 탈취제
+  Note: MATCH | "탈취제" directly addresses the intention of finding a product to eliminate odors, which aligns with the "탈취제 / 방향제 구매" intention.
+
+[MATCH] Q: 이거 보관 좀 잘하는 방법 없어요?
+  Intention: 수납박스 / 정리함 구매
+  Keyword: 보관
+  Note: MATCH | "보관" is a general term for storage, and while not specific to "수납박스 / 정리함" (storage boxes/organizers), it is closely related and could lead a user to find relevant products.
+
+[MISMATCH] Q: 가끔 필요할 때 쓰는 그런 거 있어요?
+  Intention: 멀티툴 / 다용도 소품 추천
+  Keyword: 물건
+  Note: MISMATCH | "물건" (thing) is too generic and doesn't reflect the specific intention of finding a multi-tool or versatile item. It won't effectively narrow down the search to the desired product category.
+
+[MATCH] Q: 정리 좀 쉽게 하는 거 뭐 없어요?
+  Intention: 수납 정리함 / 바스켓 구매
+  Keyword: 정리함
+  Note: MATCH | "정리함" is a good search term for finding "수납 정리함 / 바스켓", which are storage containers.
+
+[MISMATCH] Q: 이거 자꾸 엉키는데 풀기 귀찮아서요
+  Intention: 케이블 정리 클립 / 이어폰 케이스 구매
+  Keyword: 머리끈
+  Note: MISMATCH | 머리끈 (hair tie) is irrelevant to the user's intention of buying cable clips or earphone cases for cable management. The user is complaining about tangled cables, not tangled hair.
+
+[MISMATCH] Q: 붙여두면 좋은 거 뭐 있어요?
+  Intention: 다용도 후크 / 양면테이프 구매
+  Keyword: 스티커
+  Note: MISMATCH | 스티커 is too generic. While some 다용도 후크 and 양면테이프 might involve stickers, the term doesn't specifically target those products.
+
+[MISMATCH] Q: 열 받지 않게 하는 거 있어요?
+  Intention: 내열 패드 / 손잡이 커버 구매
+  Keyword: 손난로
+  Note: MISMATCH | The question "열 받지 않게 하는 거 있어요?" implies something to prevent getting burned or something that can withstand heat. "손난로" (hand warmer) is the opposite, as it's something that generates heat. Therefore, it is not a reasonably good search term.
+
+[MATCH] Q: 아이가 넘어질까 봐 깔아두는 거 있어요?
+  Intention: 놀이매트 / 미끄럼 방지 매트 구매
+  Keyword: 매트
+  Note: MATCH | The keyword "매트" (mat) is a good general term for finding "놀이매트 / 미끄럼 방지 매트" (play mat / anti-slip mat). It's a relevant and helpful starting point for the user's intended search.
+
+[MATCH] Q: 문 닫힐 때 소리 안 나게 하는 거 있나요?
+  Intention: 문충격 방지 패드 구매
+  Keyword: 문닫힘 방지
+  Note: MATCH | "문닫힘 방지" is a reasonable search term for finding products that prevent doors from slamming shut quietly, which aligns with the intention of purchasing a "문충격 방지 패드" (door impact prevention pad).
+
+[MATCH] Q: 바람 막는 거 같은 거 있어요?
+  Intention: 문풍지 / 틈새막이 구매
+  Keyword: 바람막이
+  Note: MATCH | "바람막이" is a general term that includes "문풍지" and "틈새막이", so it's a reasonable search term.
+
+[MATCH] Q: 비 오는 날 쓰는 건데 이름을 모르겠어요
+  Intention: 우산용품 / 신발 방수커버 구매
+  Keyword: 우산
+  Note: MATCH | 우산 is a type of 우산용품, so it's a reasonably good search term.
+
+[MATCH] Q: 이거 너무 미끄러워서요
+  Intention: 논슬립 패드 / 미끄럼 방지 테이프 구매
+  Keyword: 미끄럼방지패드
+  Note: MATCH | The extracted keyword "미끄럼방지패드" (anti-slip pad) directly addresses the user's intention to purchase anti-slip pads or anti-slip tape to prevent slipping, as implied by "이거 너무 미끄러워서요" (this is too slippery).
+
+[MISMATCH] Q: 하나로 여러 번 쓰는 거 뭐 있어요?
+  Intention: 다용도 클리너 / 멀티툴 추천
+  Keyword: 다회용품
+  Note: MISMATCH | The question asks for "something that can be used multiple times in one go." The extracted keyword "다회용품" (reusable product) implies products designed for multiple uses over time (e.g., reusable bags, containers). This is different from something with multiple functions or uses simultaneously (like a multi-purpose cleaner or a multi-tool).
+
+[MATCH] Q: 집에 놓아두면 계속 쓰게 되는 거 있어요?
+  Intention: 생활 편의소품 추천
+  Keyword: 생활용품
+  Note: MATCH | "생활용품" (living goods) is a broad category that includes "생활 편의소품" (convenient living accessories), so it's a reasonable search term. It might require some filtering to narrow down to accessories, but it's a good starting point.
+
+[MISMATCH] Q: 이거 자꾸 흘러서 짜증 나요
+  Intention: 컵뚜껑 / 흘림방지 용기 구매
+  Keyword: 제품
+  Note: MISMATCH | "제품" is too generic. The user's intention is about a specific type of product (cup lid or anti-spill container), and "제품" doesn't narrow it down enough. It's not a good search term to fulfill the intention.
+
+[MATCH] Q: 가방 안에서 안 부딪히게 하는 거 있나요?
+  Intention: 완충 파우치 / 정리 인서트 구매
+  Keyword: 파티션
+  Note: MATCH | "파티션" (partition) inside a bag can act as a buffer or organizer, thus aligning with the intention of buying a cushioned pouch or organizer insert to prevent items from bumping into each other.
+
+[MISMATCH] Q: 이거 너무 작아서 자꾸 잃어버려요
+  Intention: 미니 케이스 / 네임택 구매
+  Keyword: 분실방지
+  Note: MISMATCH | The user is complaining about losing small items and wants to buy a mini case or nametag. "분실방지" (loss prevention) is a related concept, but doesn't directly lead to finding those specific items. The intention is to buy something to prevent loss, not just generally prevent loss. A better keyword would be "미니 케이스", "네임택", or "분실방지 케이스".
+
+[MISMATCH] Q: 어디다 두면 안 보이게 숨겨둘 수 있어요?
+  Intention: 숨김 수납함 / 틈새 수납함 구매
+  Keyword: 물건
+  Note: MISMATCH | The extracted keyword "물건" (things) is too generic and doesn't specify the intention of finding hidden or narrow storage solutions. It doesn't help narrow down the search to products like "숨김 수납함" (hidden storage box) or "틈새 수납함" (gap storage box).
+
+[MATCH] Q: 이거 정리 안 하면 집이 더러워 보여서요
+  Intention: 정리 바스켓 / 수납 트레이 구매
+  Keyword: 정리함
+  Note: MATCH | "정리함" (storage box) is a reasonable, though slightly broad, search term for finding "정리 바스켓" (storage basket) or "수납 트레이" (storage tray). A storage basket or tray can be considered a type of storage box.
+
+[MATCH] Q: 애 손 안 닿게 하는 거 있어요?
+  Intention: 안전 잠금장치 / 상부 수납함 구매
+  Keyword: 안전 잠금 장치
+  Note: MATCH | The extracted keyword "안전 잠금 장치" (safety lock) directly addresses the "안전 잠금장치" part of the target intention "안전 잠금장치 / 상부 수납함 구매" (safety lock / purchase of upper storage). It's a good search term to find safety locks to keep children from reaching things.
+
+[MISMATCH] Q: 물기 많은 데 써도 되는 거 있어요?
+  Intention: 방수 소품 / 욕실용품 구매
+  Keyword: 흡수패드
+  Note: MISMATCH | 흡수패드 is related to absorbing water, but it doesn't directly lead to finding waterproof items or bathroom supplies. The user is likely looking for items that can withstand moisture, not absorb it.
+
+[MISMATCH] Q: 이거 좀 덜 귀찮게 하는 방법 없어요?
+  Intention: 자동 디스펜서 / 편의도구 추천
+  Keyword: 정리 용품
+  Note: MISMATCH | "정리 용품" (organization supplies) is related to keeping things tidy, but doesn't directly address the user's intention of finding an automatic dispenser or convenience tool to reduce hassle. The user is looking for a tool to automate or simplify a task, not necessarily to organize existing items.
+
+[MATCH] Q: 집에서 많이 쓰는 그거 있잖아요
+  Intention: 베스트셀러 생활용품 추천
+  Keyword: 생활용품
+  Note: MATCH | "생활용품" is a broad category, but "베스트셀러 생활용품" falls under it. Searching for "생활용품" could lead the user to discover bestsellers.
+
+[MISMATCH] Q: 자주 안 쓰는데 없으면 불편한 거 뭐에요?
+  Intention: 비상용 생활소품 추천
+  Keyword: 물건
+  Note: MISMATCH | "물건" (things) is too broad and doesn't capture the "비상용 생활소품" (emergency household items) aspect of the intention. It could refer to any object, not specifically the type of rarely used but necessary items the user is looking for.
+
+[MISMATCH] Q: 이거 들고 다니기 편하게 하는 거 있어요?
+  Intention: 휴대용 파우치 / 스트랩 구매
+  Keyword: 가방걸이
+  Note: MISMATCH | 가방걸이 (bag hook) is a device to hang a bag, while the intention is to buy a portable pouch or strap to carry something easier. They are different products.
+
+[MATCH] Q: 더 깔끔하게 보이게 하는 거 있어요?
+  Intention: 정리함 / 커버형 수납함 구매
+  Keyword: 정리함
+  Note: MATCH | "정리함" (organizer) is a reasonable search term for "정리함 / 커버형 수납함 구매" (buying organizers/covered storage boxes) as it directly relates to the product category.
+
+[MISMATCH] Q: 냄새 오래 잡아주는 거 있어요?
+  Intention: 장시간 탈취제 구매
+  Keyword: 방향제
+  Note: MISMATCH | 방향제 is a broader term than 탈취제 (deodorizer). While 방향제 might offer some odor masking, the intention is for a product that specifically eliminates odors for a long time, which is better captured by 탈취제.
+
+[MATCH] Q: 붙여놨다가 떼도 자국 안 남는 거 있어요?
+  Intention: 무자국 후크 / 제거형 양면테이프 구매
+  Keyword: 테이프
+  Note: MATCH | "테이프" is a reasonable search term, as the intention mentions "제거형 양면테이프". While "후크" is also present in the intention, "테이프" is a broader term that still encompasses the desired product type.
+
+[MATCH] Q: 여름용이랑 겨울용 다른 거 있어요?
+  Intention: 계절용 생활소품 추천
+  Keyword: 계절용품
+  Note: MATCH | The extracted keyword "계절용품" (seasonal products) is a reasonable search term to fulfill the intention "계절용 생활소품 추천" (recommend seasonal living goods). "계절용품" is a broad term that can encompass various seasonal living goods, allowing the user to discover different items for summer or winter.
+
+[MATCH] Q: 애들 있는 집에서 필수템 뭐에요?
+  Intention: 유아 안전용품 / 놀이매트 추천
+  Keyword: 필수템
+  Note: MATCH | "필수템" (essential item) is a reasonable, albeit broad, search term. Parents looking for "유아 안전용품 / 놀이매트 추천" (child safety products/play mat recommendations) might use "필수템" to find such items, as it implies they are looking for highly recommended or must-have products.
+
+[MATCH] Q: 집에서 은근히 스트레스 줄여주는 거 있어요?
+  Intention: 정리용품 / 방향제 추천
+  Keyword: 스트레스 해소 용품
+  Note: MATCH | The keyword "스트레스 해소 용품" (stress relief products) is a reasonable search term to find products that help reduce stress at home, aligning with the user's intention of finding recommendations for things like aromatherapy or organizational tools that can indirectly alleviate stress.
+
+[MISMATCH] Q: 이거 자꾸 굴러가요
+  Intention: 논슬립 트레이 / 고정 패드 구매
+  Keyword: 연필
+  Note: MISMATCH | The extracted keyword "연필" (pencil) is completely unrelated to the intention of buying a non-slip tray or a fixing pad.
+
+[MISMATCH] Q: 어디에 놔야 안 걸리적거려요?
+  Intention: 벽걸이 수납함 / 후크 구매
+  Keyword: 정리함
+  Note: MISMATCH | "정리함" (storage box) is a broader term than "벽걸이 수납함" (wall-mounted storage box) or "후크" (hook). While a wall-mounted storage box could be considered a type of "정리함", the keyword doesn't directly address the user's specific need for a wall-mounted solution or a hook, which are likely intended to save space and avoid obstruction.
+
+[MISMATCH] Q: 이거 계속 더러워져서요
+  Intention: 보호커버 / 덮개 구매
+  Keyword: 행주
+  Note: MISMATCH | "행주" (dishcloth) is not relevant to purchasing a protective cover or lid. The user is complaining about something getting dirty, but a dishcloth is for cleaning, not protecting.
+
+[MATCH] Q: 물 새는 거 막는 거 있어요?
+  Intention: 방수테이프 / 실리콘 패치 구매
+  Keyword: 방수테이프
+  Note: MATCH | "방수테이프" (waterproof tape) is directly related to the intention of purchasing "방수테이프 / 실리콘 패치" (waterproof tape / silicone patch) for preventing water leakage.
+
+[MATCH] Q: 애가 물고 빨아도 괜찮은 거 있어요?
+  Intention: 유아용 실리콘 소품 구매
+  Keyword: 아기용품
+  Note: MATCH | "아기용품" (baby products) is a reasonably good search term for finding "유아용 실리콘 소품" (infant silicone accessories). Silicone products are commonly used for babies due to their safety and durability, so searching for "아기용품" could lead to relevant results.
+
+[MATCH] Q: 집에서 좀 고급져 보이게 하는 거 있어요?
+  Intention: 인테리어 소품 / 무드등 추천
+  Keyword: 인테리어 소품
+  Note: MATCH | The extracted keyword "인테리어 소품" (interior accessories) directly relates to the intention of finding "인테리어 소품 / 무드등 추천" (interior accessories / mood light recommendations) as mood lights are a type of interior accessory.
+
+[MATCH] Q: 이거 냄새 배는 거 막는 거 있어요?
+  Intention: 탈취 패드 / 방취 커버 구매
+  Keyword: 냄새 방지 용품
+  Note: MATCH | "냄새 방지 용품" is a reasonable search term for finding products related to preventing odors, which aligns with the intention of buying 탈취 패드 / 방취 커버 (deodorizing pads/odor-proof covers).
+
+[MISMATCH] Q: 눌러서 쓰는 거 말고 다른 거 있어요?
+  Intention: 스프레이형 / 자동형 디스펜서 구매
+  Keyword: 볼펜
+  Note: MISMATCH | The question "눌러서 쓰는 거 말고 다른 거 있어요?" translates to "Is there anything other than push-type?". The target intention is to buy a spray or automatic dispenser. The extracted keyword "볼펜" (ballpoint pen) is completely unrelated to dispensers, whether push-type, spray, or automatic. Therefore, the keyword is irrelevant to the user's intention.
+
+[MISMATCH] Q: 이거 떨어뜨리면 안 깨지게 하는 거 있어요?
+  Intention: 완충 케이스 / 실리콘 커버 구매
+  Keyword: 액세서리
+  Note: MISMATCH | "액세서리" (accessories) is too broad and doesn't specifically relate to protective cases or silicone covers that prevent breakage when dropped. The user intention is very specific about drop protection, which "액세서리" doesn't convey.
+
+[MISMATCH] Q: 여기다 뭐 올려두는 거 있어요?
+  Intention: 트레이 / 선반 구매
+  Keyword: 받침대
+  Note: MISMATCH | 받침대 is a general term and might not specifically lead to trays or shelves. While a tray or shelf could be a type of 받침대, the term is too broad to directly fulfill the user's intention of buying a tray or shelf.
+
+[MISMATCH] Q: 집에서 쓸데없이 자주 찾게 되는 거 있어요?
+  Intention: 생활 편의소품 추천
+  Keyword: 물건
+  Note: MISMATCH | "물건" is a very broad term and doesn't specifically relate to "생활 편의소품". It could refer to anything.
+
+[MATCH] Q: 이거 안 보이게 가리는 거 있어요?
+  Intention: 커버 / 가림막 구매
+  Keyword: 가리개
+  Note: MATCH | "가리개" is a common term for "가림막" and can be used to find covers or screens to hide something from view.
+
+[MATCH] Q: 애가 자꾸 열어서요
+  Intention: 서랍 안전잠금장치 구매
+  Keyword: 안전문
+  Note: MATCH | "안전문" (safety door) can be a part of a drawer safety lock, as it is related to child safety and preventing access. Therefore, it's a reasonable search term.
+
+[MATCH] Q: 이거 계속 축축해요
+  Intention: 제습제 / 건조 패드 구매
+  Keyword: 제습제
+  Note: MATCH | "제습제" (dehumidifier) is directly related to the intention of buying dehumidifiers or drying pads to address a moisture issue.
+
+[MATCH] Q: 바닥 긁히는 거 막는 거 있어요?
+  Intention: 의자 다리 보호패드 구매
+  Keyword: 바닥긁힘방지
+  Note: MATCH | "바닥긁힘방지" is a reasonable search term as it directly relates to preventing floors from being scratched, which is the core function of chair leg protectors.
+
+[MATCH] Q: 이거 소리 너무 커요
+  Intention: 소음 방지 패드 / 방음 매트 구매
+  Keyword: 소리
+  Note: MATCH | The keyword "소리" (sound) is relevant because the user is complaining about the loudness of the sound, which directly relates to the intention of buying a soundproofing pad or mat to reduce noise.
+
+[MISMATCH] Q: 여기다 붙여두면 편한 거 있어요?
+  Intention: 다용도 후크 / 거치대 구매
+  Keyword: 스티커
+  Note: MISMATCH | "스티커" (sticker) is too broad and doesn't directly imply a multi-purpose hook or holder. While some hooks/holders might use stickers for attachment, it's not the defining characteristic or the most effective search term.
+
+[MATCH] Q: 집에서 이것저것 걸어두는 거 있어요?
+  Intention: 벽걸이 수납 후크 구매
+  Keyword: 걸이
+  Note: MATCH | "걸이" (hanger) is a reasonably good search term as "벽걸이 수납 후크" (wall-mounted storage hooks) often involve hanging items. It's a related concept that could lead to the discovery of the intended product.
+
+[MISMATCH] Q: 이거 들고 나가도 되는 거에요?
+  Intention: 휴대용 케이스 / 파우치 구매
+  Keyword: 비닐봉투
+  Note: MISMATCH | The question "이거 들고 나가도 되는 거에요?" translates to "Is it okay to take this out?" or "Am I allowed to take this with me?". The extracted keyword "비닐봉투" (plastic bag) is related to carrying something, but it doesn't align with the intention of purchasing a "휴대용 케이스 / 파우치" (portable case / pouch). The question is about whether something can be taken out, not specifically about buying a case or pouch.
+
+[MATCH] Q: 여름에 없으면 좀 불편한 거 뭐에요?
+  Intention: 선풍기 / 쿨방석 추천
+  Keyword: 선풍기
+  Note: MATCH | The extracted keyword "선풍기" (fan) directly relates to the intention of recommending "선풍기" (fan) and is a good search term to fulfill that part of the intention.
+
+[MATCH] Q: 이거 정리 안 하면 진짜 스트레스에요
+  Intention: 대형 수납함 / 정리 바스켓 구매
+  Keyword: 정리함
+  Note: MATCH | "정리함" (organizer) is a general term that encompasses "대형 수납함" (large storage box) and "정리 바스켓" (organizing basket). Therefore, it's a reasonable search term to find the desired product.
+
+[MATCH] Q: 애가 던져도 안 깨지는 거 있어요?
+  Intention: 실리콘 식기 / 유아 안전컵 구매
+  Keyword: 컵
+  Note: MATCH | The question implies a need for a durable, unbreakable cup for a child, and "컵" (cup) is a direct and relevant search term for that.
+
+[MATCH] Q: 이거 자꾸 넘어져요
+  Intention: 고정 패드 / 받침대 구매
+  Keyword: 넘어짐 방지 제품
+  Note: MATCH | "넘어짐 방지 제품" (fall prevention product) is a reasonable search term for finding a "고정 패드 / 받침대" (fixing pad/stand) to prevent something from falling over. It directly addresses the user's problem of something constantly falling.
+
+[MATCH] Q: 냄새 나는 거 숨기는 거 있어요?
+  Intention: 방향제 / 커버형 탈취제 구매
+  Keyword: 방향제
+  Note: MATCH | "방향제" is a type of product that helps cover up smells, aligning with the user's intention to purchase a cover-type deodorizer.
+
+[MISMATCH] Q: 이거 물에 담가도 돼요?
+  Intention: 방수 제품 탐색
+  Keyword: 스펀지
+  Note: MISMATCH | 스펀지는 물에 담글 수 있는지에 대한 질문에 적합한 키워드가 될 수 있지만, 방수 제품 탐색이라는 의도와는 관련성이 낮습니다. 스펀지가 방수 제품인지 확인하는 것은 가능하지만, 방수 제품을 찾는 직접적인 방법은 아닙니다.
+
+[MATCH] Q: 여기다 넣어두면 안 흘러요?
+  Intention: 밀폐용기 구매
+  Keyword: 용기
+  Note: MATCH | "용기" (container) is a general term that encompasses "밀폐용기" (airtight container). Searching for "용기" could lead to results that include airtight containers, making it a reasonable, though broad, search term to fulfill the intention of purchasing an airtight container.
+
+[MATCH] Q: 애가 혼자 써도 되는 거 있어요?
+  Intention: 유아용 컵 / 학습용품 구매
+  Keyword: 학용품
+  Note: MATCH | "학용품" (school supplies) can include items suitable for children and learning, which aligns with the intention of purchasing "유아용 컵 / 학습용품 구매" (baby cup / learning supplies purchase).
+
+[MATCH] Q: 집에 두면 분위기 바뀌는 거 있어요?
+  Intention: 인테리어 소품 / 조명 추천
+  Keyword: 인테리어 소품
+  Note: MATCH | "인테리어 소품" is a good search term to fulfill the intention "인테리어 소품 / 조명 추천" because it directly addresses the desire for decorative items to change the atmosphere of a home.
+
+[MISMATCH] Q: 이거 계속 손에 묻어요
+  Intention: 손잡이 커버 / 디스펜서 구매
+  Keyword: 풀
+  Note: MISMATCH | The extracted keyword "풀" (glue/paste) is not directly related to "손잡이 커버 / 디스펜서 구매" (handle cover / dispenser purchase). While glue might be used in some DIY applications related to handles, it's not a primary search term for buying handle covers or dispensers. The user's complaint about something sticking to their hands might indirectly relate to a handle or dispenser issue, but "풀" is too general.
+
+[MISMATCH] Q: 이거 다른 데다 옮겨도 돼요?
+  Intention: 이동식 수납함 구매
+  Keyword: 테이프
+  Note: MISMATCH | The question "이거 다른 데다 옮겨도 돼요?" translates to "Can I move this to another place?". The extracted keyword "테이프" (tape) is unrelated to the question about moving something or the intention of buying a portable storage container.
+
+[MISMATCH] Q: 애가 자꾸 끌고 다녀요
+  Intention: 바퀴 고정 패드 / 이동 방지 패드 구매
+  Keyword: 캐리어
+  Note: MISMATCH | The keyword "캐리어" (carrier) is too broad. While the user is talking about a child pulling something, the carrier itself isn't the solution to the problem (the wheels are). The intention is to stop something from moving, but "캐리어" doesn't imply that.
+
+[MISMATCH] Q: 집에서 제일 많이 쓰는 거 뭐에요?
+  Intention: 베스트셀러 생활용품 추천
+  Keyword: 수납 용품
+  Note: MISMATCH | "수납 용품" (storage items) is related to organizing the house, but it's not necessarily the "best-selling household items" the user is looking for. The user likely wants to know the most popular or frequently used items, not specifically storage solutions.
+
+[MISMATCH] Q: 이거 매번 닦기 귀찮아요
+  Intention: 방수 커버 / 오염 방지 패드 구매
+  Keyword: 행주
+  Note: MISMATCH | The user is complaining about the inconvenience of cleaning frequently. While a "행주" (dishcloth) is used for cleaning, it doesn't address the intention of finding a waterproof cover or stain-resistant pad to reduce the need for cleaning in the first place.
+
+[MISMATCH] Q: 물에 젖어도 냄새 안 나는 거 있어요?
+  Intention: 항균 매트 / 속건 타월 구매
+  Keyword: 수건
+  Note: MISMATCH | "수건" (towel) is related to "속건 타월" (quick-drying towel), but the question also mentions "냄새 안 나는 거" (something that doesn't smell even when wet), implying an antibacterial property. While a quick-drying towel could potentially be what the user is looking for, it doesn't directly address the antibacterial aspect, and the intention includes "항균 매트" (antibacterial mat) which is not related to towels.
+
+[MATCH] Q: 여기다 올려두면 떨어질까요?
+  Intention: 논슬립 트레이 / 거치대 구매
+  Keyword: 미끄럼 방지 패드
+  Note: MATCH | "미끄럼 방지 패드" can be used on trays or stands to prevent items from falling, aligning with the intention of buying non-slip trays or stands.
+
+[MATCH] Q: 이거 차 안에 놔도 돼요?
+  Intention: 차량용 수납함 / 방향제 구매
+  Keyword: 방향제
+  Note: MATCH | The user is asking if they can leave something in the car, and one of the intentions is to buy a car air freshener. "방향제" (air freshener) is directly related to that intention.
+
+[MISMATCH] Q: 집에서 없어도 될 줄 알았는데 필요하네요
+  Intention: 생활 편의소품 추천
+  Keyword: 다이소 제품
+  Note: MISMATCH | The user's intention is to find recommended items for daily convenience at home. While "다이소 제품" (Daiso products) could potentially include such items, it's too broad and doesn't directly address the need for specific, recommended convenience items. A more relevant keyword would be something like "편리한 집들이 용품" (convenient housewarming items) or "자취 필수템" (essential items for independent living).
+
+[MISMATCH] Q: 이거 애 손 안 닿는 데 둘 수 있어요?
+  Intention: 벽걸이 수납함 / 상부 수납함 구매
+  Keyword: 안전 장치
+  Note: MISMATCH | The keyword "안전 장치" (safety device) is related to safety but not directly to finding a "벽걸이 수납함 / 상부 수납함" (wall-mounted storage / upper storage). The user's question asks if the item can be placed out of reach of children, suggesting a concern for safety. However, safety devices themselves aren't the product they are looking for, but rather a possible feature of the storage unit.
+
+[MISMATCH] Q: 이거 계속 찢어져요
+  Intention: 내구성 좋은 커버 / 보호필름 구매
+  Keyword: 테이프
+  Note: MISMATCH | The keyword "테이프" (tape) is not directly related to the intention of buying a durable cover or screen protector. While tape might be used to temporarily fix a torn cover, it doesn't address the core issue of finding a durable replacement.
+
+[MATCH] Q: 애가 혼자 못 열게 하는 거 있어요?
+  Intention: 안전 잠금장치 구매
+  Keyword: 안전 잠금 장치
+  Note: MATCH | "안전 잠금 장치" is a direct translation and a common term used for safety latches, locks, or devices designed to prevent children from opening doors or drawers, thus matching the intention "안전 잠금장치 구매".
+
+[MATCH] Q: 이거 하나로 다 해결돼요?
+  Intention: 멀티클리너 / 다용도 도구 추천
+  Keyword: 만능 해결사
+  Note: MATCH | "만능 해결사" implies something that solves everything, which aligns well with the intention of finding a "멀티클리너 / 다용도 도구" (multi-cleaner/multi-purpose tool).
+
+[MATCH] Q: 집에 두면 은근히 편해지는 거 있어요?
+  Intention: 생활 편의소품 추천
+  Keyword: 생활용품
+  Note: MATCH | 생활용품 is a broad category that includes 생활 편의소품 (life convenience items). Therefore, it's a reasonable search term, although it might require some filtering.
+
+[MISMATCH] Q: 이거 어디다 두는 게 정석이에요?
+  Intention: 보관 위치 안내 / 수납용품 구매
+  Keyword: 수납함
+  Note: MISMATCH | The question asks "Where is the standard place to put this?", implying a search for storage location or advice on where to store an item. "수납함" (storage box) is a related but not direct match. It is a potential solution for storage, but not the core of the question about optimal placement.
+
+[MISMATCH] Q: 이거 자주 사야 하는 거에요?
+  Intention: 소모품 탐색(리필형 제품)
+  Keyword: 물건
+  Note: MISMATCH | The extracted keyword "물건" (thing/object) is too generic and does not align with the specific intention of finding consumable or refillable products. The question implies a need for a product that needs frequent replacement or replenishment.
+
+[MATCH] Q: 애가 넘어질까 봐 걱정돼요
+  Intention: 놀이매트 / 안전매트 구매
+  Keyword: 안전용품
+  Note: MATCH | "안전용품" can include safety mats, which directly addresses the intention of purchasing a "놀이매트 / 안전매트" (play mat / safety mat) for the concern of a child falling.
+
+[MISMATCH] Q: 집에서 이거 말고 다른 방법 없어요?
+  Intention: 대체 해결용품 추천
+  Keyword: (불가)
+  Note: MISMATCH | The keyword "(불가)" (meaning "impossible" or "unavailable") does not directly help find alternative solutions or products. It suggests a lack of options rather than providing a search term to identify alternatives. The user is looking for recommendations, and this keyword doesn't lead in that direction.
+
+[MATCH] Q: 이거 안 흘리게 쓰는 법 없어요?
+  Intention: 흘림방지 컵 / 컵뚜껑 구매
+  Keyword: 컵
+  Note: MATCH | The extracted keyword "컵" is related to the intention of buying a 흘림방지 컵 / 컵뚜껑 (spill-proof cup/cup lid), as the intention is to find a specific type or accessory for a cup.
+
+[MISMATCH] Q: 애가 자꾸 물어뜯어요
+  Intention: 유아용 치발기 / 실리콘 커버 구매
+  Keyword: 손톱깎이
+  Note: MISMATCH | The keyword "손톱깎이" (nail clippers) is for cutting nails, while the intention is to find a teething toy or silicone cover for a baby who is biting. These are unrelated.
+
+[MISMATCH] Q: 이거 한 번 사두면 오래 쓰는 거 있어요?
+  Intention: 내구성 좋은 생활용품 추천
+  Keyword: 물건
+  Note: MISMATCH | "물건" is too generic. The intention is to find durable household items, and "물건" simply means "thing" or "item." It doesn't capture the "durable" or "household" aspect.
+
+[MATCH] Q: 집에서 없어도 되는데 있으면 좋은 거 뭐에요?
+  Intention: 편의소품 추천
+  Keyword: 생활용품
+  Note: MATCH | "생활용품" (daily necessities) is a broad category that includes "편의소품" (convenience items). While not as specific, it's a reasonable starting point to find items that are nice to have but not essential at home.
+
+[MATCH] Q: 이거 보관 안 하면 망가져요
+  Intention: 보관 케이스 / 방습함 구매
+  Keyword: 보관
+  Note: MATCH | "보관" (storage) is a reasonable keyword to find "보관 케이스 / 방습함" (storage case / dehumidifying box) as it directly relates to the act of storing something.
+
+[MATCH] Q: 그냥 요즘 다들 많이 사는 거 뭐에요?
+  Intention: 베스트셀러 상품 추천
+  Keyword: 인싸템
+  Note: MATCH | "인싸템" (Insiders' item) is a slang term often used to describe popular or trendy items that many people are buying, aligning well with the intention of finding best-selling products.
+
+[MISMATCH] Q: 여행 갈 때 캐리어 안에서 옷 안 구겨지게 하는 거 뭐 있어요?
+  Intention: 의류 정리 파우치 / 압축팩 구매
+  Keyword: 옷 커버
+  Note: MISMATCH | 옷 커버는 옷을 구겨지지 않게 보호하는 데 도움이 될 수 있지만, 의류 정리 파우치나 압축팩만큼 효과적이지 않을 수 있습니다. 또한, 옷 커버는 부피를 줄여주지는 못하므로 여행용 캐리어에 적합하지 않을 수 있습니다.
+
+[MISMATCH] Q: 비 오는 날 신발 안 젖게 막는 거 있어요?
+  Intention: 신발 방수커버 구매
+  Keyword: 장화
+  Note: MISMATCH | While "장화" (rain boots) can keep shoes from getting wet on a rainy day, the intention is to find a "방수커버" (waterproof cover) which is a different kind of product. Rain boots are a broader category of footwear designed for rain, not specifically a cover for existing shoes.
+
+[MATCH] Q: 머리 말릴 때 물 흘러내리는 거 막는 거 있어요?
+  Intention: 헤어 드라이 캡 / 방수 헤어밴드 구매
+  Keyword: 헤어밴드
+  Note: MATCH | The user is asking about something that prevents water from running down their face while drying their hair. A "헤어밴드" (hairband) can serve this purpose, particularly a thicker or absorbent one, aligning with the intention of finding a "방수 헤어밴드" (waterproof headband) or something similar. Although it might not be the exact "헤어 드라이 캡" (hair drying cap), a hairband is a reasonable solution and a good search term to find a suitable product.
+
+[MATCH] Q: 냉장고 냄새 안 나게 하는 거 뭐 있어요?
+  Intention: 냉장고 탈취제 구매
+  Keyword: 냉장고 탈취제
+  Note: MATCH | "냉장고 탈취제" is a product specifically designed to remove odors from refrigerators, directly aligning with the intention of purchasing a refrigerator deodorizer.
+
+[MATCH] Q: 욕실 바닥 미끄러워서 안 넘어지게 하는 거 있나요?
+  Intention: 욕실 미끄럼 방지 매트 구매
+  Keyword: 미끄럼 방지 패드
+  Note: MATCH | "미끄럼 방지 패드" is a reasonable search term for finding a product that prevents slipping in the bathroom, which aligns with the intention of buying a non-slip bathroom mat.
+
+[MATCH] Q: 이사 와서 집 정리 좀 쉽게 하는 거 뭐부터 사야 돼요?
+  Intention: 수납박스 / 정리함 세트 구매
+  Keyword: 정리용품
+  Note: MATCH | 정리용품 is a general term that includes 수납박스 and 정리함, which are specified in the target intention. Therefore, it's a reasonably good search term.
+
+[MATCH] Q: 전선들 너무 엉키는데 정리하는 거 있어요?
+  Intention: 케이블 정리 클립 / 케이블 타이 구매
+  Keyword: 전선정리
+  Note: MATCH | "전선정리" is a good general term that encompasses the intention of finding "케이블 정리 클립 / 케이블 타이". It's a reasonable starting search term.
+
+[MATCH] Q: 여름에 차 안에 두면 좋은 방향 같은 거 있어요?
+  Intention: 차량용 방향제 구매
+  Keyword: 방향제
+  Note: MATCH | The extracted keyword "방향제" (air freshener) is directly related to the user's intention of buying a car air freshener ("차량용 방향제 구매"). It is a good search term to find the product described in the intention.
+
+[MATCH] Q: 아이 책상 위에 올려둘 정리용 통 같은 거 있어요?
+  Intention: 책상 정리함 / 데스크 오거나이저 구매
+  Keyword: 정리용 통
+  Note: MATCH | "정리용 통" is a reasonable search term for finding a "책상 정리함 / 데스크 오거나이저". It directly refers to a container used for organizing, which aligns with the user's intention to find an item to put on a child's desk for organization.
+
+[MATCH] Q: 가방 안에서 화장품 안 새게 보관하는 거 있나요?
+  Intention: 방수 화장품 파우치 구매
+  Keyword: 화장품 보관 용기
+  Note: MATCH | The extracted keyword "화장품 보관 용기" (cosmetics storage container) is a reasonable search term for finding a waterproof cosmetic pouch, as it describes a container used for storing cosmetics, which aligns with the user's intention of finding a waterproof pouch to store cosmetics in their bag.
+
+[MATCH] Q: 비행기 탈 때 목 안 아프게 받치는 거 있어요?
+  Intention: 여행용 목베개 구매
+  Keyword: 목베개
+  Note: MATCH | "목베개" (neck pillow) is a good search term for finding "여행용 목베개" (travel neck pillow). It is a core component of the product and directly related to the user's need to avoid neck pain on a flight.
+
+[MATCH] Q: 세탁기 돌릴 때 옷 망가지는 거 막는 거 있어요?
+  Intention: 세탁망(빨래망) 구매
+  Keyword: 세탁망
+  Note: MATCH | "세탁망" is the direct translation of "빨래망" and perfectly describes the product for preventing clothes from getting damaged in the washing machine.
+
+[MATCH] Q: 신발 냄새 줄이는 거 뭐 있어요?
+  Intention: 신발 탈취제 구매
+  Keyword: 신발 탈취제
+  Note: MATCH | "신발 탈취제" is a good search term to find products that reduce shoe odor, directly aligning with the intention of buying shoe deodorizers.
+
+[MATCH] Q: 욕실 배수구에 머리카락 안 막히게 하는 거 있나요?
+  Intention: 배수구 거름망 구매
+  Keyword: 머리카락 거름망
+  Note: MATCH | "머리카락 거름망" is a reasonable search term for finding products that prevent hair from clogging bathroom drains, which aligns with the intention of "배수구 거름망 구매" (drain strainer purchase).
+
+[MATCH] Q: 여름에 등 붙는 거 싫은데 깔고 앉는 거 있어요?
+  Intention: 쿨방석 / 통풍 방석 구매
+  Keyword: 방석
+  Note: MATCH | The keyword "방석" (bangseok, cushion) is a broad but relevant term. Someone looking for a "쿨방석 / 통풍 방석" (cool cushion / ventilated cushion) would likely start their search with "방석" and then refine it with more specific terms. Therefore, it's a reasonable starting point to fulfill the intention.
+
+[MATCH] Q: 전자레인지 돌려도 되는 그릇 구분이 안 돼서요, 표시된 거 있어요?
+  Intention: 전자레인지용 용기 구매
+  Keyword: 전자레인지용기
+  Note: MATCH | "전자레인지용기" (microwave container) is a direct and relevant search term for someone looking to buy microwave-safe containers, aligning well with the intention of "전자레인지용 용기 구매" (buying microwave containers).
+
+[MATCH] Q: 여행 갈 때 세면도구 따로 담는 통 있어요?
+  Intention: 여행용 세면도구 용기 구매
+  Keyword: 세면도구통
+  Note: MATCH | "세면도구통" is a reasonable search term for "여행용 세면도구 용기 구매" as it directly refers to a container for toiletries.
+
+[MATCH] Q: 집에서 커피 마실 때 종이 필터 같은 거 있어요?
+  Intention: 커피 필터 구매
+  Keyword: 종이 필터
+  Note: MATCH | The keyword "종이 필터" (paper filter) directly refers to the product needed to fulfill the intention "커피 필터 구매" (coffee filter purchase).
+
+[MATCH] Q: 비 오는 날 우산 물 안 떨어지게 하는 거 있나요?
+  Intention: 우산 물받이 / 우산커버 구매
+  Keyword: 우산커버
+  Note: MATCH | "우산커버" is a type of "우산 물받이" and is a direct product that fulfills the intention.
+
+[MATCH] Q: 아이 장난감 정리 좀 쉽게 하는 박스 있어요?
+  Intention: 장난감 수납박스 구매
+  Keyword: 장난감 정리 박스
+  Note: MATCH | The extracted keyword "장난감 정리 박스" (toy organizing box) directly relates to the user's intention of "장난감 수납박스 구매" (buying toy storage box). It's a good search term that will help the user find relevant products.
+
+[MATCH] Q: 옷장 안에 냄새 안 나게 해주는 거 뭐 있어요?
+  Intention: 옷장 탈취제 구매
+  Keyword: 탈취제
+  Note: MATCH | "탈취제" (deodorizer) is a good general term for products that eliminate odors, and would likely lead the user to products suitable for use in a closet, fulfilling the intention of buying a closet deodorizer.
+
+[MATCH] Q: 휴대폰 떨어뜨려도 안 깨지게 하는 케이스 말고 붙이는 거 있어요?
+  Intention: 스마트폰 액정 보호필름 / 범퍼 패드 구매
+  Keyword: 액정 보호 필름
+  Note: MATCH | The user is asking about something that prevents the phone screen from breaking after a drop, other than a case. An "액정 보호 필름" (screen protector) is a product that serves this purpose and would be a reasonable search term.
+
+[MATCH] Q: 차 문 열 때 벽에 안 찍히게 하는 거 있어요?
+  Intention: 문콕 방지 패드 구매
+  Keyword: 문콕방지
+  Note: MATCH | "문콕방지" is a common and relevant keyword for finding products to prevent car door dents and scratches, directly related to the intention of buying a "문콕 방지 패드".
+
+[MATCH] Q: 책상 다리 바닥 긁히는 거 막는 거 있나요?
+  Intention: 의자 다리 보호패드 구매
+  Keyword: 긁힘 방지 패드
+  Note: MATCH | 책상 다리가 바닥에 긁히는 것을 막는 것을 찾는 것은 '긁힘 방지 패드'라는 키워드로 검색하는 것이 의자 다리 보호패드를 구매하려는 의도를 충족시킬 수 있습니다. 책상 다리와 의자 다리 모두 가구 다리이고, 바닥 긁힘 방지라는 공통적인 목적을 가지고 있기 때문입니다.
+
+[MATCH] Q: 냉장고 문에 붙여서 메모 붙이는 판 같은 거 있어요?
+  Intention: 자석 메모판 구매
+  Keyword: 메모판
+  Note: MATCH | "메모판" (memo board) is a general term for a board used for writing memos, and in this context, it is highly relevant to finding "자석 메모판" (magnetic memo board).
+
+[MATCH] Q: 가방 안에 이어폰 안 엉키게 하는 거 있어요?
+  Intention: 이어폰 정리 케이스 구매
+  Keyword: 이어폰 정리함
+  Note: MATCH | 이어폰 정리함 is a reasonable search term for finding an 이어폰 정리 케이스 (earphone organizing case), as it directly relates to the purpose of preventing tangled earphones.
+
+[MATCH] Q: 화장실 냄새 심할 때 뿌리는 거 말고 다른 거 있어요?
+  Intention: 방향제 / 탈취제(겔형·고형) 구매
+  Keyword: 방향제
+  Note: MATCH | The extracted keyword "방향제" (air freshener) is a good search term because the target intention is to purchase "방향제 / 탈취제(겔형·고형)" (air freshener / deodorizer (gel type / solid type)).
+
+[MATCH] Q: 캠핑 갈 때 쓰는 가벼운 컵 같은 거 있어요?
+  Intention: 캠핑컵 / 접이식 컵 구매
+  Keyword: 컵
+  Note: MATCH | "컵" is a broad term but relevant as the intention is related to buying a camping cup. It's a reasonable starting point for a search.
+
+[MATCH] Q: 여행 갈 때 여권 안 구겨지게 넣는 거 있나요?
+  Intention: 여권 케이스 구매
+  Keyword: 여권케이스
+  Note: MATCH | "여권케이스" is a direct translation of "여권 케이스" and is a good search term for purchasing a passport case.
+
+[MATCH] Q: 아이 손 닦을 때 들고 다니는 물티슈 넣는 통 있어요?
+  Intention: 물티슈 케이스 구매
+  Keyword: 물티슈통
+  Note: MATCH | "물티슈통" (wet wipe container) is a reasonable search term for finding a "물티슈 케이스" (wet wipe case) because a "물티슈통" is often used as a "물티슈 케이스."
+
+[MATCH] Q: 비 오는 날 창문 틈으로 물 새는 거 막는 거 있어요?
+  Intention: 방수 테이프 / 문풍지 구매
+  Keyword: 창문틈막이
+  Note: MATCH | 창문틈막이 (window gap sealant) is a reasonably good search term to find products like 방수 테이프 (waterproof tape) or 문풍지 (weather stripping) that can prevent water from leaking through window gaps.
+
+[MISMATCH] Q: 문 닫을 때 쾅 소리 안 나게 붙이는 거 있나요?
+  Intention: 문충격 방지 패드 구매
+  Keyword: 문풍지
+  Note: MISMATCH | 문풍지는 바람을 막는 용도로 사용되며, 문 충격 방지 패드의 기능과는 거리가 멀기 때문에 의도와 맞지 않습니다.
+
+[MATCH] Q: 콘센트에 애 손 안 들어가게 막는 거 있어요?
+  Intention: 콘센트 안전커버 구매
+  Keyword: 안전 콘센트 덮개
+  Note: MATCH | "안전 콘센트 덮개" (safe outlet cover) is a reasonable search term to find a product that prevents children from putting their hands in electrical outlets, which aligns with the intention of "콘센트 안전커버 구매" (buying outlet safety covers).
+
+[MATCH] Q: 냄비 잡을 때 손 안 데게 하는 거 있어요?
+  Intention: 실리콘 손잡이 / 오븐장갑 구매
+  Keyword: 냄비손잡이
+  Note: MATCH | "냄비손잡이" directly refers to a product designed to grip hot pots and pans without burning hands, aligning well with the intention of finding silicone grips or oven gloves for handling hot cookware.
+
+[MATCH] Q: 뜨거운 고데기 바로 놓을 수 있는 받침 같은 거 있나요?
+  Intention: 내열 매트 / 고데기 받침대 구매
+  Keyword: 고데기받침
+  Note: MATCH | "고데기받침" is a direct and relevant search term for finding a 고데기 받침대, which aligns with the intention of purchasing a 내열 매트 / 고데기 받침대.
+
+[MATCH] Q: 화장대 위에 이것저것 안 흩어지게 모아두는 통 있어요?
+  Intention: 화장품 정리함 구매
+  Keyword: 통
+  Note: MATCH | "통" (container) is a reasonable, though broad, search term for finding a container to organize cosmetics. While "화장품 정리함" (cosmetic organizer) would be more specific, "통" could still lead to relevant results, especially if combined with other keywords related to cosmetics or dressing tables.
+
+[MATCH] Q: 여름에 모기 안 들어오게 창문에 붙이는 거 있어요?
+  Intention: 방충망 스티커 / 방충망 보수망 구매
+  Keyword: 방충망
+  Note: MATCH | The extracted keyword "방충망" (mosquito net) directly relates to the intention of finding something to put on windows to prevent mosquitoes from entering in the summer. "방충망 스티커 / 방충망 보수망" are types of mosquito nets or repair materials for them.
+
+[MATCH] Q: 차 안에서 휴대폰 고정해두는 거 있나요?
+  Intention: 차량용 휴대폰 거치대 구매
+  Keyword: 휴대폰 거치대
+  Note: MATCH | The extracted keyword "휴대폰 거치대" directly relates to "차량용 휴대폰 거치대" and is a good search term to find the product described in the intention.
+
+[MATCH] Q: 운동화 세탁기 돌릴 때 보호해주는 거 있어요?
+  Intention: 운동화 세탁망 구매
+  Keyword: 운동화 세탁망
+  Note: MATCH | The extracted keyword "운동화 세탁망" (sneaker laundry net) directly addresses the user's intention to buy a net to protect sneakers when using a washing machine. It's a very relevant and effective search term.
+
+[MATCH] Q: 아이들 미끄러지지 않게 양말 같은 거 있어요?
+  Intention: 논슬립 양말 구매
+  Keyword: 양말
+  Note: MATCH | "양말" is a general term that includes "논슬립 양말". Searching for "양말" could lead the user to the intended product through filtering or further refinement of the search.
+
+[MATCH] Q: 장마철에 옷장 습기 줄이는 거 뭐 있어요?
+  Intention: 제습제 / 습기제거제 구매
+  Keyword: 제습제
+  Note: MATCH | "제습제" (dehumidifier) is a common and directly relevant product for reducing humidity in closets, which aligns with the user's intention to find products for reducing closet humidity during the monsoon season.
+
+[MATCH] Q: 여행 갈 때 신발 따로 넣는 주머니 있어요?
+  Intention: 신발 파우치 구매
+  Keyword: 신발 주머니
+  Note: MATCH | "신발 주머니" is a reasonable search term for finding "신발 파우치" as they both refer to a pouch for shoes.
+
+[MATCH] Q: 컵 밑에 물 안 떨어지게 까는 거 있나요?
+  Intention: 컵 받침(코스터) 구매
+  Keyword: 컵받침
+  Note: MATCH | 컵받침 is a direct and commonly used term for a coaster, which is what the user intends to buy to prevent water from dripping from the cup.
+
+[MATCH] Q: 집에서 밥 먹을 때 식탁 더러워지는 거 막는 거 있어요?
+  Intention: 테이블 매트 구매
+  Keyword: 식탁매트
+  Note: MATCH | The extracted keyword "식탁매트" (table mat) directly addresses the user's problem of preventing the dining table from getting dirty while eating at home, and it is a good search term for finding products that fulfill the intention of purchasing a table mat.
+
+[MATCH] Q: 침대 옆에 핸드폰 올려둘 작은 선반 같은 거 있어요?
+  Intention: 침대 사이드 선반 구매
+  Keyword: 선반
+  Note: MATCH | "선반" is a general term that includes "침대 사이드 선반," so it's a reasonable search term to fulfill the intention.
+
+[MATCH] Q: 화장실에서 휴지 물 안 젖게 하는 거 있나요?
+  Intention: 휴지 커버 / 방수 휴지케이스 구매
+  Keyword: 휴지케이스
+  Note: MATCH | "휴지케이스" can be a device or product used in the bathroom to keep toilet paper from getting wet, directly aligning with the user's intention of preventing toilet paper from getting wet in the bathroom.
+
+[MATCH] Q: 아이 공부할 때 집중 잘 되게 하는 타이머 같은 거 있어요?
+  Intention: 학습 타이머 구매
+  Keyword: 타이머
+  Note: MATCH | The keyword "타이머" (timer) is a core component of "학습 타이머" (learning timer) and is directly relevant to finding the product described in the intention "학습 타이머 구매" (buying a learning timer).
+
+[MATCH] Q: 여름에 차 안 더울 때 창문 가리는 거 있어요?
+  Intention: 차량용 햇빛가리개 구매
+  Keyword: 햇빛가리개
+  Note: MATCH | "햇빛가리개" directly translates to "sunshade," which is a common term for products used to block sunlight in a car, thus aligning with the intention of purchasing a car sunshade.
+
+[MATCH] Q: 머리 말릴 때 손목 안 아프게 잡는 거 있어요?
+  Intention: 헤어드라이어 거치대 구매
+  Keyword: 헤어드라이기
+  Note: MATCH | The extracted keyword "헤어드라이기" (hair dryer) is related to the user's intention of buying a hair dryer holder, as the holder is used to support the hair dryer.
+
+[MATCH] Q: 겨울에 현관 들어올 때 발 물기 닦는 거 있어요?
+  Intention: 현관 매트 구매
+  Keyword: 발매트
+  Note: MATCH | "발매트" (foot mat) is a reasonable search term to find a mat to wipe wet feet at the entrance during winter, aligning with the intention of "현관 매트 구매" (entrance mat purchase).
+
+[MATCH] Q: 여행 갈 때 화장품 작은 병에 나눠 담는 거 있어요?
+  Intention: 여행용 공병 세트 구매
+  Keyword: 화장품 공병
+  Note: MATCH | "화장품 공병" is a good search term for finding small bottles for dividing cosmetics for travel, which aligns with the intention of purchasing a "여행용 공병 세트".
+
+[MATCH] Q: 냉장고 안에 반찬통 말고 세워두는 정리용 통 있어요?
+  Intention: 냉장고 정리 트레이 구매
+  Keyword: 정리용 통
+  Note: MATCH | "정리용 통" describes the type of product the user is looking for, specifically a container for organizing items, which aligns with the intention of buying a refrigerator organizing tray.
+
+[MATCH] Q: 욕실에 수건 말릴 때 거는 거 따로 설치 안 해도 되는 거 있나요?
+  Intention: 흡착식 수건걸이 구매
+  Keyword: 수건걸이
+  Note: MATCH | "수건걸이" is a general term for towel racks, which aligns with the intention of buying a suction cup towel rack (흡착식 수건걸이). It's a good starting point for finding the desired product.
+
+[MATCH] Q: 아이 장난감 건전지 자주 바꾸는데 보관하는 거 있어요?
+  Intention: 건전지 보관함 구매
+  Keyword: 건전지
+  Note: MATCH | The keyword "건전지" (battery) is a core component of "건전지 보관함" (battery storage box). Searching for "건전지" will likely lead to results that include battery storage solutions, even if it also includes other battery-related products.
+
+[MATCH] Q: 여름에 등에 땀 차는 거 막는 등받이 같은 거 있어요?
+  Intention: 통풍 등받이 패드 구매
+  Keyword: 등받이
+  Note: MATCH | "등받이" directly relates to "등받이 패드" and is a good starting point for finding a product to prevent back sweat in summer.
+
+[MATCH] Q: 차 안에서 쓰레기 안 굴러다니게 담는 거 있어요?
+  Intention: 차량용 쓰레기통 구매
+  Keyword: 쓰레기통
+  Note: MATCH | "쓰레기통" directly relates to the "차량용 쓰레기통" mentioned in the intention. It's a core component of what the user is looking for.
+
+[MATCH] Q: 캠핑 갈 때 얼음 오래 안 녹게 담는 통 있어요?
+  Intention: 보냉박스 / 아이스박스 구매
+  Keyword: 아이스박스
+  Note: MATCH | "아이스박스" is a direct translation of "ice box" and is a very common term for a cooler used to keep things cold, including ice, when camping. This aligns perfectly with the intention of finding a "보냉박스 / 아이스박스 구매" (insulated box/ice box purchase).
+
+[MATCH] Q: 아이들 색연필 안 흩어지게 넣는 통 있어요?
+  Intention: 필통 / 문구 정리함 구매
+  Keyword: 색연필통
+  Note: MATCH | The keyword "색연필통" (colored pencil case) is a good search term for finding a "필통 / 문구 정리함" (pencil case / stationery organizer) to store colored pencils so they don't scatter.
+
+[MATCH] Q: 여행 갈 때 캐리어 이름 표시하는 거 있어요?
+  Intention: 캐리어 네임택 구매
+  Keyword: 캐리어 이름
+  Note: MATCH | The extracted keyword "캐리어 이름" directly relates to the intention of buying a luggage tag to display the name on the suitcase. It is a good search term to find relevant products.
+
+[MATCH] Q: 화장실 바닥 물 튀는 거 막는 발판 같은 거 있나요?
+  Intention: 욕실 발매트 구매
+  Keyword: 발판
+  Note: MATCH | "발판" (footrest) is a reasonable keyword to find a mat or similar item placed on the bathroom floor to prevent water from splashing. It's a general term, but relevant.
+
+[MATCH] Q: 집에서 빨래 널 때 공간 많이 안 차지하는 거 있어요?
+  Intention: 접이식 빨래건조대 구매
+  Keyword: 빨래 건조대
+  Note: MATCH | "빨래 건조대" is a broad term that includes "접이식 빨래건조대," which is the target intention. Someone looking for a space-saving clothes drying rack might search for just "빨래 건조대" to see various options.
+
+[MATCH] Q: 가방 안에 키랑 동전 안 섞이게 하는 거 있어요?
+  Intention: 동전지갑 / 미니 파우치 구매
+  Keyword: 동전지갑
+  Note: MATCH | The extracted keyword "동전지갑" (coin purse) directly addresses the user's intention of finding something to prevent keys and coins from mixing in their bag, which aligns with buying a coin purse or mini pouch.
+
+[MATCH] Q: 여름에 벌레 물렸을 때 바르는 거 있어요?
+  Intention: 벌레 물림 진정제 구매
+  Keyword: 모기약
+  Note: MATCH | 모기약 is a common term used for insect bite relief products, especially during summer when mosquito bites are prevalent. Therefore, it is a reasonable search term for finding a product to soothe insect bites.
+
+[MATCH] Q: 아이 손톱 정리할 때 쓰는 작은 세트 있어요?
+  Intention: 유아용 손톱깎이 세트 구매
+  Keyword: 손톱 정리 세트
+  Note: MATCH | "손톱 정리 세트" broadly covers the concept of a set used for nail care, which is relevant to the intention of buying a "유아용 손톱깎이 세트". The keyword needs more specificity to be perfect, but it's a good starting point.
+
+[MATCH] Q: 비 오는 날 신발 말리는 거 있어요?
+  Intention: 신발 건조대 구매
+  Keyword: 신발 건조대
+  Note: MATCH | "신발 건조대" is a direct and effective search term for finding a product to dry shoes, aligning perfectly with the intention of "신발 건조대 구매".
+
+[MATCH] Q: 집에서 고기 구울 때 기름 튀는 거 막는 거 있나요?
+  Intention: 기름 튐 방지망 구매
+  Keyword: 기름방지망
+  Note: MATCH | "기름방지망" (grease prevention mesh) is a reasonable search term for "기름 튐 방지망" (grease splatter prevention mesh) which is directly related to the intention of purchasing a grease splatter guard.
+
+[MATCH] Q: 욕실에서 휴대폰 올려두는 거 있어요?
+  Intention: 욕실용 휴대폰 거치대 구매
+  Keyword: 휴대폰 거치대
+  Note: MATCH | "휴대폰 거치대" is a good general search term for a phone holder. Adding "욕실용" refines the search for the specific type desired, but the base keyword is still relevant.
+
+[MATCH] Q: 책상 위에 연필 굴러다니는 거 막는 거 있어요?
+  Intention: 연필 받침 / 펜 트레이 구매
+  Keyword: 연필꽂이
+  Note: MATCH | 연필꽂이는 연필을 세워서 보관하는 제품으로, 책상 위에 연필이 굴러다니는 것을 막는 데 도움을 줄 수 있습니다. 펜 트레이와 유사한 역할을 수행할 수 있기 때문에 연필 받침의 대체 검색어로 적절합니다.
+
+[MATCH] Q: 여름에 차 안에서 햇빛 눈부신 거 막는 거 있어요?
+  Intention: 차량용 선바이저 구매
+  Keyword: 햇빛가리개
+  Note: MATCH | "햇빛가리개" (sun visor) is a very common and accurate term for products that block sunlight inside a car, directly related to the user's intention to buy a car sun visor.
+
+[MATCH] Q: 아이들 간식 나눠 담는 작은 통 있어요?
+  Intention: 소형 밀폐용기 구매
+  Keyword: 간식통
+  Note: MATCH | "간식통" (snack container) is a reasonable and common way to refer to a "소형 밀폐용기" (small airtight container) specifically used for children's snacks, aligning well with the stated intention of purchasing small airtight containers.
+
+[MATCH] Q: 여행 갈 때 빨래 따로 담아둘 주머니 있어요?
+  Intention: 세탁물 파우치 구매
+  Keyword: 빨래 주머니
+  Note: MATCH | "빨래 주머니" (laundry bag) is a good search term for "세탁물 파우치" (laundry pouch). They are essentially the same thing.
+
+[MATCH] Q: 신발장 문 열면 냄새 덜 나게 하는 거 있어요?
+  Intention: 신발장 탈취제 구매
+  Keyword: 탈취제
+  Note: MATCH | "탈취제" (deodorizer) is a reasonable search term to find products that reduce odor in a shoe cabinet, which aligns with the intention of "신발장 탈취제 구매" (buying shoe cabinet deodorizer).
+
+[MATCH] Q: 아이가 문에 손 끼일까 봐 막는 거 있어요?
+  Intention: 문틈 안전가드 구매
+  Keyword: 문틈 끼임 방지
+  Note: MATCH | "문틈 끼임 방지" directly addresses the concern of a child's hand getting caught in a door, which aligns well with the intention of purchasing a "문틈 안전가드 (door gap safety guard)." The keyword effectively describes the product's purpose.
+
+[MATCH] Q: 차 컵홀더에 맞는 작은 쓰레기통 있어요?
+  Intention: 차량용 컵홀더 쓰레기통 구매
+  Keyword: 쓰레기통
+  Note: MATCH | The keyword "쓰레기통" (trash can) is a general term that encompasses the specific product mentioned in the intention (차량용 컵홀더 쓰레기통 - car cup holder trash can). Searching for "쓰레기통" will likely lead to results that include the desired product, even if it requires further filtering.
+
+[MATCH] Q: 겨울에 손 시릴 때 스마트폰 터치 되는 장갑 있어요?
+  Intention: 터치 장갑 구매
+  Keyword: 장갑
+  Note: MATCH | "장갑" is a generic term for gloves, and since the intention is to buy "터치 장갑" (touchscreen gloves), "장갑" is a reasonable starting search term.
+
+[MATCH] Q: 캠핑 갈 때 접이식 의자 같은 거 있어요?
+  Intention: 캠핑용 접이식 의자 구매
+  Keyword: 접이식 의자
+  Note: MATCH | The extracted keyword "접이식 의자" (folding chair) directly relates to the user's intention of purchasing a folding chair for camping. It's a core component of the desired product.
+
+[MATCH] Q: 가방 안에서 물병 안 넘어지게 고정하는 거 있어요?
+  Intention: 가방 정리 파티션 / 보틀 홀더 구매
+  Keyword: 물병고정대
+  Note: MATCH | "물병고정대" (water bottle holder) is a reasonable search term for finding a product that prevents water bottles from falling over inside a bag, which aligns with the intention of "가방 정리 파티션 / 보틀 홀더 구매" (buying bag organizer partition/bottle holder).
+
+[MATCH] Q: 욕실에서 발 닦고 바로 신는 슬리퍼 있어요?
+  Intention: 욕실용 슬리퍼 구매
+  Keyword: 슬리퍼
+  Note: MATCH | "슬리퍼" is a general term for footwear, and bathroom slippers fall under this category. Therefore, it is a reasonable search term to find bathroom slippers.
+
+[MATCH] Q: 집에서 머리카락 바닥에 안 떨어지게 자르는 거 있어요?
+  Intention: 헤어 커팅 매트 구매
+  Keyword: 머리카락 자르는 거
+  Note: MATCH | "머리카락 자르는 거" (cutting hair) is a reasonable starting point for finding a solution to prevent hair from falling on the floor while cutting it at home. While it's not as specific as "헤어 커팅 매트" (hair cutting mat), it's close enough that a search engine would likely return relevant results, including hair cutting mats.
+
+[MATCH] Q: 아이들 그림 그릴 때 책상 더러워지는 거 막는 거 있어요?
+  Intention: 미술용 책상 매트 구매
+  Keyword: 미술용품
+  Note: MATCH | "미술용품" is a broad category that includes "미술용 책상 매트". Therefore, it's a reasonable search term to find the desired product, although it might require some filtering.
+
+[MATCH] Q: 여행 갈 때 목 아플까 봐 받치는 거 있어요?
+  Intention: 여행용 목베개 구매
+  Keyword: 목베개
+  Note: MATCH | "목베개" is a good search term for "여행용 목베개 구매" because a neck pillow is used to support the neck.
+
+[MATCH] Q: 집에서 먼지 닦을 때 손 안 더러워지는 거 있어요?
+  Intention: 청소용 장갑 / 먼지떨이 구매
+  Keyword: 먼지떨이
+  Note: MATCH | 먼지떨이 is a tool specifically designed for removing dust, aligning with the intention of finding a product for dusting without getting hands dirty.
+
+[MATCH] Q: 차 안에서 핸드폰 충전선 안 굴러다니게 하는 거 있어요?
+  Intention: 케이블 클립 / 차량용 선 정리 홀더 구매
+  Keyword: 핸드폰 충전선 정리대
+  Note: MATCH | "핸드폰 충전선 정리대" (phone charging cable organizer) is a reasonable search term for finding cable clips or car cable holders, as it directly addresses the problem of a phone charging cable rolling around in the car and suggests a solution for organizing it.
+
+[MATCH] Q: 여름에 실내에서 바람 나오는 작은 선풍기 있어요?
+  Intention: 미니 선풍기 구매
+  Keyword: 선풍기
+  Note: MATCH | "선풍기" (fan) is a broad term, but relevant to the intention of buying a "미니 선풍기" (mini fan), which is a type of fan. It's a reasonable starting point for a search.
+
+[MATCH] Q: 화장실 냄새 오래 잡아주는 거 있어요?
+  Intention: 장시간 지속형 탈취제 구매
+  Keyword: 방향제
+  Note: MATCH | 방향제 is a general term that includes 탈취제 (odor eliminator). While "탈취제" would be a more precise keyword, "방향제" is still a reasonable search term because many 방향제 products also offer 탈취 기능, and a user looking for a long-lasting 화장실 냄새 remover might also consider 방향제 options.
+
+[MATCH] Q: 아이들 우산 잃어버리지 않게 이름 적는 거 있어요?
+  Intention: 우산 네임택 구매
+  Keyword: 네임 스티커
+  Note: MATCH | While "네임 스티커" (name sticker) isn't exactly "네임택" (name tag), it's a very reasonable alternative. Someone looking for a way to label a child's umbrella to prevent loss would definitely consider using name stickers.
+
+[MATCH] Q: 냉장고 문 열 때 병 안 넘어지게 하는 거 있어요?
+  Intention: 냉장고 병 고정 클립 구매
+  Keyword: 병
+  Note: MATCH | The keyword "병" (bottle) directly relates to the user's intention of finding a product to prevent bottles from falling in the refrigerator.
+
+[MATCH] Q: 여행 갈 때 귀 안 아프게 막는 거 있어요?
+  Intention: 귀마개 구매
+  Keyword: 귀마개
+  Note: MATCH | "귀마개" (earplugs) is a direct translation and a very reasonable search term to find products that prevent ear pain during travel, thus fulfilling the intention of purchasing earplugs.
+
+[MATCH] Q: 집에서 물컵 쏟아도 흡수 잘 되는 매트 있어요?
+  Intention: 흡수 매트 구매
+  Keyword: 매트
+  Note: MATCH | The extracted keyword "매트" (mat) is a good starting point for finding "흡수 매트" (absorbent mat). While it's a broad term, it's relevant to the user's intention and can lead to the desired product through further filtering or more specific keywords.
+
+[MATCH] Q: 차 안에서 햇빛 때문에 대시보드 뜨거워지는 거 막는 거 있어요?
+  Intention: 대시보드 햇빛 가리개 구매
+  Keyword: 대시보드커버
+  Note: MATCH | "대시보드커버" is a reasonably good search term to find a product that prevents the dashboard from getting hot due to sunlight.
+
+[MATCH] Q: 아이가 혼자 양치할 때 컵 엎지르지 않게 하는 거 있어요?
+  Intention: 미끄럼 방지 양치컵 구매
+  Keyword: 양치컵
+  Note: MATCH | "양치컵" is a good search term for finding a "미끄럼 방지 양치컵" (non-slip toothbrush cup), as it directly relates to the product category.
+
+[MATCH] Q: 여름에 모기 들어올 때 문에 붙이는 거 있어요?
+  Intention: 현관용 방충망 구매
+  Keyword: 모기장
+  Note: MATCH | 모기장 is a general term for mosquito nets and can include the type of screen door mosquito nets used at entrances, which aligns with the intention of buying a screen door mosquito net.
+
+[MATCH] Q: 집에서 신발 정리 쉽게 하는 거 있어요?
+  Intention: 신발 정리대 구매
+  Keyword: 신발 정리대
+  Note: MATCH | "신발 정리대" (shoe rack) is a good search term for "신발 정리대 구매" (buying a shoe rack).
+
+[MATCH] Q: 여행 갈 때 슬리퍼 따로 담는 주머니 있어요?
+  Intention: 슬리퍼 파우치 구매
+  Keyword: 슬리퍼 주머니
+  Note: MATCH | "슬리퍼 주머니" is a good search term for finding a "슬리퍼 파우치", as it describes the item's function and general form.
+
+[MATCH] Q: 아이들 물감 흘려도 안 새는 앞치마 있어요?
+  Intention: 유아용 미술 앞치마 구매
+  Keyword: 앞치마
+  Note: MATCH | "앞치마" (apron) is a core component of "유아용 미술 앞치마" (kids art apron), and a user searching for "앞치마" is likely looking for that type of product.
+
+[MATCH] Q: 집에서 전선 발에 안 걸리게 정리하는 거 있어요?
+  Intention: 전선 정리 덕트 / 케이블 몰딩 구매
+  Keyword: 전선정리
+  Note: MATCH | "전선정리" is a good general term that encompasses the intention of purchasing cable ducts or moldings to organize wires and prevent tripping.
+
+[MATCH] Q: 여름에 땀 닦을 때 들고 다니는 작은 수건 있어요?
+  Intention: 미니 타월 구매
+  Keyword: 수건
+  Note: MATCH | "수건" (towel) is a general term that includes the specific type of towel mentioned in the intention ("미니 타월" - mini towel). Searching for "수건" is a reasonable starting point to find a mini towel.
+
+[MATCH] Q: 차 안에서 핸드폰 눈높이에 맞춰 세우는 거 있어요?
+  Intention: 차량용 대시보드 거치대 구매
+  Keyword: 핸드폰 거치대
+  Note: MATCH | "핸드폰 거치대" is a good general term for a device that holds a phone, and in the context of the question ("차 안에서"), it reasonably aligns with the intention of buying a car dashboard phone holder.
+
+[MATCH] Q: 아이들 장난감 소리 줄이는 바닥 매트 있어요?
+  Intention: 소음 방지 매트 / 놀이 매트 구매
+  Keyword: 바닥 매트
+  Note: MATCH | "바닥 매트" is a general term for floor mats, and the question asks about floor mats that reduce noise for children's toys. So, "바닥 매트" is a reasonably good search term.
+
+[MATCH] Q: 여행 갈 때 눈 가리는 거 있어요?
+  Intention: 수면안대 구매
+  Keyword: 안대
+  Note: MATCH | "안대" is a good search term for "수면안대", as "안대" is the broader category that includes "수면안대". It's a reasonable starting point for finding the desired product.
+
+[MATCH] Q: 그... 소파 다리에 끼워서 층간소음 안 나게 하는 거 있잖아요. 그거 어디 있어요?
+  Intention: 가구 이동 소음 방지 및 바닥 보호 (체어슈즈, 가구패드)
+  Keyword: 층간소음 방지 패드
+  Note: MATCH | The extracted keyword "층간소음 방지 패드" (noise-canceling pad for between floors) directly addresses the intention of preventing noise between floors. While the intention specifies chair shoes and furniture pads, a "층간소음 방지 패드" would fall under the broader category of products that achieve the same goal, making it a reasonable search term.
+
+[MATCH] Q: 해외여행 갈 때 돼지코 전압 변환기 어디서 찾아요?
+  Intention: 국가별 플러그 규격 변환 (여행용 멀티어댑터, 변환 젠더)
+  Keyword: 돼지코
+  Note: MATCH | 돼지코 is a common colloquial term for a travel adapter or plug adapter, specifically referencing the shape of the prongs resembling a pig's snout. It's a good keyword to use when looking for voltage converters or travel adapters.
+
+[MATCH] Q: 빨래 널 때 쓰는 집게 달린 동그란 거 어디 있나요?
+  Intention: 소형 세탁물 집합 건조 (원형/사각 집게 건조대)
+  Keyword: 빨래집게
+  Note: MATCH | 빨래집게 is a component of 집게 건조대 (집게 달린 동그란 거), and using it as a search term would likely lead the user to the intended product.
+
+[MATCH] Q: 싱크대 물 막아주는 거... 그 고무로 된 거 어디 있죠?
+  Intention: 배수구 폐쇄 및 악취 차단 (싱크대 배수구 마개/덮개)
+  Keyword: 고무패킹
+  Note: MATCH | The question describes a rubber object used to block sink water. "고무패킹" (rubber packing) is a reasonable, although potentially imprecise, term a user might use to describe the rubber stopper or cover used for sink drainage, and would likely lead to relevant results.
+
+[MATCH] Q: 차 앞유리에 붙여서 전화번호 써놓는 판 어디 있어요?
+  Intention: 주차 시 연락처 노출 (차량용 주차 번호판)
+  Keyword: 전화번호 판
+  Note: MATCH | "전화번호 판" directly relates to the intention of displaying a phone number, making it a good search term for finding a "차량용 주차 번호판".
+
+[MISMATCH] Q: 벽에 못 안 박고 액자 걸 수 있는 찰흙 같은 거 어디 있나요?
+  Intention: 벽면 손상 없는 부착 (조각 접착제, 블루택류)
+  Keyword: 점토
+  Note: MISMATCH | "점토" (clay) is a broader term than the specific type of adhesive putty (like Blu-Tack) that the user is likely looking for to hang pictures without nails. While some clays might have adhesive properties, it's not the primary function or the common understanding of the word.
+
+[MATCH] Q: 노트북 열기 식혀주는 거... 밑에 받치는 거 어디 있어요?
+  Intention: 기기 과열 방지 및 각도 조절 (노트북 쿨링패드, 거치대)
+  Keyword: 노트북쿨러
+  Note: MATCH | "노트북쿨러" (notebook cooler) is a common and relevant search term for finding products that prevent 노트북 열기 (notebook heat) from overheating.
+
+[MATCH] Q: 화장실 타일 사이에 바르는 하얀색 그거 어디 있죠?
+  Intention: 타일 틈새 보수 및 곰팡이 가림 (타일 줄눈 보수제)
+  Keyword: 백시멘트
+  Note: MATCH | 백시멘트는 타일 틈새를 메우는 데 사용되는 하얀색 재료로, 타일 줄눈 보수제의 역할을 할 수 있으므로 의도에 부합합니다.
+
+[MATCH] Q: 물병 씻을 때 쓰는 길쭉한 솔 어디 있어요?
+  Intention: 깊은 용기 내부 세척 (병 세척솔, 텀블러 솔)
+  Keyword: 솔
+  Note: MATCH | "솔" (brush) is a reasonable keyword because the intention is looking for a specific type of brush for cleaning bottles.
+
+[MATCH] Q: 캠핑 가서 고기 구울 때 쓰는 그물망 어디 있나요?
+  Intention: 야외 조리용 석쇠 (석쇠, 바비큐 망)
+  Keyword: 그물망
+  Note: MATCH | "그물망" (geumulmang) directly translates to "wire mesh" or "netting," which is a reasonable description for a grilling grate or barbecue net used for cooking meat over a campfire.
+
+[MATCH] Q: 신발 뒤축 까졌을 때 붙이는 스티커 어디 있어요?
+  Intention: 신발 사이즈 조절 및 마찰 방지 (뒤꿈치 보호 패드)
+  Keyword: 뒤꿈치 보호 패드
+  Note: MATCH | "뒤꿈치 보호 패드" is a good search term for finding products that address the issue of shoes rubbing against the heel and causing blisters or discomfort, which aligns with the intention of adjusting shoe size or preventing friction.
+
+[MATCH] Q: 옷에 뭐 묻었을 때 슥슥 문지르면 지워지는 펜 같은 거 어디 있죠?
+  Intention: 즉석 오염 제거 (휴대용 얼룩 제거제/펜)
+  Keyword: 얼룩 제거 펜
+  Note: MATCH | "얼룩 제거 펜" (stain removing pen) is a good and common way to refer to "즉석 오염 제거 (휴대용 얼룩 제거제/펜)" (instant stain removal (portable stain remover/pen)).
+
+[MATCH] Q: 이거 바구니 이름은 모르겠는데, 칸막이 나눠진 거 더 없나요?
+  Intention: 세분화된 수납 정리 (칸막이 정리함, 서랍 정리 트레이)
+  Keyword: 바구니
+  Note: MATCH | The user is asking for more compartmentalized baskets, and "바구니" (basket) is a general term that could lead to finding such items.
+
+[MATCH] Q: 자전거 체인에 치는 기름 어디 있어요?
+  Intention: 기계 마찰 감소 및 관리 (다용도 윤활제, WD-40류)
+  Keyword: 자전거 체인 기름
+  Note: MATCH | "자전거 체인 기름" is a specific type of lubricant used to reduce friction and maintain bicycle chains, which directly aligns with the intention of finding products for reducing mechanical friction and management using lubricants like WD-40.
+
+[MISSING] Q: 스마트폰 뒤에 붙어서 손가락 끼우는 거 어디 있나요?
+  Intention: 기기 추락 방지 및 거치 (스마트톡, 핑거링)
+  -> No extracted keyword found.
+
+[MATCH] Q: 이사할 때 그릇 싸는 뽁뽁이 어디서 찾아요?
+  Intention: 파손 방지 완충 (에어캡, 완충재)
+  Keyword: 뽁뽁이
+  Note: MATCH | 뽁뽁이 (Bok-bok-i) is a common term for air bubble wrap, which is used for cushioning and preventing damage during moving. This directly relates to the intention of finding materials for "파손 방지 완충 (damage prevention cushioning)".
+
+[MATCH] Q: 운동화 끈 안 풀리게 고정하는 거 어디 있죠?
+  Intention: 신발끈 풀림 방지 (신발끈 고정 클립, 실리콘 신발끈)
+  Keyword: 운동화 끈 고정
+  Note: MATCH | "운동화 끈 고정" directly addresses the problem of shoelaces coming undone, aligning well with the intention of finding solutions like "신발끈 풀림 방지 (신발끈 고정 클립, 실리콘 신발끈)".
+
+[MATCH] Q: 욕실 거울 김 안 서리게 하는 거 어디 있어요?
+  Intention: 습기 방지 및 시야 확보 (김서림 방지제/코팅제)
+  Keyword: 김서림 방지 거울
+  Note: MATCH | "김서림 방지 거울" (anti-fog mirror) directly relates to the user's intention of preventing fog on a bathroom mirror, and is a reasonable search term for finding relevant products.
+
+[MATCH] Q: 그... 찍찍이인데 전선 묶는 용도로 쓰는 거 어디 있나요?
+  Intention: 케이블 정리 (벨크로 타이, 전선 정리 밴드)
+  Keyword: 찍찍이
+  Note: MATCH | "찍찍이" is a common Korean term for Velcro, which is a key component of Velcro ties and cable ties used for cable management. Therefore, it is a reasonable search term to fulfill the intention.
+
+[MATCH] Q: 아이들 서랍 못 열게 잠그는 거 어디 있어요?
+  Intention: 유아 안전사고 예방 (다용도 잠금장치)
+  Keyword: 서랍 잠금장치
+  Note: MATCH | "서랍 잠금장치" is a good search term to find a device that prevents children from opening drawers, thus fulfilling the intention of preventing accidents related to children accessing drawers.
+
+[MATCH] Q: 베란다 창문 틈새 막는 스펀지 어디 있죠?
+  Intention: 외풍 차단 및 방음 (문틈막이 테이프, 모헤어)
+  Keyword: 틈새 스펀지
+  Note: MATCH | "틈새 스펀지" is a type of product used for blocking drafts and noise from gaps, aligning well with the intention of "외풍 차단 및 방음 (문틈막이 테이프, 모헤어)". It's a reasonable search term to find products that fulfill that intention.
+
+[MATCH] Q: 와인 마시고 남은 거 막아두는 마개 어디 있어요?
+  Intention: 음료 산패 방지 밀봉 (와인 스토퍼)
+  Keyword: 와인 마개
+  Note: MATCH | "와인 마개" directly refers to wine stoppers, which are used to prevent wine from going bad after opening. This aligns perfectly with the intention of preventing spoilage ("음료 산패 방지") and sealing ("밀봉") the wine.
+
+[MATCH] Q: 노트북 청소할 때 칙칙 뿌리는 바람 어디 있나요?
+  Intention: 비접촉 먼지 제거 (먼지 제거 스프레이/에어스프레이)
+  Keyword: 먼지 제거제
+  Note: MATCH | 먼지 제거제 is a reasonable search term for 먼지 제거 스프레이/에어스프레이, which is used for 비접촉 먼지 제거.
+
+[MATCH] Q: 강아지 털 옷에서 떼는 돌돌이 리필 어디 있어요?
+  Intention: 의류 먼지/털 제거 소모품 (테이프 크리너 리필)
+  Keyword: 돌돌이 리필
+  Note: MATCH | "돌돌이 리필" is a common term for tape cleaner refills, which directly aligns with the intention of "의류 먼지/털 제거 소모품 (테이프 크리너 리필)".
+
+[MATCH] Q: 다리 부었을 때 붙이는 시원한 패치 어디 있죠?
+  Intention: 다리 피로 회복 및 쿨링 (휴식 패치, 쿨링 시트)
+  Keyword: 패치
+  Note: MATCH | "패치" is a good keyword because the intention mentions "휴식 패치, 쿨링 시트" which are types of patches.
+
+[MATCH] Q: 냉장고 안에 냄새 잡아주는 거 어디 있어요?
+  Intention: 냉장고 탈취 (냉장고 탈취제, 탈취용 숯)
+  Keyword: 탈취제
+  Note: MATCH | "탈취제" is a common and direct term for "냉장고 탈취제," which aligns with the intention of "냉장고 탈취."
+
+[MATCH] Q: 옷걸이에서 옷 안 흘러내리게 하는 거 어디 있나요?
+  Intention: 의류 고정 (논슬립 옷걸이 커버/스티커)
+  Keyword: 옷걸이
+  Note: MATCH | "옷걸이" is a necessary component to finding solutions for preventing clothes from slipping off hangers. While not specific enough, it's a relevant and good starting point.
+
+[MATCH] Q: 콘센트 구멍 아기들이 못 건드리게 막는 거 어디 있어요?
+  Intention: 감전 사고 예방 (콘센트 안전 커버)
+  Keyword: 콘센트 안전 덮개
+  Note: MATCH | "콘센트 안전 덮개" and "콘센트 안전 커버" are highly similar and refer to the same type of product used for preventing children from touching electrical outlets.
+
+[MATCH] Q: 가죽 가방 닦는 크림 어디 있죠?
+  Intention: 가죽 관리 및 오염 제거 (가죽 클리너/에센스)
+  Keyword: 가죽 가방 닦는 크림
+  Note: MATCH | The extracted keyword "가죽 가방 닦는 크림" directly describes a product used for leather care and stain removal, aligning well with the intention "가죽 관리 및 오염 제거 (가죽 클리너/에센스)".
+
+[MATCH] Q: 잠잘 때 귀에 꽂는 소음방지용 그거 어디 있어요?
+  Intention: 청력 보호 및 숙면 (귀마개, 이어플러그)
+  Keyword: 귀마개
+  Note: MATCH | "귀마개" (earplugs) is a direct and effective way to fulfill the intention of "청력 보호 및 숙면 (귀마개, 이어플러그)" (hearing protection and sleep (earplugs, earplugs)). The question is also asking about something to put in the ear to block noise while sleeping.
+
+[MATCH] Q: 바지 허리 클 때 줄이는 핀 어디 있나요?
+  Intention: 의류 사이즈 수선 (요술단추, 허리 조절 핀)
+  Keyword: 바지 허리 줄이는 핀
+  Note: MATCH | The extracted keyword "바지 허리 줄이는 핀" directly addresses the user's need for a pin to adjust the waist size of pants, which aligns perfectly with the target intention of "의류 사이즈 수선 (요술단추, 허리 조절 핀)".
+
+[MATCH] Q: 우산 끝에 씌우는 커버 어디 있어요?
+  Intention: 우산 빗물 낙수 방지 (우산 빗물받이/커버)
+  Keyword: 우산 커버
+  Note: MATCH | "우산 커버" is a good search term for finding a cover to prevent water from dripping from an umbrella.
+
+[MATCH] Q: 욕실 바닥 안 미끄럽게 붙이는 거 어디 있죠?
+  Intention: 낙상 사고 예방 (미끄럼 방지 스티커/매트)
+  Keyword: 미끄럼 방지 패드
+  Note: MATCH | "미끄럼 방지 패드" is a good search term for preventing slips and falls in the bathroom, aligning with the intention of "낙상 사고 예방 (미끄럼 방지 스티커/매트)".
+
+[MATCH] Q: 컴퓨터 뒤에 선들 안 보이게 넣어두는 통 어디 있어요?
+  Intention: 전선 및 멀티탭 은닉 정리 (멀티탭 정리함/케이블 박스)
+  Keyword: 선정리함
+  Note: MATCH | "선정리함" (cable organizer box) is a good search term for "전선 및 멀티탭 은닉 정리 (멀티탭 정리함/케이블 박스)" (cable and power strip hiding and organization).
+
+[MATCH] Q: 스테인리스 냄비 탄 거 닦는 가루 어디 있나요?
+  Intention: 금속 용기 찌든 때 제거 (과탄산소다, 다목적 세정제)
+  Keyword: 탄 거 닦는 가루
+  Note: MATCH | "탄 거 닦는 가루" directly relates to removing burnt residue, which aligns with the intention of "금속 용기 찌든 때 제거". The keyword specifies the desired product type (powder for cleaning burnt residue) for the specific cleaning purpose.
+
+[MATCH] Q: 차 안에서 핸드폰 자석으로 붙이는 거 어디 있어요?
+  Intention: 운전 중 기기 고정 (차량용 자석 거치대)
+  Keyword: 핸드폰 거치대
+  Note: MATCH | "핸드폰 거치대" is a general term that includes magnetic phone holders for cars, which aligns with the user's intention of finding a magnetic phone holder to attach a phone in the car.
+
+[MATCH] Q: 발가락 사이 끼우는 거... 매니큐어 바를 때 쓰는 거 어디 있죠?
+  Intention: 페디큐어 편의 도구 (토우 세퍼레이터)
+  Keyword: 페디큐어
+  Note: MATCH | "페디큐어" is a related term to "페디큐어 편의 도구 (토우 세퍼레이터)" as toe separators are commonly used when applying pedicure.
+
+[MATCH] Q: 커튼 달 때 구멍 없는 벽에 고정하는 거 어디 있어요?
+  Intention: 못 없이 커튼 설치 (압축봉, 안뚫어고리)
+  Keyword: 커튼 고정
+  Note: MATCH | "커튼 고정" is a broad keyword, but it directly relates to the user's need to fix a curtain, which aligns with the intention of finding ways to install curtains without nails. It could lead to relevant search results, even if it requires more refining.
+
+[MATCH] Q: 배수구에 머리카락 안 들어가게 하는 스티커 어디 있나요?
+  Intention: 하수구 막힘 방지 (거름망 스티커)
+  Keyword: 머리카락 거름망
+  Note: MATCH | "머리카락 거름망" directly relates to preventing hair from clogging drains, which aligns with the intention of "하수구 막힘 방지 (거름망 스티커)".
+
+[MATCH] Q: 옷장에 걸어두는 습기 제거하는 거 어디 있어요?
+  Intention: 곰팡이 방지 및 제습 (걸이형 제습제)
+  Keyword: 습기 제거제
+  Note: MATCH | 습기 제거제는 습기를 제거하는 제품을 찾는 데 도움이 되는 키워드이며, 옷장에 걸어두는 제습제를 찾는 사용자의 의도와 관련이 있습니다.
+
+[MATCH] Q: 물감 짤 때 쓰는 판 어디 있죠?
+  Intention: 미술 도구 (팔레트)
+  Keyword: 물감 팔레트
+  Note: MATCH | "물감 팔레트" is a reasonable search term for finding a palette used when squeezing paint, which aligns with the intention "미술 도구 (팔레트)".
+
+[MATCH] Q: 낚시 갈 때 쓰는 작은 의자 어디 있어요?
+  Intention: 휴대용 좌석 (접이식 의자)
+  Keyword: 낚시의자
+  Note: MATCH | "낚시의자" (fishing chair) is a type of portable seat, specifically designed for fishing. This aligns well with the intention of finding a "휴대용 좌석 (접이식 의자)" (portable seat/folding chair) suitable for going fishing.
+
+[MATCH] Q: 등 긁는 효자손 어디 있나요?
+  Intention: 신체 가려움 해소 (효자손)
+  Keyword: 효자손
+  Note: MATCH | "효자손" is the specific product mentioned in the intention "신체 가려움 해소 (효자손)".
+
+[MATCH] Q: 기름 요리할 때 얼굴에 안 튀게 막는 거 어디 있어요?
+  Intention: 조리 중 화상 방지 (안면 보호 페이스 쉴드)
+  Keyword: 기름막이
+  Note: MATCH | "기름막이" (oil barrier) is a reasonable search term for finding products that prevent oil splatters from hitting the face while cooking, which aligns with the intention of preventing burns during cooking and protecting the face.
+
+[MATCH] Q: 입술 트지 말라고 바르는 거 어디 있죠?
+  Intention: 입술 보습 (립밤, 립케어)
+  Keyword: 립밤
+  Note: MATCH | 립밤 is a common and effective product for lip moisturizing and care, directly addressing the user's intention.
+
+[MATCH] Q: 종이 자를 때 밑에 깔는 초록색 판 어디 있어요?
+  Intention: 책상 보호 및 절단 보조 (커팅 매트)
+  Keyword: 재단 매트
+  Note: MATCH | 재단 매트 is a very close synonym to 커팅 매트 and would lead the user to the correct product.
+
+[MATCH] Q: 화분 물 빠지는 구멍 막는 망 어디 있나요?
+  Intention: 흙 유실 방지 (화분 깔망)
+  Keyword: 화분망
+  Note: MATCH | "화분망" (flower pot mesh) is a reasonable shortening of "화분 물 빠지는 구멍 막는 망" (mesh to block the drainage hole of a flower pot) and directly relates to preventing soil loss, which is the core of the user's intention of finding "화분 깔망" (flower pot bottom mesh).
+
+[MATCH] Q: 차 문 열 때 벽에 안 부딪히게 붙이는 거 어디 있어요?
+  Intention: 문콕 방지 (도어 가드, 스펀지 패드)
+  Keyword: 문 보호대
+  Note: MATCH | "문 보호대" (door protector) is a reasonable search term for "문콕 방지" (door ding prevention), as it describes a product that protects the car door from hitting walls and causing dings. It is a slightly broader term than "도어 가드" but still relevant.
+
+[MISMATCH] Q: 손톱 깎고 옆에 다듬는 거 어디 있죠?
+  Intention: 손톱 표면 정리 (네일 파일, 네일 버퍼)
+  Keyword: 손톱깎이
+  Note: MISMATCH | The extracted keyword "손톱깎이" (nail clipper) is for cutting nails, while the intention is about smoothing and refining the nail surface, typically done with nail files or buffers. Although related to nail care, it doesn't directly address the user's intent of finding tools for smoothing the nail surface.
+
+[MATCH] Q: 그... 과자 먹고 남은 거 집어놓는 집게 어디 있어요?
+  Intention: 식품 신선도 유지 밀봉 (봉지 집게, 밀봉 클립)
+  Keyword: 집게
+  Note: MATCH | The keyword "집게" (jipge, meaning "clip" or "clamp") directly relates to the intention of finding a clip to seal food bags for freshness. It's a good search term for "봉지 집게" (bongji jipge, meaning "bag clip").
+
+[MATCH] Q: 집 안에서 운동할 때 바닥에 까는 두꺼운 매트 어디 있나요?
+  Intention: 층간소음 방지 및 충격 완화 (홈트레이닝 매트, 요가 매트)
+  Keyword: 매트
+  Note: MATCH | "매트" (mat) is a general term that directly relates to both "홈트레이닝 매트" (home training mat) and "요가 매트" (yoga mat), which are used for noise reduction and shock absorption during indoor exercise, aligning with the user intention.
+
+[MATCH] Q: 신발 앞코 뾰족한 거 발 안 아프게 넣는 거 어디 있어요?
+  Intention: 신발 착용감 개선 (앞코 쿠션, 토 패드)
+  Keyword: 신발
+  Note: MATCH | The keyword "신발" (shoes) is a broad term, but it's relevant because the intention is about improving the comfort of shoes, specifically regarding the pointed toe area. While more specific keywords like "앞코 쿠션" (toe cushion) would be better, "신발" is still related and could lead to relevant results.
+
+[MATCH] Q: 창문 잠그는 장치... 애들이 못 열게 하는 거 어디 있죠?
+  Intention: 창문 추락 방지 안전장치 (창문 잠금장치, 윈도우 락)
+  Keyword: 창문 잠금 장치
+  Note: MATCH | The extracted keyword "창문 잠금 장치" directly addresses the user's need for a device to prevent children from opening windows, which aligns perfectly with the target intention of "창문 추락 방지 안전장치 (창문 잠금장치, 윈도우 락)".
+
+[MATCH] Q: 가구 모서리에 부딪혀도 안 아프게 붙이는 거 어디 있어요?
+  Intention: 충격 완화 안전 소품 (모서리 보호대)
+  Keyword: 모서리 보호대
+  Note: MATCH | The extracted keyword "모서리 보호대" (corner protector) directly addresses the user's intention of finding a product to protect from bumping into furniture corners, which falls under the category of "충격 완화 안전 소품 (모서리 보호대)" (shock absorption safety item (corner protector)).
+
+[MATCH] Q: 비 올 때 가방 안 젖게 씌우는 거 어디 있나요?
+  Intention: 가방 방수 (백팩 레인커버)
+  Keyword: 가방커버
+  Note: MATCH | "가방커버" is a reasonable search term for "가방 방수 (백팩 레인커버)" as it describes a cover for a bag, which can be used for waterproofing.
+
+[MATCH] Q: 주방 싱크대 선반 높이 조절하는 거 어디 있어요?
+  Intention: 주방 수납 공간 효율화 (조절식 싱크대 선반)
+  Keyword: 싱크대 선반
+  Note: MATCH | "싱크대 선반" is a good starting point to find adjustable sink shelves, directly related to the intention of optimizing kitchen storage space with adjustable sink shelves.
+
+[MATCH] Q: 그... 쇠로 된 건데 문 뒤에 걸어서 옷 거는 거 어디 있죠?
+  Intention: 벽 타공 없는 수납 (도어 행거)
+  Keyword: 옷걸이
+  Note: MATCH | 옷걸이 is a reasonably good search term as it describes the function of hanging clothes, which is the primary function of a 도어 행거 (door hanger). While it doesn't specify the "door" aspect, it's close enough to lead to relevant results.
+
+[MISMATCH] Q: 세면대 뚫는 액체 말고 긴 막대기 같은 거 어디 있어요?
+  Intention: 물리적 배수구 이물질 제거 (배수관 클리너 솔, 집게)
+  Keyword: 뚫어뻥
+  Note: MISMATCH | 뚫어뻥 (Ttureoppeong) refers to a plunger, which isn't the "long stick-like thing" the user is asking about. The user is looking for a drain cleaner tool like a drain snake or a grabber.
+
+[MATCH] Q: 옷에 이름표 붙일 때 쓰는 테이프 어디 있나요?
+  Intention: 의류 소유주 표시 (의류용 네임스티커/테이프)
+  Keyword: 이름표 테이프
+  Note: MATCH | "이름표 테이프" is a reasonable search term for finding "의류용 네임스티커/테이프" as it directly relates to labeling clothes with names.
+
+[MATCH] Q: 자동차 바퀴 휠 닦는 거 어디 있어요?
+  Intention: 차량 휠 세척 (휠 클리너, 세차 솔)
+  Keyword: 자동차 바퀴 휠
+  Note: MATCH | "자동차 바퀴 휠" is a good starting point to find products related to "차량 휠 세척". It directly refers to the part being cleaned.
+
+[MATCH] Q: 벽지에 낙서한 거 지우는 거 어디 있죠?
+  Intention: 오염 제거용 청소 도구 (매직 블록, 낙서 제거제)
+  Keyword: 벽지낙서지우개
+  Note: MATCH | "벽지낙서지우개" (wallpaper graffiti eraser) is a reasonable search term for finding "오염 제거용 청소 도구 (매직 블록, 낙서 제거제)" (cleaning tools for removing stains (magic block, graffiti remover)). It directly relates to removing graffiti from wallpaper.
+
+[MATCH] Q: 다이어리에 구멍 뚫는 기계 어디 있어요?
+  Intention: 문서 결속 보조 (펀치, 타공기)
+  Keyword: 다이어리 펀치
+  Note: MATCH | "다이어리 펀치" (diary punch) is a specific type of "펀치" (punch) or "타공기" (hole puncher) that is designed for making holes in diaries. This directly relates to the intention of finding tools for document binding or hole punching.
+
+[MATCH] Q: 아이들 연필 잡는 법 교정해주는 거 어디 있나요?
+  Intention: 바른 글쓰기 습관 보조 (연필 교정 홀더)
+  Keyword: 연필
+  Note: MATCH | The keyword "연필" (pencil) is directly related to the intention of finding a product that helps correct pencil grip for children. While "연필 교정 홀더" (pencil grip corrector) would be a more precise keyword, "연필" is a reasonable starting point as it narrows down the search to items associated with pencils, increasing the likelihood of finding the desired product.
+
+[MATCH] Q: 빨래 건조대 발에 끼우는 거 어디 있어요?
+  Intention: 바닥 긁힘 및 미끄럼 방지 (건조대 캡/패드)
+  Keyword: 빨래 건조대 발
+  Note: MATCH | "빨래 건조대 발" (laundry drying rack feet) directly relates to the intention of finding 건조대 캡/패드 (drying rack caps/pads) that prevent floor scratching and slipping, as these caps/pads are attached to the feet of the drying rack. The keyword is a reasonable search term to find the product.
+
+[MATCH] Q: 그... 유리창 닦을 때 쓰는 고무 달린 밀대 어디 있죠?
+  Intention: 물기 제거 (유리창 스퀴지)
+  Keyword: 유리창닦이
+  Note: MATCH | "유리창닦이" is a common term for a window cleaner, often including a squeegee for removing water, which aligns with the intention of "물기 제거 (유리창 스퀴지)".
+
+[MATCH] Q: 욕실 실리콘 곰팡이 지우는 젤 어디 있어요?
+  Intention: 욕실 위생 관리 (곰팡이 제거 젤)
+  Keyword: 욕실 실리콘 곰팡이 지우는 젤
+  Note: MATCH | The extracted keyword "욕실 실리콘 곰팡이 지우는 젤" (bathroom silicone mold removing gel) directly describes the product needed for the intention "욕실 위생 관리 (곰팡이 제거 젤)" (bathroom hygiene management (mold removal gel)). It's a specific and relevant search term.
+
+[MATCH] Q: 여권 끼우는 커버 어디 있나요?
+  Intention: 여권 보호 및 수납 (여권 케이스)
+  Keyword: 여권 커버
+  Note: MATCH | "여권 커버" is a reasonable search term for finding a "여권 케이스" which provides protection and storage for a passport. They are essentially synonymous.
+
+[MATCH] Q: 자전거 바람 넣는 기계 어디 있어요?
+  Intention: 공기 주입 도구 (자전거 펌프)
+  Keyword: 자전거 바람 넣는 기계
+  Note: MATCH | The extracted keyword "자전거 바람 넣는 기계" (bicycle air pump machine) directly describes the product described in the target intention "공기 주입 도구 (자전거 펌프)" (air inflation tool (bicycle pump)). It's a reasonable search term to find a bicycle pump.
+
+[MATCH] Q: 캠핑 가서 설거지한 거 말리는 망 어디 있죠?
+  Intention: 야외 식기 건조 (캠핑용 식기 건조망)
+  Keyword: 설거지망
+  Note: MATCH | "설거지망" (dish drying net) is a reasonable shortening of "설거지한 거 말리는 망" (net for drying washed dishes) and could be used to find the product.
+
+[MATCH] Q: 손목 아플 때 쓰는 보호대 어디 있어요?
+  Intention: 관절 지지 및 통증 완화 (손목 보호대)
+  Keyword: 보호대
+  Note: MATCH | "보호대" (brace) is a good general term for a wrist brace, which is the product described in the intention.
+
+[MATCH] Q: 반지 너무 클 때 안쪽에 끼우는 거 어디 있나요?
+  Intention: 반지 사이즈 조절 (반지 사이즈 조절기/가드)
+  Keyword: 반지 사이즈 조절링
+  Note: MATCH | 반지 사이즈 조절링은 반지 사이즈를 조절하는 데 사용되는 도구이므로, 반지 사이즈 조절 (반지 사이즈 조절기/가드)라는 사용자 의도에 부합하는 검색어입니다.
+
+[MATCH] Q: 냉장고에 붙이는 타이머 어디 있어요?
+  Intention: 조리 시간 알림 (자석 주방 타이머)
+  Keyword: 타이머
+  Note: MATCH | "타이머" (timer) is a generic term for the product described in the intention "조리 시간 알림 (자석 주방 타이머)" (cooking time alarm (magnetic kitchen timer)). While it doesn't include the specific features (magnetic, kitchen), it's a good starting point and a reasonable search term.
+
+[MATCH] Q: 구두 신을 때 뒤에 대는 긴 거 어디 있죠?
+  Intention: 신발 착용 보조 (구두주걱)
+  Keyword: 구두주걱
+  Note: MATCH | "구두주걱" is a specific term for the object described as "구두 신을 때 뒤에 대는 긴 거" and directly relates to the intention of "신발 착용 보조 (구두주걱)".
+
+[MATCH] Q: 머리 감을 때 쓰는 브러쉬 어디 있어요?
+  Intention: 두피 마사지 및 세정 (샴푸 브러쉬)
+  Keyword: 머리 브러쉬
+  Note: MATCH | "머리 브러쉬" (hair brush) is a reasonable search term for "두피 마사지 및 세정 (샴푸 브러쉬)" (scalp massage and cleansing (shampoo brush)) as shampoo brushes are a type of hair brush.
+
+[MATCH] Q: 방충망 구멍 났을 때 붙이는 스티커 어디 있나요?
+  Intention: 방충망 보수 (방충망 보수 테이프)
+  Keyword: 방충망 스티커
+  Note: MATCH | "방충망 스티커" is a common term used to refer to "방충망 보수 테이프", which is used to repair holes in window screens. Therefore, it is a good search term to fulfill the user's intention.
+
+[MATCH] Q: 그... 젤리 같은 건데 키보드 먼지 떼는 거 어디 있어요?
+  Intention: 틈새 먼지 제거 (클리닝 젤)
+  Keyword: 젤리
+  Note: MATCH | "젤리" is a reasonable keyword because the product is described as "젤리 같은 건데" meaning "something like jelly." This directly relates to the target intention of finding a cleaning gel (often referred to as keyboard cleaning gel, which has a jelly-like consistency) for removing dust from crevices.
+
+[MATCH] Q: 안경 콧받침만 따로 팔아요?
+  Intention: 안경 소모품 교체 (안경 코패드)
+  Keyword: 콧받침
+  Note: MATCH | The extracted keyword "콧받침" (nose pad) directly refers to the "안경 코패드" (eyeglass nose pad) mentioned in the target intention. Searching for "콧받침" would likely lead to results for replacement nose pads for eyeglasses, fulfilling the intention of finding and potentially replacing that specific eyeglass consumable.
+
+[MATCH] Q: 이어폰 귀에 닿는 고무 부분만 따로 있나요?
+  Intention: 이어폰 소모품 교체 (이어팁)
+  Keyword: 이어폰 고무
+  Note: MATCH | "이어폰 고무" refers to the rubber part of the earphone that goes into the ear, which is commonly known as an eartip. This directly relates to the intention of finding replacement eartips.
+
+[MATCH] Q: 압축봉 끝에 끼우는 거 어디 있어요?
+  Intention: 압축봉 고정력 강화 및 벽 보호 (압축봉 지지대/캡)
+  Keyword: 압축봉
+  Note: MATCH | The keyword "압축봉" (compression rod) is a relevant starting point for finding accessories that enhance its stability and protect the wall. While it might not directly lead to "압축봉 지지대/캡" (compression rod support/cap), it's a necessary component in the search. People looking for supports or caps would likely start by searching for the rod itself.
+
+[MATCH] Q: 나무 도구 관리할 때 바르는 거 어디 있죠?
+  Intention: 목재 보존 (우드 오일, 도마 관리유)
+  Keyword: 오일
+  Note: MATCH | "오일" (oil) is a common and relevant term used for wood preservation products like wood oil and cutting board oil, which are mentioned in the target intention. Therefore, it's a reasonably good search term.
+
+[MATCH] Q: 신발장에 넣어두는 냄새 제거제 어디 있어요?
+  Intention: 신발장 탈취 (신발장 방향제/탈취제)
+  Keyword: 냄새 제거제
+  Note: MATCH | "냄새 제거제" is a general term that includes 탈취제, which directly relates to the intention of removing odor from a shoe cabinet.
+
+[MATCH] Q: 그릇 겹쳐 놓을 때 사이에 끼우는 거 어디 있나요?
+  Intention: 식기 긁힘 방지 (그릇 보호 패드)
+  Keyword: 그릇받침
+  Note: MATCH | "그릇받침" can refer to various items used to protect dishes, including pads or stands that prevent scratching when stacking dishes, aligning with the intention of "식기 긁힘 방지 (그릇 보호 패드)".
+
+[MATCH] Q: 침대 시트 안 밀리게 고정하는 집게 어디 있어요?
+  Intention: 침구 정리 유지 (매트리스 시트 고정 집게)
+  Keyword: 침대 시트 고정 집게
+  Note: MATCH | "침대 시트 고정 집게" is a good search term to find products related to "침구 정리 유지 (매트리스 시트 고정 집게)".
+
+[MATCH] Q: 여행 갈 때 샴푸 담는 작은 통 세트 어디 있죠?
+  Intention: 화장품 소분 (여행용 공병 세트)
+  Keyword: 샴푸통
+  Note: MATCH | 샴푸통은 여행용 공병 세트에 포함될 수 있는 제품이므로, 의도와 관련이 있습니다.
+
+[MATCH] Q: 도시락 쌀 때 모양 내는 틀 어디 있어요?
+  Intention: 음식 장식 (주먹밥 틀, 컷팅 틀)
+  Keyword: 모양틀
+  Note: MATCH | "모양틀" (mold) directly relates to shaping food, which aligns with the intention of finding tools for food decoration like "주먹밥 틀" (rice ball molds) and "컷팅 틀" (cutting molds).
+
+[MATCH] Q: 수도꼭지에 끼워서 물 방향 바꾸는 거 어디 있나요?
+  Intention: 세면대 사용 편의 (수도꼭지 연장/회전 노즐)
+  Keyword: 수도꼭지
+  Note: MATCH | The keyword "수도꼭지" (faucet) is a component of the product described in the intention (faucet extension/rotation nozzle for easier sink use). Searching for "수도꼭지" is a reasonable starting point to find the desired product.
+
+[MATCH] Q: 장바구니 접어서 가방에 쏙 들어가는 거 어디 있어요?
+  Intention: 휴대용 장바구니 (접이식 에코백)
+  Keyword: 장바구니
+  Note: MATCH | "장바구니" is a broad term that encompasses the intended product "휴대용 장바구니 (접이식 에코백)". While not as specific, it's a relevant and reasonably good starting point for a search.
+
+[MATCH] Q: 에어프라이어 밑에 까는 종이 어디 있죠?
+  Intention: 조리 기구 오염 방지 (에어프라이어 종이호일)
+  Keyword: 에어프라이어 종이
+  Note: MATCH | The extracted keyword "에어프라이어 종이" (air fryer paper) directly relates to the user's intention of finding something to prevent the air fryer from getting dirty, specifically "에어프라이어 종이호일" (air fryer parchment paper). It's a good, concise search term.
+
+[MATCH] Q: 베개 솜만 따로 파나요?
+  Intention: 침구 소모품 구매 (베개 솜 내장재)
+  Keyword: 베개 솜
+  Note: MATCH | The extracted keyword "베개 솜" directly corresponds to the product described in the intention "베개 솜 내장재". It's a good search term to find the specific product.
+
+[MATCH] Q: 옷에 보풀 일어난 거 깎아내는 기계 어디 있어요?
+  Intention: 의류 관리 (보풀 제거기)
+  Keyword: 보풀제거기
+  Note: MATCH | "보풀제거기" directly translates to "lint remover," which is the exact product needed for removing 보풀 (lint) from clothes. This aligns perfectly with the intention of "의류 관리 (보풀 제거기)" which means "clothing care (lint remover)."
+
+[MATCH] Q: 방 문 밑에 틈새 막아서 바람 안 들어오게 하는 거 어디 있나요?
+  Intention: 외풍 및 벌레 차단 (문하부 밀폐재/틈새막이)
+  Keyword: 문풍지
+  Note: MATCH | 문풍지 is a type of weatherstripping commonly used to block drafts and insects from entering through gaps in doors and windows, which aligns with the user's intention.
+
+[MATCH] Q: 가구 긁힌 데 색칠하는 펜 어디 있어요?
+  Intention: 가구 흠집 보수 (우드 마커, 가구 보수 펜)
+  Keyword: 가구 긁힘 보수펜
+  Note: MATCH | "가구 긁힘 보수펜" is a reasonable search term for finding a pen to color scratches on furniture, aligning with the intention of "가구 흠집 보수 (우드 마커, 가구 보수 펜)".
+
+[MATCH] Q: 그... 돌리면 불 나오는 거... 촛불 켤 때 쓰는 거 어디 있죠?
+  Intention: 점화 도구 (가스 점화기, 캔들 라이터)
+  Keyword: 라이터
+  Note: MATCH | 라이터 is a common and generally understood term for a device used to light candles, gas stoves, and other things. Although the user is somewhat vague in their description, "라이터" is a reasonable keyword that could lead to finding the intended item.
+
+[MATCH] Q: 손톱에 스티커 붙이는 거 어디 있어요?
+  Intention: 셀프 네일 아트 (네일 스티커/팁)
+  Keyword: 스티커
+  Note: MATCH | "스티커" is a good search term because nail stickers are a common type of self nail art product.
+
+[MATCH] Q: 싱크대 밑에 냄비 정리하는 선반 어디 있나요?
+  Intention: 싱크대 하부 수납 효율화 (프라이팬/냄비 정리대)
+  Keyword: 냄비 정리 선반
+  Note: MATCH | The extracted keyword "냄비 정리 선반" (냄비 organizing shelf) directly relates to organizing pots and pans, which is the core of the user's intention of "싱크대 하부 수납 효율화 (프라이팬/냄비 정리대)" (sink cabinet storage efficiency (frying pan/pot organizer)). Therefore, it's a good search term.
+
+[MATCH] Q: 물티슈 뚜껑만 따로 팔아요?
+  Intention: 캡형 물티슈 재사용 (물티슈 캡)
+  Keyword: 물티슈 뚜껑
+  Note: MATCH | The extracted keyword "물티슈 뚜껑" (wet wipe lid) directly addresses the intention of finding a replacement or reusable lid for wet wipes, as indicated by "캡형 물티슈 재사용 (물티슈 캡)" which translates to "Cap-type wet wipe reuse (wet wipe cap)".
+
+[MATCH] Q: 화분 분갈이할 때 쓰는 큰 비닐 매트 어디 있어요?
+  Intention: 원예 작업 시 청결 유지 (분갈이 매트)
+  Keyword: 비닐 매트
+  Note: MATCH | "비닐 매트" is a reasonably good search term to find 분갈이 매트, as it describes the material and general shape of the product.
+
+[MATCH] Q: 차 유리 깨졌을 때 임시로 붙이는 거 어디 있죠?
+  Intention: 유리 파손 응급 보수 (유리 보수 테이프)
+  Keyword: 유리 테이프
+  Note: MATCH | "유리 테이프" is a shortened and more practical search term for "유리 보수 테이프", which is a specific type of tape used for emergency glass repair. It directly relates to the user's intention of finding something to temporarily fix a broken car window.
+
+[MATCH] Q: 책 페이지 표시하는 끈 같은 거 어디 있나요?
+  Intention: 독서 위치 표시 (책갈피, 북마크)
+  Keyword: 책갈피
+  Note: MATCH | 책갈피 is a common and directly relevant term for marking pages in a book, aligning perfectly with the intention of "독서 위치 표시 (책갈피, 북마크)".
+
+[MATCH] Q: 저기요, 고무장갑 제일 작은 거 어디 있어요?
+  Intention: 특정 사이즈(S/소) 고무장갑 찾기
+  Keyword: 고무장갑
+  Note: MATCH | The keyword "고무장갑" (rubber gloves) is a good starting point to find rubber gloves, even if it doesn't specify the size. The user is looking for a specific size of rubber gloves, and "고무장갑" narrows down the search to the correct product category.
+
+[MATCH] Q: 혹시 3,000원짜리 슬리퍼 여기 있는 게 다인가요?
+  Intention: 특정 가격대 상품의 디자인 다양성 또는 추가 재고 확인
+  Keyword: 슬리퍼
+  Note: MATCH | The keyword "슬리퍼" (slippers) directly identifies the product of interest and is essential for finding slippers within the specified price range or checking for additional stock.
+
+[MATCH] Q: 이거 바구니 뚜껑은 따로 안 팔아요?
+  Intention: 본체와 별도로 구성품(뚜껑)만 단독 구매 가능 여부 확인
+  Keyword: 바구니 뚜껑
+  Note: MATCH | The extracted keyword "바구니 뚜껑" (basket lid) directly addresses the user's intention of finding out if the lid for the basket can be purchased separately. The keyword is specific and relevant to the query.
+
+[MATCH] Q: 아이폰 충전기 줄 긴 거 어디 있어요?
+  Intention: 길이(1.5m~2m 이상)가 긴 8핀 또는 C to 라이트닝 케이블 찾기
+  Keyword: 아이폰 충전기
+  Note: MATCH | "아이폰 충전기" is a good starting point for finding a Lightning cable for iPhones, even if it doesn't specify the length. A user searching for "아이폰 충전기" would likely be presented with various options, including long cables.
+
+[MATCH] Q: 종이컵 50개 들어있는 거 어디 있죠?
+  Intention: 특정 수량(대용량) 패키지 종이컵 찾기
+  Keyword: 종이컵
+  Note: MATCH | "종이컵" is the core product the user is looking for, and even without the quantity specification, it's a good starting point for a search. The user can then filter for the specific quantity.
+
+[MATCH] Q: 벽에 붙이는 고리 좀 찾으려는데요.
+  Intention: 타공 없는 수납 도구(점착 후크, 흡착 행거) 찾기
+  Keyword: 벽걸이 고리
+  Note: MATCH | "벽걸이 고리" (wall-mounted hook) is a reasonable translation of "벽에 붙이는 고리" (hook to attach to the wall) and aligns with the intention of finding "점착 후크" (adhesive hook) or "흡착 행거" (suction hanger), which are types of wall-mounted hooks that don't require drilling.
+
+[MATCH] Q: 여기 건전지 코너가 어디예요?
+  Intention: 건전지(AA, AAA 등) 통합 진열 구역 찾기
+  Keyword: 건전지
+  Note: MATCH | The keyword "건전지" directly translates to "battery" and is the core product being searched for according to the intention.
+
+[MATCH] Q: 주방 가위 싼 거 어디 있나요?
+  Intention: 저가형(1,000원~2,000원) 주방용 절단 도구 찾기
+  Keyword: 주방 가위
+  Note: MATCH | "주방 가위" directly represents the core product sought in the intention, which is a 주방용 절단 도구. While the intention specifies a low-cost item, "주방 가위" is a necessary and good starting point for finding it.
+
+[MATCH] Q: 압축팩 큰 사이즈 재고 더 없나요?
+  Intention: 이불/의류용 대형 압축팩 추가 물량 확인
+  Keyword: 압축팩
+  Note: MATCH | "압축팩" is a general term for the product, and the intention specifies a particular type ("이불/의류용 대형") of 압축팩. While it's not a perfect match, searching for "압축팩" will likely lead the user to the desired product, allowing them to filter for size and type.
+
+[MATCH] Q: 샤워기 헤드 바꾸고 싶은데 어디로 가야 하죠?
+  Intention: 욕실 용품 중 수전/교체용 헤드 코너 찾기
+  Keyword: 샤워기 헤드
+  Note: MATCH | The extracted keyword "샤워기 헤드" directly relates to the user's desire to find a replacement shower head, which aligns with the intention of finding the "수전/교체용 헤드 코너" within the "욕실 용품" category.
+
+[MATCH] Q: 박스테이프 투명한 거 어디 있어요?
+  Intention: 포장용 투명 OPP 테이프 찾기
+  Keyword: 박스테이프
+  Note: MATCH | "박스테이프" (box tape) is a general term that includes "포장용 투명 OPP 테이프" (packaging clear OPP tape). Therefore, it is a reasonably good search term.
+
+[MATCH] Q: 섬유유연제 리필용 어디 있나요?
+  Intention: 본품 외 경제적인 리필 파우치 형태 제품 찾기
+  Keyword: 섬유유연제
+  Note: MATCH | The keyword "섬유유연제" (fabric softener) is a good starting point for finding refill pouches of fabric softener, as it identifies the general product category.
+
+[MATCH] Q: 물티슈 100매짜리 어디 있어요?
+  Intention: 대용량(100매 이상) 물티슈 찾기
+  Keyword: 물티슈
+  Note: MATCH | "물티슈" is a necessary keyword to find 물티슈 (wet wipes), and the user is looking for 물티슈. While it doesn't specify the quantity, it's a good starting point and relevant.
+
+[MATCH] Q: 여행용 치약 칫솔 세트 어디 있죠?
+  Intention: 휴대용 구강 위생 키트 찾기
+  Keyword: 여행용 치약 칫솔 세트
+  Note: MATCH | "여행용 치약 칫솔 세트" is a very specific and relevant term that directly addresses the intention of finding a portable oral hygiene kit.
+
+[MATCH] Q: 종이 쇼핑백 좀 사고 싶은데요.
+  Intention: 선물이나 물건 담기용 종이 가방 찾기
+  Keyword: 종이 쇼핑백
+  Note: MATCH | The extracted keyword "종이 쇼핑백" directly corresponds to the user's request to buy paper shopping bags for carrying items.
+
+[MATCH] Q: S자 고리 어디에 있나요?
+  Intention: 걸이식 수납을 위한 S형 후크 찾기
+  Keyword: S자 고리
+  Note: MATCH | "S자 고리" directly translates to "S-hook," which is precisely what the user is looking for to achieve hanging storage, as described in the intention.
+
+[MATCH] Q: 줄 이어폰 아직 팔아요?
+  Intention: 블루투스 외 유선 이어폰(3.5mm/C타입) 재고 확인
+  Keyword: 이어폰
+  Note: MATCH | The keyword "이어폰" (earphones) is a broad term, but it's directly related to the user's intention of finding wired earphones. It's a good starting point for a search.
+
+[MATCH] Q: A4 클리어 파일 어디 있어요?
+  Intention: 서류 보관용 내지 포함 파일첩 찾기
+  Keyword: 클리어파일
+  Note: MATCH | "클리어파일" is a specific type of filing product, directly related to the intention of finding a file folder or filing product for document storage.
+
+[MATCH] Q: 반찬통 유리로 된 거 어디 있죠?
+  Intention: 내열유리 또는 일반 유리 소재 밀폐용기 찾기
+  Keyword: 반찬통
+  Note: MATCH | "반찬통" directly refers to a container for side dishes, which aligns with the intention of finding a 밀폐용기 (sealed container) for 반찬 (side dishes). While it doesn't specify the material (유리 - glass), it's a good starting point for finding the desired product.
+
+[MATCH] Q: 캠핑용 돗자리 어디 있어요?
+  Intention: 야외용 매트 또는 은박 돗자리 찾기
+  Keyword: 돗자리
+  Note: MATCH | "돗자리" (mat) is a general term for a mat, and in the context of camping, it's a reasonable search term to find "야외용 매트" (outdoor mat) or "은박 돗자리" (foil mat).
+
+[MATCH] Q: 쓰레기 종량제 봉투는 계산대에서 사나요?
+  Intention: 구청 지정 쓰레기 봉투 판매 위치 확인
+  Keyword: 종량제 봉투
+  Note: MATCH | "종량제 봉투" is a good search term to find information about where to buy 구청 지정 쓰레기 봉투.
+
+[MATCH] Q: 우산 5,000원짜리 어디 있어요?
+  Intention: 다이소 내 고가(장우산/자동우산) 라인업 찾기
+  Keyword: 우산
+  Note: MATCH | The extracted keyword "우산" (umbrella) is a good starting point to find umbrellas, even if the user's intention is to find a specific type (expensive long/automatic umbrellas) within Daiso. Searching for "우산" will lead to the general category, from which the user can then filter based on price and type.
+
+[MATCH] Q: 애들 노는 클레이 어디 있나요?
+  Intention: 점토 놀이(아이클레이, 컬러 점토) 코너 찾기
+  Keyword: 클레이
+  Note: MATCH | "클레이" (clay) is a direct and relevant keyword for finding "점토 놀이" (clay play) products like "아이클레이" (eye clay) or "컬러 점토" (color clay).
+
+[MATCH] Q: 강아지 간식 코너 어디예요?
+  Intention: 반려동물 식품(개 간식) 구역 찾기
+  Keyword: 강아지 간식
+  Note: MATCH | "강아지 간식" is a direct and relevant search term to find "반려동물 식품(개 간식) 구역" (dog snack section).
+
+[MATCH] Q: 여자 덧버선 어디 있어요?
+  Intention: 신발 밖으로 안 보이는 여성용 페이크삭스 찾기
+  Keyword: 덧버선
+  Note: MATCH | "덧버선" directly translates to "덧신," which is a type of sock. "여자 덧버선" (women's 덧신) is a reasonable search term to find women's socks, including the type of invisible sock described in the intention.
+
+[MATCH] Q: 주방 세제 퐁퐁 어디 있죠?
+  Intention: 식기 세척용 액체 세제 찾기
+  Keyword: 퐁퐁
+  Note: MATCH | 퐁퐁 is a well-known brand name for 식기 세척용 액체 세제 in Korea. Therefore, it's a good search term to find the intended product.
+
+[MATCH] Q: 일회용 면도기 어디 있어요?
+  Intention: 여행/비상용 다회 패키지 면도기 찾기
+  Keyword: 일회용 면도기
+  Note: MATCH | The extracted keyword "일회용 면도기" (disposable razor) directly relates to the intention of finding a disposable razor, even if the intention specifies a travel/emergency multi-pack. A user looking for a travel pack of disposable razors would likely start by searching for "disposable razors."
+
+[MATCH] Q: 3구 멀티탭 어디 있나요?
+  Intention: 소켓이 3개인 전원 연장선 찾기
+  Keyword: 멀티탭
+  Note: MATCH | "멀티탭" (multi-tap) directly translates to a power strip or extension cord, which is relevant to finding a power extension cord with 3 sockets.
+
+[MATCH] Q: 수납함 투명한 거 어디 있어요?
+  Intention: 내용물 확인이 쉬운 플라스틱 정리함 찾기
+  Keyword: 수납함
+  Note: MATCH | "수납함" directly relates to finding storage containers, which aligns with the intention of finding a specific type of storage container ("플라스틱 정리함"). While it doesn't specify the material or transparency, it's a good starting point.
+
+[MATCH] Q: 꽃 가위 어디 있죠?
+  Intention: 원예용 전정 가위 또는 꽃꽂이 가위 찾기
+  Keyword: 꽃 가위
+  Note: MATCH | "꽃 가위" is a direct and appropriate term for finding 원예용 전정 가위 또는 꽃꽂이 가위.
+
+[MATCH] Q: 부탄가스 어디 있어요?
+  Intention: 휴대용 가스레인지용 연료 찾기
+  Keyword: 부탄가스
+  Note: MATCH | "부탄가스" directly refers to the fuel used for portable gas stoves, making it a very relevant search term for finding 휴대용 가스레인지용 연료.
+
+[MATCH] Q: 바지 걸이 어디 있나요?
+  Intention: 하의 전용 집게형 또는 개방형 옷걸이 찾기
+  Keyword: 바지 걸이
+  Note: MATCH | "바지 걸이" directly translates to "pants hanger," which is a fitting search term for finding "하의 전용 집게형 또는 개방형 옷걸이 찾기" (finding clip-type or open-type hangers specifically for bottoms).
+
+[MATCH] Q: 욕실 실리콘 투명한 거 어디 있어요?
+  Intention: 욕실 보수용 투명 충전재/코킹재 찾기
+  Keyword: 욕실 실리콘
+  Note: MATCH | "욕실 실리콘" (bathroom silicone) is a reasonable search term for finding transparent filler/caulk for bathroom repair. It directly relates to the product category.
+
+[MATCH] Q: 의자 다리에 끼우는 소음 방지 캡 어디 있죠?
+  Intention: 가구 이동 소음 및 바닥 긁힘 방지 캡 찾기
+  Keyword: 소음 방지 캡
+  Note: MATCH | "소음 방지 캡" is a key component of finding "가구 이동 소음 및 바닥 긁힘 방지 캡".
+
+[MATCH] Q: 식물 물 주는 분무기 어디 있어요?
+  Intention: 원예용 스프레이 공병 찾기
+  Keyword: 분무기
+  Note: MATCH | "분무기" is a direct translation of "sprayer" and is a relevant keyword for finding a "원예용 스프레이 공병" (gardening spray bottle).
+
+[MATCH] Q: 포스트잇 노란색 어디 있나요?
+  Intention: 점착 메모지(표준형) 찾기
+  Keyword: 포스트잇
+  Note: MATCH | "포스트잇" is the brand name for 점착 메모지, specifically the standard type, so it is a good search term to find the product. The question also specifies the color, which is a helpful detail.
+
+[MATCH] Q: 빨래 바구니 큰 거 어디 있어요?
+  Intention: 대용량 세탁물 보관함 찾기
+  Keyword: 빨래 바구니
+  Note: MATCH | "빨래 바구니" (laundry basket) is a reasonable starting point for finding a "대용량 세탁물 보관함" (large-capacity laundry storage). The keyword directly relates to the product category, although it might need refinement to specify "large" or "capacity" later.
+
+[MATCH] Q: 커튼 달 때 쓰는 봉 어디 있죠?
+  Intention: 못 없이 설치하는 압축봉 또는 일반 커튼봉 찾기
+  Keyword: 커튼봉
+  Note: MATCH | "커튼봉" is a direct and relevant term for finding a curtain rod, which is the core component needed whether installing with or without nails. It aligns with the intention of finding either a compression rod or a standard curtain rod.
+
+[MATCH] Q: 방향제 코너 어디예요?
+  Intention: 디퓨저, 자동 분사기, 젤형 방향제 구역 찾기
+  Keyword: 방향제
+  Note: MATCH | "방향제" is a broad term that encompasses diffusers, automatic sprayers, and gel-type air fresheners, making it a relevant keyword for finding these products.
+
+[MATCH] Q: 빨래망 사각으로 된 거 어디 있어요?
+  Intention: 특정 형태(사각)의 세탁 보호망 찾기
+  Keyword: 빨래망
+  Note: MATCH | "빨래망" (laundry net) is a broad term that encompasses "세탁 보호망" (laundry protection net). While it doesn't specifically include "사각" (square), it's a reasonable starting point for finding the desired product, as users can then filter or browse for square-shaped ones.
+
+[MATCH] Q: 핸드폰 거치대 차에서 쓰는 거 어디 있죠?
+  Intention: 차량용 송풍구/대시보드 스마트폰 거치대 찾기
+  Keyword: 핸드폰 거치대
+  Note: MATCH | "핸드폰 거치대" is a good starting point to find a smartphone holder, and the user's intention is to find a smartphone holder for car use. It's a general term that can lead to the desired product with further filtering or browsing.
+
+[MATCH] Q: 양면테이프 강력한 거 어디 있어요?
+  Intention: 접착력이 강한 아크릴 또는 폼 양면테이프 찾기
+  Keyword: 양면테이프
+  Note: MATCH | "양면테이프" is the primary product being searched for, and is present in both the question and the target intention. While the intention specifies "강력한" (strong) and materials like acrylic or foam, "양면테이프" is a necessary starting point for finding those.
+
+[MATCH] Q: 흰색 실내화 240 사이즈 있나요?
+  Intention: 특정 컬러 및 사이즈의 실내화/실습화 확인
+  Keyword: 실내화
+  Note: MATCH | The keyword "실내화" (indoor shoes) directly relates to the product type mentioned in the target intention "특정 컬러 및 사이즈의 실내화/실습화 확인" (check for indoor shoes/practice shoes of a specific color and size). It's a good starting point for finding the desired product.
+
+[MATCH] Q: 전자레인지용 덮개 어디 있어요?
+  Intention: 가열 시 음식 튐 방지용 플라스틱 커버 찾기
+  Keyword: 전자레인지용 덮개
+  Note: MATCH | The extracted keyword "전자레인지용 덮개" directly translates to "microwave cover," which is exactly what someone would search for to find a plastic cover to prevent food splatter in a microwave.
+
+[MATCH] Q: 현관문에 붙이는 자석 후크 어디 있죠?
+  Intention: 철제문에 부착 가능한 강력 자석 고리 찾기
+  Keyword: 자석 후크
+  Note: MATCH | "자석 후크" directly translates to "magnetic hook," which is a core component of the intention "철제문에 부착 가능한 강력 자석 고리 찾기" (finding a strong magnetic hook attachable to a metal door).
+
+[MATCH] Q: 창문에 붙이는 뽁뽁이 어디 있어요?
+  Intention: 단열용 에어캡 시트 찾기
+  Keyword: 뽁뽁이
+  Note: MATCH | "뽁뽁이" is a common and easily recognizable term for the air bubble cushioning material often used for insulation, directly aligning with the intention of finding an air cap sheet for insulation.
+
+[MATCH] Q: 동전 건전지 어디 있나요?
+  Intention: 리튬 단추형 건전지(CR계열) 찾기
+  Keyword: 동전 건전지
+  Note: MATCH | "동전 건전지" is a common and easily understood term for "리튬 단추형 건전지(CR계열)", so it's a good search term to fulfill the intention.
+
+[MATCH] Q: 나무 뒤집개 어디 있어요?
+  Intention: 조리도구 중 우드 소재 뒤집개 찾기
+  Keyword: 나무 뒤집개
+  Note: MATCH | "나무 뒤집개" directly translates to "wooden spatula," which is a specific type of cooking utensil made of wood, fulfilling the intention of finding a wooden spatula among cooking tools.
+
+[MATCH] Q: 화장품 담는 작은 공병 어디 있죠?
+  Intention: 소분용 펌프/스프레이/크림 용기 찾기
+  Keyword: 공병
+  Note: MATCH | "공병" (empty bottle) is a relevant and commonly used term for small containers used to hold cosmetics, aligning well with the intention of finding containers for dividing cosmetics.
+
+[MATCH] Q: 벽에 자국 안 남는 테이프 어디 있어요?
+  Intention: 제거 시 흔적 없는 마스킹 테이프 또는 실리콘 테이프 찾기
+  Keyword: 테이프
+  Note: MATCH | "테이프" is a broad term, but it's a necessary component of the user's query. Someone looking for residue-free tape needs to search for "테이프" first. Additional keywords will refine the search, but "테이프" is a good starting point.
+
+[MATCH] Q: 순간접착제 어디 있나요?
+  Intention: 강력하고 빠른 접착이 가능한 액상 접착제 찾기
+  Keyword: 순간접착제
+  Note: MATCH | The extracted keyword "순간접착제" (instant adhesive) directly corresponds to the user's intention of finding a "강력하고 빠른 접착이 가능한 액상 접착제" (strong and fast-drying liquid adhesive). "순간접착제" is the standard term for this type of adhesive.
+
+[MATCH] Q: 스테인리스 빨대 어디 있어요?
+  Intention: 다회용 금속 빨대 세트 찾기
+  Keyword: 스테인리스 빨대
+  Note: MATCH | "스테인리스 빨대" (stainless steel straw) directly relates to "다회용 금속 빨대" (reusable metal straw) as stainless steel is a type of metal. The keyword is likely to lead to the desired product.
+
+[MATCH] Q: 리빙박스 제일 큰 거 어디 있죠?
+  Intention: 대용량 의류/잡동사니 수납함 찾기
+  Keyword: 리빙박스
+  Note: MATCH | "리빙박스" directly translates to "living box," which is a common term for storage containers, including those used for clothes and miscellaneous items. Therefore, it's a good search term for finding the intended product.
+
+[MATCH] Q: 손잡이 있는 플라스틱 바구니 어디 있어요?
+  Intention: 이동이 편리한 수납 바구니 찾기
+  Keyword: 플라스틱 바구니
+  Note: MATCH | 플라스틱 바구니는 수납 바구니의 재질을 나타내므로, 이동이 편리한 수납 바구니를 찾는 데 도움이 될 수 있다. 손잡이 유무는 키워드에 없지만, 플라스틱 바구니라는 키워드를 통해 관련 상품 검색이 가능할 것이다.
+
+[MATCH] Q: 미끄럼 방지 패드 어디 있나요?
+  Intention: 카페트나 가구 밑에 까는 논슬립 패드 찾기
+  Keyword: 미끄럼 방지 패드
+  Note: MATCH | The extracted keyword "미끄럼 방지 패드" directly translates to "anti-slip pad" which is a reasonable search term to find non-slip pads for carpets or under furniture, thus fulfilling the intention.
+
+[MATCH] Q: 페달 밟는 쓰레기통 어디 있어요?
+  Intention: 손을 안 쓰고 여는 페달식 휴지통 찾기
+  Keyword: 쓰레기통
+  Note: MATCH | "쓰레기통" (trash can) is a general term that encompasses the more specific "페달식 휴지통" (pedal-operated trash can). While not perfectly precise, it's a reasonable starting point for finding the intended product.
+
+[MATCH] Q: 무선 마우스 어디 있나요?
+  Intention: 블루투스 또는 리시버형 PC 마우스 찾기
+  Keyword: 무선 마우스
+  Note: MATCH | "무선 마우스" (wireless mouse) is a direct translation of the intention "블루투스 또는 리시버형 PC 마우스 찾기" (finding a Bluetooth or receiver-type PC mouse). It's a good search term because it encompasses both Bluetooth and receiver-type wireless mice.
+
+[MATCH] Q: 검정색 면 마스크 어디 있어요?
+  Intention: 일회용 외 다회용 검은색 천 마스크 찾기
+  Keyword: 면 마스크
+  Note: MATCH | The extracted keyword "면 마스크" (cotton mask) directly relates to the user's intention of finding a reusable black cotton mask. While it doesn't explicitly specify the color or reusability, it's a good starting point and narrows down the search to the correct type of mask.
+
+[MATCH] Q: 멀티탭 5미터짜리 있나요?
+  Intention: 케이블 길이가 매우 긴 연장선 확인
+  Keyword: 멀티탭
+  Note: MATCH | While "멀티탭" (multi-tap) doesn't explicitly mention the cable length, it's a reasonable starting point for finding an extension cord. A user looking for a 5-meter extension cord would likely search for "멀티탭" first, then filter or refine their search by length.
+
+[MATCH] Q: 아기들 칫솔 어디 있어요?
+  Intention: 영유아용 작은 헤드와 부드러운 모 칫솔 찾기
+  Keyword: 아기들 칫솔
+  Note: MATCH | "아기들 칫솔" directly translates to "baby toothbrush," which is a reasonable and common search term for finding toothbrushes suitable for babies. This aligns well with the intention of finding small-headed, soft-bristled toothbrushes for infants and toddlers.
+
+[MATCH] Q: 포스터 붙일 때 쓰는 껌 같은 거 어디 있어요?
+  Intention: 벽 손상 없는 점착 점토(블루택류) 찾기
+  Keyword: 점착제
+  Note: MATCH | "점착제" (adhesive) is a broader term that encompasses 점착 점토 (adhesive clay) or 블루택 (Blu-Tack), making it a reasonable search term to find the desired product, even if not the most specific.
+
+[MATCH] Q: 신발 탈취제 어디 있나요?
+  Intention: 신발 내부 냄새 제거 스프레이나 볼 찾기
+  Keyword: 신발 탈취제
+  Note: MATCH | "신발 탈취제" directly translates to "shoe deodorizer," which is exactly what the user is looking for based on the target intention of finding a spray or ball to remove odors from inside shoes.
+
+[MATCH] Q: 하수구 뚫는 세제 어디 있어요?
+  Intention: 배수관 세정제(배수구 뻥) 찾기
+  Keyword: 하수구 뚫는 세제
+  Note: MATCH | The extracted keyword "하수구 뚫는 세제" (drain cleaner) directly translates to a product used for clearing clogged drains, which aligns perfectly with the target intention of finding a drain cleaner ("배수관 세정제").
+
+[MATCH] Q: 먼지 제거하는 스프레이 어디 있죠?
+  Intention: 기기 청소용 에어 스프레이 찾기
+  Keyword: 먼지 제거 스프레이
+  Note: MATCH | "먼지 제거 스프레이" directly relates to finding air spray for cleaning devices, as it specifically targets the removal of dust.
+
+[MATCH] Q: 김장용 비닐봉투 큰 거 어디 있어요?
+  Intention: 대형 사이즈 김장 비닐 또는 다용도 대형 비닐 찾기
+  Keyword: 김장용 비닐봉투
+  Note: MATCH | The extracted keyword "김장용 비닐봉투" (kimchi-making plastic bag) directly relates to the intention of finding large plastic bags for kimchi preparation, which is a "대형 사이즈 김장 비닐" (large-size kimchi plastic bag).
+
+[MATCH] Q: 전선 정리하는 타이 어디 있나요?
+  Intention: 일회용 케이블 타이 또는 벨크로 타이 찾기
+  Keyword: 타이
+  Note: MATCH | "타이" is a broad term that could include various types of ties, but in the context of "전선 정리하는 타이" (ties for organizing wires), it's reasonable to assume the user is looking for cable ties, which aligns with the intention of finding disposable cable ties or velcro ties.
+
+[MATCH] Q: 가구 밑에 붙이는 부직포 어디 있어요?
+  Intention: 긁힘 방지용 접착 부직포 패드 찾기
+  Keyword: 부직포
+  Note: MATCH | "부직포" is a core component of "긁힘 방지용 접착 부직포 패드". Searching for "부직포" will likely lead to relevant results, even if it requires further refinement.
+
+[MATCH] Q: 보풀 제거기 어디 있죠?
+  Intention: 의류 보풀 제거용 전동 기기 찾기
+  Keyword: 보풀 제거기
+  Note: MATCH | The extracted keyword "보풀 제거기" (lint remover) directly refers to the product described in the intention "의류 보풀 제거용 전동 기기 찾기" (finding electric devices for removing lint from clothes). It's a good and relevant search term.
+
+[MATCH] Q: 택배 쌀 때 쓰는 뽁뽁이 어디 있어요?
+  Intention: 포장용 완충 에어캡 찾기
+  Keyword: 뽁뽁이
+  Note: MATCH | "뽁뽁이" is a common Korean term for bubble wrap, which is a type of air cap used for packaging, so it's a good search term for "포장용 완충 에어캡" (packaging air cap).
+
+[MATCH] Q: 탁상용 거울 어디 있나요?
+  Intention: 책상에 세워두는 화장용 거울 찾기
+  Keyword: 탁상용 거울
+  Note: MATCH | The extracted keyword "탁상용 거울" (desktop mirror) directly corresponds to the user's intention of finding a cosmetic mirror that stands on a desk.
+
+[MATCH] Q: 옷에 먼지 떼는 돌돌이 어디 있어요?
+  Intention: 테이프 크리너(리클리너) 본체 또는 세트 찾기
+  Keyword: 돌돌이
+  Note: MATCH | "돌돌이" is a common Korean term for a lint roller, which is the core product the user is looking for (테이프 크리너).
+
+[MATCH] Q: 욕실 곰팡이 제거제 어디 있나요?
+  Intention: 타일이나 실리콘 곰팡이 세정제 찾기
+  Keyword: 욕실 곰팡이 제거제
+  Note: MATCH | The extracted keyword "욕실 곰팡이 제거제" (bathroom mold remover) directly relates to the intention of finding mold cleaning products for tiles or silicone in the bathroom. It is a reasonable search term to fulfill the intention.
+
+[MATCH] Q: 자전거 자물쇠 번호로 된 거 어디 있어요?
+  Intention: 다이얼식 자전거 잠금장치 찾기
+  Keyword: 자전거 자물쇠
+  Note: MATCH | "자전거 자물쇠" (bicycle lock) is a general term that includes "다이얼식 자전거 잠금장치" (dial-type bicycle lock). Searching for "자전거 자물쇠" will likely show dial-type locks among other types.
+
+[MATCH] Q: 주방용 타이머 어디 있나요?
+  Intention: 요리 시간 측정용 디지털/아날로그 타이머 찾기
+  Keyword: 주방용 타이머
+  Note: MATCH | "주방용 타이머" is a direct and relevant term for finding a digital or analog timer for cooking.
+
+[MATCH] Q: 선물 포장 리본 어디 있어요?
+  Intention: 장식용 리본 끈 또는 타이 찾기
+  Keyword: 선물 포장 리본
+  Note: MATCH | "선물 포장 리본" directly translates to "gift wrapping ribbon," which is a specific type of "장식용 리본 끈" (decorative ribbon string) or "타이" (tie). Therefore, it is a good search term to fulfill the intention of finding decorative ribbons or ties for gift wrapping.
+
+[MATCH] Q: 차량용 충전 잭 어디 있죠?
+  Intention: 시거잭 전원 소켓 또는 USB 충전기 찾기
+  Keyword: 차량용 충전 잭
+  Note: MATCH | The extracted keyword "차량용 충전 잭" (vehicle charging jack) directly relates to the intention of finding a cigarette lighter socket or USB charger in a car. It's a reasonable search term for achieving this.
+
+[MATCH] Q: 팔굽혀펴기 하는 기구 어디 있나요?
+  Intention: 홈트레이닝용 푸쉬업 바 찾기
+  Keyword: 팔굽혀펴기 기구
+  Note: MATCH | The extracted keyword "팔굽혀펴기 기구" (push-up equipment) is a good search term for finding "홈트레이닝용 푸쉬업 바" (home training push-up bars). It accurately describes the product and implies the user is looking for equipment to aid in doing push-ups.
+
+[MATCH] Q: 창문 닦는 밀대 어디 있어요?
+  Intention: 윈도우 스퀴지 또는 연장형 유리창 닦이 찾기
+  Keyword: 창문 닦는 밀대
+  Note: MATCH | The extracted keyword "창문 닦는 밀대" (window cleaning squeegee) directly describes the product sought in the target intention "윈도우 스퀴지 또는 연장형 유리창 닦이 찾기" (window squeegee or extended glass cleaner).
+
+[MATCH] Q: 안경 닦는 천 어디 있나요?
+  Intention: 극세사 안경 클리너 찾기
+  Keyword: 안경 닦는 천
+  Note: MATCH | The extracted keyword "안경 닦는 천" (eyeglass cleaning cloth) directly translates to the user's need for cleaning eyeglasses, which is essentially what a "극세사 안경 클리너" (microfiber eyeglass cleaner) is. While "극세사" (microfiber) provides more detail, "안경 닦는 천" is a perfectly reasonable and understandable search term for the intended product.
+
+[MATCH] Q: 어항 꾸미는 돌 어디 있어요?
+  Intention: 수족관용 바닥재/자갈 찾기
+  Keyword: 돌
+  Note: MATCH | "돌" is a reasonable search term for "수족관용 바닥재/자갈" as many aquarium substrates are made of stone.
+
+[MATCH] Q: 다이어리 꾸미는 스티커 어디 있죠?
+  Intention: 다꾸용 데코 스티커 코너 찾기
+  Keyword: 스티커
+  Note: MATCH | "스티커" is a good general keyword that can lead to finding "다꾸용 데코 스티커". It's a core component of the user's intention.
+
+[MATCH] Q: 문 쾅 안 닫히게 하는 스토퍼 어디 있어요?
+  Intention: 문 고정용 말굽 또는 바닥 고정형 스토퍼 찾기
+  Keyword: 문쾅방지
+  Note: MATCH | "문쾅방지" (door slam prevention) is a reasonably good search term to find products that prevent doors from slamming shut, which can include door stoppers or similar devices intended to hold a door open or prevent it from slamming. The target intention is to find a doorstop or floor-mounted stopper to hold the door in place.
+
+[MATCH] Q: 에어컨 세정제 어디 있나요?
+  Intention: 에어컨 내부 필터/냉각핀 청소 스프레이 찾기
+  Keyword: 에어컨 세정제
+  Note: MATCH | "에어컨 세정제" directly translates to "air conditioner cleaner," which is precisely the type of product the user is looking for to clean the internal filter/cooling fins of their air conditioner.
+
+[MATCH] Q: 철 수세미 어디 있어요?
+  Intention: 찌든 때 제거용 금속 수세미 찾기
+  Keyword: 철 수세미
+  Note: MATCH | "철 수세미" directly translates to "steel scrub pad" and is a very specific term for finding the product described in the intention, which is a metal scrub pad for removing stubborn stains.
+
+[MATCH] Q: 머리끈 검정색 어디 있나요?
+  Intention: 기본형 검은색 고무줄 또는 머리끈 찾기
+  Keyword: 머리끈
+  Note: MATCH | "머리끈" is a general term for hair ties/bands, and the intention is to find a basic, black hair tie. "머리끈" is a relevant starting point for the search.
+
+[MATCH] Q: 기름종이 어디 있어요?
+  Intention: 얼굴 피지 제거용 페이셜 페이퍼 찾기
+  Keyword: 기름종이
+  Note: MATCH | "기름종이" directly translates to "oil blotting paper," which is precisely what someone would use to remove facial oil, thus fulfilling the intention of finding facial paper for removing facial sebum.
+
+[MATCH] Q: 발뒤꿈치 미는 거 어디 있죠?
+  Intention: 각질 제거용 콘커터 또는 풋 파일 찾기
+  Keyword: 발뒤꿈치
+  Note: MATCH | "발뒤꿈치" is a good keyword as the target intention is related to removing callus from the heel. Searching for "발뒤꿈치" will likely lead to products that address heel problems.
+
+[MATCH] Q: 상토나 배양토 어디 있어요?
+  Intention: 원예용 흙 제품 찾기
+  Keyword: 상토
+  Note: MATCH | "상토" is a type of 원예용 흙 (horticultural soil), so it's a good search term for finding 원예용 흙 제품 (horticultural soil products).
+
+[MATCH] Q: 에어프라이어용 종이 호일 어디 있나요?
+  Intention: 에프용 원형/사각 종이 호일 패키지 찾기
+  Keyword: 종이 호일
+  Note: MATCH | "종이 호일" is a core component of the intention "에프용 원형/사각 종이 호일 패키지 찾기". While the intention specifies usage and shape preferences, "종이 호일" is the fundamental product being searched for.
+
+[MATCH] Q: 와인 오프너 어디 있어요?
+  Intention: 코르크 따개 또는 다용도 병따개 찾기
+  Keyword: 와인 오프너
+  Note: MATCH | "와인 오프너" directly translates to "wine opener" which is a suitable term for finding a corkscrew or a multipurpose bottle opener used for wine.
+
+[MATCH] Q: 싱크대 배수구 거름망 어디 있죠?
+  Intention: 음식물 쓰레기 걸러주는 배수구망 찾기
+  Keyword: 싱크대 배수구 거름망
+  Note: MATCH | The extracted keyword "싱크대 배수구 거름망" directly and accurately describes the item the user is looking for (a sink drain strainer to catch food waste).
+
+[MATCH] Q: 캠핑용 조명 어디 있어요?
+  Intention: 야외용 랜턴 또는 감성 전구 찾기
+  Keyword: 캠핑용 조명
+  Note: MATCH | "캠핑용 조명" (camping lighting) is a direct and relevant search term for finding "야외용 랜턴 또는 감성 전구" (outdoor lanterns or mood lighting), as camping lighting encompasses both.
+
+[MATCH] Q: 실내화 주머니 어디 있나요?
+  Intention: 신발 가방 또는 보관용 파우치 찾기
+  Keyword: 실내화 주머니
+  Note: MATCH | The extracted keyword "실내화 주머니" directly translates to "indoor shoe bag" or "slipper bag," which perfectly aligns with the intention of finding a "신발 가방" (shoe bag) or "보관용 파우치" (storage pouch) specifically for shoes.
+
+[MATCH] Q: 붙이는 핫팩 어디 있어요?
+  Intention: 의류 부착형 발열 패치 찾기
+  Keyword: 핫팩
+  Note: MATCH | "핫팩" is a general term for heat packs, and "붙이는 핫팩" (adhesive heat pack) is a type of 핫팩, so it's a relevant keyword to finding the product described in the intention, "의류 부착형 발열 패치 찾기" (finding clothing-attachable heat patches).
+
+[MATCH] Q: 방충망 보수 테이프 어디 있죠?
+  Intention: 구멍 난 방충망 수선용 스티커 찾기
+  Keyword: 방충망 보수 테이프
+  Note: MATCH | "방충망 보수 테이프" directly refers to a tape used to repair mosquito nets (방충망), aligning perfectly with the intention of finding a sticker for repairing holes in them.
+
+[MATCH] Q: 욕실 청소용 솔 어디 있어요?
+  Intention: 바닥이나 타일 닦는 세척 솔 찾기
+  Keyword: 욕실 청소용 솔
+  Note: MATCH | The extracted keyword "욕실 청소용 솔" (bathroom cleaning brush) directly corresponds to the intention of finding a brush for cleaning the bathroom, specifically for floors or tiles.
+
+[MATCH] Q: 자석 화이트보드 어디 있나요?
+  Intention: 메모용 보드판 및 관련 용품 찾기
+  Keyword: 자석 화이트보드
+  Note: MATCH | "자석 화이트보드" is a specific type of "메모용 보드판" and a good search term to find it.
+
+[MATCH] Q: 렌즈 세척액 어디 있어요?
+  Intention: 콘택트렌즈용 다목적 용액(리뉴 등) 찾기
+  Keyword: 렌즈 세척액
+  Note: MATCH | "렌즈 세척액" is a direct translation of "lens cleaning solution" which is exactly what the user is looking for based on the target intention of finding multi-purpose contact lens solution (like Renu).
+
+[MATCH] Q: 바느질 세트 어디 있나요?
+  Intention: 비상용 실/바늘 키트 찾기
+  Keyword: 바느질 세트
+  Note: MATCH | "바느질 세트" directly translates to "sewing kit," which is a common and reasonable way to search for a "비상용 실/바늘 키트" (emergency thread/needle kit).
+
+
+=== SUMMARY ===
+Total Evaluated: 397
+Matches: 351
+Accuracy: 88.4%
