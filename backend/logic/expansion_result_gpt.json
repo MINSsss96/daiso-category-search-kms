@@ -1,0 +1,5588 @@
+[
+  {
+    "keyword": "세탁망",
+    "expanded": [
+      "세탁 주머니",
+      "세탁백",
+      "세탁 용품",
+      "의류 세탁망",
+      "세탁기용 세탁망",
+      "속옷 세탁망",
+      "세탁 보호망",
+      "포켓 세탁망",
+      "소형 세탁망"
+    ],
+    "latency_ms": 2547.4464893341064,
+    "total_tokens": 179,
+    "prompt_tokens": 100,
+    "completion_tokens": 79
+  },
+  {
+    "keyword": "빨래 건조대",
+    "expanded": [
+      "세탁물 건조대",
+      "접이식 건조대",
+      "실내용 건조대",
+      "야외 건조대",
+      "옷걸이",
+      "건조대 액세서리",
+      "틈새 건조대",
+      "아기 빨래 건조대",
+      "방사형 건조대"
+    ],
+    "latency_ms": 2606.9436073303223,
+    "total_tokens": 190,
+    "prompt_tokens": 102,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "여행용 치약 칫솔 세트",
+    "expanded": [
+      "travel toothpaste",
+      "travel toothbrush set",
+      "portable dental kit",
+      "travel hygiene kit",
+      "mini toothpaste",
+      "compact toothbrush",
+      "travel-friendly toiletries",
+      "toothbrush case",
+      "dental travel essentials",
+      "personal care travel set"
+    ],
+    "latency_ms": 2717.7493572235107,
+    "total_tokens": 175,
+    "prompt_tokens": 106,
+    "completion_tokens": 69
+  },
+  {
+    "keyword": "얼룩 제거 펜",
+    "expanded": [
+      "얼룩 제거제",
+      "얼룩 제거 스프레이",
+      "세탁용 얼룩 제거",
+      "세탁용 펜",
+      "얼룩 지우개",
+      "오염 제거 도구",
+      "소독용 얼룩 제거",
+      "가정용 청소 용품",
+      "다목적 클리너",
+      "스테인 리무버"
+    ],
+    "latency_ms": 3132.513999938965,
+    "total_tokens": 203,
+    "prompt_tokens": 103,
+    "completion_tokens": 100
+  },
+  {
+    "keyword": "가죽 가방 닦는 크림",
+    "expanded": [
+      "가죽 클리너",
+      "가죽 가방 세척제",
+      "가죽 관리 크림",
+      "가죽 용품",
+      "가죽 보호제",
+      "가죽 가방 유지 관리",
+      "가죽 코팅",
+      "가죽 리페어 크림",
+      "가죽 크림",
+      "가죽 세정제"
+    ],
+    "latency_ms": 1992.1603202819824,
+    "total_tokens": 196,
+    "prompt_tokens": 106,
+    "completion_tokens": 90
+  },
+  {
+    "keyword": "립밤",
+    "expanded": [
+      "립밤",
+      "립 스크럽",
+      "립 케어",
+      "보습 립밤",
+      "틴트 립밤",
+      "유기농 립밤",
+      "매트 립밤",
+      "색상 립밤",
+      "립글로스"
+    ],
+    "latency_ms": 2380.4781436920166,
+    "total_tokens": 176,
+    "prompt_tokens": 100,
+    "completion_tokens": 76
+  },
+  {
+    "keyword": "미끄럼 방지 패드",
+    "expanded": [
+      "슬립 방지 패드",
+      "테이블 매트",
+      "마룻바닥 보호 패드",
+      "미끄럼 방지 매트",
+      "주방 매트",
+      "가구 패드",
+      "안전 패드",
+      "미끄럼 방지 액세서리",
+      "배스 매트",
+      "카펫 그립 패드"
+    ],
+    "latency_ms": 2174.0431785583496,
+    "total_tokens": 200,
+    "prompt_tokens": 104,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "손톱 정리 세트",
+    "expanded": [
+      "네일 케어 세트",
+      "손톱 관리 도구",
+      "네일 트리밍 키트",
+      "손톱 정리 도구",
+      "네일 파일",
+      "손톱 깎기",
+      "큐티클 제거기",
+      "네일 세트",
+      "손톱 대칭 도구",
+      "네일 아트 도구"
+    ],
+    "latency_ms": 2402.364492416382,
+    "total_tokens": 201,
+    "prompt_tokens": 104,
+    "completion_tokens": 97
+  },
+  {
+    "keyword": "파우치",
+    "expanded": [
+      "지갑",
+      "가방 용기",
+      "화장품 파우치",
+      "여행 파우치",
+      "소품 케이스",
+      "정리함",
+      "펜 케이스",
+      "작은 가방",
+      "필통",
+      "기념품 파우치"
+    ],
+    "latency_ms": 2268.709421157837,
+    "total_tokens": 181,
+    "prompt_tokens": 100,
+    "completion_tokens": 81
+  },
+  {
+    "keyword": "벽지낙서제거제",
+    "expanded": [
+      "벽지 청소 용품",
+      "낙서 지우개",
+      "벽지 세정제",
+      "스프레이 세정제",
+      "오염제거제",
+      "깨끗한 벽지",
+      "가정용 청소 용품",
+      "벽지 보수 키트",
+      "다용도 세정제",
+      "표면 클리너"
+    ],
+    "latency_ms": 2475.0754833221436,
+    "total_tokens": 204,
+    "prompt_tokens": 106,
+    "completion_tokens": 98
+  },
+  {
+    "keyword": "문닫힘 방지 쿠션",
+    "expanded": [
+      "문 충격 방지",
+      "문 고정 패드",
+      "방지 쿠션",
+      "문 막이",
+      "소음 감소 쿠션",
+      "문 끝 보호",
+      "문 손상 방지",
+      "가정용 문 보호",
+      "쉬운 설치 쿠션",
+      "생활용품"
+    ],
+    "latency_ms": 2830.826997756958,
+    "total_tokens": 186,
+    "prompt_tokens": 104,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "덧버선",
+    "expanded": [
+      "양말",
+      "스포츠 양말",
+      "여름 양말",
+      "신발 안감",
+      "발목 양말",
+      "패션 양말",
+      "고급 양말",
+      "실내 양말",
+      "여성 양말",
+      "남성 양말"
+    ],
+    "latency_ms": 1740.1199340820312,
+    "total_tokens": 178,
+    "prompt_tokens": 101,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "분무기",
+    "expanded": [
+      "스프레이기",
+      "물 분사기",
+      "식물 분무기",
+      "가정용 분무기",
+      "항균 스프레이",
+      "분사기",
+      "미스트 스프레이",
+      "정원 용품",
+      "실내 식물 관리",
+      "분무기 세트"
+    ],
+    "latency_ms": 2274.6806144714355,
+    "total_tokens": 185,
+    "prompt_tokens": 100,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "장난감 정리 박스",
+    "expanded": [
+      "장난감 수납함",
+      "장난감 정리함",
+      "아이 장난감 정리 박스",
+      "플라스틱 수납 상자",
+      "장난감 보관 박스",
+      "장난감 정리 수납 상자",
+      "어린이 장난감 수납",
+      "정리 정돈 용품",
+      "장난감 정리 수납함",
+      "실용적인 수납 박스"
+    ],
+    "latency_ms": 2357.2704792022705,
+    "total_tokens": 216,
+    "prompt_tokens": 104,
+    "completion_tokens": 112
+  },
+  {
+    "keyword": "고리",
+    "expanded": [
+      "링",
+      "고리 제품",
+      "장식 고리",
+      "고리 잠금 장치",
+      "오링",
+      "후크",
+      "장식용 고리",
+      "클립",
+      "분리 고리",
+      "소품 고리"
+    ],
+    "latency_ms": 1902.0929336547852,
+    "total_tokens": 171,
+    "prompt_tokens": 99,
+    "completion_tokens": 72
+  },
+  {
+    "keyword": "점착제",
+    "expanded": [
+      "접착제",
+      "풀",
+      "글루",
+      "테이프",
+      "양면테이프",
+      "분말접착제",
+      "투명접착제",
+      "스프레이 접착제",
+      "스틱 접착제",
+      "DIY 접착제"
+    ],
+    "latency_ms": 1637.0606422424316,
+    "total_tokens": 178,
+    "prompt_tokens": 100,
+    "completion_tokens": 78
+  },
+  {
+    "keyword": "제습제",
+    "expanded": [
+      "습기 제거제",
+      "제습 팩",
+      "탈습제",
+      "냉장고 제습제",
+      "욕실 제습제",
+      "공기청정기",
+      "제습 도구",
+      "소형 제습기",
+      "흡습제",
+      "제습 시트"
+    ],
+    "latency_ms": 2428.2333850860596,
+    "total_tokens": 183,
+    "prompt_tokens": 100,
+    "completion_tokens": 83
+  },
+  {
+    "keyword": "화장품 공병",
+    "expanded": [
+      "화장품 용기",
+      "비어 있는 화장품 병",
+      "화장품 보관 용기",
+      "여행용 화장품 용기",
+      "화장품 샘플 용기",
+      "희석 용기",
+      "펌프 용기",
+      "리필 가능 화장품 병",
+      "소형 화장품 공병",
+      "투명 화장품 용기"
+    ],
+    "latency_ms": 3335.3216648101807,
+    "total_tokens": 206,
+    "prompt_tokens": 102,
+    "completion_tokens": 104
+  },
+  {
+    "keyword": "신발정리대",
+    "expanded": [
+      "신발 정리함",
+      "신발 보관",
+      "신발 선반",
+      "신발 정리 수납",
+      "신발 정리대",
+      "신발 정리 박스",
+      "신발 수납대",
+      "신발 정돈",
+      "신발 정리 용품",
+      "신발 캐비넷"
+    ],
+    "latency_ms": 2151.5748500823975,
+    "total_tokens": 191,
+    "prompt_tokens": 102,
+    "completion_tokens": 89
+  },
+  {
+    "keyword": "여행용품",
+    "expanded": [
+      "여행 가방",
+      "여행 액세서리",
+      "여행 필수품",
+      "여행 용품 세트",
+      "여행 용기",
+      "여행 세면도구",
+      "여행용 보조 배터리",
+      "여행용 쿠션",
+      "수납 가방",
+      "여행용 슬리퍼"
+    ],
+    "latency_ms": 2345.29972076416,
+    "total_tokens": 193,
+    "prompt_tokens": 100,
+    "completion_tokens": 93
+  },
+  {
+    "keyword": "리빙박스",
+    "expanded": [
+      "storage box",
+      "organizer box",
+      "plastic container",
+      "home storage",
+      "stackable box",
+      "storage solutions",
+      "household storage",
+      "drawer organizer",
+      "multi-purpose box",
+      "bin for organization"
+    ],
+    "latency_ms": 1710.331678390503,
+    "total_tokens": 165,
+    "prompt_tokens": 101,
+    "completion_tokens": 64
+  },
+  {
+    "keyword": "신발 탈취제",
+    "expanded": [
+      "신발 냄새 제거제",
+      "신발 청소 용품",
+      "신발 관리 제품",
+      "탈취 스프레이",
+      "신발 위생 용품",
+      "신발 향기제",
+      "신발 세척제",
+      "발 냄새 방지",
+      "신발 청결 유지",
+      "신발 인솔"
+    ],
+    "latency_ms": 2441.4637088775635,
+    "total_tokens": 194,
+    "prompt_tokens": 102,
+    "completion_tokens": 92
+  },
+  {
+    "keyword": "식탁매트",
+    "expanded": [
+      "식탁보",
+      "테이블 러너",
+      "식탁 보호 매트",
+      "테이블 매트",
+      "비닐 매트",
+      "방수 식탁 매트",
+      "디자인 식탁 매트",
+      "컬러 식탁 매트",
+      "주방 매트",
+      "식탁 장식"
+    ],
+    "latency_ms": 2191.352367401123,
+    "total_tokens": 187,
+    "prompt_tokens": 101,
+    "completion_tokens": 86
+  },
+  {
+    "keyword": "탁상용 거울",
+    "expanded": [
+      "화장 거울",
+      "휴대용 거울",
+      "벽거울",
+      "소형 거울",
+      "메이크업 거울",
+      "거울 세트",
+      "배터리 거울",
+      "LED 거울",
+      "자석 거울",
+      "거울 악세사리"
+    ],
+    "latency_ms": 1807.2409629821777,
+    "total_tokens": 185,
+    "prompt_tokens": 103,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "기름막이",
+    "expanded": [
+      "주방 기름막이",
+      "기름 방지",
+      "주방 용품",
+      "기름 제거",
+      "오일 커버",
+      "요리 기름막이",
+      "주방 청소",
+      "기름 필터",
+      "조리 기구",
+      "주방 액세서리"
+    ],
+    "latency_ms": 2882.6589584350586,
+    "total_tokens": 185,
+    "prompt_tokens": 101,
+    "completion_tokens": 84
+  },
+  {
+    "keyword": "우산",
+    "expanded": [
+      "비 오는 날 준비",
+      "접이식 우산",
+      "돔 우산",
+      "가벼운 우산",
+      "여행용 우산",
+      "우산 가방",
+      "UV 차단 우산",
+      "아동용 우산",
+      "우산 홀더",
+      "우산 보호대"
+    ],
+    "latency_ms": 2075.962543487549,
+    "total_tokens": 184,
+    "prompt_tokens": 99,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "창문 잠금 장치",
+    "expanded": [
+      "창문 보안 장치",
+      "창문 자물쇠",
+      "창문 잠금 장치 설치",
+      "안전 창문 잠금",
+      "방범 창문 잠금",
+      "창문 안전장치",
+      "창문 잠금 장치 사용법",
+      "창문 락커",
+      "창문 잠금 장치 구매",
+      "가정용 창문 잠금"
+    ],
+    "latency_ms": 2433.183431625366,
+    "total_tokens": 205,
+    "prompt_tokens": 103,
+    "completion_tokens": 102
+  },
+  {
+    "keyword": "압축팩",
+    "expanded": [
+      "압축 저장팩",
+      "진공 압축팩",
+      "지퍼백",
+      "옷 압축팩",
+      "이불 압축팩",
+      "여행 압축팩",
+      "세탁기 압축팩",
+      "다용도 압축팩",
+      "소형 압축팩",
+      "대형 압축팩"
+    ],
+    "latency_ms": 2009.3164443969727,
+    "total_tokens": 188,
+    "prompt_tokens": 100,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "스테인리스 빨대",
+    "expanded": [
+      "스테인리스 빨대 세트",
+      "빨대 청소용 브러시",
+      "재사용 가능한 빨대",
+      "스트로우 홀더",
+      "친환경 빨대",
+      "휴대용 빨대",
+      "파티용 빨대",
+      "빨대 케이스",
+      "금속 빨대",
+      "스테인리스 스트로우"
+    ],
+    "latency_ms": 1866.1584854125977,
+    "total_tokens": 200,
+    "prompt_tokens": 103,
+    "completion_tokens": 97
+  },
+  {
+    "keyword": "용기",
+    "expanded": [
+      "저장 용기",
+      "플라스틱 용기",
+      "식품 용기",
+      "밀폐 용기",
+      "용기 세트",
+      "유리 용기",
+      "주방 용기",
+      "다용도 용기",
+      "트레이",
+      "컵"
+    ],
+    "latency_ms": 1803.8160800933838,
+    "total_tokens": 176,
+    "prompt_tokens": 99,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "정리함",
+    "expanded": [
+      "수납 상자",
+      "정리 박스",
+      "정리 용품",
+      "수납함",
+      "조직 상자",
+      "디스플레이 박스",
+      "조직용품",
+      "책장 정리",
+      "주방 정리함",
+      "서랍 정리"
+    ],
+    "latency_ms": 1834.913730621338,
+    "total_tokens": 181,
+    "prompt_tokens": 100,
+    "completion_tokens": 81
+  },
+  {
+    "keyword": "냄새 방지 용품",
+    "expanded": [
+      "탈취제",
+      "냄새 제거",
+      "냄새 차단",
+      "방향제",
+      "세탁 세제",
+      "곰팡이 방지",
+      "습기 제거",
+      "공간 정리",
+      "청소 용품",
+      "냄새 예방"
+    ],
+    "latency_ms": 1846.8213081359863,
+    "total_tokens": 184,
+    "prompt_tokens": 104,
+    "completion_tokens": 80
+  },
+  {
+    "keyword": "핫팩",
+    "expanded": [
+      "온열팩",
+      "핫팩 팩",
+      "따뜻한 핫팩",
+      "휴대용 핫팩",
+      "겨울 필수 아이템",
+      "온수 찜질",
+      "핫팩 스티커",
+      "보온 제품",
+      "체온 유지",
+      "찜질팩"
+    ],
+    "latency_ms": 1869.7900772094727,
+    "total_tokens": 186,
+    "prompt_tokens": 100,
+    "completion_tokens": 86
+  },
+  {
+    "keyword": "물기 닦는 거",
+    "expanded": [
+      "물기 제거기",
+      "타올",
+      "스펀지",
+      "청소용품",
+      "세척 타올",
+      "주방 타올",
+      "욕실 물기 닦기",
+      "습기 제거 패드",
+      "마이크로화이버 타올",
+      "물기 흡수 제품"
+    ],
+    "latency_ms": 1745.3415393829346,
+    "total_tokens": 189,
+    "prompt_tokens": 103,
+    "completion_tokens": 86
+  },
+  {
+    "keyword": "동전 건전지",
+    "expanded": [
+      "작은 건전지",
+      "AA 건전지",
+      "AAA 건전지",
+      "리튬 건전지",
+      "모바일 기기 배터리",
+      "다용도 건전지",
+      "전자기기 건전지",
+      "건전지 팩",
+      "rc카 건전지",
+      "액세서리 건전지"
+    ],
+    "latency_ms": 2122.553825378418,
+    "total_tokens": 196,
+    "prompt_tokens": 102,
+    "completion_tokens": 94
+  },
+  {
+    "keyword": "선물 포장 리본",
+    "expanded": [
+      "선물 포장 재료",
+      "리본 장식",
+      "포장 용품",
+      "선물 포장 아이디어",
+      "생일 선물 리본",
+      "크리스마스 포장",
+      "리본 컬러 선택",
+      "DIY 포장",
+      "특별한 날 선물",
+      "포장 테이프"
+    ],
+    "latency_ms": 1868.5977458953857,
+    "total_tokens": 193,
+    "prompt_tokens": 103,
+    "completion_tokens": 90
+  },
+  {
+    "keyword": "화분망",
+    "expanded": [
+      "화분",
+      "식물 기르기",
+      "재배망",
+      "화분용망",
+      "식물 보호망",
+      "꽃 화분",
+      "재배용 액세서리",
+      "토양 보호망",
+      "화초 용품",
+      "원예 도구"
+    ],
+    "latency_ms": 1647.874355316162,
+    "total_tokens": 180,
+    "prompt_tokens": 100,
+    "completion_tokens": 80
+  },
+  {
+    "keyword": "부탄가스",
+    "expanded": [
+      "가스 스토브",
+      "캠핑 연료",
+      "휴대용 부탄가스",
+      "부탄 가스통",
+      "캠핑용 부탄",
+      "야외 요리",
+      "가스 버너",
+      "부탄 연료",
+      "피크닉 가스",
+      "가스 관련 용품"
+    ],
+    "latency_ms": 1818.0365562438965,
+    "total_tokens": 190,
+    "prompt_tokens": 101,
+    "completion_tokens": 89
+  },
+  {
+    "keyword": "머리끈",
+    "expanded": [
+      "헤어 타이",
+      "머리띠",
+      "머리끈 세트",
+      "헤어 액세서리",
+      "올록볼록 머리끈",
+      "추억의 머리끈",
+      "저렴이 머리끈",
+      "롱 머리끈",
+      "무지 머리끈",
+      "아동 머리끈"
+    ],
+    "latency_ms": 2368.557929992676,
+    "total_tokens": 200,
+    "prompt_tokens": 101,
+    "completion_tokens": 99
+  },
+  {
+    "keyword": "정리용품",
+    "expanded": [
+      "수납 용품",
+      "정리함",
+      "박스",
+      "서랍 정리",
+      "정리 박스",
+      "케이스",
+      "가정용 정리",
+      "문구 정리",
+      "아이디어 박스",
+      "접착 메모"
+    ],
+    "latency_ms": 1883.5241794586182,
+    "total_tokens": 176,
+    "prompt_tokens": 101,
+    "completion_tokens": 75
+  },
+  {
+    "keyword": "상토",
+    "expanded": [
+      "식물 흙",
+      "화분용 토양",
+      "화초 흙",
+      "상토 믹스",
+      "유기농 흙",
+      "식물 양분",
+      "배양토",
+      "화분 흙",
+      "정원 토양",
+      "상토 종류"
+    ],
+    "latency_ms": 1858.6535453796387,
+    "total_tokens": 179,
+    "prompt_tokens": 99,
+    "completion_tokens": 80
+  },
+  {
+    "keyword": "층간소음 방지 패드",
+    "expanded": [
+      "방음 패드",
+      "층간소음 완화",
+      "소음 차단 매트",
+      "바닥 소음 방지",
+      "소음 감소 패드",
+      "소리 흡수 패드",
+      "진동 방지 매트",
+      "층간 소음 대책",
+      "소음 방지용품",
+      "주택 소음 방지"
+    ],
+    "latency_ms": 1777.2693634033203,
+    "total_tokens": 203,
+    "prompt_tokens": 106,
+    "completion_tokens": 97
+  },
+  {
+    "keyword": "주방용 타이머",
+    "expanded": [
+      "주방 타이머",
+      "디지털 타이머",
+      "쿡 타이머",
+      "요리 타이머",
+      "주방 시계",
+      "카운트다운 타이머",
+      "타이머 알람",
+      "스톱워치",
+      "주방 액세서리",
+      "타이머 용품"
+    ],
+    "latency_ms": 2343.1460857391357,
+    "total_tokens": 194,
+    "prompt_tokens": 103,
+    "completion_tokens": 91
+  },
+  {
+    "keyword": "하수구 뚫는 세제",
+    "expanded": [
+      "배수구 청소 세제",
+      "하수구 클리너",
+      "배수구 막힘 제거제",
+      "세척제",
+      "하수구 청소용품",
+      "막힌 배수구 해결",
+      "하수구 세척",
+      "배수관 청소",
+      "세제",
+      "욕실 청소"
+    ],
+    "latency_ms": 2258.3107948303223,
+    "total_tokens": 197,
+    "prompt_tokens": 106,
+    "completion_tokens": 91
+  },
+  {
+    "keyword": "자석 화이트보드",
+    "expanded": [
+      "자석 칠판",
+      "화이트보드 마커",
+      "화이트보드 지우개",
+      "자석 메모판",
+      "칠판 액세서리",
+      "가정용 화이트보드",
+      "교육용 화이트보드",
+      "자석 스티커",
+      "화이트보드 용품",
+      "사무실 화이트보드"
+    ],
+    "latency_ms": 2304.7056198120117,
+    "total_tokens": 199,
+    "prompt_tokens": 103,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "노트북 받침대",
+    "expanded": [
+      "노트북 스탠드",
+      "랩탑 받침대",
+      "노트북 거치대",
+      "휴대용 스탠드",
+      "인체공학적 받침대",
+      "각도 조절 스탠드",
+      "노트북 쿨링 패드",
+      "사무용 받침대",
+      "디자인 스탠드",
+      "노트북 액세서리"
+    ],
+    "latency_ms": 2098.77872467041,
+    "total_tokens": 212,
+    "prompt_tokens": 103,
+    "completion_tokens": 109
+  },
+  {
+    "keyword": "꽃 가위",
+    "expanded": [
+      "꽃剪",
+      "원예 가위",
+      "플로리스트 가위",
+      "식물 가위",
+      "정원 가위",
+      "원예 도구",
+      "꽃 다듬기 도구",
+      "식물 관리 도구",
+      "화초 가위",
+      "작업용 가위"
+    ],
+    "latency_ms": 2304.5856952667236,
+    "total_tokens": 184,
+    "prompt_tokens": 100,
+    "completion_tokens": 84
+  },
+  {
+    "keyword": "운동화 끈 고정",
+    "expanded": [
+      "운동화 끈",
+      "신발 끈 고정",
+      "신발 끈 정리",
+      "운동화 액세서리",
+      "신발 끈 클립",
+      "신발 끈 잠금장치",
+      "신발 끈 교체",
+      "운동화 보관",
+      "운동화 용품",
+      "신발 관리"
+    ],
+    "latency_ms": 2719.6245193481445,
+    "total_tokens": 199,
+    "prompt_tokens": 103,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "틈새 스펀지",
+    "expanded": [
+      "스펀지",
+      "청소 스펀지",
+      "주방 스펀지",
+      "틈새 청소 도구",
+      "멀티 스펀지",
+      "스펀지 솔",
+      "세척 스펀지",
+      "세제 스펀지",
+      "소형 스펀지",
+      "다용도 스펀지"
+    ],
+    "latency_ms": 2073.610782623291,
+    "total_tokens": 202,
+    "prompt_tokens": 104,
+    "completion_tokens": 98
+  },
+  {
+    "keyword": "강아지 간식",
+    "expanded": [
+      "애견 간식",
+      "강아지 사료",
+      "강아지 음료",
+      "강아지 간식 추천",
+      "유기농 강아지 간식",
+      "강아지 장난감",
+      "개별 포장 간식",
+      "수제 강아지 간식",
+      "강아지 푸드",
+      "강아지 건강 간식"
+    ],
+    "latency_ms": 2441.348075866699,
+    "total_tokens": 200,
+    "prompt_tokens": 102,
+    "completion_tokens": 98
+  },
+  {
+    "keyword": "빨래망",
+    "expanded": [
+      "세탁망",
+      "세탁용 가방",
+      "빨래 보관함",
+      "의류 세탁 보호",
+      "세탁기 용품",
+      "세탁소 기구",
+      "빨래 세트",
+      "세탁 용기",
+      "세탁 액세서리",
+      "소형 세탁망"
+    ],
+    "latency_ms": 1960.097074508667,
+    "total_tokens": 188,
+    "prompt_tokens": 100,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "물티슈",
+    "expanded": [
+      "습기있는 티슈",
+      "휴대용 물티슈",
+      "물티슈 케이스",
+      "물티슈 리필",
+      "아기 물티슈",
+      "항균 물티슈",
+      "천연 성분 물티슈",
+      "일회용 물티슈",
+      "클렌징 물티슈",
+      "다용도 물티슈"
+    ],
+    "latency_ms": 2211.9224071502686,
+    "total_tokens": 196,
+    "prompt_tokens": 100,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "커튼",
+    "expanded": [
+      "창문 커튼",
+      "블라인드",
+      "커튼 홀더",
+      "커튼 rod",
+      "커튼 디자인",
+      "단열 커튼",
+      "방음 커튼",
+      "차양막",
+      "프라이버시 커튼",
+      "주방 커튼"
+    ],
+    "latency_ms": 2185.9540939331055,
+    "total_tokens": 176,
+    "prompt_tokens": 99,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "매트",
+    "expanded": [
+      "바닥 매트",
+      "러그",
+      "발매트",
+      "주방 매트",
+      "욕실 매트",
+      "소프트 매트",
+      "접이식 매트",
+      "유아 매트",
+      "사계절 매트",
+      "디자인 매트"
+    ],
+    "latency_ms": 2115.412473678589,
+    "total_tokens": 177,
+    "prompt_tokens": 99,
+    "completion_tokens": 78
+  },
+  {
+    "keyword": "연필꽂이",
+    "expanded": [
+      "펜홀더",
+      "연필참",
+      "문구용품",
+      "책상정리",
+      "쓰기구조물",
+      "필기구정리함",
+      "사무용품",
+      "사무실용 연필꽂이",
+      "무드램프 연필꽂이",
+      "탄젠트 연필꽂이"
+    ],
+    "latency_ms": 2331.556558609009,
+    "total_tokens": 200,
+    "prompt_tokens": 103,
+    "completion_tokens": 97
+  },
+  {
+    "keyword": "냄비손잡이",
+    "expanded": [
+      "주방용품",
+      "냄비용 손잡이",
+      "주전자 손잡이",
+      "주방 교육",
+      "접이식 핸들",
+      "열 저항 손잡이",
+      "냄비 리드",
+      "요리 도구",
+      "손잡이 교체",
+      "비스무리한 제품들"
+    ],
+    "latency_ms": 2374.0527629852295,
+    "total_tokens": 193,
+    "prompt_tokens": 103,
+    "completion_tokens": 90
+  },
+  {
+    "keyword": "휴지케이스",
+    "expanded": [
+      "티슈 케이스",
+      "화장실 휴지 케이스",
+      "가정용 휴지함",
+      "휴지 홀더",
+      "주방 티슈 케이스",
+      "캐릭터 휴지 케이스",
+      "실내 장식용 휴지 케이스",
+      "플라스틱 휴지 케이스",
+      "휴지 수납함",
+      "다용도 티슈 홀더"
+    ],
+    "latency_ms": 2390.8369541168213,
+    "total_tokens": 209,
+    "prompt_tokens": 101,
+    "completion_tokens": 108
+  },
+  {
+    "keyword": "부직포",
+    "expanded": [
+      "부직포 가방",
+      "부직포 시트",
+      "부직포 원단",
+      "부직포 브랜드",
+      "부직포 교구",
+      "부직포 바닥재",
+      "부직포 포장재",
+      "부직포 수납",
+      "부직포 공예",
+      "부직포 보호대"
+    ],
+    "latency_ms": 2892.5771713256836,
+    "total_tokens": 190,
+    "prompt_tokens": 100,
+    "completion_tokens": 90
+  },
+  {
+    "keyword": "섬유유연제",
+    "expanded": [
+      "섬유유연제",
+      "세탁소프트너",
+      "세탁용품",
+      "섬유관리",
+      "실내향기",
+      "섬유청결제",
+      "세탁세제",
+      "탈취제",
+      "부드러운 세탁",
+      "마일드 세탁"
+    ],
+    "latency_ms": 2350.388288497925,
+    "total_tokens": 188,
+    "prompt_tokens": 103,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "와인 오프너",
+    "expanded": [
+      "와인 따개",
+      "와인 개봉기",
+      "바틀 오프너",
+      "와인 오프너 세트",
+      "코르크 오프너",
+      "와인 액세서리",
+      "와인병 개봉",
+      "와인 서빙 도구",
+      "주류 오프너",
+      "이탈리안 와인 따개"
+    ],
+    "latency_ms": 2085.357427597046,
+    "total_tokens": 198,
+    "prompt_tokens": 102,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "학용품",
+    "expanded": [
+      "학생 용품",
+      "문구류",
+      "필기용구",
+      "노트",
+      "연필",
+      "지우개",
+      "형광펜",
+      "공책",
+      "스테이플러",
+      "스티커"
+    ],
+    "latency_ms": 2158.456325531006,
+    "total_tokens": 170,
+    "prompt_tokens": 100,
+    "completion_tokens": 70
+  },
+  {
+    "keyword": "발매트",
+    "expanded": [
+      "욕실 매트",
+      "발 디딤매트",
+      "발 닦는 매트",
+      "가정용 매트",
+      "비 오는 날 매트",
+      "안전 매트",
+      "탈취 매트",
+      "방문 매트",
+      "패턴 매트",
+      "폴리에스터 매트"
+    ],
+    "latency_ms": 2483.248710632324,
+    "total_tokens": 186,
+    "prompt_tokens": 100,
+    "completion_tokens": 86
+  },
+  {
+    "keyword": "싱크대 선반",
+    "expanded": [
+      "주방 선반",
+      "싱크대 수납",
+      "고정형 선반",
+      "싱크대 정리",
+      "주방 수납",
+      "부엌 선반",
+      "다용도 선반",
+      "식기 선반",
+      "싱크대 액세서리",
+      "조리대 선반"
+    ],
+    "latency_ms": 2128.382682800293,
+    "total_tokens": 191,
+    "prompt_tokens": 103,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "다용도 제품",
+    "expanded": [
+      "멀티 용품",
+      "다목적 아이템",
+      "생활 용품",
+      "조직 정리 용품",
+      "저장 용기",
+      "가정용품",
+      "다용도 수납",
+      "주방 용품",
+      "여행 용품",
+      "사무용품"
+    ],
+    "latency_ms": 1921.5116500854492,
+    "total_tokens": 183,
+    "prompt_tokens": 101,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "안전용품",
+    "expanded": [
+      "안전 장비",
+      "안전용품 대출",
+      "재난 대비 용품",
+      "응급 처치 키트",
+      "소화기",
+      "안전 헬멧",
+      "안전띠",
+      "미끄럼 방지 용품",
+      "방염 제품",
+      "아동 안전 용품"
+    ],
+    "latency_ms": 2217.1623706817627,
+    "total_tokens": 188,
+    "prompt_tokens": 100,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "방충망",
+    "expanded": [
+      "방충망 제품",
+      "모기장",
+      "벌레 차단",
+      "창문 방충망",
+      "집 내부 방충망",
+      "접착식 방충망",
+      "방충망 설치",
+      "방충필터",
+      "창 틈 방충망",
+      "외부 방충망"
+    ],
+    "latency_ms": 2054.8501014709473,
+    "total_tokens": 185,
+    "prompt_tokens": 100,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "벌레 물린데 바르는 약",
+    "expanded": [
+      "벌레 물림 크림",
+      "모기 물린데 치료제",
+      "가려움 완화제",
+      "피부 진정제",
+      "虫刺され 薬",
+      "itch relief ointment",
+      "mosquito bite cream",
+      "벌레 물린 상처 연고",
+      "skin care after insect bite",
+      "allergy relief cream"
+    ],
+    "latency_ms": 2040.6405925750732,
+    "total_tokens": 199,
+    "prompt_tokens": 105,
+    "completion_tokens": 94
+  },
+  {
+    "keyword": "압축봉",
+    "expanded": [
+      "수납 압축봉",
+      "조정 가능한 압축봉",
+      "커튼 압축봉",
+      "압축봉 세트",
+      "다목적 압축봉",
+      "압축 바",
+      "홈 인테리어 압축봉",
+      "스프링 압축봉",
+      "압축봉 설치 방법",
+      "압축봉 구매"
+    ],
+    "latency_ms": 2582.9789638519287,
+    "total_tokens": 192,
+    "prompt_tokens": 100,
+    "completion_tokens": 92
+  },
+  {
+    "keyword": "보풀제거기",
+    "expanded": [
+      "lint remover",
+      "fabric shaver",
+      "pilling comb",
+      "clothes defuzzer",
+      "fuzz remover",
+      "fabric lint brush",
+      "lint brush",
+      "clothes shaver",
+      "de-pilling tool",
+      "lint cleaning device"
+    ],
+    "latency_ms": 2042.6290035247803,
+    "total_tokens": 172,
+    "prompt_tokens": 102,
+    "completion_tokens": 70
+  },
+  {
+    "keyword": "등받이",
+    "expanded": [
+      "의자 등받이",
+      "등받이 쿠션",
+      "편안한 등받이",
+      "의자 베개",
+      "좌식 등받이",
+      "휴대용 등받이",
+      "자동차 등받이",
+      "사무실 등받이",
+      "등받이 장식",
+      "다이소 좌석 보조기구"
+    ],
+    "latency_ms": 2106.5657138824463,
+    "total_tokens": 195,
+    "prompt_tokens": 100,
+    "completion_tokens": 95
+  },
+  {
+    "keyword": "빨래 건조대 발",
+    "expanded": [
+      "빨래 건조대",
+      "세탁물 건조대",
+      "건조대 받침대",
+      "접이식 건조대",
+      "슬라이드 건조대",
+      "의류 건조대",
+      "빨래 걸이",
+      "세탁소품",
+      "실내 건조대",
+      "건조대 액세서리"
+    ],
+    "latency_ms": 2549.405574798584,
+    "total_tokens": 198,
+    "prompt_tokens": 103,
+    "completion_tokens": 95
+  },
+  {
+    "keyword": "타이머",
+    "expanded": [
+      "주방 타이머",
+      "디지털 타이머",
+      "카운트다운 타이머",
+      "스톱워치",
+      "타이머 시계",
+      "휴대용 타이머",
+      "자석 타이머",
+      "타이머 상품",
+      "시간 관리 도구",
+      "요리 타이머"
+    ],
+    "latency_ms": 2214.8709297180176,
+    "total_tokens": 190,
+    "prompt_tokens": 100,
+    "completion_tokens": 90
+  },
+  {
+    "keyword": "돌돌이 리필",
+    "expanded": [
+      "리필 카트리지",
+      "청소용 돌돌이",
+      "롤러 클리너",
+      "의류 청소",
+      "털 제거기",
+      "리필 테이프",
+      "재사용 가능 청소 도구",
+      "먼지 제거 롤",
+      "세탁소 액세서리",
+      "가정용 청소 용품"
+    ],
+    "latency_ms": 2622.631788253784,
+    "total_tokens": 195,
+    "prompt_tokens": 102,
+    "completion_tokens": 93
+  },
+  {
+    "keyword": "멀티탭",
+    "expanded": [
+      "전원 멀티탭",
+      "전기 소켓",
+      "멀티탭 케이블",
+      "콘센트 접지",
+      "멀티탭 정리함",
+      "멀티탭 USB",
+      "전원 연장선",
+      "전압 변환기",
+      "멀티소켓",
+      "가정용 멀티탭"
+    ],
+    "latency_ms": 2412.4298095703125,
+    "total_tokens": 198,
+    "prompt_tokens": 102,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "가구 긁힘 보수펜",
+    "expanded": [
+      "가구 수선 도구",
+      "스크래치 보수",
+      "가구 수리 키트",
+      "가구 보호제",
+      "가구 복원 펜",
+      "스크래치 제거 제품",
+      "가구 관리 용품",
+      "가구 연출 아이템",
+      "가구 수명 연장",
+      "가구 청소 용품"
+    ],
+    "latency_ms": 2693.21346282959,
+    "total_tokens": 200,
+    "prompt_tokens": 106,
+    "completion_tokens": 94
+  },
+  {
+    "keyword": "먼지떨이",
+    "expanded": [
+      "청소 도구",
+      "먼지 제거",
+      "먼지떨이 종류",
+      "집안 청소",
+      "먼지떨이 구매",
+      "실내 청소",
+      "다용도 먼지떨이",
+      "먼지 털기",
+      "청소 용품",
+      "먼지 제거용품"
+    ],
+    "latency_ms": 2135.066509246826,
+    "total_tokens": 190,
+    "prompt_tokens": 102,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "종이 호일",
+    "expanded": [
+      "알루미늄 포일",
+      "종이 호일 롤",
+      "베이킹 호일",
+      "조리용 호일",
+      "식품 포장지",
+      "그릴 호일",
+      "일회용 호일",
+      "주방 소품",
+      "쿠킹 호일",
+      "실리콘 호일"
+    ],
+    "latency_ms": 2122.0054626464844,
+    "total_tokens": 190,
+    "prompt_tokens": 101,
+    "completion_tokens": 89
+  },
+  {
+    "keyword": "메모판",
+    "expanded": [
+      "메모지",
+      "노트",
+      "화이트보드",
+      "포스트잇",
+      "스티커 메모",
+      "기록 용지",
+      "메모북",
+      "일정 관리",
+      "펜",
+      "사무 용품"
+    ],
+    "latency_ms": 1570.352554321289,
+    "total_tokens": 172,
+    "prompt_tokens": 100,
+    "completion_tokens": 72
+  },
+  {
+    "keyword": "장난감",
+    "expanded": [
+      "완구",
+      "어린이 장난감",
+      "장난감 세트",
+      "교육용 장난감",
+      "장난감 자동차",
+      "인형",
+      "조립 장난감",
+      "실내 놀이",
+      "외부 활동 장난감",
+      "크래프트 키트"
+    ],
+    "latency_ms": 2113.1861209869385,
+    "total_tokens": 183,
+    "prompt_tokens": 100,
+    "completion_tokens": 83
+  },
+  {
+    "keyword": "김서림 방지 거울",
+    "expanded": [
+      "김서림 방지 스프레이",
+      "욕실 거울",
+      "방 fog 방지",
+      "코팅 거울",
+      "안개 방지 거울",
+      "수증기 방지 제품",
+      "욕실 액세서리",
+      "스마트 거울",
+      "거울 청소 용품",
+      "욕실 인테리어"
+    ],
+    "latency_ms": 2077.136516571045,
+    "total_tokens": 197,
+    "prompt_tokens": 104,
+    "completion_tokens": 93
+  },
+  {
+    "keyword": "병",
+    "expanded": [
+      "병 용기",
+      "유리병",
+      "플라스틱 병",
+      "저장 용기",
+      "음료수 병",
+      "병 세트",
+      "양념병",
+      "생활용품",
+      "소형 병",
+      "오일병"
+    ],
+    "latency_ms": 1977.285385131836,
+    "total_tokens": 171,
+    "prompt_tokens": 98,
+    "completion_tokens": 73
+  },
+  {
+    "keyword": "소음 방지 캡",
+    "expanded": [
+      "소음 차단기",
+      "진동 방지 패드",
+      "소음 방지 매트",
+      "가구 다리 캡",
+      "소음 감소 액세서리",
+      "진동 완화 소품",
+      "소음 방지 스티커",
+      "가구 보호 대",
+      "소음 방지 제품",
+      "소음 방지 용품"
+    ],
+    "latency_ms": 1808.7079524993896,
+    "total_tokens": 200,
+    "prompt_tokens": 103,
+    "completion_tokens": 97
+  },
+  {
+    "keyword": "이어폰 고무",
+    "expanded": [
+      "이어폰 악세사리",
+      "이어폰 팁",
+      "고무 이어폰",
+      "이어폰 보호대",
+      "이어폰 소모품",
+      "이어폰 교체",
+      "헤드폰 액세서리",
+      "이어폰 케이스",
+      "무선 이어폰",
+      "이어폰 세트"
+    ],
+    "latency_ms": 1695.6326961517334,
+    "total_tokens": 187,
+    "prompt_tokens": 101,
+    "completion_tokens": 86
+  },
+  {
+    "keyword": "팔굽혀펴기 기구",
+    "expanded": [
+      "푸쉬업 바",
+      "운동 기구",
+      "헬스 용품",
+      "스포츠 용품",
+      "팔 운동 기구",
+      "홈 트레이닝",
+      "피트니스 장비",
+      "요가 기구",
+      "체중 운동",
+      "헬스 클럽 용품"
+    ],
+    "latency_ms": 2376.7189979553223,
+    "total_tokens": 188,
+    "prompt_tokens": 105,
+    "completion_tokens": 83
+  },
+  {
+    "keyword": "양말",
+    "expanded": [
+      "양말 세트",
+      "양말 디자인",
+      "여름 양말",
+      "겨울 양말",
+      "양말 패턴",
+      "아동 양말",
+      "여성 양말",
+      "남성 양말",
+      "신발 양말",
+      "양말 관리"
+    ],
+    "latency_ms": 1418.952226638794,
+    "total_tokens": 163,
+    "prompt_tokens": 99,
+    "completion_tokens": 64
+  },
+  {
+    "keyword": "콧받침",
+    "expanded": [
+      "코 받침대",
+      "안경 코 받침",
+      "안경 액세서리",
+      "코 패드",
+      "안경 조정",
+      "편안한 안경 착용",
+      "안경 필수 소품",
+      "비고리 형태 코 받침",
+      "안경 필터",
+      "코 보호대"
+    ],
+    "latency_ms": 1732.3627471923828,
+    "total_tokens": 189,
+    "prompt_tokens": 101,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "샴푸통",
+    "expanded": [
+      "샴푸 병",
+      "샴푸 용기",
+      "샴푸 저장 용기",
+      "욕실 용품",
+      "샴푸 디스펜서",
+      "샴푸 용품",
+      "액체 비누 통",
+      "컨디셔너 통",
+      "목욕 용품",
+      "플라스틱 용기"
+    ],
+    "latency_ms": 1876.230001449585,
+    "total_tokens": 192,
+    "prompt_tokens": 101,
+    "completion_tokens": 91
+  },
+  {
+    "keyword": "문 틈 막이",
+    "expanded": [
+      "door draft stopper",
+      "door gap seal",
+      "weather strip",
+      "door insulation",
+      "draft guard",
+      "door curtain",
+      "gap filler",
+      "energy saver",
+      "home improvement",
+      "room divider"
+    ],
+    "latency_ms": 1965.289831161499,
+    "total_tokens": 163,
+    "prompt_tokens": 102,
+    "completion_tokens": 61
+  },
+  {
+    "keyword": "전화번호 판",
+    "expanded": [
+      "전화번호 메모",
+      "전화번호 카드",
+      "연락처 정리",
+      "전화번호 스탠드",
+      "명함",
+      "정보 정리",
+      "연락처 판",
+      "전화번호 북",
+      "소형 화이트보드",
+      "데스크 정리"
+    ],
+    "latency_ms": 1935.3513717651367,
+    "total_tokens": 179,
+    "prompt_tokens": 100,
+    "completion_tokens": 79
+  },
+  {
+    "keyword": "패치",
+    "expanded": [
+      "패치 스티커",
+      "자수 패치",
+      "의류 패치",
+      "안전 패치",
+      "DIY 패치",
+      "패션 패치",
+      "접착 패치",
+      "병풀 패치",
+      "아트 패치",
+      "패치 세트"
+    ],
+    "latency_ms": 2026.6907215118408,
+    "total_tokens": 178,
+    "prompt_tokens": 99,
+    "completion_tokens": 79
+  },
+  {
+    "keyword": "빨래 바구니",
+    "expanded": [
+      "세탁 바구니",
+      "빨래 통",
+      "빨래 가방",
+      "세탁 보관함",
+      "옷 바구니",
+      "빨래 수납",
+      "세탁 용품",
+      "세탁기 주변 용품",
+      "다용도 바구니",
+      "빨래 정리함"
+    ],
+    "latency_ms": 2452.3873329162598,
+    "total_tokens": 192,
+    "prompt_tokens": 102,
+    "completion_tokens": 90
+  },
+  {
+    "keyword": "선반",
+    "expanded": [
+      "수납 선반",
+      "다용도 선반",
+      "책 선반",
+      "벽 선반",
+      "목재 선반",
+      "플라스틱 선반",
+      "준비물 정리",
+      "주방 선반",
+      "욕실 선반",
+      "선반 설치 도구"
+    ],
+    "latency_ms": 2306.837797164917,
+    "total_tokens": 181,
+    "prompt_tokens": 99,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "핸드폰 충전선 정리대",
+    "expanded": [
+      "핸드폰 충전케이블 정리",
+      "충전선 정리대",
+      "케이블 정리 용품",
+      "USB 충전선 정리",
+      "핸드폰 액세서리",
+      "기타 충전선 정리",
+      "케이블 홀더",
+      "충전기 정리",
+      "소형 가전 용품",
+      "휴대폰 액세서리 정리대"
+    ],
+    "latency_ms": 2577.0485401153564,
+    "total_tokens": 214,
+    "prompt_tokens": 107,
+    "completion_tokens": 107
+  },
+  {
+    "keyword": "캠핑용 조명",
+    "expanded": [
+      "캠핑 조명",
+      "LED 캠핑등",
+      "휴대용 조명",
+      "야외 조명",
+      "캠핑 랜턴",
+      "캠핑 light",
+      "전력 없는 조명",
+      "다용도 조명",
+      "배터리 조명",
+      "소형 캠핑 조명"
+    ],
+    "latency_ms": 2042.3545837402344,
+    "total_tokens": 189,
+    "prompt_tokens": 102,
+    "completion_tokens": 87
+  },
+  {
+    "keyword": "바느질 세트",
+    "expanded": [
+      "바늘",
+      "실",
+      "재봉틀 액세서리",
+      "바느질 도구",
+      "스티치 키트",
+      "수업 바느질 세트",
+      "DIY 바느질 키트",
+      "천 수선 용품",
+      "바느질 용품"
+    ],
+    "latency_ms": 2331.7387104034424,
+    "total_tokens": 181,
+    "prompt_tokens": 102,
+    "completion_tokens": 79
+  },
+  {
+    "keyword": "아이폰 충전기",
+    "expanded": [
+      "아이폰 충전 케이블",
+      "아이폰 USB 충전기",
+      "아이폰 충전기 어댑터",
+      "아이폰 액세서리",
+      "휴대폰 충전기",
+      "충전기 연장선",
+      "무선 충전기",
+      "아이폰 보조배터리",
+      "충전기 멀티포트",
+      "Daiso 아이폰 기기"
+    ],
+    "latency_ms": 2452.4636268615723,
+    "total_tokens": 207,
+    "prompt_tokens": 102,
+    "completion_tokens": 105
+  },
+  {
+    "keyword": "탈취제",
+    "expanded": [
+      "냄새 제거제",
+      "실내 탈취제",
+      "자동차 탈취제",
+      "방향제",
+      "탈취 스프레이",
+      "에어 프레셔너",
+      "의류 탈취제",
+      "부엌 탈취제",
+      "화장실 탈취제",
+      "구역제"
+    ],
+    "latency_ms": 2070.734739303589,
+    "total_tokens": 188,
+    "prompt_tokens": 100,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "서랍 잠금장치",
+    "expanded": [
+      "서랍 잠금장치 대체",
+      "서랍 자물쇠",
+      "서랍 안전 잠금",
+      "서랍 보호 장치",
+      "아이 서랍 잠금",
+      "서랍 잠금 시스템",
+      "어린이 안전 잠금",
+      "서랍 잠금 키",
+      "서랍 버튼 잠금",
+      "가정용 서랍 잠금"
+    ],
+    "latency_ms": 2456.6423892974854,
+    "total_tokens": 199,
+    "prompt_tokens": 103,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "손목 보호대",
+    "expanded": [
+      "손목 팔찌",
+      "관절 보호대",
+      "손목 서포트",
+      "스포츠 손목 보호대",
+      "부상 방지 장비",
+      "무릎 보호대",
+      "재활 보조기구",
+      "손목 밴드",
+      "운동 보호대",
+      "일상 생활 보조"
+    ],
+    "latency_ms": 2883.2125663757324,
+    "total_tokens": 190,
+    "prompt_tokens": 101,
+    "completion_tokens": 89
+  },
+  {
+    "keyword": "설거지망",
+    "expanded": [
+      "주방용품",
+      "세척망",
+      "그릇세척",
+      "주방세척도구",
+      "설거지도구",
+      "주방세척망",
+      "소분용기",
+      "스폰지",
+      "세척기구",
+      "주방청소"
+    ],
+    "latency_ms": 3171.767234802246,
+    "total_tokens": 183,
+    "prompt_tokens": 101,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "자전거 자물쇠",
+    "expanded": [
+      "자전거 보안 장치",
+      "자전거 락",
+      "자전거 잠금장치",
+      "자물쇠",
+      "이동식 자전거 자물쇠",
+      "자전거 액세서리",
+      "자전거 안전",
+      "자전거 잠금 시스템",
+      "자전거 케이블 락",
+      "자전거 잠금장치 추천"
+    ],
+    "latency_ms": 2228.4903526306152,
+    "total_tokens": 209,
+    "prompt_tokens": 104,
+    "completion_tokens": 105
+  },
+  {
+    "keyword": "빨래 주머니",
+    "expanded": [
+      "세탁 가방",
+      "빨래 가방",
+      "세탁 주머니",
+      "트래블 세탁 주머니",
+      "의류 보호 주머니",
+      "망 세탁 주머니",
+      "소형 세탁 주머니",
+      "다용도 세탁 가방",
+      "속옷 세탁 주머니",
+      "빨래 수납 가방"
+    ],
+    "latency_ms": 2664.1077995300293,
+    "total_tokens": 197,
+    "prompt_tokens": 101,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "안대",
+    "expanded": [
+      "sleep mask",
+      "eye mask",
+      "darkening eye cover",
+      "relaxation mask",
+      "travel eye mask",
+      "light blocking mask",
+      "soft eye cover",
+      "cooling eye mask",
+      "silk sleep mask"
+    ],
+    "latency_ms": 1801.868200302124,
+    "total_tokens": 164,
+    "prompt_tokens": 99,
+    "completion_tokens": 65
+  },
+  {
+    "keyword": "베개 솜",
+    "expanded": [
+      "베개 커버",
+      "솜 베개",
+      "베개 속",
+      "메모리 폼 베개",
+      "다용도 베개",
+      "안락한 베개",
+      "국산 베개솜",
+      "목 베개",
+      "편안한 잠",
+      "베개 패드"
+    ],
+    "latency_ms": 1969.6905612945557,
+    "total_tokens": 185,
+    "prompt_tokens": 101,
+    "completion_tokens": 84
+  },
+  {
+    "keyword": "헤어드라이기",
+    "expanded": [
+      "헤어 스타일링 기기",
+      "헤어 드라이기 액세서리",
+      "헤어 관리 용품",
+      "드라이어",
+      "헤어 건조기",
+      "헤어 드라이어",
+      "헤어 펌프",
+      "열 스타일링 도구",
+      "미용 제품",
+      "뷰티 기기"
+    ],
+    "latency_ms": 2350.083589553833,
+    "total_tokens": 191,
+    "prompt_tokens": 102,
+    "completion_tokens": 89
+  },
+  {
+    "keyword": "젤리",
+    "expanded": [
+      "젤리컵",
+      "즉석젤리",
+      "과일젤리",
+      "젤리맛",
+      "젤리키트",
+      "젤리사탕",
+      "젤리디저트",
+      "젤리포장",
+      "젤리팩",
+      "젤리메이커"
+    ],
+    "latency_ms": 2205.427646636963,
+    "total_tokens": 189,
+    "prompt_tokens": 100,
+    "completion_tokens": 89
+  },
+  {
+    "keyword": "탄 거 닦는 가루",
+    "expanded": [
+      "세척제",
+      "청소 용품",
+      "닦는 가루",
+      "가루 세제",
+      "주방 청소",
+      "얼룩 제거제",
+      "세제",
+      "다목적 청소",
+      "홈케어 용품",
+      "소독제"
+    ],
+    "latency_ms": 1395.7304954528809,
+    "total_tokens": 183,
+    "prompt_tokens": 104,
+    "completion_tokens": 79
+  },
+  {
+    "keyword": "렌즈 세척액",
+    "expanded": [
+      "렌즈 세척용액",
+      "안경 클리너",
+      "렌즈 청소제",
+      "렌즈 관리",
+      "안경 세척액",
+      "렌즈 청소 키트",
+      "렌즈 보호 용액",
+      "안경 렌즈 세척",
+      "소프트 렌즈 세척액",
+      "렌즈 살균제"
+    ],
+    "latency_ms": 2197.305917739868,
+    "total_tokens": 197,
+    "prompt_tokens": 103,
+    "completion_tokens": 94
+  },
+  {
+    "keyword": "전선정리",
+    "expanded": [
+      "케이블 정리",
+      "전선 정리함",
+      "케이블 잡아줄 clips",
+      "wire management",
+      "전선 용기",
+      "케이블 정리 수납",
+      "전선 고정기",
+      "전선 보호",
+      "케이블 정리 제품",
+      "전선 배선 정리"
+    ],
+    "latency_ms": 1999.0522861480713,
+    "total_tokens": 186,
+    "prompt_tokens": 101,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "핸드폰 거치대",
+    "expanded": [
+      "휴대폰 홀더",
+      "스마트폰 거치대",
+      "차량용 핸드폰 거치대",
+      "탁상용 핸드폰 거치대",
+      "접이식 핸드폰 스탠드",
+      "핸드폰 거치대 추천",
+      "유니버설 핸드폰 거치대",
+      "핸드폰 거치대 디자인",
+      "다기능 핸드폰 거치대",
+      "일본 핸드폰 거치대"
+    ],
+    "latency_ms": 3318.0909156799316,
+    "total_tokens": 231,
+    "prompt_tokens": 104,
+    "completion_tokens": 127
+  },
+  {
+    "keyword": "슬리퍼",
+    "expanded": [
+      "실내 슬리퍼",
+      "외출용 슬리퍼",
+      "편안한 슬리퍼",
+      "슬리퍼 디자인",
+      "여름 슬리퍼",
+      "슬리퍼 세트",
+      "양말 슬리퍼",
+      "아동 슬리퍼",
+      "슬리퍼 구매",
+      "슬리퍼 할인"
+    ],
+    "latency_ms": 2735.862970352173,
+    "total_tokens": 188,
+    "prompt_tokens": 100,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "물티슈통",
+    "expanded": [
+      "물티슈 케이스",
+      "물티슈 홀더",
+      "물티슈 저장소",
+      "습기 있는 물티슈",
+      "휴대용 물티슈",
+      "디자인 물티슈통",
+      "물티슈 포장",
+      "아기 물티슈통",
+      "비누 물티슈",
+      "물티슈 세트"
+    ],
+    "latency_ms": 2548.2490062713623,
+    "total_tokens": 195,
+    "prompt_tokens": 101,
+    "completion_tokens": 94
+  },
+  {
+    "keyword": "머리카락 정리 도구",
+    "expanded": [
+      "헤어 정리 도구",
+      "머리카락 관리 용품",
+      "헤어 스타일링 도구",
+      "헤어 브러시",
+      "머리띠",
+      "헤어핀",
+      "헤어집게",
+      "스타일링 제품",
+      "머리카락 정리",
+      "헤어 액세서리"
+    ],
+    "latency_ms": 2041.5380001068115,
+    "total_tokens": 195,
+    "prompt_tokens": 105,
+    "completion_tokens": 90
+  },
+  {
+    "keyword": "옷정리",
+    "expanded": [
+      "옷 정리 용품",
+      "의류 정리",
+      "옷 수납",
+      "바지걸이",
+      "옷걸이",
+      "정리함",
+      "서랍 정리",
+      "옷 보관",
+      "수납 박스",
+      "옷 정리함"
+    ],
+    "latency_ms": 2094.0418243408203,
+    "total_tokens": 182,
+    "prompt_tokens": 101,
+    "completion_tokens": 81
+  },
+  {
+    "keyword": "돼지코",
+    "expanded": [
+      "전원 어댑터",
+      "멀티탭",
+      "전기 플러그",
+      "전원 소켓",
+      "가전제품 부품",
+      "충전기",
+      "연장선",
+      "전기 연결기",
+      "전원 케이블",
+      "액세서리"
+    ],
+    "latency_ms": 1980.757474899292,
+    "total_tokens": 183,
+    "prompt_tokens": 101,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "미술용품",
+    "expanded": [
+      "미술 재료",
+      "화방 용품",
+      "그림 그리기 도구",
+      "DIY 미술 키트",
+      "수채화 물감",
+      "파스텔 색연필",
+      "스케치북",
+      "아크릴 물감",
+      "미술 도구 세트",
+      "크레용"
+    ],
+    "latency_ms": 2030.5805206298828,
+    "total_tokens": 189,
+    "prompt_tokens": 101,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "뒤꿈치 보호 패드",
+    "expanded": [
+      "발뒤꿈치 패드",
+      "발 보호 용품",
+      "통기성 패드",
+      "발안정 패드",
+      "뒤꿈치 굳은 살 방지",
+      "패드 신발",
+      "쿠션 패드",
+      "편안한 발"
+    ],
+    "latency_ms": 1944.6280002593994,
+    "total_tokens": 177,
+    "prompt_tokens": 103,
+    "completion_tokens": 74
+  },
+  {
+    "keyword": "무선 마우스",
+    "expanded": [
+      "무선 기계식 마우스",
+      "블루투스 마우스",
+      "USB 무선 마우스",
+      "게임용 무선 마우스",
+      "무선 마우스 패드",
+      "경량 무선 마우스",
+      "무선 오피스 마우스",
+      "무선 리시버",
+      "저소음 무선 마우스",
+      "다기능 무선 마우스"
+    ],
+    "latency_ms": 2104.5632362365723,
+    "total_tokens": 212,
+    "prompt_tokens": 102,
+    "completion_tokens": 110
+  },
+  {
+    "keyword": "일회용 면도기",
+    "expanded": [
+      "제면도기",
+      "면도기세트",
+      "일회용면도기팩",
+      "면도기칼날",
+      "여성용면도기",
+      "남성용면도기",
+      "면도크림",
+      "일회용면도기홀더",
+      "여행용면도기",
+      "안전면도기"
+    ],
+    "latency_ms": 2471.888303756714,
+    "total_tokens": 198,
+    "prompt_tokens": 103,
+    "completion_tokens": 95
+  },
+  {
+    "keyword": "발판",
+    "expanded": [
+      "스텝 스툴",
+      "발받침",
+      "계단 발판",
+      "접이식 발판",
+      "안전 발판",
+      "주방 발판",
+      "다용도 발판",
+      "작업용 발판",
+      "아기 발판",
+      "유아 발판"
+    ],
+    "latency_ms": 1929.1775226593018,
+    "total_tokens": 182,
+    "prompt_tokens": 99,
+    "completion_tokens": 83
+  },
+  {
+    "keyword": "페디큐어 세퍼레이터",
+    "expanded": [
+      "발톱 분리기",
+      "네일 케어",
+      "페디큐어 용품",
+      "발톱 케어",
+      "젤 네일",
+      "페디큐어 도구",
+      "발 관리",
+      "네일 아트",
+      "미용 도구",
+      "DIY 페디큐어"
+    ],
+    "latency_ms": 2213.876485824585,
+    "total_tokens": 192,
+    "prompt_tokens": 105,
+    "completion_tokens": 87
+  },
+  {
+    "keyword": "고무장갑",
+    "expanded": [
+      "고무장갑 세트",
+      "주방용 장갑",
+      "청소 장갑",
+      "일회용 장갑",
+      "방수 장갑",
+      "유니버설 장갑",
+      "코팅 장갑",
+      "내열 장갑",
+      "비닐장갑",
+      "접합 장갑"
+    ],
+    "latency_ms": 2315.821409225464,
+    "total_tokens": 187,
+    "prompt_tokens": 101,
+    "completion_tokens": 86
+  },
+  {
+    "keyword": "포스트잇",
+    "expanded": [
+      "메모지",
+      "스티커 메모",
+      "부착 메모",
+      "노트",
+      "문구류",
+      "사무용품",
+      "작업공간 정리",
+      "리마인더 스티커",
+      "책갈피",
+      "화이트보드 스티커"
+    ],
+    "latency_ms": 1854.3496131896973,
+    "total_tokens": 183,
+    "prompt_tokens": 101,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "허리 줄이는 핀",
+    "expanded": [
+      "허리 조절 핀",
+      "허리 사이즈 조절",
+      "허리 핀",
+      "의류 액세서리",
+      "옷 핀",
+      "허리 리프팅",
+      "여성 의류",
+      "탈부착 가능한 핀",
+      "편안한 의류"
+    ],
+    "latency_ms": 1852.8056144714355,
+    "total_tokens": 185,
+    "prompt_tokens": 103,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "스티커",
+    "expanded": [
+      "스티커북",
+      "데코 스티커",
+      "노트 스티커",
+      "팬시 스티커",
+      "스티커 디자인",
+      "컬러 스티커",
+      "스티커 세트",
+      "접착 스티커",
+      "프린트 스티커",
+      "DIY 스티커"
+    ],
+    "latency_ms": 2251.3866424560547,
+    "total_tokens": 187,
+    "prompt_tokens": 100,
+    "completion_tokens": 87
+  },
+  {
+    "keyword": "고데기받침",
+    "expanded": [
+      "헤어 고데기",
+      "고데기 거치대",
+      "고데기 받침대",
+      "미용 소품",
+      "헤어 스타일링",
+      "온열기구",
+      "미용 기기",
+      "고데기 액세서리",
+      "핫스타일러 받침",
+      "미용 용품"
+    ],
+    "latency_ms": 2207.411289215088,
+    "total_tokens": 192,
+    "prompt_tokens": 102,
+    "completion_tokens": 90
+  },
+  {
+    "keyword": "안전덮개",
+    "expanded": [
+      "안전커버",
+      "유아 안전",
+      "보호 덮개",
+      "안전 보호장치",
+      "가전제품 안전",
+      "전기 안전",
+      "작은아이 안전",
+      "소품 안전",
+      "가정용 안전"
+    ],
+    "latency_ms": 1774.6763229370117,
+    "total_tokens": 172,
+    "prompt_tokens": 101,
+    "completion_tokens": 71
+  },
+  {
+    "keyword": "귀마개",
+    "expanded": [
+      "귀 보호대",
+      "소음 차단기",
+      "수면 귀마개",
+      "귀마개 세트",
+      "여행 귀마개",
+      "스포츠 귀마개",
+      "귀마개 구매",
+      "귀마개 효과",
+      "방음 귀마개",
+      "재사용 귀마개"
+    ],
+    "latency_ms": 1997.6446628570557,
+    "total_tokens": 185,
+    "prompt_tokens": 100,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "다이어리 펀치",
+    "expanded": [
+      "다이어리 악세사리",
+      "펀치기계",
+      "문구용품",
+      "다이어리 꾸미기",
+      "필기구",
+      "종이공예",
+      "스티커",
+      "문서정리",
+      "DIY 프로젝트",
+      "사무용품"
+    ],
+    "latency_ms": 1576.7743587493896,
+    "total_tokens": 184,
+    "prompt_tokens": 103,
+    "completion_tokens": 81
+  },
+  {
+    "keyword": "방법",
+    "expanded": [
+      "업무방법",
+      "계획",
+      "방법론",
+      "절차",
+      "표준작업방법",
+      "안내서",
+      "응용방법",
+      "사례연구",
+      "최적화 방법",
+      "문서화 방법"
+    ],
+    "latency_ms": 1485.741138458252,
+    "total_tokens": 169,
+    "prompt_tokens": 98,
+    "completion_tokens": 71
+  },
+  {
+    "keyword": "모서리 보호대",
+    "expanded": [
+      "테이블 모서리 보호대",
+      "안전 모서리 패드",
+      "아기 안전용품",
+      "모서리 보호 쿠션",
+      "가구 보호대",
+      "충격 방지 패드",
+      "어린이 보호대",
+      "유아 안전 보호대",
+      "모서리 완충기",
+      "가정용 안전 용품"
+    ],
+    "latency_ms": 2619.328260421753,
+    "total_tokens": 198,
+    "prompt_tokens": 102,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "계절용품",
+    "expanded": [
+      "계절 장식",
+      "계절 소품",
+      "홈 데코",
+      "파티 용품",
+      "계절 변경",
+      "겨울 용품",
+      "여름 아이템",
+      "가을 장식",
+      "봄 소품",
+      "테마 장식"
+    ],
+    "latency_ms": 1751.878261566162,
+    "total_tokens": 178,
+    "prompt_tokens": 101,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "문콕방지",
+    "expanded": [
+      "차문 방지",
+      "문콕 방지 패드",
+      "자동차 문 보호",
+      "문 찌그러짐 방지",
+      "차량 보호 용품",
+      "문콕 방지기",
+      "자동차 액세서리",
+      "문 충격 완화",
+      "차량 외부 보호",
+      "문콕 방지 스티커"
+    ],
+    "latency_ms": 2089.5581245422363,
+    "total_tokens": 198,
+    "prompt_tokens": 102,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "S자 고리",
+    "expanded": [
+      "S자 후크",
+      "S자 클립",
+      "다용도 고리",
+      "걸이 고리",
+      "철제 후크",
+      "주방 고리",
+      "욕실 고리",
+      "수납 고리",
+      "고리형 물건",
+      "멀티 후크"
+    ],
+    "latency_ms": 1786.6840362548828,
+    "total_tokens": 182,
+    "prompt_tokens": 101,
+    "completion_tokens": 81
+  },
+  {
+    "keyword": "정리용 통",
+    "expanded": [
+      "수납박스",
+      "정리함",
+      "보관용기",
+      "수납용품",
+      "정리용 수납통",
+      "가정용 정리",
+      "작은 정리통",
+      "다용도 통",
+      "조직 박스",
+      "플라스틱 보관함"
+    ],
+    "latency_ms": 2251.281499862671,
+    "total_tokens": 186,
+    "prompt_tokens": 101,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "화장품 보관 용기",
+    "expanded": [
+      "화장품 저장 용기",
+      "뷰티 용기",
+      "화장품 정리함",
+      "화장품 케이스",
+      "스킨케어 용기",
+      "화장품 트레이",
+      "메이크업 보관함",
+      "화장품 수납함",
+      "화장품 파우치",
+      "화장품 오거나이저"
+    ],
+    "latency_ms": 2104.8121452331543,
+    "total_tokens": 201,
+    "prompt_tokens": 104,
+    "completion_tokens": 97
+  },
+  {
+    "keyword": "안전 콘센트 덮개",
+    "expanded": [
+      "콘센트 보호 커버",
+      "안전 콘센트",
+      "어린이 안전",
+      "전기 콘센트 덮개",
+      "콘센트 보호",
+      "유아 보호 커버",
+      "콘센트 안전 장치",
+      "가정용 안전 장치",
+      "전기 안전 제품",
+      "소형 가전 액세서리"
+    ],
+    "latency_ms": 2293.140649795532,
+    "total_tokens": 199,
+    "prompt_tokens": 104,
+    "completion_tokens": 95
+  },
+  {
+    "keyword": "네임 스티커",
+    "expanded": [
+      "이름 라벨",
+      "이름 스티커",
+      "퍼스널 이름 태그",
+      "학교용 이름표",
+      "스티커 라벨지",
+      "프린터용 스티커",
+      "스티커 만들기",
+      "이름 스탬프",
+      "아이템 라벨링",
+      "학생 이름 스티커"
+    ],
+    "latency_ms": 2799.532413482666,
+    "total_tokens": 194,
+    "prompt_tokens": 102,
+    "completion_tokens": 92
+  },
+  {
+    "keyword": "바구니",
+    "expanded": [
+      "쇼핑 바구니",
+      "저장 바구니",
+      "플라스틱 바구니",
+      "소품 바구니",
+      "바구니 세트",
+      "바구니 수납",
+      "바구니 정리함",
+      "나무 바구니",
+      "바구니 디자인",
+      "미니 바구니"
+    ],
+    "latency_ms": 3251.4352798461914,
+    "total_tokens": 191,
+    "prompt_tokens": 100,
+    "completion_tokens": 91
+  },
+  {
+    "keyword": "자전거 체인 기름",
+    "expanded": [
+      "자전거 체인 유지 관리",
+      "자전거 오일",
+      "자전거 체인 세척제",
+      "체인 윤활제",
+      "자전거 수리 용품",
+      "자전거 액세서리",
+      "자전거 기름",
+      "체인 클리너",
+      "자전거 공구",
+      "자전거 부품"
+    ],
+    "latency_ms": 2719.0213203430176,
+    "total_tokens": 202,
+    "prompt_tokens": 104,
+    "completion_tokens": 98
+  },
+  {
+    "keyword": "찍찍이",
+    "expanded": [
+      "끈끈이",
+      "접착 테이프",
+      "반드시 붙는 테이프",
+      "DIY 테이프",
+      "청소 도구",
+      "먼지 제거기",
+      "주방용 테이프",
+      "멀티 기능 테이프",
+      "스티키 롤",
+      "청소용품"
+    ],
+    "latency_ms": 2226.088762283325,
+    "total_tokens": 189,
+    "prompt_tokens": 100,
+    "completion_tokens": 89
+  },
+  {
+    "keyword": "물감 팔레트",
+    "expanded": [
+      "미술용 물감",
+      "화가 팔레트",
+      "물감 세트",
+      "아크릴 물감",
+      "수채화용 팔레트",
+      "물감 보관함",
+      "회화 도구",
+      "예술 재료",
+      "물감 믹싱 팔레트",
+      "디지털 아트 용품"
+    ],
+    "latency_ms": 2665.4052734375,
+    "total_tokens": 194,
+    "prompt_tokens": 102,
+    "completion_tokens": 92
+  },
+  {
+    "keyword": "자전거 바람 넣는 기계",
+    "expanded": [
+      "자전거 펌프",
+      "고압 자전거 펌프",
+      "자전거 공기 주입기",
+      "자전거 바람 주입기",
+      "휴대용 자전거 펌프",
+      "자전거 수리 도구",
+      "자전거 액세서리",
+      "바람 넣는 기계",
+      "스포츠 용품",
+      "자전거 용품"
+    ],
+    "latency_ms": 3299.7994422912598,
+    "total_tokens": 213,
+    "prompt_tokens": 106,
+    "completion_tokens": 107
+  },
+  {
+    "keyword": "어항돌",
+    "expanded": [
+      "어항장식",
+      "수족관 소품",
+      "어항 꾸미기",
+      "수조 돌",
+      "어항 액세서리",
+      "어항재료",
+      "자갈",
+      "수조 장식",
+      "수족관 용품",
+      "어항 관리"
+    ],
+    "latency_ms": 2259.1757774353027,
+    "total_tokens": 180,
+    "prompt_tokens": 100,
+    "completion_tokens": 80
+  },
+  {
+    "keyword": "장바구니",
+    "expanded": [
+      "쇼핑 바구니",
+      "재사용 장바구니",
+      "트롤리 수레",
+      "장바구니 가방",
+      "소형 장바구니",
+      "플라스틱 바구니",
+      "다용도 장바구니",
+      "휴대용 장바구니",
+      "장보기 용품",
+      "수납 바구니"
+    ],
+    "latency_ms": 2213.80352973938,
+    "total_tokens": 198,
+    "prompt_tokens": 101,
+    "completion_tokens": 97
+  },
+  {
+    "keyword": "숨김 용품",
+    "expanded": [
+      "비밀 보관함",
+      "숨겨진 수납",
+      "기타 수납 용품",
+      "프라이빗 저장소",
+      "숨기기 좋은 용기",
+      "은신용 박스",
+      "스마트 수납 솔루션",
+      "숨김 가능 용품",
+      "개인 물품 보관",
+      "보안 저장 용기"
+    ],
+    "latency_ms": 2514.7035121917725,
+    "total_tokens": 196,
+    "prompt_tokens": 101,
+    "completion_tokens": 95
+  },
+  {
+    "keyword": "종량제 봉투",
+    "expanded": [
+      "쓰레기 봉투",
+      "폐기물 봉투",
+      "종량제 쓰레기봉투",
+      "봉투",
+      "일회용 봉투",
+      "쓰레기 분리 수거봉투",
+      "종량제 패키지",
+      "환경 친화적 봉투",
+      "가정용 쓰레기봉투",
+      "소형 쓰레기봉투"
+    ],
+    "latency_ms": 2163.053512573242,
+    "total_tokens": 202,
+    "prompt_tokens": 102,
+    "completion_tokens": 100
+  },
+  {
+    "keyword": "햇빛가리개",
+    "expanded": [
+      "차양막",
+      "햇빛 차단",
+      "선바이저",
+      "야외 그늘막",
+      "햇빛 차단제",
+      "그늘막",
+      "파라솔",
+      "UV 차단",
+      "텐트",
+      "야외용품"
+    ],
+    "latency_ms": 1588.1378650665283,
+    "total_tokens": 180,
+    "prompt_tokens": 103,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "자동차 바퀴 휠 닦는 거",
+    "expanded": [
+      "차량 바퀴 세정제",
+      "자동차 휠 클리너",
+      "바퀴 세척 브러쉬",
+      "자동차 타이어 세정",
+      "휠 닦는 스펀지",
+      "차량 외부 클리닝",
+      "바퀴 광택제",
+      "자동차 청소 용품",
+      "타이어 관리 제품",
+      "휠 청소 도구"
+    ],
+    "latency_ms": 2520.8640098571777,
+    "total_tokens": 217,
+    "prompt_tokens": 108,
+    "completion_tokens": 109
+  },
+  {
+    "keyword": "먼지 제거 스프레이",
+    "expanded": [
+      "청소 스프레이",
+      "먼지 제거 헤라",
+      "청소 용품",
+      "차량 청소 스프레이",
+      "가전제품 먼지 제거",
+      "표면 청소 스프레이",
+      "홈 클리너",
+      "천연 청소 스프레이",
+      "가정용 먼지 제거",
+      "다용도 스프레이"
+    ],
+    "latency_ms": 2577.4452686309814,
+    "total_tokens": 199,
+    "prompt_tokens": 103,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "기름 방지",
+    "expanded": [
+      "기름 제거",
+      "기름 흡수",
+      "주방 소품",
+      "식탁 보호",
+      "주방 매트",
+      "조리 도구",
+      "기름 방지 필름",
+      "DIY 주방 용품",
+      "주방 청소",
+      "보호 패드"
+    ],
+    "latency_ms": 1814.396619796753,
+    "total_tokens": 182,
+    "prompt_tokens": 101,
+    "completion_tokens": 81
+  },
+  {
+    "keyword": "물티슈 뚜껑",
+    "expanded": [
+      "물티슈 케이스",
+      "물티슈 리필",
+      "습식 와이프 뚜껑",
+      "물티슈 홀더",
+      "물티슈 포장",
+      "아기용 물티슈",
+      "물티슈 관리",
+      "물티슈 소지품",
+      "물티슈 디자인",
+      "물티슈 액세서리"
+    ],
+    "latency_ms": 3451.629877090454,
+    "total_tokens": 202,
+    "prompt_tokens": 105,
+    "completion_tokens": 97
+  },
+  {
+    "keyword": "욕실 청소용 솔",
+    "expanded": [
+      "욕실 청소 브러시",
+      "욕실 청소 도구",
+      "변기 청소 솔",
+      "세면대 청소 브러시",
+      "타일 세척 브러시",
+      "욕조 청소용 도구",
+      "청소용 솔",
+      "다용도 청소 브러시",
+      "탈취제",
+      "욕실 청소용품"
+    ],
+    "latency_ms": 2293.0386066436768,
+    "total_tokens": 203,
+    "prompt_tokens": 103,
+    "completion_tokens": 100
+  },
+  {
+    "keyword": "냄새 제거제",
+    "expanded": [
+      "탈취제",
+      "냄새 제거 스프레이",
+      "공기 청정제",
+      "악취 제거",
+      "차량 탈취제",
+      "소취제",
+      "냄새 제거 패드",
+      "냄새 방지",
+      "욕실 탈취제",
+      "주방 냄새 제거"
+    ],
+    "latency_ms": 2125.859260559082,
+    "total_tokens": 189,
+    "prompt_tokens": 102,
+    "completion_tokens": 87
+  },
+  {
+    "keyword": "양치컵",
+    "expanded": [
+      "칫솔컵",
+      "양치 용품",
+      "세면대컵",
+      "욕실 용품",
+      "플라스틱 컵",
+      "개인컵",
+      "양치 도구",
+      "컵 세트",
+      "여행용 컵",
+      "어린이 양치컵"
+    ],
+    "latency_ms": 2401.6876220703125,
+    "total_tokens": 182,
+    "prompt_tokens": 100,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "옷걸이",
+    "expanded": [
+      "옷걸이 세트",
+      "바지걸이",
+      "작은 옷걸이",
+      "벽걸이 옷걸이",
+      "다용도 옷걸이",
+      "플라스틱 옷걸이",
+      "부직포 옷걸이",
+      "스커트 걸이",
+      "옷걸이 클립",
+      "여행용 옷걸이"
+    ],
+    "latency_ms": 2747.7188110351562,
+    "total_tokens": 203,
+    "prompt_tokens": 101,
+    "completion_tokens": 102
+  },
+  {
+    "keyword": "문풍지",
+    "expanded": [
+      "문풍지 테이프",
+      "문풍지 제품",
+      "문풍지 설치",
+      "방풍재",
+      "문틈 막이",
+      "문풍지 종류",
+      "윈도우 씰",
+      "고무 문풍지",
+      "에어리드 씰"
+    ],
+    "latency_ms": 2089.7345542907715,
+    "total_tokens": 178,
+    "prompt_tokens": 100,
+    "completion_tokens": 78
+  },
+  {
+    "keyword": "면 마스크",
+    "expanded": [
+      "여름 마스크",
+      "이미지 마스크",
+      "다이소 마스크",
+      "마스크 필터",
+      "면 원단 마스크",
+      "재사용 가능한 마스크",
+      "편안한 마스크",
+      "패턴 마스크",
+      "소형 마스크",
+      "마스크 세탁"
+    ],
+    "latency_ms": 1959.2092037200928,
+    "total_tokens": 183,
+    "prompt_tokens": 100,
+    "completion_tokens": 83
+  },
+  {
+    "keyword": "신발장 탈취제",
+    "expanded": [
+      "신발장 냄새 제거",
+      "탈취 스프레이",
+      "신발 디오더라이저",
+      "신발장 세정제",
+      "신발 보관 용품",
+      "탈취 패드",
+      "신발 걸이",
+      "신발장 정리 용품",
+      "구두 보호제",
+      "신발 냄새 방지"
+    ],
+    "latency_ms": 2873.192310333252,
+    "total_tokens": 199,
+    "prompt_tokens": 103,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "고정하는 거",
+    "expanded": [
+      "고정 장치",
+      "고정 용품",
+      "클립",
+      "압착기",
+      "접착 테이프",
+      "고정 띠",
+      "타이",
+      "턱받이",
+      "고리",
+      "부착물"
+    ],
+    "latency_ms": 1942.457914352417,
+    "total_tokens": 173,
+    "prompt_tokens": 101,
+    "completion_tokens": 72
+  },
+  {
+    "keyword": "김장용 비닐봉투",
+    "expanded": [
+      "김장용 포장재",
+      "대용량 비닐봉투",
+      "김치 보관 통",
+      "김장용 용기",
+      "밀폐형 비닐봉투",
+      "김장김치 비닐",
+      "식품 보관 비닐",
+      "비닐봉투 대형",
+      "김장 재료",
+      "부피 큰 비닐봉투"
+    ],
+    "latency_ms": 2567.058563232422,
+    "total_tokens": 209,
+    "prompt_tokens": 105,
+    "completion_tokens": 104
+  },
+  {
+    "keyword": "메꿈이",
+    "expanded": [
+      "목공용 메꿈이",
+      "수리용 메꿈이",
+      "보수용 메꿈이",
+      "벽면 메꿈이",
+      "파손된 벽 메꿈이",
+      "다이소 메꿈이",
+      "작업용 메꿈이",
+      "DIY 메꿈이",
+      "건축용 메꿈이",
+      "페인트 보수용 메꿈이"
+    ],
+    "latency_ms": 2135.890245437622,
+    "total_tokens": 200,
+    "prompt_tokens": 100,
+    "completion_tokens": 100
+  },
+  {
+    "keyword": "신발 주머니",
+    "expanded": [
+      "신발 가방",
+      "신발 보관 용기",
+      "신발 정리함",
+      "여행용 신발주머니",
+      "신발 케이스",
+      "신발 용품",
+      "신발 수납",
+      "신발 보호 주머니",
+      "신발 착용 용기",
+      "패션 신발 파우치"
+    ],
+    "latency_ms": 2146.986246109009,
+    "total_tokens": 193,
+    "prompt_tokens": 101,
+    "completion_tokens": 92
+  },
+  {
+    "keyword": "실내화 주머니",
+    "expanded": [
+      "실내화 가방",
+      "슬리퍼 보관함",
+      "신발 주머니",
+      "실내화 케이스",
+      "슬리퍼 파우치",
+      "신발 정리 용품",
+      "주머니",
+      "실내화",
+      "보관 주머니",
+      "여행 슬리퍼 가방"
+    ],
+    "latency_ms": 1990.5116558074951,
+    "total_tokens": 190,
+    "prompt_tokens": 102,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "냉장고 탈취제",
+    "expanded": [
+      "냉장고 청소",
+      "탈취제",
+      "냉장고 용품",
+      "냄새 제거제",
+      "식품 보관 용기",
+      "주방 정리 용품",
+      "흄기 탈취제",
+      "세균 제거",
+      "냉장고 비누",
+      "등산용 탈취제"
+    ],
+    "latency_ms": 2321.7415809631348,
+    "total_tokens": 196,
+    "prompt_tokens": 104,
+    "completion_tokens": 92
+  },
+  {
+    "keyword": "안전 잠금 장치",
+    "expanded": [
+      "안전 잠금 장치",
+      "아기 안전 잠금",
+      "문 잠금 장치",
+      "가구 안전 잠금",
+      "어린이 안전 장치",
+      "잠금 기구",
+      "보안 잠금",
+      "문 틈 방지",
+      "사물 안전 장치",
+      "응급 잠금 장치"
+    ],
+    "latency_ms": 2218.437910079956,
+    "total_tokens": 192,
+    "prompt_tokens": 102,
+    "completion_tokens": 90
+  },
+  {
+    "keyword": "우산 물받이",
+    "expanded": [
+      "우산 받침",
+      "우산 스탠드",
+      "우산 정리",
+      "물받이",
+      "우산 보관함",
+      "우산 수납",
+      "우산 거치대",
+      "우산 홀더",
+      "반투명 우산 물받이"
+    ],
+    "latency_ms": 1843.0986404418945,
+    "total_tokens": 181,
+    "prompt_tokens": 102,
+    "completion_tokens": 79
+  },
+  {
+    "keyword": "캐리어 이름",
+    "expanded": [
+      "캐리어 태그",
+      "여행 가방 이름표",
+      "수하물 라벨",
+      "캐리어 식별",
+      "여행 액세서리",
+      "개인화 캐리어",
+      "가방 이름 스티커",
+      "수하물 식별기",
+      "견고한 캐리어 라벨",
+      "여행 필수 아이템"
+    ],
+    "latency_ms": 2614.227056503296,
+    "total_tokens": 199,
+    "prompt_tokens": 101,
+    "completion_tokens": 98
+  },
+  {
+    "keyword": "걸이",
+    "expanded": [
+      "걸이대",
+      "마걸이",
+      "옷걸이",
+      "수납 걸이",
+      "노트걸이",
+      "행거",
+      "벽걸이",
+      "다용도 걸이",
+      "신발걸이",
+      "열쇠 걸이"
+    ],
+    "latency_ms": 1753.9088726043701,
+    "total_tokens": 175,
+    "prompt_tokens": 99,
+    "completion_tokens": 76
+  },
+  {
+    "keyword": "목베개",
+    "expanded": [
+      "목 지지대",
+      "목 베개 커버",
+      "여행용 목베개",
+      "메모리폼 목베개",
+      "목 긴장을 완화하는 베개",
+      "목 베개 세트",
+      "자동차용 목베개",
+      "마사지 목베개",
+      "홈 목베개",
+      "아기 목베개"
+    ],
+    "latency_ms": 2257.040023803711,
+    "total_tokens": 193,
+    "prompt_tokens": 100,
+    "completion_tokens": 93
+  },
+  {
+    "keyword": "액정 보호 필름",
+    "expanded": [
+      "스마트폰 액정보호필름",
+      "태블릿 보호필름",
+      "반사 방지 필름",
+      "강화유리 필름",
+      "스크래치 방지 필름",
+      "울트라 클리어 필름",
+      "케이스와 필름 세트",
+      "디스플레이 필름",
+      "액정 보호 케이스",
+      "가벼운 보호 필름"
+    ],
+    "latency_ms": 2669.7723865509033,
+    "total_tokens": 208,
+    "prompt_tokens": 102,
+    "completion_tokens": 106
+  },
+  {
+    "keyword": "물병 고정대",
+    "expanded": [
+      "물병 홀더",
+      "물병 거치대",
+      "물병 스탠드",
+      "물병 보관함",
+      "음료수 보관대",
+      "주방 용품",
+      "캠핑 용품",
+      "차량 용품",
+      "물병 액세서리",
+      "다이소 물병"
+    ],
+    "latency_ms": 2488.283395767212,
+    "total_tokens": 191,
+    "prompt_tokens": 102,
+    "completion_tokens": 89
+  },
+  {
+    "keyword": "필수템",
+    "expanded": [
+      "필수 아이템",
+      "생활용품",
+      "일상 필수품",
+      "에센셜",
+      "소품",
+      "가전제품",
+      "주방용품",
+      "청소용품",
+      "소비재",
+      "패션 액세서리"
+    ],
+    "latency_ms": 2042.123794555664,
+    "total_tokens": 176,
+    "prompt_tokens": 100,
+    "completion_tokens": 76
+  },
+  {
+    "keyword": "돗자리",
+    "expanded": [
+      "야외용 매트",
+      "피크닉 매트",
+      "돗자리 대",
+      "접이식 돗자리",
+      "캠핑 매트",
+      "휴대용 돗자리",
+      "바닥 매트",
+      "여름 돗자리",
+      "레저 매트",
+      "소풍 돗자리"
+    ],
+    "latency_ms": 2244.354248046875,
+    "total_tokens": 188,
+    "prompt_tokens": 100,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "철 수세미",
+    "expanded": [
+      "스틸 스크럽",
+      "주방 청소용 수세미",
+      "금속 수세미",
+      "세척 도구",
+      "주방용 고강도 수세미",
+      "주방 세정제",
+      "스크럽 패드",
+      "주방 세척기",
+      "주방 소모품",
+      "청소용품"
+    ],
+    "latency_ms": 2300.802230834961,
+    "total_tokens": 195,
+    "prompt_tokens": 101,
+    "completion_tokens": 94
+  },
+  {
+    "keyword": "우산 커버",
+    "expanded": [
+      "우산 가방",
+      "우산 보호",
+      "우산 포장",
+      "비 오는 날용",
+      "우산 액세서리",
+      "우산 보관",
+      "방수 커버",
+      "우산 용품",
+      "우산 관리 도구",
+      "우산 케이스"
+    ],
+    "latency_ms": 1900.2926349639893,
+    "total_tokens": 183,
+    "prompt_tokens": 101,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "기름종이",
+    "expanded": [
+      "기름종이",
+      "쿠킹페이퍼",
+      "베이킹 종이",
+      "프라이팬용 종이",
+      "기름 흡수 종이",
+      "오븐용 종이",
+      "요리용 종이",
+      "비닐봉지 대체",
+      "일회용 종이",
+      "주방 용품"
+    ],
+    "latency_ms": 2224.609613418579,
+    "total_tokens": 194,
+    "prompt_tokens": 101,
+    "completion_tokens": 93
+  },
+  {
+    "keyword": "종이 쇼핑백",
+    "expanded": [
+      "종이 가방",
+      "종이 봉투",
+      "쇼핑 가방",
+      "재사용 가능한 가방",
+      "소품 가방",
+      "장식 가방",
+      "작은 가방",
+      "환경 친화적인 가방",
+      "선물 포장 가방",
+      "종이 백"
+    ],
+    "latency_ms": 2057.196855545044,
+    "total_tokens": 185,
+    "prompt_tokens": 102,
+    "completion_tokens": 83
+  },
+  {
+    "keyword": "장갑",
+    "expanded": [
+      "장갑세트",
+      "겨울장갑",
+      "손목장갑",
+      "패션장갑",
+      "비닐장갑",
+      "운전장갑",
+      "방한장갑",
+      "레인장갑",
+      "니트장갑",
+      "여성장갑"
+    ],
+    "latency_ms": 1901.5073776245117,
+    "total_tokens": 179,
+    "prompt_tokens": 99,
+    "completion_tokens": 80
+  },
+  {
+    "keyword": "돌돌이",
+    "expanded": [
+      "롤러 청소기",
+      "털 제거 롤",
+      "먼지 제거기",
+      "의류 돌돌이",
+      "롤러 클리너",
+      "청소 도구",
+      "애완동물 털 제거",
+      "패브릭 롤",
+      "털 제거",
+      "집안 청소"
+    ],
+    "latency_ms": 2403.534173965454,
+    "total_tokens": 184,
+    "prompt_tokens": 100,
+    "completion_tokens": 84
+  },
+  {
+    "keyword": "넘어짐 방지 스티커",
+    "expanded": [
+      "미끄럼 방지 스티커",
+      "안전 스티커",
+      "넘어짐 방지 매트",
+      "접착식 방지 스티커",
+      "미끄럼 방지 패드",
+      "바닥 보호 스티커",
+      "스티커형 안전 장치",
+      "유아용 방지 스티커",
+      "주방 안전 스티커",
+      "리빙 안전 용품"
+    ],
+    "latency_ms": 2521.7154026031494,
+    "total_tokens": 210,
+    "prompt_tokens": 104,
+    "completion_tokens": 106
+  },
+  {
+    "keyword": "습기 제거제",
+    "expanded": [
+      "탈습제",
+      "습기 흡수제",
+      "제습제",
+      "습기 제거 팩",
+      "제습기",
+      "가정용 제습제",
+      "습기 관리 제품",
+      "에어컨 제습",
+      "건조제",
+      "습기 제거 용품"
+    ],
+    "latency_ms": 3072.2429752349854,
+    "total_tokens": 184,
+    "prompt_tokens": 102,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "비닐 매트",
+    "expanded": [
+      "플라스틱 매트",
+      "바닥 보호 매트",
+      "다용도 매트",
+      "청소 용이 매트",
+      "주방 매트",
+      "테이블 매트",
+      "유아용 매트",
+      "사무실 매트",
+      "실내 매트"
+    ],
+    "latency_ms": 2869.1036701202393,
+    "total_tokens": 182,
+    "prompt_tokens": 102,
+    "completion_tokens": 80
+  },
+  {
+    "keyword": "바람막이",
+    "expanded": [
+      "바람막이 자켓",
+      "아우터",
+      "바람막이 코트",
+      "여름 바람막이",
+      "경량 바람막이",
+      "방풍 자켓",
+      "패딩 바람막이",
+      "바람막이 후드",
+      "바람막이 의류",
+      "운동 바람막이"
+    ],
+    "latency_ms": 1733.133316040039,
+    "total_tokens": 195,
+    "prompt_tokens": 101,
+    "completion_tokens": 94
+  },
+  {
+    "keyword": "세면도구통",
+    "expanded": [
+      "세면용품 보관함",
+      "세면대 정리함",
+      "욕실 용기",
+      "화장실 정리 용품",
+      "세면도구 수납함",
+      "세면대 용품",
+      "욕실 액세서리",
+      "세면세트",
+      "욕실 정돈",
+      "샤워 용품 정리"
+    ],
+    "latency_ms": 2264.829635620117,
+    "total_tokens": 198,
+    "prompt_tokens": 102,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "건전지",
+    "expanded": [
+      "배터리",
+      "AA 배터리",
+      "AAA 배터리",
+      "단전지",
+      "충전식 배터리",
+      "리튬 배터리",
+      "일회용 배터리",
+      "전원 공급",
+      "장난감 배터리",
+      "소형 배터리"
+    ],
+    "latency_ms": 2169.085741043091,
+    "total_tokens": 185,
+    "prompt_tokens": 100,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "머리 감을 때 쓰는 브러쉬",
+    "expanded": [
+      "헤어 브러쉬",
+      "샤워 브러쉬",
+      "욕실 액세서리",
+      "머리 감기 도구",
+      "샴푸 브러쉬",
+      "헤어 케어 제품",
+      "욕실 용품",
+      "목욕 소품",
+      "디자인 브러쉬",
+      "헤어 스타일링 도구"
+    ],
+    "latency_ms": 2211.3418579101562,
+    "total_tokens": 200,
+    "prompt_tokens": 107,
+    "completion_tokens": 93
+  },
+  {
+    "keyword": "나무 뒤집개",
+    "expanded": [
+      "주방 도구",
+      "조리기구",
+      "나무 주걱",
+      "뒤집개 세트",
+      "요리 도구",
+      "주방 소품",
+      "나무 스푼",
+      "주방 용품",
+      "쿠킹 도구",
+      "조리용 나무"
+    ],
+    "latency_ms": 1736.0258102416992,
+    "total_tokens": 186,
+    "prompt_tokens": 102,
+    "completion_tokens": 84
+  },
+  {
+    "keyword": "보관",
+    "expanded": [
+      "storage",
+      "organization",
+      "containers",
+      "bins",
+      "baskets",
+      "shelves",
+      "clear boxes",
+      "drawer organizers",
+      "closet storage",
+      "accessory storage"
+    ],
+    "latency_ms": 1519.2773342132568,
+    "total_tokens": 156,
+    "prompt_tokens": 99,
+    "completion_tokens": 57
+  },
+  {
+    "keyword": "반지 사이즈 조절링",
+    "expanded": [
+      "ring size adjuster",
+      "ring resizing tool",
+      "ring comfort adjuster",
+      "ring fitting solution",
+      "size reducing ring",
+      "adjustable ring sizer",
+      "ring size converter",
+      "ring fitting aid",
+      "ring guard"
+    ],
+    "latency_ms": 1580.047607421875,
+    "total_tokens": 170,
+    "prompt_tokens": 104,
+    "completion_tokens": 66
+  },
+  {
+    "keyword": "가방커버",
+    "expanded": [
+      "백팩 커버",
+      "가방 보호 커버",
+      "여행용 가방 커버",
+      "방수 가방커버",
+      "가방 보관 커버",
+      "스포츠 가방 커버",
+      "캐리어 커버",
+      "가방 먼지 보호",
+      "가방 커버 세트",
+      "여행 가방 액세서리"
+    ],
+    "latency_ms": 2178.508996963501,
+    "total_tokens": 198,
+    "prompt_tokens": 101,
+    "completion_tokens": 97
+  },
+  {
+    "keyword": "아이스박스",
+    "expanded": [
+      "cooler box",
+      "ice chest",
+      "thermal container",
+      "insulated box",
+      "portable cooler",
+      "freezer box",
+      "food storage container",
+      "beverage cooler",
+      "camping cooler",
+      "travel cooler"
+    ],
+    "latency_ms": 1648.5605239868164,
+    "total_tokens": 166,
+    "prompt_tokens": 101,
+    "completion_tokens": 65
+  },
+  {
+    "keyword": "테이프",
+    "expanded": [
+      "adhesive tape",
+      "double-sided tape",
+      "masking tape",
+      "decorative tape",
+      "washi tape",
+      "packing tape",
+      "transparent tape",
+      "tape dispenser",
+      "stationery tape",
+      "repair tape"
+    ],
+    "latency_ms": 2025.3582000732422,
+    "total_tokens": 167,
+    "prompt_tokens": 100,
+    "completion_tokens": 67
+  },
+  {
+    "keyword": "책갈피",
+    "expanded": [
+      "책갈피 디자인",
+      "북마크",
+      "책갈피 만들기",
+      "기능성 책갈피",
+      "종이 책갈피",
+      "자주 쓰는 책갈피",
+      "DIY 책갈피",
+      "책갈피 세트",
+      "창의적인 책갈피",
+      "책갈피 용품"
+    ],
+    "latency_ms": 2054.6860694885254,
+    "total_tokens": 189,
+    "prompt_tokens": 100,
+    "completion_tokens": 89
+  },
+  {
+    "keyword": "침대 시트 고정 집게",
+    "expanded": [
+      "침대 시트 클립",
+      "침대 시트 고정",
+      "침대 시트 서포트",
+      "침대 시트 브라켓",
+      "침대 시트 타이",
+      "침대 시트 홀더",
+      "침대 고정 장치",
+      "침대 시트 조절",
+      "침대 시트 선반",
+      "침대 시트 액세서리"
+    ],
+    "latency_ms": 2472.6078510284424,
+    "total_tokens": 208,
+    "prompt_tokens": 105,
+    "completion_tokens": 103
+  },
+  {
+    "keyword": "클리어파일",
+    "expanded": [
+      "투명 파일",
+      "문서 보관",
+      "파일 폴더",
+      "정리 파일",
+      "서류 파일",
+      "클리어 바인더",
+      "프린터 용지 보관",
+      "학생용 파일",
+      "사무용 파일",
+      "폴더 정리"
+    ],
+    "latency_ms": 1711.9064331054688,
+    "total_tokens": 181,
+    "prompt_tokens": 101,
+    "completion_tokens": 80
+  },
+  {
+    "keyword": "플라스틱 바구니",
+    "expanded": [
+      "플라스틱 바구니 정리",
+      "스토리지 바구니",
+      "세탁 바구니",
+      "대형 플라스틱 바구니",
+      "미니 바구니",
+      "다용도 바구니",
+      "플라스틱 수납 용기",
+      "쇼핑 바구니",
+      "주방 바구니",
+      "바구니 세트"
+    ],
+    "latency_ms": 2537.189722061157,
+    "total_tokens": 205,
+    "prompt_tokens": 104,
+    "completion_tokens": 101
+  },
+  {
+    "keyword": "실내화",
+    "expanded": [
+      "슬리퍼",
+      "실내용 슬리퍼",
+      "실내화 매트",
+      "빨래 슬리퍼",
+      "역할화",
+      "편안한 실내화",
+      "여성 실내화",
+      "남성 실내화",
+      "아동 실내화",
+      "캐주얼 실내화"
+    ],
+    "latency_ms": 2053.5457134246826,
+    "total_tokens": 188,
+    "prompt_tokens": 100,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "스트레스 해소 용품",
+    "expanded": [
+      "스트레스 완화",
+      "힐링 제품",
+      "편안함 용품",
+      "마음의 안식",
+      "정신적 안녕",
+      "아로마용품",
+      "명상 도구",
+      "스트레스 감소",
+      "휴식 용품",
+      "심리적 안정"
+    ],
+    "latency_ms": 2074.7463703155518,
+    "total_tokens": 185,
+    "prompt_tokens": 103,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "방석",
+    "expanded": [
+      "다용도 방석",
+      "귀여운 방석",
+      "방석 커버",
+      "방석 세트",
+      "디자인 방석",
+      "방석 쿠션",
+      "미니 방석",
+      "이쁜 방석",
+      "방석 바디 프렌드",
+      "소프트 방석"
+    ],
+    "latency_ms": 2160.6130599975586,
+    "total_tokens": 183,
+    "prompt_tokens": 99,
+    "completion_tokens": 84
+  },
+  {
+    "keyword": "휴대폰 거치대",
+    "expanded": [
+      "스마트폰 거치대",
+      "휴대폰 스탠드",
+      "태블릿 거치대",
+      "차량용 휴대폰 거치대",
+      "책상 거치대",
+      "접이식 스마트폰 거치대",
+      "다용도 거치대",
+      "삼각형 거치대",
+      "유리판 거치대",
+      "타입C 충전 거치대"
+    ],
+    "latency_ms": 2198.129177093506,
+    "total_tokens": 209,
+    "prompt_tokens": 103,
+    "completion_tokens": 106
+  },
+  {
+    "keyword": "수건걸이",
+    "expanded": [
+      "타올걸이",
+      "수건걸이대",
+      "욕실 수건걸이",
+      "주방 수건걸이",
+      "이불걸이",
+      "수건 후크",
+      "다용도 수건 걸이",
+      "보관 선반",
+      "벽걸이 수건걸이",
+      "접이식 수건걸이"
+    ],
+    "latency_ms": 2297.6412773132324,
+    "total_tokens": 194,
+    "prompt_tokens": 101,
+    "completion_tokens": 93
+  },
+  {
+    "keyword": "미끄럼 방지 매트",
+    "expanded": [
+      "slip resistant mat",
+      "anti-slip mat",
+      "non-slip rug",
+      "bath mat",
+      "floor mat",
+      "grip mat",
+      "safety mat",
+      "rubber mat",
+      "outdoor mat",
+      "kitchen mat"
+    ],
+    "latency_ms": 1857.5892448425293,
+    "total_tokens": 172,
+    "prompt_tokens": 104,
+    "completion_tokens": 68
+  },
+  {
+    "keyword": "빨래집게",
+    "expanded": [
+      "세탁 집게",
+      "의류 클립",
+      "빨래 클립",
+      "세탁소품",
+      "빨래 걸이",
+      "원단 클립",
+      "세탁 용품",
+      "빨래 보관",
+      "다용도 집게",
+      "스마트 집게"
+    ],
+    "latency_ms": 1630.739688873291,
+    "total_tokens": 184,
+    "prompt_tokens": 101,
+    "completion_tokens": 83
+  },
+  {
+    "keyword": "그물망",
+    "expanded": [
+      "망사",
+      "그물",
+      "그물주머니",
+      "수납망",
+      "연결망",
+      "그물백",
+      "바구니망",
+      "그물지퍼",
+      "정리망",
+      "투명그물"
+    ],
+    "latency_ms": 2115.3006553649902,
+    "total_tokens": 171,
+    "prompt_tokens": 100,
+    "completion_tokens": 71
+  },
+  {
+    "keyword": "보풀 제거기",
+    "expanded": [
+      "lint remover",
+      "fuzz shaver",
+      "fabric shaver",
+      "pilling remover",
+      "clothing care",
+      "de-pilling device",
+      "garment lint brush",
+      "fleece comb",
+      "portable lint brush",
+      "clothes shaver"
+    ],
+    "latency_ms": 1869.5783615112305,
+    "total_tokens": 173,
+    "prompt_tokens": 101,
+    "completion_tokens": 72
+  },
+  {
+    "keyword": "창문 닦는 밀대",
+    "expanded": [
+      "창문 청소용 밀대",
+      "유리 닦는 도구",
+      "청소 밀대",
+      "창문 세척기",
+      "유리 청소기",
+      "밀대 청소 용품",
+      "창문 청소",
+      "홈 청소 용품",
+      "청소 도구",
+      "창문 관리"
+    ],
+    "latency_ms": 2721.616506576538,
+    "total_tokens": 193,
+    "prompt_tokens": 104,
+    "completion_tokens": 89
+  },
+  {
+    "keyword": "자석 후크",
+    "expanded": [
+      "마그네틱 후크",
+      "자석 고리",
+      "부착형 후크",
+      "냉장고 후크",
+      "자석 걸이",
+      "후크 마그넷",
+      "다용도 후크",
+      "주방 정리용 후크",
+      "자석 인테리어",
+      "DIY 자석 후크"
+    ],
+    "latency_ms": 2656.080961227417,
+    "total_tokens": 193,
+    "prompt_tokens": 101,
+    "completion_tokens": 92
+  },
+  {
+    "keyword": "색연필통",
+    "expanded": [
+      "색연필",
+      "연필함",
+      "문구용품",
+      "아트스튜디오",
+      "색칠공부",
+      "그림 도구",
+      "정리함",
+      "컬러링 북",
+      "미술 용품",
+      "사무용품"
+    ],
+    "latency_ms": 1879.082441329956,
+    "total_tokens": 178,
+    "prompt_tokens": 101,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "도시락틀",
+    "expanded": [
+      "도시락 용기",
+      "도시락 박스",
+      "식사 준비 용기",
+      "밀폐 용기",
+      "분할 도시락",
+      "도시락세트",
+      "테이크아웃 도시락",
+      "식품 보관 용기",
+      "휴대용 도시락",
+      "점심 도시락"
+    ],
+    "latency_ms": 2262.665033340454,
+    "total_tokens": 188,
+    "prompt_tokens": 100,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "와인 마개",
+    "expanded": [
+      "와인 코르크",
+      "와인 저장 용기",
+      "와인 마개 세트",
+      "와인 온도계",
+      "와인 오프너",
+      "와인 보관",
+      "플라스틱 와인 마개",
+      "유리 와인 마개",
+      "와인 리커버 장치"
+    ],
+    "latency_ms": 2402.7485847473145,
+    "total_tokens": 188,
+    "prompt_tokens": 101,
+    "completion_tokens": 87
+  },
+  {
+    "keyword": "바닥 매트",
+    "expanded": [
+      "바닥 매트",
+      "러그",
+      "카페트",
+      "바닥 보호 매트",
+      "주방 매트",
+      "욕실 매트",
+      "디자인 매트",
+      "미끄럼 방지 매트",
+      "유아용 바닥 매트",
+      "접이식 매트"
+    ],
+    "latency_ms": 2188.295602798462,
+    "total_tokens": 185,
+    "prompt_tokens": 101,
+    "completion_tokens": 84
+  },
+  {
+    "keyword": "에어프라이어 종이",
+    "expanded": [
+      "에어프라이어 용지",
+      "쿠킹 페이퍼",
+      "오븐 종이",
+      "방수 종이",
+      "베이킹 종이",
+      "식품 안전 종이",
+      "프라이팬 종이",
+      "주방 용품",
+      "조리 도구",
+      "일회용 종이"
+    ],
+    "latency_ms": 1556.7047595977783,
+    "total_tokens": 192,
+    "prompt_tokens": 104,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "아기들 칫솔",
+    "expanded": [
+      "아기용 칫솔",
+      "유아 칫솔",
+      "어린이 칫솔",
+      "부드러운 칫솔",
+      "치아 관리 용품",
+      "구강 위생 용품",
+      "아기 치아 발달",
+      "저자극 칫솔",
+      "색상별 아기 칫솔",
+      "다이소 아기 칫솔"
+    ],
+    "latency_ms": 2334.639549255371,
+    "total_tokens": 204,
+    "prompt_tokens": 103,
+    "completion_tokens": 101
+  },
+  {
+    "keyword": "컵",
+    "expanded": [
+      "머그컵",
+      "플라스틱컵",
+      "종이컵",
+      "차컵",
+      "텀블러",
+      "컵홀더",
+      "예쁜컵",
+      "여행컵",
+      "유리컵",
+      "커피컵"
+    ],
+    "latency_ms": 1867.8045272827148,
+    "total_tokens": 170,
+    "prompt_tokens": 99,
+    "completion_tokens": 71
+  },
+  {
+    "keyword": "신발건조대",
+    "expanded": [
+      "신발 건조기",
+      "신발 말리기",
+      "신발 건조",
+      "신발 건조대 추천",
+      "신발 스탠드",
+      "신발 보관",
+      "신발 세탁",
+      "신발 세척",
+      "신발 관리 용품",
+      "욕실 건조대"
+    ],
+    "latency_ms": 2523.0441093444824,
+    "total_tokens": 189,
+    "prompt_tokens": 102,
+    "completion_tokens": 87
+  },
+  {
+    "keyword": "싱크대 배수구 거름망",
+    "expanded": [
+      "싱크대 거름망",
+      "배수구 필터",
+      "싱크대 배수구망",
+      "대야 거름망",
+      "주방 배수구 액세서리",
+      "스테인레스 배수구 거름망",
+      "싱크대 청소",
+      "주방 용품",
+      "배수구 청소 도구",
+      "물빠짐망"
+    ],
+    "latency_ms": 2280.4946899414062,
+    "total_tokens": 208,
+    "prompt_tokens": 107,
+    "completion_tokens": 101
+  },
+  {
+    "keyword": "선풍기",
+    "expanded": [
+      "팬",
+      "휴대용 선풍기",
+      "탁상선풍기",
+      "전기선풍기",
+      "소형 선풍기",
+      "여름용 선풍기",
+      "스탠드 선풍기",
+      "추가팬",
+      "미니 선풍기",
+      "핸드팬"
+    ],
+    "latency_ms": 2677.172899246216,
+    "total_tokens": 186,
+    "prompt_tokens": 100,
+    "completion_tokens": 86
+  },
+  {
+    "keyword": "클레이",
+    "expanded": [
+      "점토",
+      "모델링 클레이",
+      "아트 클레이",
+      "DIY 클레이",
+      "선물 클레이",
+      "조형 클레이",
+      "클레이 세트",
+      "컬러 클레이",
+      "공예 클레이",
+      "아동 클레이"
+    ],
+    "latency_ms": 2154.834270477295,
+    "total_tokens": 176,
+    "prompt_tokens": 99,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "뽁뽁이",
+    "expanded": [
+      "버블랩",
+      "포장재",
+      "완충재",
+      "부풀린 비닐",
+      "포장 필름",
+      "상품 보호",
+      "포장 용품",
+      "배송 안전",
+      "풍선 비닐",
+      "소품 포장"
+    ],
+    "latency_ms": 1725.8548736572266,
+    "total_tokens": 179,
+    "prompt_tokens": 104,
+    "completion_tokens": 75
+  },
+  {
+    "keyword": "냄비선반",
+    "expanded": [
+      "주방 선반",
+      "냄비 보관",
+      "조리도구 정리",
+      "주방 정리 수납",
+      "냄비 수납장",
+      "주방 용품",
+      "가정용 선반",
+      "다이소 냄비함",
+      "소형 주방 가전",
+      "주방 액세서리"
+    ],
+    "latency_ms": 2195.5487728118896,
+    "total_tokens": 196,
+    "prompt_tokens": 102,
+    "completion_tokens": 94
+  },
+  {
+    "keyword": "발뒤꿈치 미는 거",
+    "expanded": [
+      "발꿈치 각질 제거기",
+      "발뒤꿈치 스크래퍼",
+      "각질 제거 도구",
+      "발각질 제거",
+      "추가 각질 관리",
+      "발 관리 제품",
+      "발뒤꿈치 풋스크럽",
+      "발마사지 도구",
+      "발바닥 참기기",
+      "피부 각질 제거"
+    ],
+    "latency_ms": 1693.8073635101318,
+    "total_tokens": 198,
+    "prompt_tokens": 104,
+    "completion_tokens": 94
+  },
+  {
+    "keyword": "오일",
+    "expanded": [
+      "식용유",
+      "올리브유",
+      "코코넛오일",
+      "아로마오일",
+      "헤어오일",
+      "바디오일",
+      "요리오일",
+      "오일스프레이",
+      "페이스오일",
+      "천연오일"
+    ],
+    "latency_ms": 2401.81040763855,
+    "total_tokens": 181,
+    "prompt_tokens": 99,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "재단 매트",
+    "expanded": [
+      "재단 매트",
+      "커팅 매트",
+      "종이 재단 매트",
+      "재단 도구",
+      "작업 매트",
+      "크래프트 매트",
+      "재단판",
+      "자르기 매트",
+      "DIY 매트",
+      "스크랩북 매트"
+    ],
+    "latency_ms": 1684.358835220337,
+    "total_tokens": 183,
+    "prompt_tokens": 101,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "전자레인지용 덮개",
+    "expanded": [
+      "전자레인지 커버",
+      "음식 덮개",
+      "전자레인지 액세서리",
+      "조리기구",
+      "식품 보관 용기",
+      "전자레인지용 플라스틱 덮개",
+      "주방 용품",
+      "전자레인지 먼지 보호",
+      "식사 준비 도구",
+      "여름철 필수 아이템"
+    ],
+    "latency_ms": 2059.6694946289062,
+    "total_tokens": 204,
+    "prompt_tokens": 105,
+    "completion_tokens": 99
+  },
+  {
+    "keyword": "양면테이프",
+    "expanded": [
+      "양면 접착 테이프",
+      "양면 테이프 용도",
+      "스티커 테이프",
+      "접착 테이프",
+      "다용도 테이프",
+      "고강도 양면 테이프",
+      "DIY 양면 테이프",
+      "양면 테이프 롤",
+      "양면 테이프 가격",
+      "양면 테이프 구매"
+    ],
+    "latency_ms": 3021.918296813965,
+    "total_tokens": 205,
+    "prompt_tokens": 102,
+    "completion_tokens": 103
+  },
+  {
+    "keyword": "차량용 충전 잭",
+    "expanded": [
+      "차량용 USB 충전기",
+      "자동차 충전 포트",
+      "차량 내 충전기",
+      "자동차 액세서리",
+      "자동차 전원 어댑터",
+      "차량용 멀티 충전기",
+      "차량용 무선 충전기",
+      "자동차 전자기기",
+      "USB 충전 포트",
+      "차량용 12V 충전기"
+    ],
+    "latency_ms": 2500.3581047058105,
+    "total_tokens": 212,
+    "prompt_tokens": 103,
+    "completion_tokens": 109
+  },
+  {
+    "keyword": "이어폰 정리",
+    "expanded": [
+      "이어폰 홀더",
+      "이어폰 정리함",
+      "이어폰 케이블 정리",
+      "케이블 정리",
+      "이어폰 관리",
+      "이어폰 보관",
+      "슬리브형 이어폰 정리",
+      "이어폰 클립",
+      "이어폰 가방",
+      "케이블 타이"
+    ],
+    "latency_ms": 2132.838010787964,
+    "total_tokens": 187,
+    "prompt_tokens": 101,
+    "completion_tokens": 86
+  },
+  {
+    "keyword": "고무",
+    "expanded": [
+      "고무 제품",
+      "고무 장갑",
+      "고무 밴드",
+      "고무 스탬프",
+      "고무 패킹",
+      "고무 수명",
+      "고무 마개",
+      "고무 바닥재",
+      "고무장난감",
+      "고무 인형"
+    ],
+    "latency_ms": 1867.7971363067627,
+    "total_tokens": 182,
+    "prompt_tokens": 99,
+    "completion_tokens": 83
+  },
+  {
+    "keyword": "그릇받침",
+    "expanded": [
+      "접시받침",
+      "그릇받침대",
+      "세라믹받침",
+      "주방용품",
+      "식기받침",
+      "테이블 매트",
+      "온도 보호대",
+      "그릇 보호",
+      "디자인 받침",
+      "다이소 식기"
+    ],
+    "latency_ms": 2242.9704666137695,
+    "total_tokens": 186,
+    "prompt_tokens": 102,
+    "completion_tokens": 84
+  },
+  {
+    "keyword": "바구니 뚜껑",
+    "expanded": [
+      "바구니",
+      "저장용기 뚜껑",
+      "플라스틱 뚜껑",
+      "바구니 커버",
+      "수납 바구니",
+      "세탁 바구니 뚜껑",
+      "홈 오거나이저",
+      "재사용 가능한 뚜껑",
+      "주방 바구니 뚜껑",
+      "소형 저장 바구니"
+    ],
+    "latency_ms": 2345.790147781372,
+    "total_tokens": 214,
+    "prompt_tokens": 105,
+    "completion_tokens": 109
+  },
+  {
+    "keyword": "수납함",
+    "expanded": [
+      "storage box",
+      "organizer",
+      "container",
+      "shelf bin",
+      "bin storage",
+      "drawer organizer",
+      "plastic storage",
+      "utility box",
+      "closet organizer",
+      "storage solutions"
+    ],
+    "latency_ms": 1531.6154956817627,
+    "total_tokens": 160,
+    "prompt_tokens": 100,
+    "completion_tokens": 60
+  },
+  {
+    "keyword": "유리테이프",
+    "expanded": [
+      "접착 테이프",
+      "투명 테이프",
+      "유리 접착제",
+      "DIY 테이프",
+      "인테리어 테이프",
+      "장식 테이프",
+      "일회용 테이프",
+      "유리 수리 테이프",
+      "이중 접착 테이프",
+      "산업용 테이프"
+    ],
+    "latency_ms": 1908.524751663208,
+    "total_tokens": 198,
+    "prompt_tokens": 102,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "욕실 실리콘",
+    "expanded": [
+      "욕실 실리콘 씰",
+      "욕실 방수 실리콘",
+      "실리콘 밀봉제",
+      "욕실 실리콘 테이프",
+      "욕실 실리콘 재질",
+      "실리콘 패인트",
+      "욕실 수리 키트",
+      "욕실 실리콘 대체품",
+      "욕실 방수재",
+      "욕실 실리콘 용기"
+    ],
+    "latency_ms": 2493.380308151245,
+    "total_tokens": 207,
+    "prompt_tokens": 102,
+    "completion_tokens": 105
+  },
+  {
+    "keyword": "긁힘 방지 패드",
+    "expanded": [
+      "스크래치 방지 패드",
+      "바닥 보호 패드",
+      "가구 보호 패드",
+      "충격 흡수 패드",
+      "소음 감소 패드",
+      "유리 보호 패드",
+      "가정용 패드",
+      "다용도 패드",
+      "바닥 매트",
+      "가구 바닥 패드"
+    ],
+    "latency_ms": 1887.3543739318848,
+    "total_tokens": 197,
+    "prompt_tokens": 104,
+    "completion_tokens": 93
+  },
+  {
+    "keyword": "여권케이스",
+    "expanded": [
+      "여권 지갑",
+      "여권 보호 케이스",
+      "여행용 여권 케이스",
+      "여행 액세서리",
+      "여권 홀더",
+      "여권 정리함",
+      "여권 커버",
+      "여행 필수 아이템",
+      "다이소 여권 케이스",
+      "여행용 수납 케이스"
+    ],
+    "latency_ms": 2522.2198963165283,
+    "total_tokens": 199,
+    "prompt_tokens": 101,
+    "completion_tokens": 98
+  },
+  {
+    "keyword": "운동화 세탁망",
+    "expanded": [
+      "운동화 세탁 주머니",
+      "세탁망 운동화",
+      "신발 세탁망",
+      "세탁 기구",
+      "운동화 세탁 기계",
+      "신발 보호망",
+      "세탁용 네트 주머니",
+      "세탁기 액세서리",
+      "운동화 세척",
+      "세탁 소품"
+    ],
+    "latency_ms": 3726.741313934326,
+    "total_tokens": 196,
+    "prompt_tokens": 102,
+    "completion_tokens": 94
+  },
+  {
+    "keyword": "컵받침",
+    "expanded": [
+      "컵코스터",
+      "컵 받침대",
+      "음료용 컵받침",
+      "디자인 컵받침",
+      "방수 컵받침",
+      "어린이 컵받침",
+      "실리콘 컵받침",
+      "나무 컵받침",
+      "세트 컵받침",
+      "패턴 컵받침"
+    ],
+    "latency_ms": 2537.8401279449463,
+    "total_tokens": 198,
+    "prompt_tokens": 101,
+    "completion_tokens": 97
+  },
+  {
+    "keyword": "종이컵",
+    "expanded": [
+      "일회용컵",
+      "종이 커피컵",
+      "종이음료컵",
+      "컵 홀더",
+      "종이컵 세트",
+      "환경친화적컵",
+      "파티용컵",
+      "컵 장식",
+      "종이컵 디자인",
+      "종이컵 구매"
+    ],
+    "latency_ms": 1966.2888050079346,
+    "total_tokens": 181,
+    "prompt_tokens": 100,
+    "completion_tokens": 81
+  },
+  {
+    "keyword": "덧신",
+    "expanded": [
+      "신발",
+      "양말",
+      "덧신 소품",
+      "실내용 덧신",
+      "여름 덧신",
+      "신발 액세서리",
+      "밴드 덧신",
+      "조리 덧신",
+      "덧신 세트",
+      "패션 덧신"
+    ],
+    "latency_ms": 2455.378293991089,
+    "total_tokens": 185,
+    "prompt_tokens": 100,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "욕실 실리콘 곰팡이 지우는 젤",
+    "expanded": [
+      "욕실 청소용품",
+      "실리콘 곰팡이 제거제",
+      "곰팡이 제거 젤",
+      "욕실 곰팡이 제거",
+      "욕실 실리콘 클리너",
+      "세면대 청소 용품",
+      "곰팡이 예방 스프레이",
+      "욕실 관리 제품",
+      "크리너",
+      "세척제"
+    ],
+    "latency_ms": 2983.541250228882,
+    "total_tokens": 217,
+    "prompt_tokens": 112,
+    "completion_tokens": 105
+  },
+  {
+    "keyword": "연필",
+    "expanded": [
+      "펜슬",
+      "연필 세트",
+      "색연필",
+      "샤프",
+      "다운스틱 연필",
+      "연필깎이",
+      "스케치 연필",
+      "미술용 연필",
+      "연필갑",
+      "연필 케이스"
+    ],
+    "latency_ms": 2593.9133167266846,
+    "total_tokens": 179,
+    "prompt_tokens": 99,
+    "completion_tokens": 80
+  },
+  {
+    "keyword": "이어폰",
+    "expanded": [
+      "무선 이어폰",
+      "유선 이어폰",
+      "이어폰 케이스",
+      "스포츠 이어폰",
+      "이어폰 악세사리",
+      "소음 차단 이어폰",
+      "블루투스 이어폰",
+      "이어폰 클립",
+      "이어폰 줄 관리",
+      "헤드폰"
+    ],
+    "latency_ms": 2195.010185241699,
+    "total_tokens": 184,
+    "prompt_tokens": 99,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "퐁퐁",
+    "expanded": [
+      "세탁세제",
+      "세탁용품",
+      "세탁기 액체 세제",
+      "천연 세제",
+      "다목적 세제",
+      "옷 얼룩 제거제",
+      "세탁소품",
+      "세탁 보조제",
+      "주방 세제",
+      "청소용 세제"
+    ],
+    "latency_ms": 2044.3811416625977,
+    "total_tokens": 191,
+    "prompt_tokens": 103,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "통",
+    "expanded": [
+      "세면통",
+      "세탁통",
+      "플라스틱 통",
+      "저장 통",
+      "밀폐용기",
+      "주방 용기",
+      "식품 저장 통",
+      "운반 통",
+      "스틸 통"
+    ],
+    "latency_ms": 1796.8010902404785,
+    "total_tokens": 167,
+    "prompt_tokens": 98,
+    "completion_tokens": 69
+  },
+  {
+    "keyword": "생활용품",
+    "expanded": [
+      "주방용품",
+      "청소용품",
+      "욕실용품",
+      "수납용품",
+      "소품",
+      "가정용품",
+      "세면도구",
+      "일회용품",
+      "조리도구",
+      "생활필수품"
+    ],
+    "latency_ms": 1774.6491432189941,
+    "total_tokens": 177,
+    "prompt_tokens": 100,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "소리",
+    "expanded": [
+      "소리 장난감",
+      "소리 효과",
+      "소리 나오는 인형",
+      "소리 재료",
+      "소리 전자제품",
+      "소리 장비",
+      "소리 연습 도구",
+      "소리 만들기 키트",
+      "소리 책",
+      "소리 관련 액세서리"
+    ],
+    "latency_ms": 2574.295997619629,
+    "total_tokens": 187,
+    "prompt_tokens": 99,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "대시보드커버",
+    "expanded": [
+      "대시보드 보호대",
+      "자동차 대시보드 커버",
+      "차량 대시보드 액세서리",
+      "대시보드 장식",
+      "차량 내부 장식",
+      "대시보드 UV 차단",
+      "대시보드 오염 방지",
+      "차량 유지관리",
+      "대시보드 수납"
+    ],
+    "latency_ms": 2070.107936859131,
+    "total_tokens": 199,
+    "prompt_tokens": 103,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "수도꼭지",
+    "expanded": [
+      "수도꼭지 교환",
+      "수도꼭지 액세서리",
+      "수도꼭지 세척제",
+      "수도꼭지 부품",
+      "모던 수도꼭지",
+      "주방 수도꼭지",
+      "욕실 수도꼭지",
+      "수도꼭지 필터",
+      "수도꼭지 세트",
+      "DIY 수도꼭지"
+    ],
+    "latency_ms": 2394.984006881714,
+    "total_tokens": 208,
+    "prompt_tokens": 101,
+    "completion_tokens": 107
+  },
+  {
+    "keyword": "박스테이프",
+    "expanded": [
+      "포장테이프",
+      "크래프트 테이프",
+      "접착 테이프",
+      "스카치 테이프",
+      "투명 테이프",
+      "박스 포장",
+      "사무용 테이프",
+      "테이프 커터",
+      "강력 테이프",
+      "퀵 테이프"
+    ],
+    "latency_ms": 2153.9523601531982,
+    "total_tokens": 193,
+    "prompt_tokens": 102,
+    "completion_tokens": 91
+  },
+  {
+    "keyword": "신발",
+    "expanded": [
+      "신발 액세서리",
+      "운동화",
+      "슬리퍼",
+      "부츠",
+      "신발 주걱",
+      "양말",
+      "신발 정리함",
+      "여름 신발",
+      "겨울 신발",
+      "유아 신발"
+    ],
+    "latency_ms": 1730.4556369781494,
+    "total_tokens": 176,
+    "prompt_tokens": 99,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "샤워기 헤드",
+    "expanded": [
+      "샤워기",
+      "샤워기 액세서리",
+      "욕실 용품",
+      "수압 조절 헤드",
+      "스파 샤워기",
+      "휴대용 샤워기",
+      "물 줄기 조절",
+      "일제 샤워기",
+      "탈부착 가능한 헤드",
+      "세척 가능한 샤워기"
+    ],
+    "latency_ms": 3161.2913608551025,
+    "total_tokens": 201,
+    "prompt_tokens": 103,
+    "completion_tokens": 98
+  },
+  {
+    "keyword": "슬리퍼 주머니",
+    "expanded": [
+      "slipper bag",
+      "shoe storage",
+      "footwear organizer",
+      "travel slipper case",
+      "slipper pouch",
+      "accessory bag",
+      "sandal holder",
+      "compact shoe bag",
+      "terry cloth slipper pouch",
+      "laundry slipper bag"
+    ],
+    "latency_ms": 1857.0783138275146,
+    "total_tokens": 173,
+    "prompt_tokens": 102,
+    "completion_tokens": 71
+  },
+  {
+    "keyword": "안경 닦는 천",
+    "expanded": [
+      "안경 클리너",
+      "안경 세척 타올",
+      "안경 렌즈 세정",
+      "마이크로파이버 천",
+      "스마트폰 클리너",
+      "안경 관리 용품",
+      "세정제",
+      "렌즈 닦는 천",
+      "안경 아이템",
+      "청소 용품"
+    ],
+    "latency_ms": 2055.2711486816406,
+    "total_tokens": 194,
+    "prompt_tokens": 103,
+    "completion_tokens": 91
+  },
+  {
+    "keyword": "가리개",
+    "expanded": [
+      "가리개 원단",
+      "가리개 커튼",
+      "가리개 장식",
+      "인테리어 가리개",
+      "가리개 다리미",
+      "가리개 패널",
+      "가리개 아이디어",
+      "가리개 액세서리",
+      "접이식 가리개",
+      "플라스틱 가리개"
+    ],
+    "latency_ms": 2453.247547149658,
+    "total_tokens": 197,
+    "prompt_tokens": 100,
+    "completion_tokens": 97
+  },
+  {
+    "keyword": "여권 커버",
+    "expanded": [
+      "여권 가방",
+      "여권 홀더",
+      "여행용 액세서리",
+      "여권 보호대",
+      "여행 필수품",
+      "여행 서류",
+      "여권 정리함",
+      "여행 준비물",
+      "여행 가방",
+      "여권 케이스"
+    ],
+    "latency_ms": 1871.3302612304688,
+    "total_tokens": 186,
+    "prompt_tokens": 101,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "아기용품",
+    "expanded": [
+      "유아용품",
+      "아기 장난감",
+      "아기 식기",
+      "아기 옷",
+      "아기 용품 세트",
+      "아기 목욕 용품",
+      "아기 안전 용품",
+      "아기 침대 용품",
+      "아기 기저귀",
+      "아기 배변 훈련 용품"
+    ],
+    "latency_ms": 2680.387020111084,
+    "total_tokens": 194,
+    "prompt_tokens": 101,
+    "completion_tokens": 93
+  },
+  {
+    "keyword": "순간접착제",
+    "expanded": [
+      "슈퍼글루",
+      "접착제",
+      "빠른 접착제",
+      "순간접착 테이프",
+      "투명 접착제",
+      "고강도 접착제",
+      "DIY 접착제",
+      "플라스틱 접착제",
+      "종이 접착제",
+      "다용도 접착제"
+    ],
+    "latency_ms": 2033.2598686218262,
+    "total_tokens": 192,
+    "prompt_tokens": 101,
+    "completion_tokens": 91
+  },
+  {
+    "keyword": "간식통",
+    "expanded": [
+      "스낵 보관함",
+      "간식 저장 용기",
+      "저장 용기",
+      "음식 보관 용기",
+      "밀폐형 용기",
+      "과자 통",
+      "식품 저장 용기",
+      "간편 정리 용기",
+      "주방 용품",
+      "컨테이너"
+    ],
+    "latency_ms": 2047.7418899536133,
+    "total_tokens": 187,
+    "prompt_tokens": 100,
+    "completion_tokens": 87
+  },
+  {
+    "keyword": "인테리어 소품",
+    "expanded": [
+      "홈데코",
+      "장식품",
+      "소품가게",
+      "인테리어 디자인",
+      "벽장식",
+      "모던 인테리어",
+      "가정용품",
+      "테이블 장식",
+      "장식 소품",
+      "아트 소품"
+    ],
+    "latency_ms": 2225.6226539611816,
+    "total_tokens": 182,
+    "prompt_tokens": 103,
+    "completion_tokens": 79
+  },
+  {
+    "keyword": "효자손",
+    "expanded": [
+      "안마기",
+      "마사지 도구",
+      "지압봉",
+      "편안한 손",
+      "피로 회복",
+      "휴대용 마사지기",
+      "마사지 용품",
+      "건강 용품",
+      "스트레스 해소",
+      "마사지 테크"
+    ],
+    "latency_ms": 1817.6078796386719,
+    "total_tokens": 174,
+    "prompt_tokens": 100,
+    "completion_tokens": 74
+  },
+  {
+    "keyword": "동전지갑",
+    "expanded": [
+      "코인 지갑",
+      "동전 보관함",
+      "지폐 및 동전 지갑",
+      "미니 동전 지갑",
+      "여성 코인 지갑",
+      "가죽 코인 지갑",
+      "귀여운 동전 지갑",
+      "주머니 지갑",
+      "다용도 지갑",
+      "작은 지갑"
+    ],
+    "latency_ms": 2565.829038619995,
+    "total_tokens": 194,
+    "prompt_tokens": 101,
+    "completion_tokens": 93
+  },
+  {
+    "keyword": "방충망 스티커",
+    "expanded": [
+      "방충망",
+      "방충 스티커",
+      "방충망 부착제",
+      "창문 방충망",
+      "벌레 방지 스티커",
+      "해충 방지",
+      "여름 방충 대책",
+      "접착형 방충망",
+      "스티커 형 방충망",
+      "DIY 방충망"
+    ],
+    "latency_ms": 1950.2062797546387,
+    "total_tokens": 195,
+    "prompt_tokens": 103,
+    "completion_tokens": 92
+  },
+  {
+    "keyword": "낚시의자",
+    "expanded": [
+      "낚시용 의자",
+      "접이식 낚시 의자",
+      "낚시 캠핑 의자",
+      "낚시 도구",
+      "아웃도어 의자",
+      "수납 가능한 낚시 의자",
+      "경량 낚시 의자",
+      "편안한 낚시 의자",
+      "낚시 액세서리",
+      "스포츠 의자"
+    ],
+    "latency_ms": 2354.3050289154053,
+    "total_tokens": 207,
+    "prompt_tokens": 102,
+    "completion_tokens": 105
+  },
+  {
+    "keyword": "주방 가위",
+    "expanded": [
+      "주방용 가위",
+      "주방 가위 세트",
+      "부엌 가위",
+      "요리 가위",
+      "다목적 가위",
+      "강력한 주방 가위",
+      "식품 절단 가위",
+      "스테인리스 가위",
+      "주방 도구",
+      "가위 정리함"
+    ],
+    "latency_ms": 2000.5247592926025,
+    "total_tokens": 193,
+    "prompt_tokens": 101,
+    "completion_tokens": 92
+  },
+  {
+    "keyword": "문 스토퍼",
+    "expanded": [
+      "door stop",
+      "door stopper",
+      "door wedge",
+      "door security",
+      "home accessories",
+      "entryway decor",
+      "rubber door stop",
+      "adjustable door stopper",
+      "decorative door stop",
+      "furniture protector"
+    ],
+    "latency_ms": 1808.800220489502,
+    "total_tokens": 168,
+    "prompt_tokens": 101,
+    "completion_tokens": 67
+  },
+  {
+    "keyword": "라이터",
+    "expanded": [
+      "라이터 부품",
+      "일회용 라이터",
+      "전기 라이터",
+      "짚 라이터",
+      "흡연 용품",
+      "캔들 라이터",
+      "불꽃 조절 라이터",
+      "소형 라이터",
+      "다용도 라이터"
+    ],
+    "latency_ms": 1682.403802871704,
+    "total_tokens": 176,
+    "prompt_tokens": 99,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "종이 필터",
+    "expanded": [
+      "종이 필터 대체품",
+      "커피 필터",
+      "종이 타올",
+      "다이소 종이 필터",
+      "차 필터",
+      "일회용 필터",
+      "커피 용품",
+      "주방 필터",
+      "여과지",
+      "종이 제품"
+    ],
+    "latency_ms": 1699.8028755187988,
+    "total_tokens": 184,
+    "prompt_tokens": 101,
+    "completion_tokens": 83
+  },
+  {
+    "keyword": "바지 걸이",
+    "expanded": [
+      "바지 행거",
+      "바지 클립",
+      "의류 걸이",
+      "옷걸이",
+      "옷걸이 바지",
+      "바지 스탠드",
+      "다리미 걸이",
+      "행거",
+      "셔츠 걸이",
+      "세탁물 걸이"
+    ],
+    "latency_ms": 1978.750467300415,
+    "total_tokens": 184,
+    "prompt_tokens": 101,
+    "completion_tokens": 83
+  },
+  {
+    "keyword": "에어컨 세정제",
+    "expanded": [
+      "에어컨 청소",
+      "에어컨 유지보수",
+      "에어컨 필터",
+      "에어컨 세척",
+      "에어컨 세정 스프레이",
+      "에어컨 냄새 제거",
+      "가정용 에어컨",
+      "에어컨 액세서리",
+      "에어컨 수명 연장",
+      "여름철 쿨링"
+    ],
+    "latency_ms": 1951.0211944580078,
+    "total_tokens": 205,
+    "prompt_tokens": 103,
+    "completion_tokens": 102
+  },
+  {
+    "keyword": "방충망 보수 테이프",
+    "expanded": [
+      "insect screen repair tape",
+      "window screen tape",
+      "mosquito netting tape",
+      "adhesive screen patch",
+      "screen mesh repair",
+      "diy insect screen repair",
+      "screen door repair tape",
+      "home repair tape",
+      "weatherproof tape",
+      "mesh tape for windows"
+    ],
+    "latency_ms": 1941.723346710205,
+    "total_tokens": 184,
+    "prompt_tokens": 105,
+    "completion_tokens": 79
+  },
+  {
+    "keyword": "방수테이프",
+    "expanded": [
+      "방수 접착 테이프",
+      "방수 테이프 사용법",
+      "방수 테이프 종류",
+      "방수 테이프 구매",
+      "주방 방수 테이프",
+      "욕실 방수 테이프",
+      "방수 테이프 기능",
+      "다용도 방수 테이프",
+      "방수 테이프 추천",
+      "DIY 방수 테이프"
+    ],
+    "latency_ms": 2250.9825229644775,
+    "total_tokens": 207,
+    "prompt_tokens": 102,
+    "completion_tokens": 105
+  },
+  {
+    "keyword": "가방정리함",
+    "expanded": [
+      "가방 정리 수납",
+      "가방 보관함",
+      "가방 정리대",
+      "가방 정리 박스",
+      "가방 정리 솔루션",
+      "가방 수납 용기",
+      "가방 정리 트레이",
+      "가방 정리 가이드",
+      "가방 수납 가이드",
+      "가방 정리 클래스"
+    ],
+    "latency_ms": 2092.437744140625,
+    "total_tokens": 199,
+    "prompt_tokens": 102,
+    "completion_tokens": 97
+  },
+  {
+    "keyword": "헤어밴드",
+    "expanded": [
+      "헤어 액세서리",
+      "머리띠",
+      "헤어핀",
+      "머리 장식",
+      "헤어 클립",
+      "헤어 스타일링 용품",
+      "헤어 제품",
+      "여자 헤어밴드",
+      "가벼운 헤어밴드",
+      "패션 헤어밴드"
+    ],
+    "latency_ms": 2182.2378635406494,
+    "total_tokens": 194,
+    "prompt_tokens": 102,
+    "completion_tokens": 92
+  },
+  {
+    "keyword": "선정리함",
+    "expanded": [
+      "정리함",
+      "수납박스",
+      "저장함",
+      "정리수납",
+      "작은 물건 정리",
+      "플라스틱 상자",
+      "가정용 정리 기구",
+      "다용도 수납",
+      "오거나이저",
+      "정리용품"
+    ],
+    "latency_ms": 2004.878282546997,
+    "total_tokens": 185,
+    "prompt_tokens": 100,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "공병",
+    "expanded": [
+      "비어있는 병",
+      "유리병",
+      "플라스틱 용기",
+      "샘플 용기",
+      "병 보관",
+      "작은 용기",
+      "화장품 용기",
+      "DIY 병",
+      "재활용 용기",
+      "보관 용기"
+    ],
+    "latency_ms": 1877.9208660125732,
+    "total_tokens": 179,
+    "prompt_tokens": 99,
+    "completion_tokens": 80
+  },
+  {
+    "keyword": "유리창 닦이",
+    "expanded": [
+      "유리창 청소기",
+      "청소 도구",
+      "유리 닦이",
+      "유리 세정제",
+      "창문 청소",
+      "물기 제거기",
+      "창틀 브러시",
+      "청소용품",
+      "가정용 청소 도구",
+      "유리 세척"
+    ],
+    "latency_ms": 2254.530668258667,
+    "total_tokens": 190,
+    "prompt_tokens": 103,
+    "completion_tokens": 87
+  },
+  {
+    "keyword": "쓰레기통",
+    "expanded": [
+      "쓰레기통",
+      "휴지통",
+      "쓰레기통 세트",
+      "쓰레기통 디자인",
+      "벽걸이 쓰레기통",
+      "접이식 쓰레기통",
+      "자동 쓰레기통",
+      "재활용통",
+      "소형 쓰레기통",
+      "주방 쓰레기통"
+    ],
+    "latency_ms": 2715.4908180236816,
+    "total_tokens": 193,
+    "prompt_tokens": 101,
+    "completion_tokens": 92
+  },
+  {
+    "keyword": "반찬통",
+    "expanded": [
+      "식품 보관 용기",
+      "밀폐 용기",
+      "찬합",
+      "식사 준비 용기",
+      "음식 보관 통",
+      "플라스틱 용기",
+      "점심 도시락",
+      "소분 용기",
+      "식품 저장 용기"
+    ],
+    "latency_ms": 2325.2642154693604,
+    "total_tokens": 177,
+    "prompt_tokens": 100,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "커튼봉",
+    "expanded": [
+      "커튼걸이",
+      "커튼 후크",
+      "커튼 클립",
+      "창문 커튼",
+      "집안 인테리어",
+      "커튼 악세서리",
+      "롤스크린",
+      "플라스틱 커튼봉",
+      "커튼 설치",
+      "벽걸이 커튼봉"
+    ],
+    "latency_ms": 2368.77703666687,
+    "total_tokens": 186,
+    "prompt_tokens": 100,
+    "completion_tokens": 86
+  },
+  {
+    "keyword": "전선 정리 타이",
+    "expanded": [
+      "케이블 정리",
+      "전선 정리",
+      "케이블 타이",
+      "전선 정리 봉투",
+      "전선 클립",
+      "전선 관리",
+      "케이블 랩",
+      "전선 정리 솔루션",
+      "선 정리 액세서리"
+    ],
+    "latency_ms": 1761.4083290100098,
+    "total_tokens": 182,
+    "prompt_tokens": 103,
+    "completion_tokens": 79
+  },
+  {
+    "keyword": "곰팡이 제거제",
+    "expanded": [
+      "곰팡이 제거 스프레이",
+      "곰팡이 청소",
+      "습기 제거제",
+      "냄새 제거제",
+      "세균 제거제",
+      "청소 용품",
+      "곰팡이 예방",
+      "욕실 곰팡이 제거",
+      "홈클리닝",
+      "다이소 곰팡이 제거"
+    ],
+    "latency_ms": 2422.231435775757,
+    "total_tokens": 203,
+    "prompt_tokens": 104,
+    "completion_tokens": 99
+  },
+  {
+    "keyword": "앞치마",
+    "expanded": [
+      "주방 앞치마",
+      "요리 앞치마",
+      "유아 앞치마",
+      "다용도 앞치마",
+      "방수 앞치마",
+      "패턴 앞치마",
+      "여성 앞치마",
+      "남성 앞치마",
+      "실용적인 앞치마",
+      "근사한 앞치마"
+    ],
+    "latency_ms": 2422.2323894500732,
+    "total_tokens": 192,
+    "prompt_tokens": 100,
+    "completion_tokens": 92
+  },
+  {
+    "keyword": "접이식 의자",
+    "expanded": [
+      "접이식 의자",
+      "야외 의자",
+      "캠핑 의자",
+      "휴대용 의자",
+      "다용도 의자",
+      "접이式 벤치",
+      "경량 의자",
+      "미니 의자",
+      "휴식 의자",
+      "소형 의자"
+    ],
+    "latency_ms": 2060.8551502227783,
+    "total_tokens": 187,
+    "prompt_tokens": 102,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "미끄럼방지패드",
+    "expanded": [
+      "슬립 방지 패드",
+      "바닥 보호 매트",
+      "미끄럼 방지 매트",
+      "헤비듀티 패드",
+      "가정용 미끄럼 방지",
+      "주방용 패드",
+      "가구 미끄럼 방지",
+      "소프트패드",
+      "발판 매트",
+      "비치기 필요한 패드"
+    ],
+    "latency_ms": 2491.06502532959,
+    "total_tokens": 202,
+    "prompt_tokens": 104,
+    "completion_tokens": 98
+  },
+  {
+    "keyword": "이름표 테이프",
+    "expanded": [
+      "이름표 스티커",
+      "네임택",
+      "라벨 테이프",
+      "스티커 테이프",
+      "표시 테이프",
+      "이름 라벨",
+      "프린터 라벨",
+      "명찰 테이프",
+      "주소 라벨",
+      "명함 테이프"
+    ],
+    "latency_ms": 1845.5827236175537,
+    "total_tokens": 188,
+    "prompt_tokens": 102,
+    "completion_tokens": 86
+  },
+  {
+    "keyword": "구두주걱",
+    "expanded": [
+      "신발 리프터",
+      "구두 손질 도구",
+      "신발 관리",
+      "신발 수납",
+      "구두 손질 제품",
+      "신발 청소 용품",
+      "구두 형태 유지",
+      "신발 보호기",
+      "구두 청소 브러시",
+      "구두 주걱"
+    ],
+    "latency_ms": 1969.1603183746338,
+    "total_tokens": 190,
+    "prompt_tokens": 102,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "자취용품",
+    "expanded": [
+      "일본 생활용품",
+      "자취 필수 아이템",
+      "원룸 가구",
+      "주방 용품",
+      "세탁 용품",
+      "다이소 생활용품",
+      "자취용 가전",
+      "욕실 용품",
+      "정리 수납",
+      "소형 가전"
+    ],
+    "latency_ms": 1484.1275215148926,
+    "total_tokens": 186,
+    "prompt_tokens": 101,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "먼지 제거제",
+    "expanded": [
+      "청소용품",
+      "먼지 청소기",
+      "먼지 매트",
+      "표면 클리너",
+      "타올",
+      "청소 스프레이",
+      "물티슈",
+      "먼지 털이",
+      "세정제",
+      "일회용 청소 용품"
+    ],
+    "latency_ms": 1918.7967777252197,
+    "total_tokens": 183,
+    "prompt_tokens": 101,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "수건",
+    "expanded": [
+      "타올",
+      "손수건",
+      "목욕타올",
+      "여행용 타올",
+      "면타올",
+      "고급 수건",
+      "욕실용 수건",
+      "아기 수건",
+      "스포츠 타올",
+      "세면타올"
+    ],
+    "latency_ms": 2142.592668533325,
+    "total_tokens": 176,
+    "prompt_tokens": 99,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "솔",
+    "expanded": [
+      "빗자루",
+      "청소용 솔",
+      "쓰레받기",
+      "고양이 솔",
+      "브러시",
+      "청소 도구",
+      "사각 솔",
+      "다용도 솔",
+      "털이 빠지는 솔",
+      "욕실 청소 솔"
+    ],
+    "latency_ms": 1560.335397720337,
+    "total_tokens": 177,
+    "prompt_tokens": 98,
+    "completion_tokens": 79
+  },
+  {
+    "keyword": "집게",
+    "expanded": [
+      "집게 월계수",
+      "클립",
+      "고정 클립",
+      "문서 집게",
+      "타올 집게",
+      "멀티 집게",
+      "제빵 집게",
+      "조리 집게",
+      "스냅 집게",
+      "채소 집게"
+    ],
+    "latency_ms": 2060.6911182403564,
+    "total_tokens": 179,
+    "prompt_tokens": 99,
+    "completion_tokens": 80
+  },
+  {
+    "keyword": "전자레인지용 그릇",
+    "expanded": [
+      "전자레인지 용기",
+      "전자레인지 그릇",
+      "전자레인지 식기",
+      "미세 전자레인지 용기",
+      "내열 그릇",
+      "락킹 용기",
+      "식사 용기",
+      "전자레인지 안전 용기",
+      "음식 보관 용기",
+      "멀티용기"
+    ],
+    "latency_ms": 1663.2113456726074,
+    "total_tokens": 197,
+    "prompt_tokens": 105,
+    "completion_tokens": 92
+  },
+  {
+    "keyword": "방향제",
+    "expanded": [
+      "향기 제품",
+      "방향제 스프레이",
+      "자동 방향제",
+      "아로마 디퓨저",
+      "캔들 향기",
+      "자동차 방향제",
+      "용기 방향제",
+      "방향제 리필",
+      "방향제 스틱",
+      "방향제 홀더"
+    ],
+    "latency_ms": 1630.1202774047852,
+    "total_tokens": 184,
+    "prompt_tokens": 99,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "머리카락 거름망",
+    "expanded": [
+      "헤어 필터",
+      "머리카락 필터",
+      "샤워 필터",
+      "욕실 거름망",
+      "하수구 거름망",
+      "머리카락 잡는망",
+      "배수구 필터",
+      "헤어 그물",
+      "거름망",
+      "욕실 용품"
+    ],
+    "latency_ms": 2105.245590209961,
+    "total_tokens": 192,
+    "prompt_tokens": 104,
+    "completion_tokens": 88
+  }
+]

@@ -1,32 +1,33 @@
 
 import json
 import os
-import google.generativeai as genai
 from dotenv import load_dotenv
+from openai import OpenAI
 
 # Load Env
 load_dotenv()
-api_key = os.getenv("GEMINI_API_KEY")
+api_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
-    print("Error: GEMINI_API_KEY not set")
+    print("Error: OPENAI_API_KEY not set")
     exit(1)
 
-genai.configure(api_key=api_key)
-model = genai.GenerativeModel("gemini-2.0-flash")
+client = OpenAI(api_key=api_key)
+MODEL_NAME = "gpt-4o-mini"
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INTENTION_FILE = os.path.join(BASE_DIR, "database", "question_intention.json")
-KEYWORDS_FILE = os.path.join(BASE_DIR, "logic", "extracted_keywords.txt")
-OUTPUT_FILE = os.path.join(BASE_DIR, "logic", "comparison_report.txt")
+KEYWORDS_FILE = os.path.join(BASE_DIR, "logic", "extracted_keywords_openai.txt") # Use OpenAI extracted keywords
+OUTPUT_FILE = os.path.join(BASE_DIR, "logic", "comparison_report_openai.txt") # Output to a separate file
 
 def load_extracted_keywords():
     mapping = {}
     if not os.path.exists(KEYWORDS_FILE):
+        print(f"Keywords file not found at {KEYWORDS_FILE}")
         return mapping
         
     with open(KEYWORDS_FILE, "r", encoding="utf-8") as f:
         for line in f:
-            # Format: Q: ... -> Keyword: ... (Latency: ...)
+            # Format: Q: ... -> Keyword: ...
             if "-> Keyword:" in line:
                 # Remove metric info if present
                 clean_line = line.split("(Latency:")[0].strip()
@@ -57,8 +58,15 @@ def evaluate_match(question, intention, keyword):
         
         Output format: MATCH | <Reasoning> or MISMATCH | <Reasoning>
         """
-        response = model.generate_content(prompt)
-        return response.text.strip()
+        response = client.chat.completions.create(
+            model=MODEL_NAME,
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant evaluating keyword extraction quality."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0
+        )
+        return response.choices[0].message.content.strip()
     except Exception as e:
         return f"ERROR | {e}"
 
@@ -67,6 +75,10 @@ def main():
     intentions = load_intentions()
     extracted_map = load_extracted_keywords()
     
+    if not extracted_map:
+        print("No extracted keywords found to compare.")
+        return
+
     results = []
     match_count = 0
     total_count = 0
@@ -74,15 +86,13 @@ def main():
     print(f"Comparing {len(intentions)} items...")
     
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write("=== Keyword Extraction Evaluation ===\n\n")
+        f.write("=== Keyword Extraction Evaluation (OpenAI) ===\n\n")
         
         for item in intentions:
             q = item["question"]
             target = item["intention"]
             
             # Simple normalization for matching keys
-            # Extracted keys might differ slightly in whitespace or quotes
-            # We try exact match first
             keyword = extracted_map.get(q)
             
             if not keyword:
@@ -111,9 +121,12 @@ def main():
             f.write(result_str + "\n")
             f.flush()
 
-        summary = f"\n=== SUMMARY ===\nTotal Evaluated: {total_count}\nMatches: {match_count}\nAccuracy: {match_count/total_count*100:.1f}%\n"
-        f.write(summary)
-        print(summary)
+        if total_count > 0:
+            summary = f"\n=== SUMMARY ===\nTotal Evaluated: {total_count}\nMatches: {match_count}\nAccuracy: {match_count/total_count*100:.1f}%\n"
+            f.write(summary)
+            print(summary)
+        else:
+            print("No items evaluated.")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,16 @@
+=== Category Accuracy Report ===
+
+Category: Direct Search (직접 검색형)
+  Total: 142
+  Matches: 130
+  Accuracy: 91.5%
+
+Category: Problem/Context (문제 해결 및 상황 묘사형)
+  Total: 255
+  Matches: 225
+  Accuracy: 88.2%
+
+=== TOTAL SUMMARY ===
+Total Evaluated: 397
+Matches: 355
+Overall Accuracy: 89.4%

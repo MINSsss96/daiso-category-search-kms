@@ -2,25 +2,14 @@
 import os
 import json
 import time
-from dotenv import load_dotenv
-import google.generativeai as genai
-
-# Load environment variables
-load_dotenv()
-api_key = os.getenv("GEMINI_API_KEY")
-
-if not api_key:
-    print("Error: GEMINI_API_KEY not found in .env")
-    exit(1)
-
-# Configure Gemini
-genai.configure(api_key=api_key)
-model = genai.GenerativeModel("gemini-2.0-flash") # Updated to 2.0-flash as per nlu.py suggestion
-
+import ollama
 
 # Paths
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 JSON_PATH = os.path.join(BASE_DIR, "database", "question3.json")
+
+# Model Name (Make sure you have run 'ollama run llama3' in terminal at least once)
+MODEL_NAME = "llama3" 
 
 def load_questions():
     if not os.path.exists(JSON_PATH):
@@ -45,23 +34,31 @@ def extract_keyword(query):
     """
     try:
         start_time = time.time()
-        response = model.generate_content(prompt)
+        
+        response = ollama.chat(model=MODEL_NAME, messages=[
+            {
+                'role': 'user',
+                'content': prompt,
+            },
+        ])
+        
         end_time = time.time()
         latency = end_time - start_time
         
-        keyword = response.text.strip()
+        keyword = response['message']['content'].strip()
         
-        usage = response.usage_metadata
-        prompt_tokens = usage.prompt_token_count
-        candidates_tokens = usage.candidates_token_count
-        total_tokens = usage.total_token_count
+        # Ollama returns token counts in response['eval_count'] and response['prompt_eval_count']
+        # Note: keys might vary slightly by version, checking common response structure
+        prompt_tokens = response.get('prompt_eval_count', 0)
+        completion_tokens = response.get('eval_count', 0)
+        total_tokens = prompt_tokens + completion_tokens
 
         return {
             "keyword": keyword,
             "latency": latency,
             "tokens": {
                 "prompt": prompt_tokens,
-                "completion": candidates_tokens,
+                "completion": completion_tokens,
                 "total": total_tokens
             }
         }
@@ -74,9 +71,10 @@ def main():
         return
 
     print(f"Loaded {len(questions)} questions.")
+    print(f"Using Ollama model: {MODEL_NAME}")
     print("-" * 50)
     
-    output_txt_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "extracted_keywords.txt")
+    output_txt_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "extracted_keywords_ollama.txt")
     print(f"Saving results to: {output_txt_path}")
 
     with open(output_txt_path, "w", encoding="utf-8") as f:
@@ -85,6 +83,8 @@ def main():
             
             if "error" in result:
                 line = f"Q: {q} -> Error: {result['error']}"
+                print(f"[{i+1}/{len(questions)}] {line}")
+                f.write(f"{line}\n")
             else:
                 keyword = result["keyword"]
                 latency = result["latency"]

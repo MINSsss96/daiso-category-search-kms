@@ -1,0 +1,14 @@
+=== Question Type Analysis Report (Heuristic) ===
+
+Based on an analysis of 397 queries:
+
+Direct Product (직접 검색): 142 queries
+Problem Solution (문제 해결/니즈 기반): 120 queries
+Usage/Context (사용 상황/맥락 기반): 95 queries
+Description/Feature (특징/묘사 기반): 30 queries
+Part/Refill (부품/리필): 10 queries
+
+Total questions: 397
+
+=== Detailed Classification ===
+(See comparison_report.csv for individual query classification logic)

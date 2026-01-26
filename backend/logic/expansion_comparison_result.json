@@ -1,0 +1,8102 @@
+[
+  {
+    "keyword": "머리카락 거름망",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "머리카락 거름망",
+          "거름망",
+          "주방",
+          "욕실",
+          "배수구",
+          "청소용품",
+          "필터",
+          "머리카락",
+          "걸이"
+        ],
+        "latency_ms": 9558.939695358276,
+        "total_tokens": 427,
+        "prompt_tokens": 361,
+        "completion_tokens": 66
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2023.7600803375244
+      }
+    ]
+  },
+  {
+    "keyword": "고데기받침",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "고데기받침",
+          "고데기",
+          "받침",
+          "미용용품",
+          "헤어",
+          "정리"
+        ],
+        "latency_ms": 2035.0978374481201,
+        "total_tokens": 405,
+        "prompt_tokens": 360,
+        "completion_tokens": 45
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2033.531665802002
+      }
+    ]
+  },
+  {
+    "keyword": "빨래 건조대",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "빨래 건조대",
+          "건조대",
+          "세탁",
+          "생활용품",
+          "빨래"
+        ],
+        "latency_ms": 2027.6968479156494,
+        "total_tokens": 393,
+        "prompt_tokens": 360,
+        "completion_tokens": 33
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2027.4085998535156
+      }
+    ]
+  },
+  {
+    "keyword": "휴대폰 거치대",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "휴대폰 거치대",
+          "거치대",
+          "디지털",
+          "핸드폰 용품",
+          "스마트폰",
+          "핸드폰"
+        ],
+        "latency_ms": 2031.8889617919922,
+        "total_tokens": 403,
+        "prompt_tokens": 360,
+        "completion_tokens": 43
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.5241813659668
+      }
+    ]
+  },
+  {
+    "keyword": "우산",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "우산",
+          "비",
+          "우산",
+          "패션",
+          "비 피하기"
+        ],
+        "latency_ms": 2034.423589706421,
+        "total_tokens": 377,
+        "prompt_tokens": 357,
+        "completion_tokens": 20
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2033.6296558380127
+      }
+    ]
+  },
+  {
+    "keyword": "신발장 탈취제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "신발장 탈취제",
+          "신발장",
+          "탈취제",
+          "생활용품",
+          "탈취"
+        ],
+        "latency_ms": 2029.953956604004,
+        "total_tokens": 396,
+        "prompt_tokens": 361,
+        "completion_tokens": 35
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2028.7392139434814
+      }
+    ]
+  },
+  {
+    "keyword": "슬리퍼 주머니",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "슬리퍼 주머니",
+          "신발",
+          "주머니",
+          "수납용품",
+          "정리",
+          "휴대용"
+        ],
+        "latency_ms": 2038.4457111358643,
+        "total_tokens": 405,
+        "prompt_tokens": 360,
+        "completion_tokens": 45
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2037.19162940979
+      }
+    ]
+  },
+  {
+    "keyword": "탄 거 닦는 가루",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "탄 거 닦는 가루",
+          "주방",
+          "가루",
+          "세제",
+          "청소용품",
+          "탄 자국 제거"
+        ],
+        "latency_ms": 2040.977954864502,
+        "total_tokens": 404,
+        "prompt_tokens": 362,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2040.1029586791992
+      }
+    ]
+  },
+  {
+    "keyword": "립밤",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "립밤",
+          "입술",
+          "밤",
+          "화장품",
+          "보습"
+        ],
+        "latency_ms": 2040.6086444854736,
+        "total_tokens": 391,
+        "prompt_tokens": 358,
+        "completion_tokens": 33
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2039.4246578216553
+      }
+    ]
+  },
+  {
+    "keyword": "냄비손잡이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "냄비손잡이",
+          "주방",
+          "손잡이",
+          "주방용품",
+          "냄비",
+          "안전"
+        ],
+        "latency_ms": 2032.181978225708,
+        "total_tokens": 400,
+        "prompt_tokens": 361,
+        "completion_tokens": 39
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.1524868011475
+      }
+    ]
+  },
+  {
+    "keyword": "가방커버",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "가방커버",
+          "가방",
+          "커버",
+          "여행용품",
+          "보호커버"
+        ],
+        "latency_ms": 2032.968282699585,
+        "total_tokens": 397,
+        "prompt_tokens": 359,
+        "completion_tokens": 38
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.968355178833
+      }
+    ]
+  },
+  {
+    "keyword": "꽃 가위",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "꽃 가위",
+          "가드닝",
+          "가위",
+          "원예용품",
+          "꽃꽂이"
+        ],
+        "latency_ms": 2020.4603672027588,
+        "total_tokens": 396,
+        "prompt_tokens": 358,
+        "completion_tokens": 38
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2019.8800563812256
+      }
+    ]
+  },
+  {
+    "keyword": "돌돌이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "돌돌이",
+          "청소",
+          "청소용품",
+          "테이프 클리너",
+          "먼지 제거"
+        ],
+        "latency_ms": 2032.2191715240479,
+        "total_tokens": 386,
+        "prompt_tokens": 358,
+        "completion_tokens": 28
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2032.2191715240479
+      }
+    ]
+  },
+  {
+    "keyword": "다이어리 펀치",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "다이어리 펀치",
+          "다이어리",
+          "펀치",
+          "문구",
+          "사무용품",
+          "제본"
+        ],
+        "latency_ms": 2032.348394393921,
+        "total_tokens": 401,
+        "prompt_tokens": 361,
+        "completion_tokens": 40
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.2349796295166
+      }
+    ]
+  },
+  {
+    "keyword": "물티슈",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "물티슈",
+          "생활용품",
+          "티슈",
+          "닦기"
+        ],
+        "latency_ms": 2040.5845642089844,
+        "total_tokens": 376,
+        "prompt_tokens": 358,
+        "completion_tokens": 18
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2039.1654968261719
+      }
+    ]
+  },
+  {
+    "keyword": "발뒤꿈치 미는 거",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "발뒤꿈치 미는 거",
+          "발",
+          "각질 제거기",
+          "미용용품",
+          "피부관리"
+        ],
+        "latency_ms": 2037.1606349945068,
+        "total_tokens": 404,
+        "prompt_tokens": 362,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2036.158800125122
+      }
+    ]
+  },
+  {
+    "keyword": "기름 방지",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "기름 방지",
+          "주방",
+          "방지",
+          "주방용품",
+          "기름",
+          "방지"
+        ],
+        "latency_ms": 2030.6241512298584,
+        "total_tokens": 401,
+        "prompt_tokens": 358,
+        "completion_tokens": 43
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2030.2367210388184
+      }
+    ]
+  },
+  {
+    "keyword": "고무장갑",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "고무장갑",
+          "주방",
+          "장갑",
+          "주방용품",
+          "청소용품",
+          "미끄럼방지",
+          "방수"
+        ],
+        "latency_ms": 2026.292324066162,
+        "total_tokens": 413,
+        "prompt_tokens": 359,
+        "completion_tokens": 54
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2025.8300304412842
+      }
+    ]
+  },
+  {
+    "keyword": "전자레인지용 그릇",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "전자레인지용 그릇",
+          "전자레인지",
+          "그릇",
+          "주방용품",
+          "식기",
+          "전자렌지 사용가능"
+        ],
+        "latency_ms": 2029.8991203308105,
+        "total_tokens": 395,
+        "prompt_tokens": 361,
+        "completion_tokens": 34
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2028.475046157837
+      }
+    ]
+  },
+  {
+    "keyword": "실내화",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "실내화",
+          "신발",
+          "생활용품",
+          "가정용품",
+          "사무용품",
+          "편안한"
+        ],
+        "latency_ms": 2036.764144897461,
+        "total_tokens": 389,
+        "prompt_tokens": 358,
+        "completion_tokens": 31
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.7351303100586
+      }
+    ]
+  },
+  {
+    "keyword": "다용도 제품",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "다용도 제품",
+          "다용도",
+          "제품",
+          "생활용품",
+          "수납"
+        ],
+        "latency_ms": 2042.6297187805176,
+        "total_tokens": 390,
+        "prompt_tokens": 359,
+        "completion_tokens": 31
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2040.9493446350098
+      }
+    ]
+  },
+  {
+    "keyword": "양말",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "양말",
+          "발",
+          "양말",
+          "패션",
+          "의류"
+        ],
+        "latency_ms": 2031.1951637268066,
+        "total_tokens": 389,
+        "prompt_tokens": 357,
+        "completion_tokens": 32
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2030.1904678344727
+      }
+    ]
+  },
+  {
+    "keyword": "머리카락 정리 도구",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "머리카락 정리 도구",
+          "머리카락",
+          "정리 도구",
+          "도구",
+          "미용",
+          "헤어",
+          "정돈",
+          "미용용품"
+        ],
+        "latency_ms": 2028.4144878387451,
+        "total_tokens": 421,
+        "prompt_tokens": 361,
+        "completion_tokens": 60
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2026.8185138702393
+      }
+    ]
+  },
+  {
+    "keyword": "종이 쇼핑백",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "종이 쇼핑백",
+          "쇼핑백",
+          "가방",
+          "포장용품",
+          "종이"
+        ],
+        "latency_ms": 2018.5749530792236,
+        "total_tokens": 392,
+        "prompt_tokens": 360,
+        "completion_tokens": 32
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2018.1455612182617
+      }
+    ]
+  },
+  {
+    "keyword": "라이터",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "라이터",
+          "담배",
+          "라이터",
+          "생활용품",
+          "성냥"
+        ],
+        "latency_ms": 2036.2486839294434,
+        "total_tokens": 391,
+        "prompt_tokens": 357,
+        "completion_tokens": 34
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.8915328979492
+      }
+    ]
+  },
+  {
+    "keyword": "방법",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "방법"
+        ],
+        "latency_ms": 2029.114007949829,
+        "total_tokens": 359,
+        "prompt_tokens": 356,
+        "completion_tokens": 3
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.114007949829
+      }
+    ]
+  },
+  {
+    "keyword": "페디큐어 세퍼레이터",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "페디큐어 세퍼레이터",
+          "발가락",
+          "세퍼레이터",
+          "미용소품",
+          "페디큐어"
+        ],
+        "latency_ms": 2025.4144668579102,
+        "total_tokens": 404,
+        "prompt_tokens": 363,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2024.71923828125
+      }
+    ]
+  },
+  {
+    "keyword": "얼룩 제거 펜",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "얼룩 제거 펜",
+          "얼룩제거",
+          "펜",
+          "사무용품",
+          "필기구",
+          "얼룩 지우개"
+        ],
+        "latency_ms": 2018.49365234375,
+        "total_tokens": 394,
+        "prompt_tokens": 360,
+        "completion_tokens": 34
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2017.810344696045
+      }
+    ]
+  },
+  {
+    "keyword": "습기 제거제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "습기 제거제",
+          "습기",
+          "제거제",
+          "생활용품",
+          "제습"
+        ],
+        "latency_ms": 2011.1026763916016,
+        "total_tokens": 391,
+        "prompt_tokens": 359,
+        "completion_tokens": 32
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2010.9467506408691
+      }
+    ]
+  },
+  {
+    "keyword": "먼지 제거제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "먼지 제거제",
+          "청소",
+          "세제",
+          "청소용품",
+          "먼지 제거"
+        ],
+        "latency_ms": 2029.8407077789307,
+        "total_tokens": 397,
+        "prompt_tokens": 359,
+        "completion_tokens": 38
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.6151638031006
+      }
+    ]
+  },
+  {
+    "keyword": "신발",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "신발",
+          "신발",
+          "패션",
+          "잡화"
+        ],
+        "latency_ms": 2022.4299430847168,
+        "total_tokens": 373,
+        "prompt_tokens": 357,
+        "completion_tokens": 16
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2020.4229354858398
+      }
+    ]
+  },
+  {
+    "keyword": "안전 잠금 장치",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "안전 잠금 장치",
+          "잠금 장치",
+          "안전용품",
+          "안전"
+        ],
+        "latency_ms": 2036.4060401916504,
+        "total_tokens": 391,
+        "prompt_tokens": 360,
+        "completion_tokens": 31
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.4065895080566
+      }
+    ]
+  },
+  {
+    "keyword": "이어폰",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "이어폰",
+          "음향기기",
+          "디지털",
+          "핸드폰 용품"
+        ],
+        "latency_ms": 2038.3179187774658,
+        "total_tokens": 389,
+        "prompt_tokens": 357,
+        "completion_tokens": 32
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2037.3234748840332
+      }
+    ]
+  },
+  {
+    "keyword": "빨래망",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "빨래망",
+          "세탁",
+          "세탁망",
+          "세탁용품",
+          "옷정리"
+        ],
+        "latency_ms": 2037.501335144043,
+        "total_tokens": 396,
+        "prompt_tokens": 358,
+        "completion_tokens": 38
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2036.9219779968262
+      }
+    ]
+  },
+  {
+    "keyword": "장난감 정리 박스",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "장난감 정리 박스",
+          "장난감 박스",
+          "정리 박스",
+          "박스",
+          "수납용품",
+          "정리",
+          "수납"
+        ],
+        "latency_ms": 2034.4233512878418,
+        "total_tokens": 410,
+        "prompt_tokens": 361,
+        "completion_tokens": 49
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2033.982276916504
+      }
+    ]
+  },
+  {
+    "keyword": "긁힘 방지 패드",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "긁힘 방지 패드",
+          "긁힘 방지",
+          "패드",
+          "생활용품",
+          "긁힘 방지"
+        ],
+        "latency_ms": 2036.5021228790283,
+        "total_tokens": 399,
+        "prompt_tokens": 362,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.8631610870361
+      }
+    ]
+  },
+  {
+    "keyword": "압축팩",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "압축팩",
+          "수납",
+          "팩",
+          "생활용품",
+          "정리",
+          "압축"
+        ],
+        "latency_ms": 2027.0068645477295,
+        "total_tokens": 398,
+        "prompt_tokens": 358,
+        "completion_tokens": 40
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2027.0068645477295
+      }
+    ]
+  },
+  {
+    "keyword": "자석 화이트보드",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "자석 화이트보드",
+          "화이트보드",
+          "보드",
+          "사무용품",
+          "자석"
+        ],
+        "latency_ms": 2021.186113357544,
+        "total_tokens": 397,
+        "prompt_tokens": 361,
+        "completion_tokens": 36
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2019.1740989685059
+      }
+    ]
+  },
+  {
+    "keyword": "아이폰 충전기",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "아이폰 충전기",
+          "아이폰",
+          "충전기",
+          "디지털",
+          "핸드폰 용품",
+          "충전"
+        ],
+        "latency_ms": 2043.3316230773926,
+        "total_tokens": 391,
+        "prompt_tokens": 360,
+        "completion_tokens": 31
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2040.1723384857178
+      }
+    ]
+  },
+  {
+    "keyword": "안대",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "안대",
+          "눈",
+          "수면",
+          "안대",
+          "패션",
+          "수면용품",
+          "눈 보호"
+        ],
+        "latency_ms": 2043.794870376587,
+        "total_tokens": 386,
+        "prompt_tokens": 357,
+        "completion_tokens": 29
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2043.2734489440918
+      }
+    ]
+  },
+  {
+    "keyword": "팔굽혀펴기 기구",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "팔굽혀펴기 기구",
+          "운동",
+          "기구",
+          "스포츠용품",
+          "헬스",
+          "근력운동"
+        ],
+        "latency_ms": 2045.813798904419,
+        "total_tokens": 407,
+        "prompt_tokens": 362,
+        "completion_tokens": 45
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2044.1124439239502
+      }
+    ]
+  },
+  {
+    "keyword": "장바구니",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "장바구니",
+          "마트",
+          "바구니",
+          "생활용품",
+          "수납",
+          "정리"
+        ],
+        "latency_ms": 2024.489164352417,
+        "total_tokens": 395,
+        "prompt_tokens": 359,
+        "completion_tokens": 36
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2024.0139961242676
+      }
+    ]
+  },
+  {
+    "keyword": "이어폰 고무",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "이어폰 고무",
+          "이어폰",
+          "고무",
+          "음향기기",
+          "이어폰 용품",
+          "미끄럼방지"
+        ],
+        "latency_ms": 2035.7778072357178,
+        "total_tokens": 401,
+        "prompt_tokens": 359,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2034.3048572540283
+      }
+    ]
+  },
+  {
+    "keyword": "하수구 뚫는 세제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "하수구 뚫는 세제",
+          "하수구세제",
+          "세제",
+          "청소용품",
+          "배수구 청소",
+          "막힘 제거"
+        ],
+        "latency_ms": 2056.7409992218018,
+        "total_tokens": 417,
+        "prompt_tokens": 363,
+        "completion_tokens": 54
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2055.7374954223633
+      }
+    ]
+  },
+  {
+    "keyword": "세탁망",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "세탁망",
+          "세탁",
+          "망",
+          "세탁용품",
+          "세탁",
+          "빨래"
+        ],
+        "latency_ms": 2037.5239849090576,
+        "total_tokens": 399,
+        "prompt_tokens": 358,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2036.656379699707
+      }
+    ]
+  },
+  {
+    "keyword": "화장품 공병",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "화장품 공병",
+          "화장품",
+          "공병",
+          "미용",
+          "화장품 용기",
+          "휴대용"
+        ],
+        "latency_ms": 2023.4098434448242,
+        "total_tokens": 401,
+        "prompt_tokens": 360,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2023.118495941162
+      }
+    ]
+  },
+  {
+    "keyword": "메모판",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "메모판",
+          "사무실",
+          "보드",
+          "사무용품",
+          "필기구",
+          "메모",
+          "정리"
+        ],
+        "latency_ms": 2033.205509185791,
+        "total_tokens": 407,
+        "prompt_tokens": 357,
+        "completion_tokens": 50
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2032.8009128570557
+      }
+    ]
+  },
+  {
+    "keyword": "선반",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "선반",
+          "수납",
+          "정리",
+          "인테리어",
+          "다용도"
+        ],
+        "latency_ms": 2045.438528060913,
+        "total_tokens": 392,
+        "prompt_tokens": 357,
+        "completion_tokens": 35
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2044.438123703003
+      }
+    ]
+  },
+  {
+    "keyword": "그물망",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "그물망",
+          "네트",
+          "정리용품",
+          "수납"
+        ],
+        "latency_ms": 2025.1479148864746,
+        "total_tokens": 377,
+        "prompt_tokens": 358,
+        "completion_tokens": 19
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2023.6375331878662
+      }
+    ]
+  },
+  {
+    "keyword": "효자손",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "효자손",
+          "등",
+          "지압기",
+          "건강용품",
+          "안마"
+        ],
+        "latency_ms": 2030.0266742706299,
+        "total_tokens": 381,
+        "prompt_tokens": 358,
+        "completion_tokens": 23
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2030.0266742706299
+      }
+    ]
+  },
+  {
+    "keyword": "렌즈 세척액",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "렌즈 세척액",
+          "렌즈",
+          "세척액",
+          "눈 건강",
+          "세정",
+          "세척"
+        ],
+        "latency_ms": 2031.0406684875488,
+        "total_tokens": 398,
+        "prompt_tokens": 361,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2030.4415225982666
+      }
+    ]
+  },
+  {
+    "keyword": "신발건조대",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "신발건조대",
+          "신발",
+          "건조대",
+          "정리용품",
+          "신발 정리",
+          "건조"
+        ],
+        "latency_ms": 2046.0853576660156,
+        "total_tokens": 400,
+        "prompt_tokens": 360,
+        "completion_tokens": 40
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2046.0853576660156
+      }
+    ]
+  },
+  {
+    "keyword": "아기들 칫솔",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "아기들 칫솔",
+          "아기",
+          "칫솔",
+          "구강용품",
+          "유아용품",
+          "어린이"
+        ],
+        "latency_ms": 2043.501615524292,
+        "total_tokens": 409,
+        "prompt_tokens": 361,
+        "completion_tokens": 48
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2042.9539680480957
+      }
+    ]
+  },
+  {
+    "keyword": "정리함",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "정리함",
+          "수납",
+          "정리",
+          "수납용품",
+          "정리용품"
+        ],
+        "latency_ms": 2027.6405811309814,
+        "total_tokens": 395,
+        "prompt_tokens": 357,
+        "completion_tokens": 38
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2027.6405811309814
+      }
+    ]
+  },
+  {
+    "keyword": "찍찍이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "찍찍이",
+          "다용도",
+          "생활용품",
+          "정리용품",
+          "고정"
+        ],
+        "latency_ms": 2046.5779304504395,
+        "total_tokens": 383,
+        "prompt_tokens": 358,
+        "completion_tokens": 25
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2046.044111251831
+      }
+    ]
+  },
+  {
+    "keyword": "종이 호일",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "종이 호일",
+          "주방",
+          "호일",
+          "주방용품",
+          "조리",
+          "베이킹"
+        ],
+        "latency_ms": 2054.2776584625244,
+        "total_tokens": 403,
+        "prompt_tokens": 359,
+        "completion_tokens": 44
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2054.2776584625244
+      }
+    ]
+  },
+  {
+    "keyword": "퐁퐁",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "퐁퐁",
+          "주방",
+          "세제",
+          "주방용품",
+          "세척"
+        ],
+        "latency_ms": 2036.2329483032227,
+        "total_tokens": 380,
+        "prompt_tokens": 358,
+        "completion_tokens": 22
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.1893901824951
+      }
+    ]
+  },
+  {
+    "keyword": "덧신",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "덧신",
+          "신발",
+          "패션",
+          "양말",
+          "덧버선"
+        ],
+        "latency_ms": 2040.684461593628,
+        "total_tokens": 392,
+        "prompt_tokens": 358,
+        "completion_tokens": 34
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2039.6533012390137
+      }
+    ]
+  },
+  {
+    "keyword": "안전 콘센트 덮개",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "안전 콘센트 덮개",
+          "콘센트 덮개",
+          "덮개",
+          "안전용품",
+          "안전",
+          "콘센트",
+          "어린이 안전"
+        ],
+        "latency_ms": 2034.7607135772705,
+        "total_tokens": 422,
+        "prompt_tokens": 362,
+        "completion_tokens": 60
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2034.7607135772705
+      }
+    ]
+  },
+  {
+    "keyword": "무선 마우스",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "무선 마우스",
+          "마우스",
+          "컴퓨터",
+          "사무용품",
+          "디지털",
+          "무선"
+        ],
+        "latency_ms": 2013.2887363433838,
+        "total_tokens": 403,
+        "prompt_tokens": 359,
+        "completion_tokens": 44
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2012.5377178192139
+      }
+    ]
+  },
+  {
+    "keyword": "오일",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "오일",
+          "기름",
+          "주방",
+          "식품",
+          "요리"
+        ],
+        "latency_ms": 2035.4979038238525,
+        "total_tokens": 390,
+        "prompt_tokens": 357,
+        "completion_tokens": 33
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2034.5537662506104
+      }
+    ]
+  },
+  {
+    "keyword": "서랍 잠금장치",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "서랍 잠금장치",
+          "서랍",
+          "잠금장치",
+          "수납용품",
+          "안전용품",
+          "잠금"
+        ],
+        "latency_ms": 2050.2190589904785,
+        "total_tokens": 410,
+        "prompt_tokens": 361,
+        "completion_tokens": 49
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2049.762487411499
+      }
+    ]
+  },
+  {
+    "keyword": "옷정리",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "옷정리",
+          "옷",
+          "정리",
+          "수납용품",
+          "정리정돈"
+        ],
+        "latency_ms": 2027.0569324493408,
+        "total_tokens": 395,
+        "prompt_tokens": 358,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2027.0569324493408
+      }
+    ]
+  },
+  {
+    "keyword": "용기",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "용기",
+          "다용도 용기",
+          "수납 용기",
+          "정리 용품",
+          "수납",
+          "보관"
+        ],
+        "latency_ms": 2013.1127834320068,
+        "total_tokens": 403,
+        "prompt_tokens": 357,
+        "completion_tokens": 46
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2012.481689453125
+      }
+    ]
+  },
+  {
+    "keyword": "수도꼭지",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "수도꼭지",
+          "주방",
+          "수도",
+          "생활용품",
+          "수도꼭지"
+        ],
+        "latency_ms": 2028.2421112060547,
+        "total_tokens": 391,
+        "prompt_tokens": 358,
+        "completion_tokens": 33
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2028.050184249878
+      }
+    ]
+  },
+  {
+    "keyword": "방충망",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "방충망",
+          "창문",
+          "망",
+          "생활용품",
+          "해충 퇴치"
+        ],
+        "latency_ms": 2037.1365547180176,
+        "total_tokens": 381,
+        "prompt_tokens": 358,
+        "completion_tokens": 23
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2037.1365547180176
+      }
+    ]
+  },
+  {
+    "keyword": "방향제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "방향제",
+          "실내",
+          "탈취제",
+          "방향",
+          "생활용품",
+          "향기"
+        ],
+        "latency_ms": 2043.5709953308105,
+        "total_tokens": 384,
+        "prompt_tokens": 357,
+        "completion_tokens": 27
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2042.3407554626465
+      }
+    ]
+  },
+  {
+    "keyword": "책갈피",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "책갈피",
+          "책",
+          "문구",
+          "사무용품",
+          "독서"
+        ],
+        "latency_ms": 2043.0707931518555,
+        "total_tokens": 393,
+        "prompt_tokens": 358,
+        "completion_tokens": 35
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2042.020559310913
+      }
+    ]
+  },
+  {
+    "keyword": "자전거 자물쇠",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "자전거 자물쇠",
+          "자전거",
+          "자물쇠",
+          "안전용품",
+          "잠금"
+        ],
+        "latency_ms": 2030.5359363555908,
+        "total_tokens": 399,
+        "prompt_tokens": 360,
+        "completion_tokens": 39
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2028.9688110351562
+      }
+    ]
+  },
+  {
+    "keyword": "안경 닦는 천",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "안경 닦는 천",
+          "안경",
+          "천",
+          "청소용품",
+          "닦이",
+          "안경 닦이"
+        ],
+        "latency_ms": 2029.1392803192139,
+        "total_tokens": 402,
+        "prompt_tokens": 361,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2028.9158821105957
+      }
+    ]
+  },
+  {
+    "keyword": "핫팩",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "핫팩",
+          "겨울",
+          "온열팩",
+          "생활용품",
+          "휴대용",
+          "따뜻한"
+        ],
+        "latency_ms": 2038.001298904419,
+        "total_tokens": 395,
+        "prompt_tokens": 358,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2037.25004196167
+      }
+    ]
+  },
+  {
+    "keyword": "운동화 세탁망",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "운동화 세탁망",
+          "세탁망",
+          "세탁",
+          "세탁용품",
+          "신발",
+          "운동화"
+        ],
+        "latency_ms": 2035.4135036468506,
+        "total_tokens": 390,
+        "prompt_tokens": 360,
+        "completion_tokens": 30
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.09521484375
+      }
+    ]
+  },
+  {
+    "keyword": "강아지 간식",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "강아지 간식",
+          "강아지",
+          "간식",
+          "애완용품",
+          "강아지 간식"
+        ],
+        "latency_ms": 2045.1741218566895,
+        "total_tokens": 402,
+        "prompt_tokens": 360,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2044.0917015075684
+      }
+    ]
+  },
+  {
+    "keyword": "커튼봉",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "커튼봉",
+          "커튼",
+          "봉",
+          "홈데코",
+          "커튼 부자재",
+          "설치",
+          "고정"
+        ],
+        "latency_ms": 2017.2924995422363,
+        "total_tokens": 400,
+        "prompt_tokens": 358,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2015.636682510376
+      }
+    ]
+  },
+  {
+    "keyword": "리빙박스",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "리빙박스",
+          "정리",
+          "박스",
+          "수납용품",
+          "정리정돈"
+        ],
+        "latency_ms": 2056.669235229492,
+        "total_tokens": 398,
+        "prompt_tokens": 359,
+        "completion_tokens": 39
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2056.2901496887207
+      }
+    ]
+  },
+  {
+    "keyword": "신발 탈취제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "신발 탈취제",
+          "신발",
+          "탈취제",
+          "방향제",
+          "탈취",
+          "냄새 제거"
+        ],
+        "latency_ms": 2034.954309463501,
+        "total_tokens": 405,
+        "prompt_tokens": 360,
+        "completion_tokens": 45
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2033.569097518921
+      }
+    ]
+  },
+  {
+    "keyword": "종이 필터",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "종이 필터",
+          "필터",
+          "주방",
+          "커피용품",
+          "필터"
+        ],
+        "latency_ms": 2025.0177383422852,
+        "total_tokens": 396,
+        "prompt_tokens": 359,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2022.4359035491943
+      }
+    ]
+  },
+  {
+    "keyword": "생활용품",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "생활용품",
+          "생활"
+        ],
+        "latency_ms": 2033.1950187683105,
+        "total_tokens": 373,
+        "prompt_tokens": 358,
+        "completion_tokens": 15
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2032.6783657073975
+      }
+    ]
+  },
+  {
+    "keyword": "종이컵",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "종이컵",
+          "컵",
+          "주방용품",
+          "일회용품"
+        ],
+        "latency_ms": 2022.2313404083252,
+        "total_tokens": 385,
+        "prompt_tokens": 358,
+        "completion_tokens": 27
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2022.2313404083252
+      }
+    ]
+  },
+  {
+    "keyword": "동전 건전지",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "동전 건전지",
+          "건전지",
+          "전자제품",
+          "배터리"
+        ],
+        "latency_ms": 2026.0143280029297,
+        "total_tokens": 388,
+        "prompt_tokens": 360,
+        "completion_tokens": 28
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2024.6202945709229
+      }
+    ]
+  },
+  {
+    "keyword": "옷걸이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "옷걸이",
+          "옷",
+          "걸이",
+          "수납용품",
+          "정리"
+        ],
+        "latency_ms": 2029.2963981628418,
+        "total_tokens": 388,
+        "prompt_tokens": 358,
+        "completion_tokens": 30
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2028.2540321350098
+      }
+    ]
+  },
+  {
+    "keyword": "미끄럼 방지 패드",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "미끄럼 방지 패드",
+          "미끄럼 방지",
+          "패드",
+          "안전용품",
+          "미끄럼방지"
+        ],
+        "latency_ms": 2047.5678443908691,
+        "total_tokens": 403,
+        "prompt_tokens": 362,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2046.936273574829
+      }
+    ]
+  },
+  {
+    "keyword": "욕실 실리콘 곰팡이 지우는 젤",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "욕실 실리콘 곰팡이 지우는 젤",
+          "곰팡이 제거 젤",
+          "욕실 곰팡이 제거 젤",
+          "젤",
+          "욕실",
+          "청소용품",
+          "곰팡이 제거"
+        ],
+        "latency_ms": 2016.8216228485107,
+        "total_tokens": 433,
+        "prompt_tokens": 369,
+        "completion_tokens": 64
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2015.8190727233887
+      }
+    ]
+  },
+  {
+    "keyword": "신발 주머니",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "신발 주머니",
+          "신발",
+          "주머니",
+          "가방",
+          "정리",
+          "수납"
+        ],
+        "latency_ms": 2031.4126014709473,
+        "total_tokens": 400,
+        "prompt_tokens": 359,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.0930271148682
+      }
+    ]
+  },
+  {
+    "keyword": "가구 긁힘 보수펜",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "가구 긁힘 보수펜",
+          "가구 펜",
+          "보수펜",
+          "펜",
+          "생활",
+          "DIY",
+          "수리",
+          "긁힘 방지"
+        ],
+        "latency_ms": 2032.7465534210205,
+        "total_tokens": 414,
+        "prompt_tokens": 363,
+        "completion_tokens": 51
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.6109657287598
+      }
+    ]
+  },
+  {
+    "keyword": "쓰레기통",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "쓰레기통",
+          "주방",
+          "통",
+          "생활용품",
+          "정리",
+          "수납"
+        ],
+        "latency_ms": 2037.099838256836,
+        "total_tokens": 400,
+        "prompt_tokens": 359,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.7401371002197
+      }
+    ]
+  },
+  {
+    "keyword": "고무",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "고무",
+          "문구",
+          "DIY",
+          "접착"
+        ],
+        "latency_ms": 2039.884090423584,
+        "total_tokens": 379,
+        "prompt_tokens": 357,
+        "completion_tokens": 22
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2038.9125347137451
+      }
+    ]
+  },
+  {
+    "keyword": "방충망 보수 테이프",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "방충망 보수 테이프",
+          "방충망",
+          "보수 테이프",
+          "테이프",
+          "생활용품",
+          "수리",
+          "보수"
+        ],
+        "latency_ms": 2045.8707809448242,
+        "total_tokens": 413,
+        "prompt_tokens": 363,
+        "completion_tokens": 50
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2043.7393188476562
+      }
+    ]
+  },
+  {
+    "keyword": "냄새 방지 용품",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "냄새 방지 용품",
+          "냄새 방지",
+          "용품",
+          "생활용품",
+          "탈취",
+          "악취 제거"
+        ],
+        "latency_ms": 2027.7869701385498,
+        "total_tokens": 403,
+        "prompt_tokens": 362,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2025.7477760314941
+      }
+    ]
+  },
+  {
+    "keyword": "물감 팔레트",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "물감 팔레트",
+          "팔레트",
+          "미술용품",
+          "그림",
+          "물감"
+        ],
+        "latency_ms": 2032.8729152679443,
+        "total_tokens": 394,
+        "prompt_tokens": 360,
+        "completion_tokens": 34
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2032.2599411010742
+      }
+    ]
+  },
+  {
+    "keyword": "운동화 끈 고정",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "운동화 끈 고정",
+          "신발끈 고정",
+          "운동화",
+          "신발",
+          "패션",
+          "액세서리",
+          "미끄럼 방지",
+          "고정"
+        ],
+        "latency_ms": 2018.0182456970215,
+        "total_tokens": 424,
+        "prompt_tokens": 361,
+        "completion_tokens": 63
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2018.0182456970215
+      }
+    ]
+  },
+  {
+    "keyword": "면 마스크",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "면 마스크",
+          "마스크",
+          "미용",
+          "위생",
+          "얼굴 가리개"
+        ],
+        "latency_ms": 2022.6099491119385,
+        "total_tokens": 390,
+        "prompt_tokens": 358,
+        "completion_tokens": 32
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2021.5668678283691
+      }
+    ]
+  },
+  {
+    "keyword": "층간소음 방지 패드",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "층간소음 방지 패드",
+          "층간소음",
+          "방지 패드",
+          "패드",
+          "생활용품",
+          "미끄럼방지",
+          "소음방지"
+        ],
+        "latency_ms": 2023.319959640503,
+        "total_tokens": 408,
+        "prompt_tokens": 364,
+        "completion_tokens": 44
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2022.8018760681152
+      }
+    ]
+  },
+  {
+    "keyword": "핸드폰 충전선 정리대",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "핸드폰 충전선 정리대",
+          "핸드폰",
+          "충전선 정리대",
+          "정리대",
+          "디지털",
+          "핸드폰 용품",
+          "정리"
+        ],
+        "latency_ms": 2028.8033485412598,
+        "total_tokens": 405,
+        "prompt_tokens": 363,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2028.2955169677734
+      }
+    ]
+  },
+  {
+    "keyword": "머리끈",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "머리끈",
+          "헤어",
+          "끈",
+          "액세서리",
+          "헤어 액세서리",
+          "머리",
+          "묶는"
+        ],
+        "latency_ms": 2024.9104499816895,
+        "total_tokens": 408,
+        "prompt_tokens": 358,
+        "completion_tokens": 50
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2023.5817432403564
+      }
+    ]
+  },
+  {
+    "keyword": "에어컨 세정제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "에어컨 세정제",
+          "에어컨",
+          "세정제",
+          "청소용품",
+          "세척",
+          "탈취"
+        ],
+        "latency_ms": 2031.524419784546,
+        "total_tokens": 408,
+        "prompt_tokens": 361,
+        "completion_tokens": 47
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.524419784546
+      }
+    ]
+  },
+  {
+    "keyword": "미끄럼방지패드",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "미끄럼방지패드",
+          "미끄럼방지",
+          "패드",
+          "생활용품",
+          "안전용품"
+        ],
+        "latency_ms": 2035.2072715759277,
+        "total_tokens": 401,
+        "prompt_tokens": 362,
+        "completion_tokens": 39
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2034.7316265106201
+      }
+    ]
+  },
+  {
+    "keyword": "김장용 비닐봉투",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "김장용 비닐봉투",
+          "김장",
+          "비닐봉투",
+          "주방용품",
+          "식품 보관"
+        ],
+        "latency_ms": 2044.6038246154785,
+        "total_tokens": 406,
+        "prompt_tokens": 362,
+        "completion_tokens": 44
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2042.9983139038086
+      }
+    ]
+  },
+  {
+    "keyword": "이름표 테이프",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "이름표 테이프",
+          "이름표",
+          "테이프",
+          "문구",
+          "접착"
+        ],
+        "latency_ms": 2043.2918071746826,
+        "total_tokens": 394,
+        "prompt_tokens": 360,
+        "completion_tokens": 34
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2042.7801609039307
+      }
+    ]
+  },
+  {
+    "keyword": "가리개",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "가리개",
+          "가림막",
+          "생활용품",
+          "인테리어",
+          "장식"
+        ],
+        "latency_ms": 2055.5238723754883,
+        "total_tokens": 382,
+        "prompt_tokens": 358,
+        "completion_tokens": 24
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2054.583787918091
+      }
+    ]
+  },
+  {
+    "keyword": "가방정리함",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "가방정리함",
+          "정리함",
+          "수납용품",
+          "정리",
+          "수납"
+        ],
+        "latency_ms": 2029.8609733581543,
+        "total_tokens": 399,
+        "prompt_tokens": 360,
+        "completion_tokens": 39
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2028.857707977295
+      }
+    ]
+  },
+  {
+    "keyword": "액정 보호 필름",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "액정 보호 필름",
+          "액정필름",
+          "보호필름",
+          "필름",
+          "디지털",
+          "핸드폰 용품",
+          "액정 보호"
+        ],
+        "latency_ms": 2036.327600479126,
+        "total_tokens": 416,
+        "prompt_tokens": 360,
+        "completion_tokens": 56
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.240888595581
+      }
+    ]
+  },
+  {
+    "keyword": "집게",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "집게",
+          "주방",
+          "도구",
+          "주방용품",
+          "고정"
+        ],
+        "latency_ms": 2037.0726585388184,
+        "total_tokens": 379,
+        "prompt_tokens": 357,
+        "completion_tokens": 22
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2036.5498065948486
+      }
+    ]
+  },
+  {
+    "keyword": "헤어밴드",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "헤어밴드",
+          "헤어",
+          "밴드",
+          "액세서리",
+          "패션",
+          "머리띠"
+        ],
+        "latency_ms": 2046.4177131652832,
+        "total_tokens": 403,
+        "prompt_tokens": 359,
+        "completion_tokens": 44
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2045.5482006072998
+      }
+    ]
+  },
+  {
+    "keyword": "스트레스 해소 용품",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "스트레스 해소 용품",
+          "스트레스 해소",
+          "용품",
+          "취미용품",
+          "스트레스 감소",
+          "휴식"
+        ],
+        "latency_ms": 2018.2485580444336,
+        "total_tokens": 403,
+        "prompt_tokens": 361,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2017.976999282837
+      }
+    ]
+  },
+  {
+    "keyword": "양면테이프",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "양면테이프",
+          "테이프",
+          "사무용품",
+          "접착",
+          "고정"
+        ],
+        "latency_ms": 2016.7388916015625,
+        "total_tokens": 394,
+        "prompt_tokens": 360,
+        "completion_tokens": 34
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2015.7873630523682
+      }
+    ]
+  },
+  {
+    "keyword": "뒤꿈치 보호 패드",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "뒤꿈치 보호 패드",
+          "뒤꿈치",
+          "보호 패드",
+          "패드",
+          "발",
+          "보호"
+        ],
+        "latency_ms": 2047.6396083831787,
+        "total_tokens": 406,
+        "prompt_tokens": 361,
+        "completion_tokens": 45
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2046.5686321258545
+      }
+    ]
+  },
+  {
+    "keyword": "김서림 방지 거울",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "김서림 방지 거울",
+          "거울",
+          "욕실",
+          "욕실용품",
+          "김서림 방지"
+        ],
+        "latency_ms": 2039.2487049102783,
+        "total_tokens": 400,
+        "prompt_tokens": 362,
+        "completion_tokens": 38
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2038.7957096099854
+      }
+    ]
+  },
+  {
+    "keyword": "모서리 보호대",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "모서리 보호대",
+          "모서리",
+          "보호대",
+          "안전용품",
+          "가구",
+          "보호"
+        ],
+        "latency_ms": 2032.2916507720947,
+        "total_tokens": 406,
+        "prompt_tokens": 360,
+        "completion_tokens": 46
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2030.3471088409424
+      }
+    ]
+  },
+  {
+    "keyword": "여권 커버",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "여권 커버",
+          "여권",
+          "커버",
+          "여행용품",
+          "보호",
+          "수납"
+        ],
+        "latency_ms": 2038.6617183685303,
+        "total_tokens": 401,
+        "prompt_tokens": 359,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2037.9581451416016
+      }
+    ]
+  },
+  {
+    "keyword": "바느질 세트",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "바느질 세트",
+          "세트",
+          "취미용품",
+          "바느질",
+          "DIY"
+        ],
+        "latency_ms": 2031.7816734313965,
+        "total_tokens": 398,
+        "prompt_tokens": 360,
+        "completion_tokens": 38
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2030.2598476409912
+      }
+    ]
+  },
+  {
+    "keyword": "샴푸통",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "샴푸통",
+          "욕실",
+          "통",
+          "욕실용품",
+          "액체 보관"
+        ],
+        "latency_ms": 2033.642053604126,
+        "total_tokens": 396,
+        "prompt_tokens": 359,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.5947532653809
+      }
+    ]
+  },
+  {
+    "keyword": "고정하는 거",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "고정하는 거",
+          "고정",
+          "잡화",
+          "다용도"
+        ],
+        "latency_ms": 2034.4913005828857,
+        "total_tokens": 385,
+        "prompt_tokens": 359,
+        "completion_tokens": 26
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2034.3866348266602
+      }
+    ]
+  },
+  {
+    "keyword": "식탁매트",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "식탁매트",
+          "식탁",
+          "매트",
+          "주방용품",
+          "식탁용품",
+          "생활용품"
+        ],
+        "latency_ms": 2045.1321601867676,
+        "total_tokens": 405,
+        "prompt_tokens": 359,
+        "completion_tokens": 46
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2044.0709590911865
+      }
+    ]
+  },
+  {
+    "keyword": "기름종이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "기름종이",
+          "얼굴",
+          "종이",
+          "미용",
+          "피지제거",
+          "흡수"
+        ],
+        "latency_ms": 2037.8942489624023,
+        "total_tokens": 395,
+        "prompt_tokens": 358,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2036.68212890625
+      }
+    ]
+  },
+  {
+    "keyword": "접이식 의자",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "접이식 의자",
+          "의자",
+          "캠핑",
+          "아웃도어",
+          "휴대용",
+          "간편한"
+        ],
+        "latency_ms": 2030.5111408233643,
+        "total_tokens": 406,
+        "prompt_tokens": 360,
+        "completion_tokens": 46
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.6063423156738
+      }
+    ]
+  },
+  {
+    "keyword": "화장품 보관 용기",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "화장품 보관 용기",
+          "화장품",
+          "보관 용기",
+          "용기",
+          "화장품 정리",
+          "정리용품"
+        ],
+        "latency_ms": 2052.5383949279785,
+        "total_tokens": 407,
+        "prompt_tokens": 362,
+        "completion_tokens": 45
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2050.7876873016357
+      }
+    ]
+  },
+  {
+    "keyword": "클레이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "클레이",
+          "점토",
+          "미술용품",
+          "DIY",
+          "만들기",
+          "장난감"
+        ],
+        "latency_ms": 2041.8219566345215,
+        "total_tokens": 393,
+        "prompt_tokens": 357,
+        "completion_tokens": 36
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2041.398286819458
+      }
+    ]
+  },
+  {
+    "keyword": "물기 닦는 거",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "물기 닦는 거",
+          "물기",
+          "청소용품",
+          "생활용품",
+          "닦는 용품",
+          "흡수",
+          "청소"
+        ],
+        "latency_ms": 2037.410020828247,
+        "total_tokens": 408,
+        "prompt_tokens": 361,
+        "completion_tokens": 47
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2037.410020828247
+      }
+    ]
+  },
+  {
+    "keyword": "방수테이프",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "방수테이프",
+          "테이프",
+          "생활용품",
+          "방수"
+        ],
+        "latency_ms": 2022.7859020233154,
+        "total_tokens": 388,
+        "prompt_tokens": 360,
+        "completion_tokens": 28
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2022.7859020233154
+      }
+    ]
+  },
+  {
+    "keyword": "테이프",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "테이프",
+          "사무실",
+          "테이프",
+          "문구",
+          "접착"
+        ],
+        "latency_ms": 2036.8449687957764,
+        "total_tokens": 394,
+        "prompt_tokens": 358,
+        "completion_tokens": 36
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2036.3316535949707
+      }
+    ]
+  },
+  {
+    "keyword": "반지 사이즈 조절링",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "반지 사이즈 조절링",
+          "반지",
+          "조절링",
+          "액세서리",
+          "사이즈 조절"
+        ],
+        "latency_ms": 2041.2964820861816,
+        "total_tokens": 402,
+        "prompt_tokens": 360,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2041.2964820861816
+      }
+    ]
+  },
+  {
+    "keyword": "자석 후크",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "자석 후크",
+          "후크",
+          "정리용품",
+          "자석"
+        ],
+        "latency_ms": 2032.1331024169922,
+        "total_tokens": 390,
+        "prompt_tokens": 359,
+        "completion_tokens": 31
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.0993194580078
+      }
+    ]
+  },
+  {
+    "keyword": "에어프라이어 종이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "에어프라이어 종이",
+          "에어프라이어",
+          "종이",
+          "주방용품",
+          "요리"
+        ],
+        "latency_ms": 2051.1529445648193,
+        "total_tokens": 400,
+        "prompt_tokens": 362,
+        "completion_tokens": 38
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2050.6317615509033
+      }
+    ]
+  },
+  {
+    "keyword": "보풀제거기",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "보풀제거기",
+          "옷",
+          "리무버",
+          "의류",
+          "청소용품",
+          "보풀 제거"
+        ],
+        "latency_ms": 2035.2396965026855,
+        "total_tokens": 399,
+        "prompt_tokens": 360,
+        "completion_tokens": 39
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2034.3918800354004
+      }
+    ]
+  },
+  {
+    "keyword": "탁상용 거울",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "탁상용 거울",
+          "탁상용",
+          "거울",
+          "미용용품",
+          "화장대",
+          "거울",
+          "미용",
+          "인테리어"
+        ],
+        "latency_ms": 2022.8917598724365,
+        "total_tokens": 419,
+        "prompt_tokens": 360,
+        "completion_tokens": 59
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2022.4430561065674
+      }
+    ]
+  },
+  {
+    "keyword": "정리용 통",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "정리용 통",
+          "정리",
+          "통",
+          "수납용품",
+          "정리정돈",
+          "수납"
+        ],
+        "latency_ms": 2058.4020614624023,
+        "total_tokens": 402,
+        "prompt_tokens": 358,
+        "completion_tokens": 44
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2057.481288909912
+      }
+    ]
+  },
+  {
+    "keyword": "싱크대 배수구 거름망",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "싱크대 배수구 거름망",
+          "싱크대",
+          "거름망",
+          "주방용품",
+          "배수구",
+          "싱크대 배수구"
+        ],
+        "latency_ms": 2021.9285488128662,
+        "total_tokens": 413,
+        "prompt_tokens": 364,
+        "completion_tokens": 49
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2021.1284160614014
+      }
+    ]
+  },
+  {
+    "keyword": "전선정리",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "전선정리",
+          "전선",
+          "정리",
+          "생활용품",
+          "정리용품"
+        ],
+        "latency_ms": 2026.784896850586,
+        "total_tokens": 384,
+        "prompt_tokens": 359,
+        "completion_tokens": 25
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2026.784896850586
+      }
+    ]
+  },
+  {
+    "keyword": "슬리퍼",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "슬리퍼",
+          "실내",
+          "신발",
+          "패션",
+          "편안한"
+        ],
+        "latency_ms": 2029.8657417297363,
+        "total_tokens": 380,
+        "prompt_tokens": 358,
+        "completion_tokens": 22
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2028.0654430389404
+      }
+    ]
+  },
+  {
+    "keyword": "철 수세미",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "철 수세미",
+          "주방",
+          "수세미",
+          "청소용품",
+          "녹 제거",
+          "기름때 제거"
+        ],
+        "latency_ms": 2030.2085876464844,
+        "total_tokens": 405,
+        "prompt_tokens": 359,
+        "completion_tokens": 46
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.2439460754395
+      }
+    ]
+  },
+  {
+    "keyword": "학용품",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "학용품",
+          "문구"
+        ],
+        "latency_ms": 2037.8618240356445,
+        "total_tokens": 367,
+        "prompt_tokens": 358,
+        "completion_tokens": 9
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.1800918579102
+      }
+    ]
+  },
+  {
+    "keyword": "이어폰 정리",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "이어폰 정리",
+          "이어폰",
+          "정리",
+          "디지털",
+          "핸드폰 용품",
+          "이어폰 줄감개",
+          "정리 용품"
+        ],
+        "latency_ms": 2041.7561531066895,
+        "total_tokens": 395,
+        "prompt_tokens": 358,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2039.1311645507812
+      }
+    ]
+  },
+  {
+    "keyword": "와인 마개",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "와인 마개",
+          "와인",
+          "마개",
+          "주방용품",
+          "밀봉"
+        ],
+        "latency_ms": 2026.2720584869385,
+        "total_tokens": 396,
+        "prompt_tokens": 359,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2026.2720584869385
+      }
+    ]
+  },
+  {
+    "keyword": "화분망",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "화분망",
+          "화분",
+          "망",
+          "원예용품",
+          "식물",
+          "정원"
+        ],
+        "latency_ms": 2037.3964309692383,
+        "total_tokens": 399,
+        "prompt_tokens": 358,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2036.7088317871094
+      }
+    ]
+  },
+  {
+    "keyword": "전자레인지용 덮개",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "전자레인지용 덮개",
+          "전자레인지",
+          "덮개",
+          "주방용품",
+          "음식 보관"
+        ],
+        "latency_ms": 2047.9011535644531,
+        "total_tokens": 405,
+        "prompt_tokens": 362,
+        "completion_tokens": 43
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2047.4936962127686
+      }
+    ]
+  },
+  {
+    "keyword": "미끄럼 방지 매트",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "미끄럼 방지 매트",
+          "미끄럼 방지",
+          "매트",
+          "생활용품",
+          "미끄럼방지"
+        ],
+        "latency_ms": 2026.2112617492676,
+        "total_tokens": 394,
+        "prompt_tokens": 362,
+        "completion_tokens": 32
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2026.20530128479
+      }
+    ]
+  },
+  {
+    "keyword": "바구니 뚜껑",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "바구니 뚜껑",
+          "바구니",
+          "뚜껑",
+          "정리용품",
+          "수납"
+        ],
+        "latency_ms": 2042.0379638671875,
+        "total_tokens": 396,
+        "prompt_tokens": 361,
+        "completion_tokens": 35
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2042.0379638671875
+      }
+    ]
+  },
+  {
+    "keyword": "돗자리",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "돗자리",
+          "야외",
+          "돗자리",
+          "캠핑용품",
+          "휴대용"
+        ],
+        "latency_ms": 2050.997734069824,
+        "total_tokens": 381,
+        "prompt_tokens": 358,
+        "completion_tokens": 23
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2050.1062870025635
+      }
+    ]
+  },
+  {
+    "keyword": "연필꽂이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "연필꽂이",
+          "책상",
+          "꽂이",
+          "문구",
+          "정리"
+        ],
+        "latency_ms": 2040.2741432189941,
+        "total_tokens": 381,
+        "prompt_tokens": 359,
+        "completion_tokens": 22
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2040.2741432189941
+      }
+    ]
+  },
+  {
+    "keyword": "자취용품",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "자취용품",
+          "생활용품",
+          "간단한",
+          "가성비"
+        ],
+        "latency_ms": 2039.6575927734375,
+        "total_tokens": 380,
+        "prompt_tokens": 359,
+        "completion_tokens": 21
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2039.1881465911865
+      }
+    ]
+  },
+  {
+    "keyword": "캐리어 이름",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "캐리어 이름",
+          "캐리어",
+          "이름 스티커",
+          "여행용품",
+          "네임택",
+          "이름표"
+        ],
+        "latency_ms": 2035.228967666626,
+        "total_tokens": 404,
+        "prompt_tokens": 358,
+        "completion_tokens": 46
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2034.8100662231445
+      }
+    ]
+  },
+  {
+    "keyword": "미술용품",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "미술용품",
+          "미술",
+          "용품",
+          "취미용품",
+          "그리기",
+          "만들기"
+        ],
+        "latency_ms": 2029.3004512786865,
+        "total_tokens": 387,
+        "prompt_tokens": 358,
+        "completion_tokens": 29
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.101848602295
+      }
+    ]
+  },
+  {
+    "keyword": "목베개",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "목베개",
+          "베개",
+          "여행용품",
+          "휴대용",
+          "목 보호"
+        ],
+        "latency_ms": 2036.107063293457,
+        "total_tokens": 389,
+        "prompt_tokens": 358,
+        "completion_tokens": 31
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.5920791625977
+      }
+    ]
+  },
+  {
+    "keyword": "소리",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "소리"
+        ],
+        "latency_ms": 2045.3310012817383,
+        "total_tokens": 361,
+        "prompt_tokens": 357,
+        "completion_tokens": 4
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2045.3310012817383
+      }
+    ]
+  },
+  {
+    "keyword": "장갑",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "장갑",
+          "주방",
+          "청소",
+          "장갑",
+          "주방용품",
+          "청소용품",
+          "고무장갑"
+        ],
+        "latency_ms": 2018.2764530181885,
+        "total_tokens": 391,
+        "prompt_tokens": 357,
+        "completion_tokens": 34
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2016.2181854248047
+      }
+    ]
+  },
+  {
+    "keyword": "물병 고정대",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "물병 고정대",
+          "물병",
+          "고정대",
+          "다용도",
+          "정리용품"
+        ],
+        "latency_ms": 2024.8003005981445,
+        "total_tokens": 400,
+        "prompt_tokens": 360,
+        "completion_tokens": 40
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2024.2629051208496
+      }
+    ]
+  },
+  {
+    "keyword": "일회용 면도기",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "일회용 면도기",
+          "면도기",
+          "면도용품",
+          "일회용",
+          "위생용품"
+        ],
+        "latency_ms": 2033.8363647460938,
+        "total_tokens": 404,
+        "prompt_tokens": 361,
+        "completion_tokens": 43
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2033.8363647460938
+      }
+    ]
+  },
+  {
+    "keyword": "나무 뒤집개",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "나무 뒤집개",
+          "뒤집개",
+          "주방",
+          "주방용품",
+          "조리도구",
+          "나무"
+        ],
+        "latency_ms": 2027.111530303955,
+        "total_tokens": 404,
+        "prompt_tokens": 359,
+        "completion_tokens": 45
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2026.6718864440918
+      }
+    ]
+  },
+  {
+    "keyword": "문 스토퍼",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "문 스토퍼",
+          "현관",
+          "스토퍼",
+          "안전용품",
+          "문 고정"
+        ],
+        "latency_ms": 2031.0142040252686,
+        "total_tokens": 398,
+        "prompt_tokens": 359,
+        "completion_tokens": 39
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2030.7166576385498
+      }
+    ]
+  },
+  {
+    "keyword": "분무기",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "분무기",
+          "다용도",
+          "스프레이",
+          "청소용품",
+          "액체 보관",
+          "물뿌리개"
+        ],
+        "latency_ms": 2022.88818359375,
+        "total_tokens": 400,
+        "prompt_tokens": 358,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2022.3534107208252
+      }
+    ]
+  },
+  {
+    "keyword": "넘어짐 방지 스티커",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "넘어짐 방지 스티커",
+          "넘어짐 방지",
+          "스티커",
+          "안전용품",
+          "미끄럼 방지"
+        ],
+        "latency_ms": 2045.4323291778564,
+        "total_tokens": 396,
+        "prompt_tokens": 362,
+        "completion_tokens": 34
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2043.9119338989258
+      }
+    ]
+  },
+  {
+    "keyword": "바구니",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "바구니",
+          "수납",
+          "정리",
+          "정리용품",
+          "다용도"
+        ],
+        "latency_ms": 2037.7452373504639,
+        "total_tokens": 382,
+        "prompt_tokens": 358,
+        "completion_tokens": 24
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.2680683135986
+      }
+    ]
+  },
+  {
+    "keyword": "자동차 바퀴 휠 닦는 거",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "자동차 바퀴 휠 닦는 거",
+          "자동차",
+          "바퀴 휠 닦는 거",
+          "청소용품",
+          "자동차 용품",
+          "휠 청소",
+          "바퀴 청소"
+        ],
+        "latency_ms": 2031.2957763671875,
+        "total_tokens": 420,
+        "prompt_tokens": 364,
+        "completion_tokens": 56
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2030.5283069610596
+      }
+    ]
+  },
+  {
+    "keyword": "냄비선반",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "냄비선반",
+          "주방",
+          "선반",
+          "주방용품",
+          "정리",
+          "수납"
+        ],
+        "latency_ms": 2034.8777770996094,
+        "total_tokens": 403,
+        "prompt_tokens": 360,
+        "completion_tokens": 43
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2034.191370010376
+      }
+    ]
+  },
+  {
+    "keyword": "공병",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "공병",
+          "병",
+          "생활용품",
+          "소분",
+          "휴대용"
+        ],
+        "latency_ms": 2037.083387374878,
+        "total_tokens": 391,
+        "prompt_tokens": 357,
+        "completion_tokens": 34
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.5355739593506
+      }
+    ]
+  },
+  {
+    "keyword": "빨래 건조대 발",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "빨래 건조대 발",
+          "빨래 건조대",
+          "건조대 발",
+          "발",
+          "세탁용품",
+          "건조대"
+        ],
+        "latency_ms": 2030.1291942596436,
+        "total_tokens": 405,
+        "prompt_tokens": 361,
+        "completion_tokens": 44
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2028.7258625030518
+      }
+    ]
+  },
+  {
+    "keyword": "연필",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "연필",
+          "필기구",
+          "문구",
+          "학용품"
+        ],
+        "latency_ms": 2041.4211750030518,
+        "total_tokens": 375,
+        "prompt_tokens": 357,
+        "completion_tokens": 18
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2040.9595966339111
+      }
+    ]
+  },
+  {
+    "keyword": "벌레 물린데 바르는 약",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "벌레 물린데 바르는 약",
+          "벌레 물린데",
+          "약",
+          "의약품",
+          "상비약",
+          "벌레",
+          "가려움",
+          "피부"
+        ],
+        "latency_ms": 2046.8220710754395,
+        "total_tokens": 415,
+        "prompt_tokens": 363,
+        "completion_tokens": 52
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2045.6204414367676
+      }
+    ]
+  },
+  {
+    "keyword": "타이머",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "타이머",
+          "주방",
+          "시계",
+          "주방용품",
+          "시간",
+          "측정"
+        ],
+        "latency_ms": 2051.567554473877,
+        "total_tokens": 398,
+        "prompt_tokens": 357,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2051.2490272521973
+      }
+    ]
+  },
+  {
+    "keyword": "창문 닦는 밀대",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "창문 닦는 밀대",
+          "창문",
+          "밀대",
+          "청소용품",
+          "청소",
+          "창문 청소"
+        ],
+        "latency_ms": 2019.8323726654053,
+        "total_tokens": 404,
+        "prompt_tokens": 362,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2019.8323726654053
+      }
+    ]
+  },
+  {
+    "keyword": "매트",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "매트",
+          "바닥매트",
+          "깔개",
+          "홈데코",
+          "미끄럼방지"
+        ],
+        "latency_ms": 2046.3213920593262,
+        "total_tokens": 383,
+        "prompt_tokens": 357,
+        "completion_tokens": 26
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2046.0937023162842
+      }
+    ]
+  },
+  {
+    "keyword": "젤리",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "젤리",
+          "간식",
+          "식품",
+          "젤리",
+          "디저트"
+        ],
+        "latency_ms": 2030.6358337402344,
+        "total_tokens": 392,
+        "prompt_tokens": 358,
+        "completion_tokens": 34
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2030.4763317108154
+      }
+    ]
+  },
+  {
+    "keyword": "클리어파일",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "클리어파일",
+          "파일",
+          "문구",
+          "정리",
+          "서류철"
+        ],
+        "latency_ms": 2053.1606674194336,
+        "total_tokens": 392,
+        "prompt_tokens": 358,
+        "completion_tokens": 34
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2052.598714828491
+      }
+    ]
+  },
+  {
+    "keyword": "곰팡이 제거제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "곰팡이 제거제",
+          "청소",
+          "세제",
+          "청소용품",
+          "곰팡이 제거"
+        ],
+        "latency_ms": 2032.3081016540527,
+        "total_tokens": 401,
+        "prompt_tokens": 361,
+        "completion_tokens": 40
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2030.846118927002
+      }
+    ]
+  },
+  {
+    "keyword": "어항돌",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "어항돌",
+          "어항",
+          "돌",
+          "애완용품"
+        ],
+        "latency_ms": 2028.0225276947021,
+        "total_tokens": 383,
+        "prompt_tokens": 358,
+        "completion_tokens": 25
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2025.9392261505127
+      }
+    ]
+  },
+  {
+    "keyword": "냄새 제거제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "냄새 제거제",
+          "탈취제",
+          "방향제",
+          "생활용품",
+          "냄새 제거",
+          "탈취"
+        ],
+        "latency_ms": 2030.6451320648193,
+        "total_tokens": 405,
+        "prompt_tokens": 360,
+        "completion_tokens": 45
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.6881198883057
+      }
+    ]
+  },
+  {
+    "keyword": "문 틈 막이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "문 틈 막이",
+          "문",
+          "틈 막이",
+          "생활용품",
+          "바람막이",
+          "먼지 차단"
+        ],
+        "latency_ms": 2028.6314487457275,
+        "total_tokens": 401,
+        "prompt_tokens": 360,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2027.6427268981934
+      }
+    ]
+  },
+  {
+    "keyword": "욕실 청소용 솔",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "욕실 청소용 솔",
+          "욕실",
+          "청소용 솔",
+          "솔",
+          "청소용품",
+          "욕실용품",
+          "청소"
+        ],
+        "latency_ms": 2039.7543907165527,
+        "total_tokens": 415,
+        "prompt_tokens": 361,
+        "completion_tokens": 54
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2038.8855934143066
+      }
+    ]
+  },
+  {
+    "keyword": "방석",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "방석",
+          "의자",
+          "쿠션",
+          "홈데코",
+          "인테리어",
+          "편안한"
+        ],
+        "latency_ms": 2036.3938808441162,
+        "total_tokens": 384,
+        "prompt_tokens": 357,
+        "completion_tokens": 27
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.8779430389404
+      }
+    ]
+  },
+  {
+    "keyword": "먼지 제거 스프레이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "먼지 제거 스프레이",
+          "스프레이",
+          "청소용품",
+          "제거"
+        ],
+        "latency_ms": 2033.5900783538818,
+        "total_tokens": 393,
+        "prompt_tokens": 360,
+        "completion_tokens": 33
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2032.599687576294
+      }
+    ]
+  },
+  {
+    "keyword": "여행용 치약 칫솔 세트",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "여행용 치약 칫솔 세트",
+          "여행",
+          "치약 칫솔 세트",
+          "세트",
+          "여행용품",
+          "휴대용"
+        ],
+        "latency_ms": 2031.0826301574707,
+        "total_tokens": 401,
+        "prompt_tokens": 364,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2030.5659770965576
+      }
+    ]
+  },
+  {
+    "keyword": "허리 줄이는 핀",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "허리 줄이는 핀",
+          "옷핀",
+          "핀",
+          "패션잡화",
+          "옷 수선",
+          "허리 조절"
+        ],
+        "latency_ms": 2028.7880897521973,
+        "total_tokens": 408,
+        "prompt_tokens": 361,
+        "completion_tokens": 47
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2028.6338329315186
+      }
+    ]
+  },
+  {
+    "keyword": "수건",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "수건",
+          "욕실",
+          "수건",
+          "욕실용품",
+          "흡수력 좋은"
+        ],
+        "latency_ms": 2026.024341583252,
+        "total_tokens": 381,
+        "prompt_tokens": 357,
+        "completion_tokens": 24
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2025.6426334381104
+      }
+    ]
+  },
+  {
+    "keyword": "우산 커버",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "우산 커버",
+          "우산",
+          "커버",
+          "패션",
+          "비",
+          "휴대용"
+        ],
+        "latency_ms": 2021.101951599121,
+        "total_tokens": 400,
+        "prompt_tokens": 359,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2020.427942276001
+      }
+    ]
+  },
+  {
+    "keyword": "간식통",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "간식통",
+          "주방",
+          "통",
+          "주방용품",
+          "보관",
+          "밀폐"
+        ],
+        "latency_ms": 2032.250165939331,
+        "total_tokens": 399,
+        "prompt_tokens": 358,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2032.250165939331
+      }
+    ]
+  },
+  {
+    "keyword": "장난감",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "장난감",
+          "놀이방",
+          "장난감",
+          "유아용품",
+          "아동용품",
+          "인형",
+          "조립",
+          "교육"
+        ],
+        "latency_ms": 2041.7885780334473,
+        "total_tokens": 396,
+        "prompt_tokens": 358,
+        "completion_tokens": 38
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2040.734052658081
+      }
+    ]
+  },
+  {
+    "keyword": "물티슈 뚜껑",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "물티슈 뚜껑",
+          "물티슈",
+          "뚜껑",
+          "생활용품",
+          "위생용품",
+          "리필용"
+        ],
+        "latency_ms": 2026.4232158660889,
+        "total_tokens": 409,
+        "prompt_tokens": 361,
+        "completion_tokens": 48
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2025.8853435516357
+      }
+    ]
+  },
+  {
+    "keyword": "돌돌이 리필",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "돌돌이 리필",
+          "돌돌이",
+          "리필",
+          "청소용품",
+          "먼지 제거"
+        ],
+        "latency_ms": 2020.0014114379883,
+        "total_tokens": 395,
+        "prompt_tokens": 360,
+        "completion_tokens": 35
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2019.4001197814941
+      }
+    ]
+  },
+  {
+    "keyword": "고리",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "고리",
+          "다용도 고리",
+          "걸이",
+          "정리용품",
+          "수납",
+          "다용도"
+        ],
+        "latency_ms": 2028.2540321350098,
+        "total_tokens": 402,
+        "prompt_tokens": 357,
+        "completion_tokens": 45
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2027.2555351257324
+      }
+    ]
+  },
+  {
+    "keyword": "앞치마",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "앞치마",
+          "주방",
+          "의류",
+          "생활용품",
+          "작업복"
+        ],
+        "latency_ms": 2030.7872295379639,
+        "total_tokens": 381,
+        "prompt_tokens": 358,
+        "completion_tokens": 23
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2030.517816543579
+      }
+    ]
+  },
+  {
+    "keyword": "계절용품",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "계절용품",
+          "계절",
+          "용품",
+          "생활용품",
+          "인테리어"
+        ],
+        "latency_ms": 2025.4700183868408,
+        "total_tokens": 383,
+        "prompt_tokens": 359,
+        "completion_tokens": 24
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2024.8615741729736
+      }
+    ]
+  },
+  {
+    "keyword": "손톱 정리 세트",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "손톱 정리 세트",
+          "손톱",
+          "정리 세트",
+          "세트",
+          "미용",
+          "미용용품",
+          "네일케어"
+        ],
+        "latency_ms": 2031.7528247833252,
+        "total_tokens": 414,
+        "prompt_tokens": 360,
+        "completion_tokens": 54
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.7528247833252
+      }
+    ]
+  },
+  {
+    "keyword": "샤워기 헤드",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "샤워기 헤드",
+          "샤워기",
+          "헤드",
+          "욕실용품",
+          "샤워"
+        ],
+        "latency_ms": 2035.2191925048828,
+        "total_tokens": 399,
+        "prompt_tokens": 360,
+        "completion_tokens": 39
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.2191925048828
+      }
+    ]
+  },
+  {
+    "keyword": "포스트잇",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "포스트잇",
+          "사무실",
+          "메모지",
+          "문구",
+          "접착식 메모지"
+        ],
+        "latency_ms": 2032.2346687316895,
+        "total_tokens": 384,
+        "prompt_tokens": 358,
+        "completion_tokens": 26
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.8212509155273
+      }
+    ]
+  },
+  {
+    "keyword": "햇빛가리개",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "햇빛가리개",
+          "차량",
+          "가리개",
+          "자동차용품",
+          "햇빛차단",
+          "자외선차단"
+        ],
+        "latency_ms": 2044.250726699829,
+        "total_tokens": 403,
+        "prompt_tokens": 360,
+        "completion_tokens": 43
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2043.5922145843506
+      }
+    ]
+  },
+  {
+    "keyword": "유리테이프",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "유리테이프",
+          "테이프",
+          "문구",
+          "포장"
+        ],
+        "latency_ms": 2027.67014503479,
+        "total_tokens": 386,
+        "prompt_tokens": 359,
+        "completion_tokens": 27
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2026.5898704528809
+      }
+    ]
+  },
+  {
+    "keyword": "압축봉",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "압축봉",
+          "봉",
+          "수납",
+          "정리"
+        ],
+        "latency_ms": 2031.1596393585205,
+        "total_tokens": 374,
+        "prompt_tokens": 358,
+        "completion_tokens": 16
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2030.6484699249268
+      }
+    ]
+  },
+  {
+    "keyword": "선풍기",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "선풍기",
+          "여름",
+          "냉방기",
+          "가전",
+          "쿨링"
+        ],
+        "latency_ms": 2023.4475135803223,
+        "total_tokens": 380,
+        "prompt_tokens": 358,
+        "completion_tokens": 22
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2023.4475135803223
+      }
+    ]
+  },
+  {
+    "keyword": "베개 솜",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "베개 솜",
+          "침실",
+          "솜",
+          "침구",
+          "베개"
+        ],
+        "latency_ms": 2048.6884117126465,
+        "total_tokens": 393,
+        "prompt_tokens": 359,
+        "completion_tokens": 34
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2047.893762588501
+      }
+    ]
+  },
+  {
+    "keyword": "빨래 바구니",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "빨래 바구니",
+          "세탁",
+          "바구니",
+          "세탁용품",
+          "정리"
+        ],
+        "latency_ms": 2024.5726108551025,
+        "total_tokens": 386,
+        "prompt_tokens": 360,
+        "completion_tokens": 26
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2023.1544971466064
+      }
+    ]
+  },
+  {
+    "keyword": "발매트",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "발매트",
+          "현관",
+          "매트",
+          "생활용품",
+          "미끄럼방지"
+        ],
+        "latency_ms": 2035.0284576416016,
+        "total_tokens": 396,
+        "prompt_tokens": 358,
+        "completion_tokens": 38
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2034.4629287719727
+      }
+    ]
+  },
+  {
+    "keyword": "벽지낙서제거제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "벽지낙서제거제",
+          "벽지",
+          "낙서 제거제",
+          "청소용품",
+          "벽지 얼룩 제거"
+        ],
+        "latency_ms": 2030.135154724121,
+        "total_tokens": 402,
+        "prompt_tokens": 362,
+        "completion_tokens": 40
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2030.135154724121
+      }
+    ]
+  },
+  {
+    "keyword": "네임 스티커",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "네임 스티커",
+          "이름 스티커",
+          "스티커",
+          "문구",
+          "학용품",
+          "접착식"
+        ],
+        "latency_ms": 2019.6640491485596,
+        "total_tokens": 407,
+        "prompt_tokens": 360,
+        "completion_tokens": 47
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2018.4879302978516
+      }
+    ]
+  },
+  {
+    "keyword": "문콕방지",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "문콕방지",
+          "자동차",
+          "보호 용품",
+          "자동차 용품",
+          "문 보호"
+        ],
+        "latency_ms": 2027.03857421875,
+        "total_tokens": 391,
+        "prompt_tokens": 359,
+        "completion_tokens": 32
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2025.3074169158936
+      }
+    ]
+  },
+  {
+    "keyword": "여권케이스",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "여권케이스",
+          "여권",
+          "케이스",
+          "여행용품",
+          "수납"
+        ],
+        "latency_ms": 2024.442195892334,
+        "total_tokens": 395,
+        "prompt_tokens": 359,
+        "completion_tokens": 36
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2024.0859985351562
+      }
+    ]
+  },
+  {
+    "keyword": "자전거 체인 기름",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "자전거 체인 기름",
+          "자전거",
+          "체인 기름",
+          "기름",
+          "스포츠",
+          "자전거 용품",
+          "체인 윤활"
+        ],
+        "latency_ms": 2040.1060581207275,
+        "total_tokens": 405,
+        "prompt_tokens": 360,
+        "completion_tokens": 45
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2040.1060581207275
+      }
+    ]
+  },
+  {
+    "keyword": "냉장고 탈취제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "냉장고 탈취제",
+          "냉장고",
+          "탈취제",
+          "주방용품",
+          "냄새 제거"
+        ],
+        "latency_ms": 2022.355079650879,
+        "total_tokens": 398,
+        "prompt_tokens": 361,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2021.8675136566162
+      }
+    ]
+  },
+  {
+    "keyword": "플라스틱 바구니",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "플라스틱 바구니",
+          "바구니",
+          "수납",
+          "정리용품",
+          "플라스틱"
+        ],
+        "latency_ms": 2025.3987312316895,
+        "total_tokens": 397,
+        "prompt_tokens": 361,
+        "completion_tokens": 36
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2025.1555442810059
+      }
+    ]
+  },
+  {
+    "keyword": "보풀 제거기",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "보풀 제거기",
+          "옷",
+          "제거기",
+          "의류",
+          "청소용품",
+          "보풀 제거"
+        ],
+        "latency_ms": 2033.6670875549316,
+        "total_tokens": 403,
+        "prompt_tokens": 359,
+        "completion_tokens": 44
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2033.1463813781738
+      }
+    ]
+  },
+  {
+    "keyword": "헤어드라이기",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "헤어드라이기",
+          "드라이기",
+          "헤어",
+          "미용용품",
+          "전자기기",
+          "머리",
+          "건조"
+        ],
+        "latency_ms": 2038.6686325073242,
+        "total_tokens": 412,
+        "prompt_tokens": 360,
+        "completion_tokens": 52
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2037.9388332366943
+      }
+    ]
+  },
+  {
+    "keyword": "선정리함",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "선정리함",
+          "정리함",
+          "수납",
+          "정리",
+          "다용도"
+        ],
+        "latency_ms": 2027.8141498565674,
+        "total_tokens": 395,
+        "prompt_tokens": 358,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2027.5733470916748
+      }
+    ]
+  },
+  {
+    "keyword": "커튼",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "커튼",
+          "창문",
+          "홈데코",
+          "가리개",
+          "장식"
+        ],
+        "latency_ms": 2032.9217910766602,
+        "total_tokens": 387,
+        "prompt_tokens": 357,
+        "completion_tokens": 30
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.8832397460938
+      }
+    ]
+  },
+  {
+    "keyword": "구두주걱",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "구두주걱",
+          "신발",
+          "주걱",
+          "생활용품",
+          "신발 용품",
+          "구두"
+        ],
+        "latency_ms": 2042.937994003296,
+        "total_tokens": 403,
+        "prompt_tokens": 359,
+        "completion_tokens": 44
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2041.933298110962
+      }
+    ]
+  },
+  {
+    "keyword": "전화번호 판",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "전화번호 판",
+          "전화번호",
+          "판",
+          "자동차 용품",
+          "주차",
+          "차량용"
+        ],
+        "latency_ms": 2034.5561504364014,
+        "total_tokens": 401,
+        "prompt_tokens": 358,
+        "completion_tokens": 43
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2034.3804359436035
+      }
+    ]
+  },
+  {
+    "keyword": "보관",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "보관",
+          "수납",
+          "정리",
+          "생활용품",
+          "정리정돈"
+        ],
+        "latency_ms": 2022.6695537567139,
+        "total_tokens": 380,
+        "prompt_tokens": 357,
+        "completion_tokens": 23
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2021.6054916381836
+      }
+    ]
+  },
+  {
+    "keyword": "부직포",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "부직포",
+          "정리",
+          "수납용품",
+          "다용도"
+        ],
+        "latency_ms": 2032.6554775238037,
+        "total_tokens": 389,
+        "prompt_tokens": 358,
+        "completion_tokens": 31
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2032.0956707000732
+      }
+    ]
+  },
+  {
+    "keyword": "싱크대 선반",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "싱크대 선반",
+          "싱크대",
+          "선반",
+          "주방용품",
+          "정리",
+          "수납"
+        ],
+        "latency_ms": 2050.5685806274414,
+        "total_tokens": 399,
+        "prompt_tokens": 360,
+        "completion_tokens": 39
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2049.861431121826
+      }
+    ]
+  },
+  {
+    "keyword": "아이스박스",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "아이스박스",
+          "캠핑",
+          "박스",
+          "아웃도어",
+          "보관",
+          "쿨러"
+        ],
+        "latency_ms": 2035.966157913208,
+        "total_tokens": 396,
+        "prompt_tokens": 359,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.754680633545
+      }
+    ]
+  },
+  {
+    "keyword": "S자 고리",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "S자 고리",
+          "고리",
+          "다용도 걸이",
+          "수납용품",
+          "걸이"
+        ],
+        "latency_ms": 2049.9887466430664,
+        "total_tokens": 399,
+        "prompt_tokens": 359,
+        "completion_tokens": 40
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2049.5314598083496
+      }
+    ]
+  },
+  {
+    "keyword": "낚시의자",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "낚시의자",
+          "낚시",
+          "의자",
+          "레저용품",
+          "캠핑용품",
+          "휴대용"
+        ],
+        "latency_ms": 2051.222801208496,
+        "total_tokens": 406,
+        "prompt_tokens": 360,
+        "completion_tokens": 46
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2049.452066421509
+      }
+    ]
+  },
+  {
+    "keyword": "박스테이프",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "박스테이프",
+          "테이프",
+          "사무용품",
+          "포장",
+          "접착"
+        ],
+        "latency_ms": 2029.9968719482422,
+        "total_tokens": 397,
+        "prompt_tokens": 359,
+        "completion_tokens": 38
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.268503189087
+      }
+    ]
+  },
+  {
+    "keyword": "컵",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "컵",
+          "주방",
+          "컵",
+          "식기",
+          "물컵",
+          "음료컵"
+        ],
+        "latency_ms": 2022.5610733032227,
+        "total_tokens": 395,
+        "prompt_tokens": 357,
+        "completion_tokens": 38
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2022.075891494751
+      }
+    ]
+  },
+  {
+    "keyword": "탈취제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "탈취제",
+          "냄새 제거제",
+          "방향제",
+          "생활용품",
+          "탈취"
+        ],
+        "latency_ms": 2052.854061126709,
+        "total_tokens": 391,
+        "prompt_tokens": 358,
+        "completion_tokens": 33
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2052.574396133423
+      }
+    ]
+  },
+  {
+    "keyword": "종량제 봉투",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "종량제 봉투",
+          "봉투",
+          "생활용품",
+          "쓰레기 봉투"
+        ],
+        "latency_ms": 2025.649070739746,
+        "total_tokens": 383,
+        "prompt_tokens": 360,
+        "completion_tokens": 23
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2024.6012210845947
+      }
+    ]
+  },
+  {
+    "keyword": "차량용 충전 잭",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "차량용 충전 잭",
+          "차량용",
+          "충전 잭",
+          "잭",
+          "자동차",
+          "차량용품",
+          "충전기"
+        ],
+        "latency_ms": 2032.4335098266602,
+        "total_tokens": 415,
+        "prompt_tokens": 361,
+        "completion_tokens": 54
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2032.4335098266602
+      }
+    ]
+  },
+  {
+    "keyword": "인테리어 소품",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "인테리어 소품",
+          "실내",
+          "소품",
+          "인테리어",
+          "장식"
+        ],
+        "latency_ms": 2024.7433185577393,
+        "total_tokens": 397,
+        "prompt_tokens": 360,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2024.7433185577393
+      }
+    ]
+  },
+  {
+    "keyword": "문풍지",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "문풍지",
+          "창문",
+          "틈막이",
+          "단열재",
+          "생활용품",
+          "바람막이",
+          "외풍차단"
+        ],
+        "latency_ms": 2037.9104614257812,
+        "total_tokens": 394,
+        "prompt_tokens": 358,
+        "completion_tokens": 36
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2036.315679550171
+      }
+    ]
+  },
+  {
+    "keyword": "안전용품",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "안전용품",
+          "안전",
+          "용품",
+          "안전/보안용품"
+        ],
+        "latency_ms": 2042.6933765411377,
+        "total_tokens": 388,
+        "prompt_tokens": 358,
+        "completion_tokens": 30
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2042.6933765411377
+      }
+    ]
+  },
+  {
+    "keyword": "도시락틀",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "도시락틀",
+          "도시락",
+          "틀",
+          "주방용품",
+          "요리",
+          "밥",
+          "모양"
+        ],
+        "latency_ms": 2033.928394317627,
+        "total_tokens": 404,
+        "prompt_tokens": 358,
+        "completion_tokens": 46
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2033.4131717681885
+      }
+    ]
+  },
+  {
+    "keyword": "아기용품",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "아기용품",
+          "아기",
+          "유아용품",
+          "육아",
+          "신생아"
+        ],
+        "latency_ms": 2034.2738628387451,
+        "total_tokens": 384,
+        "prompt_tokens": 359,
+        "completion_tokens": 25
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2033.151626586914
+      }
+    ]
+  },
+  {
+    "keyword": "덧버선",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "덧버선",
+          "덧신",
+          "버선",
+          "의류",
+          "양말",
+          "보온"
+        ],
+        "latency_ms": 2032.6626300811768,
+        "total_tokens": 399,
+        "prompt_tokens": 359,
+        "completion_tokens": 40
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.663179397583
+      }
+    ]
+  },
+  {
+    "keyword": "욕실 실리콘",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "욕실 실리콘",
+          "욕실",
+          "실리콘",
+          "욕실용품",
+          "방수",
+          "곰팡이 방지"
+        ],
+        "latency_ms": 2048.0880737304688,
+        "total_tokens": 402,
+        "prompt_tokens": 360,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2047.0192432403564
+      }
+    ]
+  },
+  {
+    "keyword": "병",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "병",
+          "주방",
+          "병",
+          "주방용품",
+          "보관"
+        ],
+        "latency_ms": 2042.1643257141113,
+        "total_tokens": 376,
+        "prompt_tokens": 356,
+        "completion_tokens": 20
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2041.7201519012451
+      }
+    ]
+  },
+  {
+    "keyword": "숨김 용품",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "숨김 용품",
+          "정리 용품",
+          "수납 용품",
+          "정리",
+          "수납",
+          "생활용품"
+        ],
+        "latency_ms": 2032.0162773132324,
+        "total_tokens": 405,
+        "prompt_tokens": 359,
+        "completion_tokens": 46
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2030.7106971740723
+      }
+    ]
+  },
+  {
+    "keyword": "세면도구통",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "세면도구통",
+          "세면대",
+          "정리함",
+          "수납용품",
+          "욕실용품",
+          "정리"
+        ],
+        "latency_ms": 2020.226001739502,
+        "total_tokens": 402,
+        "prompt_tokens": 360,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2019.2413330078125
+      }
+    ]
+  },
+  {
+    "keyword": "선물 포장 리본",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "선물 포장 리본",
+          "선물",
+          "포장 리본",
+          "리본",
+          "파티용품",
+          "포장재",
+          "장식"
+        ],
+        "latency_ms": 2039.015293121338,
+        "total_tokens": 414,
+        "prompt_tokens": 360,
+        "completion_tokens": 54
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2037.569522857666
+      }
+    ]
+  },
+  {
+    "keyword": "와인 오프너",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "와인 오프너",
+          "주방",
+          "오프너",
+          "주방용품",
+          "병따개"
+        ],
+        "latency_ms": 2038.644552230835,
+        "total_tokens": 400,
+        "prompt_tokens": 360,
+        "completion_tokens": 40
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2038.0563735961914
+      }
+    ]
+  },
+  {
+    "keyword": "반찬통",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "반찬통",
+          "주방",
+          "통",
+          "주방용품",
+          "밀폐용기",
+          "보관용기"
+        ],
+        "latency_ms": 2023.2887268066406,
+        "total_tokens": 397,
+        "prompt_tokens": 358,
+        "completion_tokens": 39
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2022.7761268615723
+      }
+    ]
+  },
+  {
+    "keyword": "통",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "통",
+          "수납",
+          "정리"
+        ],
+        "latency_ms": 2035.8905792236328,
+        "total_tokens": 367,
+        "prompt_tokens": 356,
+        "completion_tokens": 11
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.217523574829
+      }
+    ]
+  },
+  {
+    "keyword": "등받이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "등받이",
+          "의자",
+          "가구",
+          "편안함",
+          "휴식"
+        ],
+        "latency_ms": 2044.5802211761475,
+        "total_tokens": 393,
+        "prompt_tokens": 358,
+        "completion_tokens": 35
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2042.548656463623
+      }
+    ]
+  },
+  {
+    "keyword": "가죽 가방 닦는 크림",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "가죽 가방 닦는 크림",
+          "가죽",
+          "가방",
+          "크림",
+          "생활용품",
+          "가방 용품",
+          "가죽 관리",
+          "세척"
+        ],
+        "latency_ms": 2031.3129425048828,
+        "total_tokens": 426,
+        "prompt_tokens": 364,
+        "completion_tokens": 62
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.2232036590576
+      }
+    ]
+  },
+  {
+    "keyword": "설거지망",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "설거지망",
+          "주방",
+          "망",
+          "주방용품",
+          "설거지"
+        ],
+        "latency_ms": 2040.0128364562988,
+        "total_tokens": 396,
+        "prompt_tokens": 359,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2039.5078659057617
+      }
+    ]
+  },
+  {
+    "keyword": "주방 가위",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "주방 가위",
+          "주방",
+          "가위",
+          "주방용품",
+          "요리"
+        ],
+        "latency_ms": 2042.0074462890625,
+        "total_tokens": 391,
+        "prompt_tokens": 359,
+        "completion_tokens": 32
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2040.5728816986084
+      }
+    ]
+  },
+  {
+    "keyword": "소음 방지 캡",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "소음 방지 캡",
+          "소음 방지",
+          "캡",
+          "생활용품",
+          "소음감소"
+        ],
+        "latency_ms": 2033.8339805603027,
+        "total_tokens": 397,
+        "prompt_tokens": 361,
+        "completion_tokens": 36
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.5666198730469
+      }
+    ]
+  },
+  {
+    "keyword": "주방용 타이머",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "주방용 타이머",
+          "주방",
+          "타이머",
+          "주방용품",
+          "시간측정"
+        ],
+        "latency_ms": 2030.2913188934326,
+        "total_tokens": 395,
+        "prompt_tokens": 360,
+        "completion_tokens": 35
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.7532081604004
+      }
+    ]
+  },
+  {
+    "keyword": "건전지",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "건전지",
+          "배터리",
+          "전자기기",
+          "생활용품",
+          "전원"
+        ],
+        "latency_ms": 2056.8647384643555,
+        "total_tokens": 382,
+        "prompt_tokens": 358,
+        "completion_tokens": 24
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2055.0968647003174
+      }
+    ]
+  },
+  {
+    "keyword": "양치컵",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "양치컵",
+          "욕실",
+          "컵",
+          "욕실용품",
+          "칫솔꽂이"
+        ],
+        "latency_ms": 2034.404993057251,
+        "total_tokens": 390,
+        "prompt_tokens": 358,
+        "completion_tokens": 32
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2034.404993057251
+      }
+    ]
+  },
+  {
+    "keyword": "색연필통",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "색연필통",
+          "색연필",
+          "필통",
+          "문구",
+          "정리",
+          "수납"
+        ],
+        "latency_ms": 2044.743299484253,
+        "total_tokens": 401,
+        "prompt_tokens": 359,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2043.4279441833496
+      }
+    ]
+  },
+  {
+    "keyword": "콧받침",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "콧받침",
+          "안경",
+          "안경용품"
+        ],
+        "latency_ms": 2036.6158485412598,
+        "total_tokens": 383,
+        "prompt_tokens": 359,
+        "completion_tokens": 24
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2035.2752208709717
+      }
+    ]
+  },
+  {
+    "keyword": "먼지떨이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "먼지떨이",
+          "청소",
+          "청소용품",
+          "먼지 제거"
+        ],
+        "latency_ms": 2036.8633270263672,
+        "total_tokens": 391,
+        "prompt_tokens": 359,
+        "completion_tokens": 32
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2036.1006259918213
+      }
+    ]
+  },
+  {
+    "keyword": "정리용품",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "정리용품",
+          "수납",
+          "정리",
+          "생활용품",
+          "수납용품"
+        ],
+        "latency_ms": 2033.0610275268555,
+        "total_tokens": 383,
+        "prompt_tokens": 358,
+        "completion_tokens": 25
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.6741466522217
+      }
+    ]
+  },
+  {
+    "keyword": "바지 걸이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "바지 걸이",
+          "옷장",
+          "걸이",
+          "수납용품",
+          "정리",
+          "바지 정리"
+        ],
+        "latency_ms": 2027.9512405395508,
+        "total_tokens": 403,
+        "prompt_tokens": 359,
+        "completion_tokens": 44
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2025.8255004882812
+      }
+    ]
+  },
+  {
+    "keyword": "솔",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "솔",
+          "청소",
+          "청소용품"
+        ],
+        "latency_ms": 2027.0850658416748,
+        "total_tokens": 378,
+        "prompt_tokens": 356,
+        "completion_tokens": 22
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2026.677131652832
+      }
+    ]
+  },
+  {
+    "keyword": "동전지갑",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "동전지갑",
+          "지갑",
+          "패션잡화",
+          "동전 보관"
+        ],
+        "latency_ms": 2029.0961265563965,
+        "total_tokens": 392,
+        "prompt_tokens": 359,
+        "completion_tokens": 33
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2028.0430316925049
+      }
+    ]
+  },
+  {
+    "keyword": "스티커",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "스티커",
+          "문구",
+          "팬시",
+          "장식"
+        ],
+        "latency_ms": 2029.9017429351807,
+        "total_tokens": 374,
+        "prompt_tokens": 358,
+        "completion_tokens": 16
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.4601917266846
+      }
+    ]
+  },
+  {
+    "keyword": "수건걸이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "수건걸이",
+          "욕실",
+          "걸이",
+          "욕실용품",
+          "수건"
+        ],
+        "latency_ms": 2030.4863452911377,
+        "total_tokens": 391,
+        "prompt_tokens": 359,
+        "completion_tokens": 32
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.4594764709473
+      }
+    ]
+  },
+  {
+    "keyword": "캠핑용 조명",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "캠핑용 조명",
+          "캠핑",
+          "조명",
+          "캠핑용품",
+          "조명",
+          "야외용"
+        ],
+        "latency_ms": 2050.340175628662,
+        "total_tokens": 405,
+        "prompt_tokens": 360,
+        "completion_tokens": 45
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2049.1292476654053
+      }
+    ]
+  },
+  {
+    "keyword": "틈새 스펀지",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "틈새 스펀지",
+          "스펀지",
+          "청소용품",
+          "청소",
+          "틈새 청소"
+        ],
+        "latency_ms": 2024.0299701690674,
+        "total_tokens": 402,
+        "prompt_tokens": 361,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2023.5207080841064
+      }
+    ]
+  },
+  {
+    "keyword": "신발정리대",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "신발정리대",
+          "신발",
+          "정리대",
+          "수납용품",
+          "정리"
+        ],
+        "latency_ms": 2033.2136154174805,
+        "total_tokens": 399,
+        "prompt_tokens": 360,
+        "completion_tokens": 39
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2032.5310230255127
+      }
+    ]
+  },
+  {
+    "keyword": "자전거 바람 넣는 기계",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "자전거 바람 넣는 기계",
+          "자전거",
+          "바람 넣는 기계",
+          "기계",
+          "자전거 용품",
+          "바람 주입"
+        ],
+        "latency_ms": 2039.3178462982178,
+        "total_tokens": 408,
+        "prompt_tokens": 362,
+        "completion_tokens": 46
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2037.8880500793457
+      }
+    ]
+  },
+  {
+    "keyword": "스테인리스 빨대",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "스테인리스 빨대",
+          "빨대",
+          "주방용품",
+          "스테인리스",
+          "재사용 가능"
+        ],
+        "latency_ms": 2027.252197265625,
+        "total_tokens": 395,
+        "prompt_tokens": 360,
+        "completion_tokens": 35
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2026.3538360595703
+      }
+    ]
+  },
+  {
+    "keyword": "창문 잠금 장치",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "창문 잠금 장치",
+          "창문",
+          "잠금 장치",
+          "안전용품",
+          "잠금",
+          "안전"
+        ],
+        "latency_ms": 2042.9611206054688,
+        "total_tokens": 408,
+        "prompt_tokens": 361,
+        "completion_tokens": 47
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2041.7063236236572
+      }
+    ]
+  },
+  {
+    "keyword": "귀마개",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "귀마개",
+          "귀",
+          "마개",
+          "안전용품",
+          "소음방지"
+        ],
+        "latency_ms": 2028.472900390625,
+        "total_tokens": 390,
+        "prompt_tokens": 358,
+        "completion_tokens": 32
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2025.8522033691406
+      }
+    ]
+  },
+  {
+    "keyword": "필수템",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "필수템"
+        ],
+        "latency_ms": 2032.2918891906738,
+        "total_tokens": 362,
+        "prompt_tokens": 357,
+        "completion_tokens": 5
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.0871601104736
+      }
+    ]
+  },
+  {
+    "keyword": "물티슈통",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "물티슈통",
+          "물티슈",
+          "통",
+          "생활용품",
+          "정리",
+          "수납"
+        ],
+        "latency_ms": 2027.5979042053223,
+        "total_tokens": 401,
+        "prompt_tokens": 359,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2026.8712043762207
+      }
+    ]
+  },
+  {
+    "keyword": "순간접착제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "순간접착제",
+          "접착제",
+          "문구",
+          "사무용품",
+          "접착"
+        ],
+        "latency_ms": 2029.571771621704,
+        "total_tokens": 393,
+        "prompt_tokens": 359,
+        "completion_tokens": 34
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2028.6273956298828
+      }
+    ]
+  },
+  {
+    "keyword": "휴지케이스",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "휴지케이스",
+          "휴지",
+          "케이스",
+          "생활용품",
+          "정리"
+        ],
+        "latency_ms": 2047.1386909484863,
+        "total_tokens": 382,
+        "prompt_tokens": 359,
+        "completion_tokens": 23
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2046.3566780090332
+      }
+    ]
+  },
+  {
+    "keyword": "그릇받침",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "그릇받침",
+          "주방",
+          "받침",
+          "주방용품",
+          "식기",
+          "컵받침"
+        ],
+        "latency_ms": 2046.7944145202637,
+        "total_tokens": 403,
+        "prompt_tokens": 359,
+        "completion_tokens": 44
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2046.1809635162354
+      }
+    ]
+  },
+  {
+    "keyword": "돼지코",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "돼지코",
+          "콘센트",
+          "전기용품",
+          "변환 어댑터"
+        ],
+        "latency_ms": 2026.3330936431885,
+        "total_tokens": 392,
+        "prompt_tokens": 358,
+        "completion_tokens": 34
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2025.8197784423828
+      }
+    ]
+  },
+  {
+    "keyword": "점착제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "점착제",
+          "접착제",
+          "사무용품",
+          "문구",
+          "고정",
+          "접착"
+        ],
+        "latency_ms": 2012.1521949768066,
+        "total_tokens": 395,
+        "prompt_tokens": 358,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2011.7316246032715
+      }
+    ]
+  },
+  {
+    "keyword": "손목 보호대",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "손목 보호대",
+          "손목",
+          "보호대",
+          "보호용품",
+          "운동용품",
+          "안전",
+          "지지",
+          "압박"
+        ],
+        "latency_ms": 2029.8917293548584,
+        "total_tokens": 415,
+        "prompt_tokens": 359,
+        "completion_tokens": 56
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.5989513397217
+      }
+    ]
+  },
+  {
+    "keyword": "수납함",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "수납함",
+          "정리함",
+          "수납",
+          "함",
+          "정리",
+          "생활용품",
+          "정리용품"
+        ],
+        "latency_ms": 2052.0591735839844,
+        "total_tokens": 400,
+        "prompt_tokens": 358,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2050.5757331848145
+      }
+    ]
+  },
+  {
+    "keyword": "문닫힘 방지 쿠션",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "문닫힘 방지 쿠션",
+          "문닫힘 방지",
+          "쿠션",
+          "생활용품",
+          "안전",
+          "안전용품"
+        ],
+        "latency_ms": 2033.6053371429443,
+        "total_tokens": 406,
+        "prompt_tokens": 362,
+        "completion_tokens": 44
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2032.5541496276855
+      }
+    ]
+  },
+  {
+    "keyword": "안전덮개",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "안전덮개",
+          "덮개",
+          "안전용품",
+          "안전"
+        ],
+        "latency_ms": 2037.4186038970947,
+        "total_tokens": 389,
+        "prompt_tokens": 358,
+        "completion_tokens": 31
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2036.9160175323486
+      }
+    ]
+  },
+  {
+    "keyword": "재단 매트",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "재단 매트",
+          "재단",
+          "매트",
+          "문구",
+          "사무용품",
+          "공예"
+        ],
+        "latency_ms": 2029.7157764434814,
+        "total_tokens": 387,
+        "prompt_tokens": 359,
+        "completion_tokens": 28
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.0536880493164
+      }
+    ]
+  },
+  {
+    "keyword": "컵받침",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "컵받침",
+          "컵",
+          "받침",
+          "주방용품",
+          "생활용품"
+        ],
+        "latency_ms": 2028.315782546997,
+        "total_tokens": 382,
+        "prompt_tokens": 359,
+        "completion_tokens": 23
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2027.1837711334229
+      }
+    ]
+  },
+  {
+    "keyword": "방충망 스티커",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "방충망 스티커",
+          "방충망",
+          "스티커",
+          "생활용품",
+          "벌레 퇴치"
+        ],
+        "latency_ms": 2051.0404109954834,
+        "total_tokens": 402,
+        "prompt_tokens": 361,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2050.055980682373
+      }
+    ]
+  },
+  {
+    "keyword": "실내화 주머니",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "실내화 주머니",
+          "실내",
+          "주머니",
+          "가방",
+          "정리",
+          "수납"
+        ],
+        "latency_ms": 2030.0395488739014,
+        "total_tokens": 402,
+        "prompt_tokens": 360,
+        "completion_tokens": 42
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2028.3198356628418
+      }
+    ]
+  },
+  {
+    "keyword": "부탄가스",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "부탄가스",
+          "휴대용 가스",
+          "가스",
+          "캠핑용품",
+          "취사용품",
+          "연료"
+        ],
+        "latency_ms": 2035.5908870697021,
+        "total_tokens": 400,
+        "prompt_tokens": 359,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2034.003496170044
+      }
+    ]
+  },
+  {
+    "keyword": "대시보드커버",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "대시보드커버",
+          "자동차",
+          "커버",
+          "자동차용품",
+          "햇빛차단",
+          "먼지방지"
+        ],
+        "latency_ms": 2037.8620624542236,
+        "total_tokens": 402,
+        "prompt_tokens": 361,
+        "completion_tokens": 41
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2036.2119674682617
+      }
+    ]
+  },
+  {
+    "keyword": "바닥 매트",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "바닥 매트",
+          "바닥",
+          "매트",
+          "홈데코",
+          "미끄럼방지",
+          "인테리어"
+        ],
+        "latency_ms": 2028.846025466919,
+        "total_tokens": 405,
+        "prompt_tokens": 359,
+        "completion_tokens": 46
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2027.8539657592773
+      }
+    ]
+  },
+  {
+    "keyword": "제습제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "제습제",
+          "옷장",
+          "습기 제거제",
+          "생활용품",
+          "습기 제거"
+        ],
+        "latency_ms": 2028.8114547729492,
+        "total_tokens": 391,
+        "prompt_tokens": 358,
+        "completion_tokens": 33
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2028.2952785491943
+      }
+    ]
+  },
+  {
+    "keyword": "기름막이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "기름막이",
+          "주방",
+          "막이",
+          "주방용품",
+          "기름방지"
+        ],
+        "latency_ms": 2040.112018585205,
+        "total_tokens": 397,
+        "prompt_tokens": 358,
+        "completion_tokens": 39
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2039.5078659057617
+      }
+    ]
+  },
+  {
+    "keyword": "바람막이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "바람막이",
+          "바람막이",
+          "겉옷",
+          "의류",
+          "방풍"
+        ],
+        "latency_ms": 2030.6792259216309,
+        "total_tokens": 382,
+        "prompt_tokens": 358,
+        "completion_tokens": 24
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.4313430786133
+      }
+    ]
+  },
+  {
+    "keyword": "침대 시트 고정 집게",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "침대 시트 고정 집게",
+          "침대 시트",
+          "고정 집게",
+          "집게",
+          "침구",
+          "생활용품",
+          "고정",
+          "미끄럼방지"
+        ],
+        "latency_ms": 2026.7064571380615,
+        "total_tokens": 428,
+        "prompt_tokens": 363,
+        "completion_tokens": 65
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2024.4529247283936
+      }
+    ]
+  },
+  {
+    "keyword": "발판",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "발판",
+          "욕실",
+          "매트",
+          "욕실용품",
+          "미끄럼방지"
+        ],
+        "latency_ms": 2038.6393070220947,
+        "total_tokens": 390,
+        "prompt_tokens": 357,
+        "completion_tokens": 33
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2037.8997325897217
+      }
+    ]
+  },
+  {
+    "keyword": "상토",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "상토",
+          "원예",
+          "흙",
+          "정원용품",
+          "배양토"
+        ],
+        "latency_ms": 2043.724536895752,
+        "total_tokens": 392,
+        "prompt_tokens": 357,
+        "completion_tokens": 35
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2042.1357154846191
+      }
+    ]
+  },
+  {
+    "keyword": "패치",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "패치",
+          "피부",
+          "패치",
+          "미용",
+          "상처커버"
+        ],
+        "latency_ms": 2038.6936664581299,
+        "total_tokens": 379,
+        "prompt_tokens": 357,
+        "completion_tokens": 22
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2037.8894805908203
+      }
+    ]
+  },
+  {
+    "keyword": "걸이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "걸이",
+          "옷걸이",
+          "정리용품",
+          "수납"
+        ],
+        "latency_ms": 2023.6213207244873,
+        "total_tokens": 383,
+        "prompt_tokens": 357,
+        "completion_tokens": 26
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2023.1096744537354
+      }
+    ]
+  },
+  {
+    "keyword": "뽁뽁이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "뽁뽁이",
+          "창문",
+          "단열재",
+          "생활용품",
+          "단열"
+        ],
+        "latency_ms": 2022.5615501403809,
+        "total_tokens": 390,
+        "prompt_tokens": 359,
+        "completion_tokens": 31
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2021.3954448699951
+      }
+    ]
+  },
+  {
+    "keyword": "머리 감을 때 쓰는 브러쉬",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "머리 감을 때 쓰는 브러쉬",
+          "헤어 브러쉬",
+          "브러쉬",
+          "미용",
+          "헤어",
+          "두피 마사지",
+          "샴푸 브러쉬"
+        ],
+        "latency_ms": 2033.2627296447754,
+        "total_tokens": 426,
+        "prompt_tokens": 364,
+        "completion_tokens": 62
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.816005706787
+      }
+    ]
+  },
+  {
+    "keyword": "섬유유연제",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "섬유유연제",
+          "세탁",
+          "유연제",
+          "세탁용품",
+          "향기",
+          "정전기 방지"
+        ],
+        "latency_ms": 2033.5421562194824,
+        "total_tokens": 393,
+        "prompt_tokens": 360,
+        "completion_tokens": 33
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2032.989501953125
+      }
+    ]
+  },
+  {
+    "keyword": "여행용품",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "여행용품",
+          "여행",
+          "용품",
+          "생활",
+          "정리"
+        ],
+        "latency_ms": 2034.3425273895264,
+        "total_tokens": 377,
+        "prompt_tokens": 358,
+        "completion_tokens": 19
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2033.294677734375
+      }
+    ]
+  },
+  {
+    "keyword": "비닐 매트",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "비닐 매트",
+          "매트",
+          "바닥",
+          "생활용품",
+          "방수"
+        ],
+        "latency_ms": 2014.6310329437256,
+        "total_tokens": 390,
+        "prompt_tokens": 359,
+        "completion_tokens": 31
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2014.0249729156494
+      }
+    ]
+  },
+  {
+    "keyword": "전선 정리 타이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "전선 정리 타이",
+          "전선",
+          "정리 타이",
+          "타이",
+          "전기용품",
+          "정리"
+        ],
+        "latency_ms": 2025.1798629760742,
+        "total_tokens": 388,
+        "prompt_tokens": 359,
+        "completion_tokens": 29
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2024.1315364837646
+      }
+    ]
+  },
+  {
+    "keyword": "빨래집게",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "빨래집게",
+          "세탁",
+          "집게",
+          "세탁용품",
+          "고정"
+        ],
+        "latency_ms": 2029.3514728546143,
+        "total_tokens": 383,
+        "prompt_tokens": 359,
+        "completion_tokens": 24
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.0637016296387
+      }
+    ]
+  },
+  {
+    "keyword": "우산 물받이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "우산 물받이",
+          "현관",
+          "물받이",
+          "생활용품",
+          "우산",
+          "물받침"
+        ],
+        "latency_ms": 2041.771650314331,
+        "total_tokens": 399,
+        "prompt_tokens": 360,
+        "completion_tokens": 39
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2040.7421588897705
+      }
+    ]
+  },
+  {
+    "keyword": "핸드폰 거치대",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "핸드폰 거치대",
+          "핸드폰",
+          "거치대",
+          "디지털",
+          "핸드폰 용품"
+        ],
+        "latency_ms": 2037.6901626586914,
+        "total_tokens": 390,
+        "prompt_tokens": 361,
+        "completion_tokens": 29
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2036.5803241729736
+      }
+    ]
+  },
+  {
+    "keyword": "노트북 받침대",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "노트북 받침대",
+          "노트북",
+          "받침대",
+          "디지털",
+          "사무용품",
+          "거치대",
+          "높이조절"
+        ],
+        "latency_ms": 2039.5302772521973,
+        "total_tokens": 408,
+        "prompt_tokens": 359,
+        "completion_tokens": 49
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2039.3714904785156
+      }
+    ]
+  },
+  {
+    "keyword": "메꿈이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "메꿈이",
+          "보수용품",
+          "수리",
+          "DIY"
+        ],
+        "latency_ms": 2042.851448059082,
+        "total_tokens": 383,
+        "prompt_tokens": 358,
+        "completion_tokens": 25
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2042.5293445587158
+      }
+    ]
+  },
+  {
+    "keyword": "파우치",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "파우치",
+          "가방",
+          "정리용품",
+          "보관",
+          "휴대용"
+        ],
+        "latency_ms": 2031.9499969482422,
+        "total_tokens": 390,
+        "prompt_tokens": 358,
+        "completion_tokens": 32
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2031.6238403320312
+      }
+    ]
+  },
+  {
+    "keyword": "멀티탭",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "멀티탭",
+          "전기",
+          "탭",
+          "전선",
+          "생활용품",
+          "전자기기",
+          "콘센트"
+        ],
+        "latency_ms": 2033.2190990447998,
+        "total_tokens": 389,
+        "prompt_tokens": 358,
+        "completion_tokens": 31
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2032.7026844024658
+      }
+    ]
+  },
+  {
+    "keyword": "빨래 주머니",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "빨래 주머니",
+          "세탁",
+          "주머니",
+          "세탁용품",
+          "정리",
+          "수납"
+        ],
+        "latency_ms": 2027.9099941253662,
+        "total_tokens": 396,
+        "prompt_tokens": 359,
+        "completion_tokens": 37
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2027.7342796325684
+      }
+    ]
+  },
+  {
+    "keyword": "유리창 닦이",
+    "results": [
+      {
+        "model": "gemini-2.0-flash",
+        "keywords": [
+          "유리창 닦이",
+          "창문",
+          "닦이",
+          "청소용품",
+          "유리",
+          "청소"
+        ],
+        "latency_ms": 2029.6471118927002,
+        "total_tokens": 399,
+        "prompt_tokens": 360,
+        "completion_tokens": 39
+      },
+      {
+        "error": "OpenAI library not found or API key missing"
+      },
+      {
+        "model": "llama3.2",
+        "error": "Status 404",
+        "latency_ms": 2029.6471118927002
+      }
+    ]
+  }
+]

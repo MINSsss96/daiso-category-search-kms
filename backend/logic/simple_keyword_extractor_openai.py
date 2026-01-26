@@ -3,20 +3,19 @@ import os
 import json
 import time
 from dotenv import load_dotenv
-import google.generativeai as genai
+from openai import OpenAI
 
 # Load environment variables
 load_dotenv()
-api_key = os.getenv("GEMINI_API_KEY")
+api_key = os.getenv("OPENAI_API_KEY")
 
 if not api_key:
-    print("Error: GEMINI_API_KEY not found in .env")
+    print("Error: OPENAI_API_KEY not found in .env")
     exit(1)
 
-# Configure Gemini
-genai.configure(api_key=api_key)
-model = genai.GenerativeModel("gemini-2.0-flash") # Updated to 2.0-flash as per nlu.py suggestion
-
+# Configure OpenAI
+client = OpenAI(api_key=api_key)
+MODEL_NAME = "gpt-4o-mini"
 
 # Paths
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -45,23 +44,30 @@ def extract_keyword(query):
     """
     try:
         start_time = time.time()
-        response = model.generate_content(prompt)
+        response = client.chat.completions.create(
+            model=MODEL_NAME,
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant that extracts product keywords from queries."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0
+        )
         end_time = time.time()
         latency = end_time - start_time
         
-        keyword = response.text.strip()
+        keyword = response.choices[0].message.content.strip()
         
-        usage = response.usage_metadata
-        prompt_tokens = usage.prompt_token_count
-        candidates_tokens = usage.candidates_token_count
-        total_tokens = usage.total_token_count
+        usage = response.usage
+        prompt_tokens = usage.prompt_tokens
+        completion_tokens = usage.completion_tokens
+        total_tokens = usage.total_tokens
 
         return {
             "keyword": keyword,
             "latency": latency,
             "tokens": {
                 "prompt": prompt_tokens,
-                "completion": candidates_tokens,
+                "completion": completion_tokens,
                 "total": total_tokens
             }
         }
@@ -76,7 +82,7 @@ def main():
     print(f"Loaded {len(questions)} questions.")
     print("-" * 50)
     
-    output_txt_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "extracted_keywords.txt")
+    output_txt_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "extracted_keywords_openai.txt")
     print(f"Saving results to: {output_txt_path}")
 
     with open(output_txt_path, "w", encoding="utf-8") as f:
@@ -98,6 +104,7 @@ def main():
                 f.write(f"{line} {meta_info}\n")
             
             f.flush() 
+            # time.sleep(0.1)
 
     print(f"\nAnalysis complete. Results saved to {output_txt_path}")
 
