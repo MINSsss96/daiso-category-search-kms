@@ -17,8 +17,16 @@ OLLAMA_URL = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "llama3.2" 
 
 KEYWORD_EXPANSION_PROMPT = """
-You are a keyword expansion expert for 'Daiso' (a variety store).
-Given a core product keyword, list 5-10 related keywords that a user might search for in a Daiso context (e.g., synonyms, specific product types, related purpose).
+You are a keyword expansion expert for 'Daiso' (다이소, a Korean variety store).
+Given a core product keyword, list 5-10 related keywords that a user might search for in a Daiso context.
+
+**IMPORTANT RULES:**
+1. ALL keywords MUST be in Korean (한국어).
+2. Only use English for common loanwords that Koreans actually use in English (e.g., USB, LED, PVC).
+3. Do NOT use Chinese characters or any other language.
+4. Examples of good keywords: 수납함, 정리함, 플라스틱 통, 주방용품
+5. Examples of bad keywords: storage box, 收纳盒
+
 Return output as valid JSON with key "keywords".
 
 Product: {product_name}

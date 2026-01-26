@@ -1,1182 +1,5267 @@
 [
   {
-    "keyword": "헤어밴드",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "기름 방지",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "철 수세미",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "안전덮개",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "장난감",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "양면테이프",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "방향제",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "문콕방지",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "실내화 주머니",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "캐리어 이름",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "싱크대 선반",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "컵",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "신발정리대",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "와인 마개",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "운동화 끈 고정",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "문닫힘 방지 쿠션",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "찍찍이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "머리 감을 때 쓰는 브러쉬",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "에어프라이어 종이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "김장용 비닐봉투",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "박스테이프",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "세탁망",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "다용도 제품",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "솔",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "틈새 스펀지",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "아기들 칫솔",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "고데기받침",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "미술용품",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "빨래집게",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "옷걸이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "탄 거 닦는 가루",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "창문 잠금 장치",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "제습제",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "화분망",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "페디큐어 세퍼레이터",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "샤워기 헤드",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "생활용품",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "종이 쇼핑백",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "낚시의자",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "주방용 타이머",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "차량용 충전 잭",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "여행용품",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "종이 필터",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "벌레 물린데 바르는 약",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "발뒤꿈치 미는 거",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "학용품",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "무선 마우스",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "라이터",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "손목 보호대",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "베개 솜",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "수납함",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "전선 정리 타이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "자석 화이트보드",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "문 스토퍼",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "양치컵",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "그물망",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "숨김 용품",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "이어폰 고무",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "핸드폰 거치대",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "가죽 가방 닦는 크림",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "창문 닦는 밀대",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "오일",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "커튼봉",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "샴푸통",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "돌돌이 리필",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "양말",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "화장품 공병",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "수도꼭지",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "스트레스 해소 용품",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "목베개",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "테이프",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "신발 주머니",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "동전 건전지",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "일회용 면도기",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "등받이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "포스트잇",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "안전 잠금 장치",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "캠핑용 조명",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "반찬통",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "먼지떨이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "책갈피",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "여권케이스",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "머리카락 정리 도구",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "자전거 자물쇠",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "용기",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "아기용품",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "정리함",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "소리",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "유리창 닦이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "햇빛가리개",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "동전지갑",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "통",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "신발건조대",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "서랍 잠금장치",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "방충망 보수 테이프",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "앞치마",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "뽁뽁이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "종량제 봉투",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "스티커",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "욕실 실리콘 곰팡이 지우는 젤",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "물티슈 뚜껑",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "부직포",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "상토",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "부탄가스",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "자취용품",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "꽃 가위",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "자석 후크",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "나무 뒤집개",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "렌즈 세척액",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "모서리 보호대",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "미끄럼방지패드",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "긁힘 방지 패드",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "화장품 보관 용기",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "물티슈통",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "S자 고리",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "바지 걸이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "문풍지",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "소음 방지 캡",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "장갑",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "립밤",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "방수테이프",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "고리",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "수건",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "메모판",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "기름종이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "그릇받침",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "안대",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "패치",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "재단 매트",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "가리개",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "비닐 매트",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "순간접착제",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "선풍기",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "덧신",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "인테리어 소품",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "구두주걱",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "가구 긁힘 보수펜",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "이름표 테이프",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "냉장고 탈취제",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "슬리퍼",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "방법",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "커튼",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "뒤꿈치 보호 패드",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "발판",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "바구니",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "방충망 스티커",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "냄새 제거제",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "분무기",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "공병",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "욕실 청소용 솔",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "정리용품",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "정리용 통",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "냄새 방지 용품",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "층간소음 방지 패드",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "집게",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "도시락틀",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "휴지케이스",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "물기 닦는 거",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "반지 사이즈 조절링",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "바람막이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "네임 스티커",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "선정리함",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "안경 닦는 천",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "우산 물받이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "옷정리",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "귀마개",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "침대 시트 고정 집게",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "보관",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "슬리퍼 주머니",
-    "error": "Status 404"
+    "keyword": "벽지낙서제거제",
+    "expanded": [
+      "wall sticker remover",
+      "stickers for walls",
+      "adhesive remover",
+      "wall decals cleaner",
+      "removable wall stickers",
+      "wall art remover",
+      "vinyl sticker removal",
+      "wall sticker removal tool",
+      "adhesive solvent"
+    ],
+    "latency_ms": 11440.885543823242,
+    "total_tokens": 178,
+    "prompt_tokens": 103,
+    "completion_tokens": 75
   },
   {
     "keyword": "쓰레기통",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "벽지낙서제거제",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "수건걸이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "필수템",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "미끄럼 방지 매트",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "머리카락 거름망",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "물티슈",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "곰팡이 제거제",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "물감 팔레트",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "색연필통",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "욕실 실리콘",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "헤어드라이기",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "빨래망",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "고정하는 거",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "신발 탈취제",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "팔굽혀펴기 기구",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "여권 커버",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "종이 호일",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "효자손",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "핫팩",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "클리어파일",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "장바구니",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "아이스박스",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "매트",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "주방 가위",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "안전 콘센트 덮개",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "방충망",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "선반",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "연필",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "아이폰 충전기",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "멀티탭",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "와인 오프너",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "식탁매트",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "자동차 바퀴 휠 닦는 거",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "대시보드커버",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "돌돌이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "허리 줄이는 핀",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "바구니 뚜껑",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "전화번호 판",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "압축팩",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "탁상용 거울",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "점착제",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "신발장 탈취제",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "빨래 바구니",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "냄비손잡이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "방석",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "발매트",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "컵받침",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "우산 커버",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "콧받침",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "세면도구통",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "하수구 뚫는 세제",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "리빙박스",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "보풀 제거기",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "에어컨 세정제",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "머리끈",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "안전용품",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "물병 고정대",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "바느질 세트",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "실내화",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "돼지코",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "신발",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "스테인리스 빨대",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "얼룩 제거 펜",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "이어폰 정리",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "손톱 정리 세트",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "바닥 매트",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "고무장갑",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "액정 보호 필름",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "자전거 체인 기름",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "여행용 치약 칫솔 세트",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "선물 포장 리본",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "전자레인지용 덮개",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "연필꽂이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "가방정리함",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "메꿈이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "노트북 받침대",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "돗자리",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "덧버선",
-    "error": "Status 404"
+    "expanded": [
+      "trash can",
+      "waste bin",
+      "recycling container",
+      "garbage bucket",
+      "dusting bin",
+      "trash box"
+    ],
+    "latency_ms": 4515.433073043823,
+    "total_tokens": 132,
+    "prompt_tokens": 99,
+    "completion_tokens": 33
+  },
+  {
+    "keyword": "유리창 닦이",
+    "expanded": [
+      "유리창 청소",
+      "실내 문 닦이",
+      "건조glass 닦и",
+      "Window cleaning solution",
+      "문窗 소독",
+      "유리 창 닮기",
+      "실외 문 닦이",
+      "건조구리 닦이",
+      "-window cleaning kit"
+    ],
+    "latency_ms": 6954.367637634277,
+    "total_tokens": 184,
+    "prompt_tokens": 101,
+    "completion_tokens": 83
+  },
+  {
+    "keyword": "베개 솜",
+    "expanded": [
+      " Futon",
+      "Mattress",
+      "Bedding",
+      "Japanese Bedding",
+      "Seiza Pillow",
+      "Zen Pillow",
+      "Traditional Japanese Mattress"
+    ],
+    "latency_ms": 5305.628776550293,
+    "total_tokens": 148,
+    "prompt_tokens": 99,
+    "completion_tokens": 49
+  },
+  {
+    "keyword": "종이 필터",
+    "expanded": [
+      "paper filter",
+      "diaper filter",
+      "paper diapers",
+      "eco-friendly paper filters",
+      "reusable cloth diapers",
+      " eco-friendly baby products"
+    ],
+    "latency_ms": 4108.222484588623,
+    "total_tokens": 134,
+    "prompt_tokens": 99,
+    "completion_tokens": 35
   },
   {
     "keyword": "플라스틱 바구니",
-    "error": "Status 404"
+    "expanded": [
+      "plastic basket",
+      "baguini",
+      "storage container",
+      "gift basket",
+      "plant pot",
+      "household storage",
+      "DIY craft supply",
+      "kitchen utensil organizer",
+      "office desk organizer"
+    ],
+    "latency_ms": 6129.427671432495,
+    "total_tokens": 166,
+    "prompt_tokens": 102,
+    "completion_tokens": 64
+  },
+  {
+    "keyword": "머리카락 거름망",
+    "expanded": [
+      "hair tie",
+      "hair tie accessories",
+      "hair clips",
+      "hair barrettes",
+      "beauty hair accessory",
+      "hair band",
+      "hair elastic",
+      "hair holder"
+    ],
+    "latency_ms": 5574.1026401519775,
+    "total_tokens": 159,
+    "prompt_tokens": 101,
+    "completion_tokens": 58
+  },
+  {
+    "keyword": "냄새 방지 용품",
+    "expanded": [
+      "odor eliminator",
+      "air freshener",
+      "fragrance spray",
+      "car deodorizer",
+      "office air purifier"
+    ],
+    "latency_ms": 3879.0106773376465,
+    "total_tokens": 134,
+    "prompt_tokens": 102,
+    "completion_tokens": 32
+  },
+  {
+    "keyword": "물감 팔레트",
+    "expanded": [
+      "watercolor palette",
+      "artist palette",
+      "painting set",
+      "watercolor paints",
+      "oil pastel",
+      "colored pencil",
+      "sketchbook",
+      "drawing tools",
+      "art supplies",
+      "palette knife"
+    ],
+    "latency_ms": 6253.468036651611,
+    "total_tokens": 166,
+    "prompt_tokens": 100,
+    "completion_tokens": 66
+  },
+  {
+    "keyword": "구두주걱",
+    "expanded": [
+      "구우주걱",
+      "스키-boots",
+      "바다가리",
+      "스니कर",
+      "스니커-boots",
+      "그릴리-boots",
+      "수영용구",
+      "summer-shoes"
+    ],
+    "latency_ms": 5999.741077423096,
+    "total_tokens": 169,
+    "prompt_tokens": 100,
+    "completion_tokens": 69
   },
   {
     "keyword": "섬유유연제",
-    "error": "Status 404"
+    "expanded": [
+      "elastic thread",
+      "stabilizer",
+      "interfacing fabric",
+      "quilting stabilizer",
+      "sewing stabilizer",
+      "stretch fabric",
+      "elasticity yarn"
+    ],
+    "latency_ms": 4596.167325973511,
+    "total_tokens": 142,
+    "prompt_tokens": 100,
+    "completion_tokens": 42
   },
   {
-    "keyword": "문 틈 막이",
-    "error": "Status 404"
+    "keyword": "클리어파일",
+    "expanded": [
+      "clear files",
+      "composition notes",
+      "stationery",
+      "notebook accessories",
+      "journal supplies",
+      "file organizers",
+      "notebook inserts",
+      "planner pages",
+      "writing paper"
+    ],
+    "latency_ms": 5383.221387863159,
+    "total_tokens": 156,
+    "prompt_tokens": 98,
+    "completion_tokens": 58
   },
   {
-    "keyword": "면 마스크",
-    "error": "Status 404"
+    "keyword": "방석",
+    "expanded": [
+      "seat",
+      "stool",
+      "bench",
+      "storage bench",
+      " deskside table",
+      "ottoman storage",
+      "storage ottoman",
+      "coffee table",
+      "shelf"
+    ],
+    "latency_ms": 5411.5095138549805,
+    "total_tokens": 152,
+    "prompt_tokens": 97,
+    "completion_tokens": 55
   },
   {
-    "keyword": "타이머",
-    "error": "Status 404"
+    "keyword": "방충망",
+    "expanded": [
+      "screen door",
+      "mosquito net",
+      "insect screen",
+      "window screen",
+      "door screen",
+      "fly net",
+      "screen mesh",
+      "cage net",
+      "bug net"
+    ],
+    "latency_ms": 5322.795152664185,
+    "total_tokens": 156,
+    "prompt_tokens": 98,
+    "completion_tokens": 58
   },
   {
-    "keyword": "계절용품",
-    "error": "Status 404"
+    "keyword": "먼지떨이",
+    "expanded": [
+      "dust remover",
+      "static cloth",
+      "clothes refresher",
+      "air purifier",
+      "furniture deodorizer",
+      "car upholstery cleaner",
+      "fabric protector",
+      "stain remover",
+      "spot cleaning solution",
+      "all-purpose cleaning spray"
+    ],
+    "latency_ms": 7029.2675495147705,
+    "total_tokens": 180,
+    "prompt_tokens": 100,
+    "completion_tokens": 80
   },
   {
-    "keyword": "전자레인지용 그릇",
-    "error": "Status 404"
+    "keyword": "바구니 뚜껑",
+    "expanded": [
+      "Storage Bins",
+      "Basket Covers",
+      "Baskets with Lids",
+      "Trash Cans with Lids",
+      "Waste Baskets with lids",
+      "Desk Organizers",
+      "Office Supplies Storage",
+      "Home Organization Systems",
+      "Crafting Supplies Storage",
+      "DIY Craft Projects"
+    ],
+    "latency_ms": 5890.018939971924,
+    "total_tokens": 167,
+    "prompt_tokens": 103,
+    "completion_tokens": 64
   },
   {
-    "keyword": "젤리",
-    "error": "Status 404"
+    "keyword": "S자 고리",
+    "expanded": [
+      "S-shaped hooks",
+      "hook sets",
+      "wire hooks",
+      "wall hooks",
+      "organizer hooks",
+      "cable organizers",
+      "wire management",
+      "desk accessories",
+      "office supplies"
+    ],
+    "latency_ms": 4476.743221282959,
+    "total_tokens": 142,
+    "prompt_tokens": 99,
+    "completion_tokens": 43
+  },
+  {
+    "keyword": "탁상용 거울",
+    "expanded": [
+      "desk mirror",
+      "office mirror",
+      "computer monitor",
+      "study desk mirror",
+      "room mirror",
+      "wall mirror",
+      "small mirror",
+      "decorative mirror",
+      "tabletop mirror"
+    ],
+    "latency_ms": 5753.849029541016,
+    "total_tokens": 159,
+    "prompt_tokens": 101,
+    "completion_tokens": 58
   },
   {
     "keyword": "빨래 건조대",
-    "error": "Status 404"
+    "expanded": [
+      "washing line",
+      "drying rack",
+      "clothesline",
+      "laundry drying stand",
+      "indoor clothes dryer",
+      "utility sink drying rack",
+      "laundry folding stand",
+      "room drying stand"
+    ],
+    "latency_ms": 5111.459970474243,
+    "total_tokens": 158,
+    "prompt_tokens": 100,
+    "completion_tokens": 58
   },
   {
-    "keyword": "먼지 제거 스프레이",
-    "error": "Status 404"
+    "keyword": "필수템",
+    "expanded": [
+      "Essentials",
+      "Must-have items",
+      "Indispensable goods",
+      "Necessities",
+      "Household essentials",
+      "Office supplies",
+      "Stationery",
+      "Art supplies",
+      "Crafting materials"
+    ],
+    "latency_ms": 4931.893587112427,
+    "total_tokens": 145,
+    "prompt_tokens": 98,
+    "completion_tokens": 47
   },
   {
-    "keyword": "빨래 건조대 발",
-    "error": "Status 404"
+    "keyword": "바지 걸이",
+    "expanded": [
+      "Girl's Panties",
+      "Underwear for Women",
+      "Pregnancy Panties",
+      "Nursing Panties",
+      "Lace Panties",
+      "Patterned Panties",
+      "Briefs",
+      "Thongs",
+      "Boyshorts"
+    ],
+    "latency_ms": 5605.109453201294,
+    "total_tokens": 155,
+    "prompt_tokens": 99,
+    "completion_tokens": 56
   },
   {
-    "keyword": "설거지망",
-    "error": "Status 404"
+    "keyword": "김장용 비닐봉투",
+    "expanded": [
+      "hibiscus vinegar bottle",
+      "korean ginger jar",
+      "ginger pickling bottle",
+      "hibiscus syrup container",
+      "asian food storage",
+      "korean food supply",
+      "ginger jam jar",
+      "fermented vegetable container",
+      "hibiscus brine bottle",
+      "oriental spice storage"
+    ],
+    "latency_ms": 7204.359531402588,
+    "total_tokens": 188,
+    "prompt_tokens": 103,
+    "completion_tokens": 85
   },
   {
-    "keyword": "빨래 주머니",
-    "error": "Status 404"
+    "keyword": "자전거 체인 기름",
+    "expanded": [
+      "bike chain lube",
+      "pedal chain oil",
+      "bicycle chain grease",
+      "cycle chain conditioner",
+      "chain lubricant"
+    ],
+    "latency_ms": 4146.204233169556,
+    "total_tokens": 135,
+    "prompt_tokens": 102,
+    "completion_tokens": 33
   },
   {
-    "keyword": "핸드폰 충전선 정리대",
-    "error": "Status 404"
+    "keyword": "아이폰 충전기",
+    "expanded": [
+      "iPhonecharger",
+      "iphone powerbank",
+      "portable charger",
+      "iphone adapter",
+      "apple device charger",
+      "mobile phone charging cable",
+      "iphone travel charger",
+      "power bank for iphone",
+      "iphone wall charger"
+    ],
+    "latency_ms": 6063.193559646606,
+    "total_tokens": 164,
+    "prompt_tokens": 100,
+    "completion_tokens": 64
   },
   {
-    "keyword": "고무",
-    "error": "Status 404"
+    "keyword": "방수테이프",
+    "expanded": [
+      "waterproof tape",
+      "water-resistant adhesive",
+      "indoor outdoor tape",
+      "duct tape for shower",
+      "shower curtain tape",
+      "bathroom tape",
+      "wall tape for moisture",
+      "moisture barrier tape",
+      "waterproofing tape",
+      "adhesive tape for damp areas"
+    ],
+    "latency_ms": 7162.112474441528,
+    "total_tokens": 189,
+    "prompt_tokens": 100,
+    "completion_tokens": 89
   },
   {
-    "keyword": "자전거 바람 넣는 기계",
-    "error": "Status 404"
+    "keyword": "곰팡이 제거제",
+    "expanded": [
+      "fungus remover",
+      "mold removal solution",
+      "spore killer",
+      "mildew destroyer",
+      "fungal disinfectant",
+      "killing fungus products",
+      "odor eliminator for mold",
+      "mold and mildew spray",
+      "fungicide sprays",
+      "removes odor from fungus"
+    ],
+    "latency_ms": 7530.927419662476,
+    "total_tokens": 195,
+    "prompt_tokens": 103,
+    "completion_tokens": 92
   },
   {
-    "keyword": "종이컵",
-    "error": "Status 404"
+    "keyword": "돼지코",
+    "expanded": [
+      "pig ear",
+      "boar ear",
+      "korean cooking ingredient",
+      "marinade for Korean BBQ",
+      "Korean sauce ingredient",
+      "fermented soybean paste ingredient",
+      " doenjang",
+      "traditional Korean seasoning"
+    ],
+    "latency_ms": 4787.808418273926,
+    "total_tokens": 150,
+    "prompt_tokens": 99,
+    "completion_tokens": 51
   },
   {
-    "keyword": "가방커버",
-    "error": "Status 404"
+    "keyword": "공병",
+    "expanded": [
+      "water bottle",
+      "insulated water bottle",
+      "reusable cup",
+      "vacuum flask",
+      "thermos",
+      "bottled water container",
+      "drinking bottle",
+      "coffee cup",
+      "tea cup",
+      "mug"
+    ],
+    "latency_ms": 6239.833116531372,
+    "total_tokens": 165,
+    "prompt_tokens": 97,
+    "completion_tokens": 68
   },
   {
-    "keyword": "접이식 의자",
-    "error": "Status 404"
+    "keyword": "핸드폰 거치대",
+    "expanded": [
+      " smartphone stand",
+      "phone holder",
+      "desktop phone mount",
+      "phone riser",
+      "phone dock",
+      "tabletop phone stand",
+      "computer phone stand",
+      "desk phone stand",
+      "mobile phone desk organizer",
+      "phone holder for laptop"
+    ],
+    "latency_ms": 5910.63928604126,
+    "total_tokens": 172,
+    "prompt_tokens": 102,
+    "completion_tokens": 70
   },
   {
-    "keyword": "병",
-    "error": "Status 404"
+    "keyword": "반지 사이즈 조절링",
+    "expanded": [
+      "Adjustable Ring",
+      "Ring Sizer",
+      "Jewelry Tester",
+      "Ring Size Gauge",
+      "Fashion Jewelry Tool",
+      "Accessory Organizer",
+      "Beaded Rings",
+      "Hinged Ring Sizer"
+    ],
+    "latency_ms": 4849.658727645874,
+    "total_tokens": 149,
+    "prompt_tokens": 102,
+    "completion_tokens": 47
   },
   {
-    "keyword": "전선정리",
-    "error": "Status 404"
+    "keyword": "이름표 테이프",
+    "expanded": [
+      "name tag tape",
+      "employee ID tag",
+      "label maker tape",
+      "identification label",
+      "work badge holder",
+      "office supply name tags",
+      "student ID label",
+      "school name tag",
+      "labelling tape"
+    ],
+    "latency_ms": 4864.80712890625,
+    "total_tokens": 150,
+    "prompt_tokens": 100,
+    "completion_tokens": 50
   },
   {
-    "keyword": "휴대폰 거치대",
-    "error": "Status 404"
+    "keyword": "신발건조대",
+    "expanded": [
+      "신발 건조대",
+      "신발 건조기",
+      "구두 건조대",
+      "발선건조대",
+      "발건조기",
+      "신발 건조기",
+      "건조대",
+      "발건조기",
+      "신발건조",
+      "건조기"
+    ],
+    "latency_ms": 7310.060262680054,
+    "total_tokens": 183,
+    "prompt_tokens": 100,
+    "completion_tokens": 83
   },
   {
-    "keyword": "유리테이프",
-    "error": "Status 404"
+    "keyword": "낚시의자",
+    "expanded": [
+      " fishing stool",
+      "fishing chair",
+      "garden chair",
+      "outdoor chair",
+      "patio furniture",
+      "garden bench",
+      "camping chair",
+      "picnic table",
+      "outdoor seating"
+    ],
+    "latency_ms": 5543.501377105713,
+    "total_tokens": 163,
+    "prompt_tokens": 100,
+    "completion_tokens": 63
   },
   {
-    "keyword": "기름막이",
-    "error": "Status 404"
+    "keyword": "차량용 충전 잭",
+    "expanded": [
+      "차량용 충전 어댑트",
+      "고속 도로용 충전 잭",
+      "차량용 DC 충전 잭",
+      "차량용 12V 충전 잭",
+      "차량용 충전 케이블",
+      "차량용 충전 네트워크 어댑트",
+      "차량 충전 도면",
+      "고속도로 충전 잭",
+      "차량용 DC 어댑트",
+      "차량용 충전 기기"
+    ],
+    "latency_ms": 9080.118179321289,
+    "total_tokens": 226,
+    "prompt_tokens": 102,
+    "completion_tokens": 124
   },
   {
-    "keyword": "탈취제",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "파우치",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "우산",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "넘어짐 방지 스티커",
-    "error": "Status 404"
+    "keyword": "머리끈",
+    "expanded": [
+      "hair ties",
+      "hair bands",
+      "hair elastics",
+      "hair clips",
+      "hairpins",
+      "headbands",
+      "earbuds",
+      "hair accessories"
+    ],
+    "latency_ms": 5206.831693649292,
+    "total_tokens": 147,
+    "prompt_tokens": 99,
+    "completion_tokens": 48
   },
   {
     "keyword": "운동화 세탁망",
-    "error": "Status 404"
+    "expanded": [
+      "스포츠靴",
+      "트레이닝靴",
+      "스포츠용靴",
+      "운동용靴",
+      "레トロ靴",
+      "运动鞋",
+      "運動靴",
+      "運動用靴",
+      "트レーニング靴"
+    ],
+    "latency_ms": 6400.3746509552,
+    "total_tokens": 183,
+    "prompt_tokens": 100,
+    "completion_tokens": 83
   },
   {
-    "keyword": "장난감 정리 박스",
-    "error": "Status 404"
+    "keyword": "가리개",
+    "expanded": [
+      "window shade",
+      "room darkening curtains",
+      " blackout curtain",
+      "shade for window",
+      "curtain panel",
+      "window treatment",
+      "roman shade",
+      "pleated curtain"
+    ],
+    "latency_ms": 5393.801927566528,
+    "total_tokens": 153,
+    "prompt_tokens": 98,
+    "completion_tokens": 55
+  },
+  {
+    "keyword": "방법",
+    "expanded": [
+      "way",
+      "method",
+      "technique",
+      "procedure",
+      "step-by-step guide",
+      "instructions",
+      "tips",
+      "tricks",
+      "advice"
+    ],
+    "latency_ms": 4952.821493148804,
+    "total_tokens": 148,
+    "prompt_tokens": 96,
+    "completion_tokens": 52
+  },
+  {
+    "keyword": "노트북 받침대",
+    "expanded": [
+      "노트북 서로드",
+      "노트북Support",
+      "노트북 부피",
+      "노트북 가위치",
+      "노트북 스타크",
+      " 노트북 테이블 ",
+      "노트북 자리"
+    ],
+    "latency_ms": 6260.169267654419,
+    "total_tokens": 175,
+    "prompt_tokens": 101,
+    "completion_tokens": 74
+  },
+  {
+    "keyword": "슬리퍼",
+    "expanded": [
+      "slipper socks",
+      "comfortable slippers",
+      "house slippers",
+      "indoor slippers",
+      "warm slippers",
+      "slipper sets",
+      "sleeping slippers",
+      " loungewear slippers"
+    ],
+    "latency_ms": 5859.0240478515625,
+    "total_tokens": 162,
+    "prompt_tokens": 98,
+    "completion_tokens": 64
   },
   {
     "keyword": "김서림 방지 거울",
-    "error": "Status 404"
+    "expanded": [
+      "Korean skincare mirror",
+      "Anti-aging mirror",
+      "Age-defying mirror",
+      "Skin care equipment",
+      "K-beauty products",
+      "Mirror with UV protection",
+      "Toner mirror",
+      "Facial misting mirror",
+      "Makeup mirror with built-in humidifier",
+      "Beauty product testing tools"
+    ],
+    "latency_ms": 7007.400989532471,
+    "total_tokens": 185,
+    "prompt_tokens": 102,
+    "completion_tokens": 83
   },
   {
-    "keyword": "습기 제거제",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "다이어리 펀치",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "미끄럼 방지 패드",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "이어폰",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "클레이",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "강아지 간식",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "퐁퐁",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "어항돌",
-    "error": "Status 404"
-  },
-  {
-    "keyword": "건전지",
-    "error": "Status 404"
+    "keyword": "그릇받침",
+    "expanded": [
+      " rice bowls",
+      "bowls with feet",
+      "rice serving dishes",
+      "eastern style plates",
+      "korean cooking vessels",
+      "ceramic food platters",
+      "plates for hot dishes",
+      "rice bowl sets",
+      "traditional cooking utensils"
+    ],
+    "latency_ms": 5935.704708099365,
+    "total_tokens": 170,
+    "prompt_tokens": 100,
+    "completion_tokens": 70
   },
   {
     "keyword": "간식통",
-    "error": "Status 404"
+    "expanded": [
+      "snack container",
+      "rice container",
+      "bento box",
+      "lunchbox",
+      "small food jar",
+      "mini snack container",
+      "Japanese snack container"
+    ],
+    "latency_ms": 4587.047100067139,
+    "total_tokens": 137,
+    "prompt_tokens": 98,
+    "completion_tokens": 39
   },
   {
-    "keyword": "압축봉",
-    "error": "Status 404"
+    "keyword": "고리",
+    "expanded": [
+      "wire",
+      "cable",
+      "speaker wire",
+      "headphone cord",
+      "audio cable",
+      "electric wire",
+      "insulated wire",
+      "twisted wire",
+      "copper wire",
+      "electrical wire"
+    ],
+    "latency_ms": 6000.535726547241,
+    "total_tokens": 161,
+    "prompt_tokens": 97,
+    "completion_tokens": 64
   },
   {
-    "keyword": "보풀제거기",
-    "error": "Status 404"
+    "keyword": "액정 보호 필름",
+    "expanded": [
+      "acetate film",
+      "window protector",
+      "glass protection sheet",
+      "glass cleaner film",
+      "spill proof tablecloth",
+      "kitchen spill protector",
+      "lab equipment protection film",
+      "glass etching film",
+      "mirror protection film",
+      "waterproof cloth"
+    ],
+    "latency_ms": 6430.01389503479,
+    "total_tokens": 175,
+    "prompt_tokens": 101,
+    "completion_tokens": 74
+  },
+  {
+    "keyword": "비닐 매트",
+    "expanded": [
+      "vinyl mat",
+      " vinyl floor mat",
+      " vinyl floor covering",
+      " PVC mat",
+      "DIY vinyl flooring",
+      "vinyl flooring rolls",
+      "vinyl tile flooring",
+      "interlocking vinyl tiles",
+      "vinyl flooring underlayment"
+    ],
+    "latency_ms": 5350.217580795288,
+    "total_tokens": 155,
+    "prompt_tokens": 100,
+    "completion_tokens": 55
+  },
+  {
+    "keyword": "기름막이",
+    "expanded": [
+      "oilproof cloth",
+      "furniture protector",
+      "tablecloth",
+      "bed sheet protector",
+      "kitchen table runner",
+      "stain-resistant fabric",
+      "protective covering",
+      "easy-clean surface",
+      "durable fabric",
+      " stain-repellent"
+    ],
+    "latency_ms": 6350.09503364563,
+    "total_tokens": 171,
+    "prompt_tokens": 99,
+    "completion_tokens": 72
+  },
+  {
+    "keyword": "리빙박스",
+    "expanded": [
+      "living box",
+      "storage box",
+      "decorative storage box",
+      "room divider",
+      "shelves",
+      "organizer box",
+      " desk organizer",
+      "home decor box",
+      "storage container"
+    ],
+    "latency_ms": 4470.824241638184,
+    "total_tokens": 144,
+    "prompt_tokens": 99,
+    "completion_tokens": 45
+  },
+  {
+    "keyword": "순간접착제",
+    "expanded": [
+      "hot glue gun",
+      "super glue",
+      "instant adhesive",
+      "rapid bonding adhesive",
+      "craft adhesive",
+      "model making adhesive",
+      "paper crafting adhesive",
+      "DIY adhesive",
+      "crafting supplies",
+      "adhesive liquids"
+    ],
+    "latency_ms": 6263.599634170532,
+    "total_tokens": 166,
+    "prompt_tokens": 99,
+    "completion_tokens": 67
+  },
+  {
+    "keyword": "가방정리함",
+    "expanded": [
+      "backpack organizer",
+      "school bag storage",
+      "luggage compartment organizer",
+      "bag storage solutions",
+      "travel accessories",
+      "organization system",
+      "packing cube"
+    ],
+    "latency_ms": 4588.075399398804,
+    "total_tokens": 138,
+    "prompt_tokens": 100,
+    "completion_tokens": 38
+  },
+  {
+    "keyword": "대시보드커버",
+    "expanded": [
+      "대시보드 커버",
+      "LED 대시보드 커버",
+      "뿅뿅 커버",
+      "LED 뿅뿅 커버",
+      "LED 대시보드 라인더",
+      "LED 커버",
+      "LED 뿅뿅 라인더",
+      "대시보드 라인더",
+      "LED 라인더",
+      "LED 경로라인더"
+    ],
+    "latency_ms": 8475.867509841919,
+    "total_tokens": 218,
+    "prompt_tokens": 101,
+    "completion_tokens": 117
+  },
+  {
+    "keyword": "미끄럼 방지 패드",
+    "expanded": [
+      "fall protection mat",
+      "slide prevention pad",
+      "skid pad",
+      "anti-slip mat",
+      "grip pad",
+      "floor protection mat",
+      "mat for slipping",
+      "anti-fall mat"
+    ],
+    "latency_ms": 4571.00772857666,
+    "total_tokens": 150,
+    "prompt_tokens": 103,
+    "completion_tokens": 47
+  },
+  {
+    "keyword": "세면도구통",
+    "expanded": [
+      "face wash brush",
+      "beauty brush set",
+      "skincare tools",
+      "cleaning brushes for face",
+      "makeup brush set",
+      "beauty tool set",
+      "skin cleansing brush",
+      "beauty care tools",
+      "facial cleaning brush"
+    ],
+    "latency_ms": 6319.877147674561,
+    "total_tokens": 171,
+    "prompt_tokens": 100,
+    "completion_tokens": 71
+  },
+  {
+    "keyword": "패치",
+    "expanded": [
+      "patching tape",
+      "craft patch",
+      "solder patch",
+      "electrical patch",
+      "diy patch",
+      "repair patch",
+      "decorative patch",
+      "embroidery patch"
+    ],
+    "latency_ms": 4908.102989196777,
+    "total_tokens": 141,
+    "prompt_tokens": 97,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "싱크대 선반",
+    "expanded": [
+      "sink mat",
+      "sink non-slip mat",
+      "bathtub non-slip strip",
+      "shower non-slip mat",
+      "grip strip for sink",
+      "sink gripping strips",
+      "non-slip bath mats",
+      "sink grabber",
+      "sink grip"
+    ],
+    "latency_ms": 5971.796751022339,
+    "total_tokens": 175,
+    "prompt_tokens": 100,
+    "completion_tokens": 75
+  },
+  {
+    "keyword": "인테리어 소품",
+    "expanded": [
+      "인테리어 thiết bị",
+      "소품",
+      "가구",
+      "도자감",
+      "실내 सज식",
+      "가구 सज식",
+      "인테리어 가구",
+      "가구 사용"
+    ],
+    "latency_ms": 4699.712753295898,
+    "total_tokens": 146,
+    "prompt_tokens": 100,
+    "completion_tokens": 46
+  },
+  {
+    "keyword": "문풍지",
+    "expanded": [
+      "ink",
+      "paper",
+      "pen",
+      "paint",
+      "brush",
+      "drawing",
+      "art supplies",
+      "stationery",
+      "office supplies",
+      "crafting"
+    ],
+    "latency_ms": 4619.028329849243,
+    "total_tokens": 138,
+    "prompt_tokens": 98,
+    "completion_tokens": 40
+  },
+  {
+    "keyword": "돗자리",
+    "expanded": [
+      "tablecloth",
+      "towel",
+      "napkin",
+      "party decoration",
+      "garden cloth",
+      "beach towel",
+      " picnic mat",
+      "event decor",
+      "ceremony table runner",
+      "gift wrapping paper"
+    ],
+    "latency_ms": 5052.664041519165,
+    "total_tokens": 148,
+    "prompt_tokens": 99,
+    "completion_tokens": 49
+  },
+  {
+    "keyword": "먼지 제거 스프레이",
+    "expanded": [
+      "dust remover spray",
+      "air purifier sprays",
+      "allergen eliminator",
+      "pet hair removal spray",
+      "car interior cleaning spray",
+      "mobile air freshener",
+      "travel size dust spray",
+      "compact air purifier spray",
+      "portable dust removal spray"
+    ],
+    "latency_ms": 6068.245649337769,
+    "total_tokens": 178,
+    "prompt_tokens": 102,
+    "completion_tokens": 76
+  },
+  {
+    "keyword": "솔",
+    "expanded": [
+      "Korea",
+      "Stationery",
+      "Writing Utensils",
+      "Pen",
+      "Pencil",
+      "Office Supplies"
+    ],
+    "latency_ms": 4324.49197769165,
+    "total_tokens": 137,
+    "prompt_tokens": 96,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "우산 커버",
+    "expanded": [
+      " Parasol Shade",
+      "Umbrella Canopy",
+      "Outdoor Sunshade",
+      "Portable Sun Shelter",
+      "Tablecloth Umbrella Cover",
+      "Beach Tent Canopy",
+      "Garden Sunscreen"
+    ],
+    "latency_ms": 5579.407691955566,
+    "total_tokens": 158,
+    "prompt_tokens": 99,
+    "completion_tokens": 59
+  },
+  {
+    "keyword": "제습제",
+    "expanded": [
+      "humidifier",
+      "air purifier",
+      "desiccant",
+      "dry air solution",
+      "dehumidifier",
+      "climate control",
+      "allergy relief",
+      "sick room supplies",
+      "breathing aid",
+      "indoor climate"
+    ],
+    "latency_ms": 6675.717830657959,
+    "total_tokens": 174,
+    "prompt_tokens": 98,
+    "completion_tokens": 76
+  },
+  {
+    "keyword": "커튼봉",
+    "expanded": [
+      " Curtains",
+      "Draperies",
+      "Roman Shades",
+      "Curtain rods",
+      "Table runners",
+      "Decorative panels",
+      "Room dividers",
+      "Window treatments"
+    ],
+    "latency_ms": 5017.186164855957,
+    "total_tokens": 153,
+    "prompt_tokens": 98,
+    "completion_tokens": 55
+  },
+  {
+    "keyword": "멀티탭",
+    "expanded": [
+      "MULTI-TAP",
+      "Multi-Tap Connector",
+      "Electrical Outlet Adapter",
+      "Travel Adapter",
+      "Portable Power Adapter",
+      "Power Strip Adapter",
+      "Universal Power Adapter",
+      "Voltage Converter Adapter",
+      "Travel Plug",
+      "Foreign Plug"
+    ],
+    "latency_ms": 4532.963514328003,
+    "total_tokens": 144,
+    "prompt_tokens": 99,
+    "completion_tokens": 45
+  },
+  {
+    "keyword": "종이 호일",
+    "expanded": [
+      "Paper clips",
+      "Office supplies",
+      "Desk organizers",
+      "Pencil holders",
+      "Stationery",
+      "Notebooks",
+      "Notebook organizers",
+      "Binder clips",
+      "File organization tools"
+    ],
+    "latency_ms": 5659.058094024658,
+    "total_tokens": 157,
+    "prompt_tokens": 99,
+    "completion_tokens": 58
+  },
+  {
+    "keyword": "주방용 타이머",
+    "expanded": [
+      "timekeeper",
+      "kitchen timer",
+      "timer clock",
+      "countdown timer",
+      " cooking timer",
+      " kitchen gadget",
+      " timer device",
+      "meal time indicator",
+      "cooking assistant"
+    ],
+    "latency_ms": 5335.148334503174,
+    "total_tokens": 159,
+    "prompt_tokens": 100,
+    "completion_tokens": 59
+  },
+  {
+    "keyword": "슬리퍼 주머니",
+    "expanded": [
+      "슬리퍼 하트",
+      "슬리퍼 가방",
+      "슬리퍼 모자",
+      "슬리퍼 가방 수집",
+      "슬리퍼 주머니 수집",
+      "슬리퍼 스타일",
+      "슬리퍼 주물",
+      " 슬리퍼 가방 소지",
+      "슬리퍼 모자 구입",
+      "슬리퍼 주머니 구입"
+    ],
+    "latency_ms": 7613.640785217285,
+    "total_tokens": 203,
+    "prompt_tokens": 100,
+    "completion_tokens": 103
+  },
+  {
+    "keyword": "꽃 가위",
+    "expanded": [
+      "flower cutting tool",
+      "scissors",
+      "gardening tools",
+      "pruning shears",
+      "houseplant care",
+      "ornamental plant maintenance",
+      "DIY gardening supplies",
+      "hobby gardening equipment",
+      "plant trimming tools"
+    ],
+    "latency_ms": 5982.117176055908,
+    "total_tokens": 165,
+    "prompt_tokens": 98,
+    "completion_tokens": 67
+  },
+  {
+    "keyword": "종이컵",
+    "expanded": [
+      "paper cup",
+      "cup with lid",
+      "take-out cup",
+      "coffee cup",
+      "hot chocolate cup",
+      "daisy cup",
+      "cups for take away",
+      "paper cups for coffee",
+      "cup with handle",
+      "biodegradable cups"
+    ],
+    "latency_ms": 6139.528036117554,
+    "total_tokens": 166,
+    "prompt_tokens": 98,
+    "completion_tokens": 68
+  },
+  {
+    "keyword": "부탄가스",
+    "expanded": [
+      "부탄",
+      "가스",
+      "유아용품",
+      "인산류가스",
+      "유아용 가스",
+      "가스 유아용품",
+      "부탄가스유아용품",
+      "유아용 부탄가스"
+    ],
+    "latency_ms": 6907.874822616577,
+    "total_tokens": 179,
+    "prompt_tokens": 99,
+    "completion_tokens": 80
+  },
+  {
+    "keyword": "캐리어 이름",
+    "expanded": [
+      "キャリアバッグ",
+      "デスクトップランプ",
+      "パソコンカートリッジ",
+      "スタイリスト",
+      "ペンケース",
+      "ストリップペン",
+      "マッチボックス",
+      "フルーツサーキット",
+      "コレクションケース"
+    ],
+    "latency_ms": 6314.954996109009,
+    "total_tokens": 179,
+    "prompt_tokens": 98,
+    "completion_tokens": 81
+  },
+  {
+    "keyword": "자전거 바람 넣는 기계",
+    "expanded": [
+      " bicycle bell",
+      "pedal bell",
+      "pump bell",
+      "hand pump bell",
+      "bell mechanism",
+      "bicycle accessory",
+      "cycle gear",
+      "bike bell",
+      "pedal air valve",
+      "inflate bike tire"
+    ],
+    "latency_ms": 6015.139579772949,
+    "total_tokens": 170,
+    "prompt_tokens": 103,
+    "completion_tokens": 67
+  },
+  {
+    "keyword": "손목 보호대",
+    "expanded": [
+      "手套",
+      "手指保护器",
+      "手部护理产品",
+      "手掌保护",
+      "手部覆盖物",
+      "手部修复品",
+      "手部护具",
+      "手部保暖品",
+      "手部水 repellent_product"
+    ],
+    "latency_ms": 6529.603004455566,
+    "total_tokens": 175,
+    "prompt_tokens": 99,
+    "completion_tokens": 76
+  },
+  {
+    "keyword": "옷걸이",
+    "expanded": [
+      "women's clothing",
+      "dress",
+      "tops",
+      "pants",
+      "shoes",
+      "accessories",
+      "outerwear",
+      "innerwear",
+      "activewear"
+    ],
+    "latency_ms": 5499.413728713989,
+    "total_tokens": 152,
+    "prompt_tokens": 98,
+    "completion_tokens": 54
+  },
+  {
+    "keyword": "팔굽혀펴기 기구",
+    "expanded": [
+      "palgukhoe penjil",
+      "korean calligraphy tool",
+      "pen holder",
+      "ink brush set",
+      "calligraphy pen holder",
+      "art supply",
+      "handmade stationery",
+      "traditional korean art",
+      "painting tools",
+      "sketching pens"
+    ],
+    "latency_ms": 5792.513608932495,
+    "total_tokens": 166,
+    "prompt_tokens": 104,
+    "completion_tokens": 62
+  },
+  {
+    "keyword": "병",
+    "expanded": [
+      "syringe",
+      "medical supplies",
+      "healthcare equipment",
+      "needles",
+      "injection equipment",
+      "medication storage",
+      "pharmacy supplies",
+      "medical testing kits",
+      "vaccination equipment",
+      "hospitals and clinics"
+    ],
+    "latency_ms": 6239.695310592651,
+    "total_tokens": 167,
+    "prompt_tokens": 96,
+    "completion_tokens": 71
+  },
+  {
+    "keyword": "신발장 탈취제",
+    "expanded": [
+      "foot odor eliminator",
+      "insoles",
+      "foot deodorizers",
+      "anti-smell insoles",
+      "sneaker care products",
+      "foot sweat control",
+      "breath freshers",
+      "smell eliminators",
+      "foot odor neutralizer"
+    ],
+    "latency_ms": 5887.245893478394,
+    "total_tokens": 173,
+    "prompt_tokens": 101,
+    "completion_tokens": 72
+  },
+  {
+    "keyword": "목베개",
+    "expanded": [
+      "목베개 종류",
+      "목베개 색상",
+      "목베개 가격",
+      "목베개 판매점",
+      "목베개 리뷰",
+      "목베개 추천",
+      "목베개 용도",
+      "목베개 스타일",
+      "목베개 가구",
+      "목베개 सज음"
+    ],
+    "latency_ms": 7185.452222824097,
+    "total_tokens": 189,
+    "prompt_tokens": 98,
+    "completion_tokens": 91
+  },
+  {
+    "keyword": "이어폰 고무",
+    "expanded": [
+      "earbuds",
+      "cable ties",
+      "audio accessories",
+      "phone cases",
+      "speaker cables",
+      "headphone wires",
+      "cord organizers",
+      "earbud accessories"
+    ],
+    "latency_ms": 4500.994682312012,
+    "total_tokens": 140,
+    "prompt_tokens": 99,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "라이터",
+    "expanded": [
+      "pen",
+      "pencil",
+      "sharpener",
+      "ink refill",
+      "writing instrument",
+      "stationery",
+      "office supply",
+      "gift idea",
+      "art supplies"
+    ],
+    "latency_ms": 4231.1389446258545,
+    "total_tokens": 137,
+    "prompt_tokens": 97,
+    "completion_tokens": 40
   },
   {
     "keyword": "냄비선반",
-    "error": "Status 404"
+    "expanded": [
+      "hotpotset",
+      "hot pot accessories",
+      "stirring spoon",
+      "spice container",
+      "seasoning set",
+      "soup ladle",
+      "dipping utensils",
+      " Japanese kitchenware",
+      "pan accessories",
+      "Chinese cookware"
+    ],
+    "latency_ms": 4708.057880401611,
+    "total_tokens": 146,
+    "prompt_tokens": 100,
+    "completion_tokens": 46
   },
   {
-    "keyword": "먼지 제거제",
-    "error": "Status 404"
+    "keyword": "점착제",
+    "expanded": [
+      "adhesive",
+      "stickers",
+      "tape",
+      "glue",
+      "fixings",
+      "fasteners",
+      "hobby supplies",
+      "crafting materials",
+      "office supply"
+    ],
+    "latency_ms": 4657.925605773926,
+    "total_tokens": 140,
+    "prompt_tokens": 98,
+    "completion_tokens": 42
   },
   {
-    "keyword": "싱크대 배수구 거름망",
-    "error": "Status 404"
+    "keyword": "바느질 세트",
+    "expanded": [
+      "Needlework set",
+      "Sewing kit",
+      "Embroidery set",
+      "Cross-stitch kit",
+      "Floss embroidery set",
+      "Thread craft kit"
+    ],
+    "latency_ms": 4078.2790184020996,
+    "total_tokens": 138,
+    "prompt_tokens": 100,
+    "completion_tokens": 38
+  },
+  {
+    "keyword": "전화번호 판",
+    "expanded": [
+      "phone number plate",
+      "automobile license plate",
+      "car plate",
+      "number plate holder",
+      "phone book cover",
+      "mobile phone case"
+    ],
+    "latency_ms": 4880.819320678711,
+    "total_tokens": 145,
+    "prompt_tokens": 98,
+    "completion_tokens": 47
+  },
+  {
+    "keyword": "종량제 봉투",
+    "expanded": [
+      "plastic envelope",
+      "zipper pouch",
+      "organizer pouch",
+      "file folder",
+      "budget storage",
+      "office supply",
+      "desk organizer",
+      "stationery box",
+      "file holder",
+      "storage container"
+    ],
+    "latency_ms": 6127.374172210693,
+    "total_tokens": 173,
+    "prompt_tokens": 100,
+    "completion_tokens": 73
+  },
+  {
+    "keyword": "바람막이",
+    "expanded": [
+      "windscreen",
+      "car window film",
+      "glass tint",
+      "UV protection",
+      "heat reduction",
+      " glare reduction",
+      "vehicle decal",
+      "auto decals"
+    ],
+    "latency_ms": 5403.150320053101,
+    "total_tokens": 151,
+    "prompt_tokens": 98,
+    "completion_tokens": 53
+  },
+  {
+    "keyword": "어항돌",
+    "expanded": [
+      "어항돌 구치기",
+      "어항 돌 수리",
+      "어항 돌 살리기",
+      "어항 돌 정리",
+      "어항 돌 세탁",
+      "어항 돌 세척",
+      "어항 돌 건조",
+      "어항 돌 청소",
+      "어항 돌 관리",
+      "어항 돌 수지"
+    ],
+    "latency_ms": 7961.006164550781,
+    "total_tokens": 198,
+    "prompt_tokens": 98,
+    "completion_tokens": 100
+  },
+  {
+    "keyword": "부직포",
+    "expanded": [
+      " Desk organizer",
+      "Desk tray",
+      "Office supply",
+      "Paperweight",
+      "Desk stationery",
+      "Stationery holder",
+      "Bureau organizer",
+      "Writing desk accessories",
+      "Study table organizer"
+    ],
+    "latency_ms": 5753.41796875,
+    "total_tokens": 158,
+    "prompt_tokens": 98,
+    "completion_tokens": 60
+  },
+  {
+    "keyword": "핫팩",
+    "expanded": [
+      "hotpack",
+      "hot pack",
+      "heated pad",
+      "heat pack",
+      "cold compress",
+      "hot compress",
+      "medication pack",
+      "pain relief pack",
+      "heat therapy",
+      "cold therapy"
+    ],
+    "latency_ms": 5644.534111022949,
+    "total_tokens": 162,
+    "prompt_tokens": 99,
+    "completion_tokens": 63
+  },
+  {
+    "keyword": "페디큐어 세퍼레이터",
+    "expanded": [
+      "pedicure set",
+      "nail care kit",
+      "separating brush",
+      "cuticle pusher",
+      "fingernail file",
+      "toenail clipper"
+    ],
+    "latency_ms": 5673.640489578247,
+    "total_tokens": 162,
+    "prompt_tokens": 104,
+    "completion_tokens": 58
   },
   {
     "keyword": "걸이",
-    "error": "Status 404"
+    "expanded": [
+      "Japanese girls' accessories",
+      "Girls' hair clips",
+      "Hairpins",
+      "Clips",
+      "Jewelry",
+      "Beauty supplies",
+      "Teenager gifts",
+      "Student accessories",
+      "Hair ornaments",
+      "Accessories for girls"
+    ],
+    "latency_ms": 4937.980175018311,
+    "total_tokens": 150,
+    "prompt_tokens": 97,
+    "completion_tokens": 53
+  },
+  {
+    "keyword": "안대",
+    "expanded": [
+      "Ankle straps",
+      "Ankle ties",
+      "Pantyhose clips",
+      "Stocking clips",
+      "Garter belt"
+    ],
+    "latency_ms": 3970.381259918213,
+    "total_tokens": 129,
+    "prompt_tokens": 97,
+    "completion_tokens": 32
+  },
+  {
+    "keyword": "얼룩 제거 펜",
+    "expanded": [
+      "fuzz remover",
+      "fur cleaner",
+      "coat cleaning pen",
+      "pet hair removal tool",
+      "stain remover for fur",
+      "car interior cleaning pen",
+      "leather conditioner",
+      "car upholstery cleaner",
+      "stain remover for carpets"
+    ],
+    "latency_ms": 6256.524324417114,
+    "total_tokens": 171,
+    "prompt_tokens": 102,
+    "completion_tokens": 69
+  },
+  {
+    "keyword": "커튼",
+    "expanded": [
+      "curtain",
+      "drapery",
+      "blinds",
+      "window treatment",
+      "fabric",
+      "bedroom decor",
+      "living room decor"
+    ],
+    "latency_ms": 5321.118354797363,
+    "total_tokens": 144,
+    "prompt_tokens": 97,
+    "completion_tokens": 47
+  },
+  {
+    "keyword": "허리 줄이는 핀",
+    "expanded": [
+      "hip belt clip",
+      "waist clip",
+      "pin for pants belt",
+      "belt buckle",
+      "accessory for pants",
+      "clasp for waistband",
+      "pin for belts",
+      "waist belt fastener",
+      "fastening device for pants"
+    ],
+    "latency_ms": 6313.778400421143,
+    "total_tokens": 172,
+    "prompt_tokens": 101,
+    "completion_tokens": 71
+  },
+  {
+    "keyword": "빨래 바구니",
+    "expanded": [
+      "laundry basket",
+      "washing hamper",
+      "clothing hamper",
+      "drying rack basket",
+      "laundry storage container",
+      "washstand basket",
+      "hamper for clothes",
+      "storage bin for laundry",
+      "woven laundry basket"
+    ],
+    "latency_ms": 6228.07502746582,
+    "total_tokens": 170,
+    "prompt_tokens": 100,
+    "completion_tokens": 70
+  },
+  {
+    "keyword": "신발",
+    "expanded": [
+      "footwear",
+      "shoes",
+      "socks",
+      "insoles",
+      "slipper",
+      "loafers",
+      "dress shoes",
+      "high heels",
+      "casual shoes"
+    ],
+    "latency_ms": 4481.366157531738,
+    "total_tokens": 141,
+    "prompt_tokens": 97,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "주방 가위",
+    "expanded": [
+      "kitchen scissors",
+      "cutting board scraper",
+      "pasta cutter",
+      "vegetable peeler",
+      "plastic knife sharpener",
+      "knife honing stone",
+      "table knife sharpener"
+    ],
+    "latency_ms": 5492.248296737671,
+    "total_tokens": 157,
+    "prompt_tokens": 99,
+    "completion_tokens": 58
+  },
+  {
+    "keyword": "기름 방지",
+    "expanded": [
+      "anti-friction",
+      "lube",
+      "grease",
+      "silicone spray",
+      "lubricant",
+      "dry lubricant",
+      "tire dressing",
+      "metal protector",
+      "rust inhibitor",
+      "corrosion prevention"
+    ],
+    "latency_ms": 5041.577577590942,
+    "total_tokens": 150,
+    "prompt_tokens": 99,
+    "completion_tokens": 51
+  },
+  {
+    "keyword": "분무기",
+    "expanded": [
+      "diving mask",
+      "scuba gear",
+      "dive equipment",
+      "underwater goggles",
+      "fins",
+      "snorkeling gear",
+      "swimming accessories"
+    ],
+    "latency_ms": 5285.547733306885,
+    "total_tokens": 150,
+    "prompt_tokens": 98,
+    "completion_tokens": 52
+  },
+  {
+    "keyword": "상토",
+    "expanded": [
+      "soil",
+      "garden soil",
+      "compost",
+      "fertilizer",
+      "soil conditioner",
+      "gardening supply",
+      "potted plant care",
+      "houseplant fertilizer",
+      "organic gardening"
+    ],
+    "latency_ms": 4819.389820098877,
+    "total_tokens": 145,
+    "prompt_tokens": 97,
+    "completion_tokens": 48
+  },
+  {
+    "keyword": "보풀 제거기",
+    "expanded": [
+      "bo polish",
+      "black polish",
+      "nail care",
+      "nail cleaning",
+      "hand care",
+      "beauty supplies",
+      "korean beauty products",
+      "skincare routine",
+      "nail art"
+    ],
+    "latency_ms": 5073.922872543335,
+    "total_tokens": 149,
+    "prompt_tokens": 101,
+    "completion_tokens": 48
+  },
+  {
+    "keyword": "빨래 건조대 발",
+    "expanded": [
+      "건조대",
+      "발건조대",
+      "빨래건조대",
+      "발건조기",
+      "건조기",
+      "빨래건조용기",
+      "발건조용기",
+      "건조용기",
+      "건조대 발",
+      "빨래 건조대"
+    ],
+    "latency_ms": 7177.963733673096,
+    "total_tokens": 188,
+    "prompt_tokens": 101,
+    "completion_tokens": 87
+  },
+  {
+    "keyword": "창문 잠금 장치",
+    "expanded": [
+      "window lock",
+      "blinds lock",
+      "sliding door lock",
+      "curtain rod lock",
+      "slide curtain lock",
+      "lock for sliding doors",
+      "window blind lock",
+      "security lock for windows",
+      "locking system for blinds",
+      "auto window lock"
+    ],
+    "latency_ms": 6501.777648925781,
+    "total_tokens": 175,
+    "prompt_tokens": 101,
+    "completion_tokens": 74
+  },
+  {
+    "keyword": "동전 건전지",
+    "expanded": [
+      "coin battery",
+      "watch battery",
+      "battery cells",
+      "electric coin batteries",
+      "copper-oxide batteries"
+    ],
+    "latency_ms": 3940.289258956909,
+    "total_tokens": 128,
+    "prompt_tokens": 100,
+    "completion_tokens": 28
+  },
+  {
+    "keyword": "건전지",
+    "expanded": [
+      "건전자",
+      " batterie",
+      "수동 전력 source",
+      "전력 source",
+      "스무디 Batterie",
+      "건전지",
+      "이온 건전지",
+      "고인화 건전지"
+    ],
+    "latency_ms": 6187.240839004517,
+    "total_tokens": 171,
+    "prompt_tokens": 98,
+    "completion_tokens": 73
+  },
+  {
+    "keyword": "동전지갑",
+    "expanded": [
+      "coin purse",
+      "money pouch",
+      "wallet",
+      "pocket wallet",
+      "small bag",
+      "purse",
+      "coin case",
+      "wallet chain",
+      "pocket money bag"
+    ],
+    "latency_ms": 5221.789121627808,
+    "total_tokens": 156,
+    "prompt_tokens": 99,
+    "completion_tokens": 57
+  },
+  {
+    "keyword": "연필꽂이",
+    "expanded": [
+      "pen holder",
+      "desk organizer",
+      "stationery box",
+      "stationery storage",
+      "office supply organizer",
+      "paperweight",
+      "writing desk accessory",
+      "pencil case",
+      " Desk pen cup"
+    ],
+    "latency_ms": 6391.015291213989,
+    "total_tokens": 169,
+    "prompt_tokens": 100,
+    "completion_tokens": 69
+  },
+  {
+    "keyword": "미끄럼방지패드",
+    "expanded": [
+      "skateboard grip",
+      "roller skate pad",
+      "inline skate tape",
+      "rollerblade grip",
+      "skateboarding grip tape",
+      "skate shoe griptape",
+      "skate protection tape",
+      "roller skate protective pad",
+      "aggressive skateboard grip",
+      "hardwood skateboard tape"
+    ],
+    "latency_ms": 6565.07420539856,
+    "total_tokens": 184,
+    "prompt_tokens": 103,
+    "completion_tokens": 81
+  },
+  {
+    "keyword": "여권케이스",
+    "expanded": [
+      "여권 가방",
+      "여권 지갑",
+      "여권 보관용품",
+      "여권 포트폴리오",
+      "여권 카드",
+      "여권 세일스키트",
+      "여권 수집가용품",
+      "여권 여행용품",
+      "여권 스타지너",
+      "여권 비치백"
+    ],
+    "latency_ms": 7973.727703094482,
+    "total_tokens": 196,
+    "prompt_tokens": 99,
+    "completion_tokens": 97
+  },
+  {
+    "keyword": "미술용품",
+    "expanded": [
+      "Art supplies",
+      "Drawing materials",
+      "Painting tools",
+      "Coloring books",
+      "Drawing pads",
+      "Sketchbooks",
+      "Markers",
+      "Colored pencils",
+      "Crayons",
+      "Paper crafts"
+    ],
+    "latency_ms": 6723.982810974121,
+    "total_tokens": 162,
+    "prompt_tokens": 99,
+    "completion_tokens": 63
+  },
+  {
+    "keyword": "바닥 매트",
+    "expanded": [
+      "floor mat",
+      "carpet",
+      "rug",
+      "floor covering",
+      "matting material",
+      "mattress pad",
+      "indoor carpeting",
+      "room decor",
+      "home furnishings"
+    ],
+    "latency_ms": 6249.58348274231,
+    "total_tokens": 158,
+    "prompt_tokens": 99,
+    "completion_tokens": 59
+  },
+  {
+    "keyword": "고정하는 거",
+    "expanded": [
+      "고정대기",
+      "해당尺寸의 보관용품",
+      "보관용품",
+      "고정수리용품",
+      "고정대기용품",
+      "도장용품",
+      "수리용품",
+      "고정대기용인물",
+      "고정수리용인물",
+      "부착용품"
+    ],
+    "latency_ms": 7599.58553314209,
+    "total_tokens": 194,
+    "prompt_tokens": 99,
+    "completion_tokens": 95
+  },
+  {
+    "keyword": "발판",
+    "expanded": [
+      "sole",
+      "insole",
+      "footbed",
+      "arch support",
+      "insert",
+      "foot care",
+      "orthotics",
+      "shoe inserts",
+      "foot cushion"
+    ],
+    "latency_ms": 6195.063352584839,
+    "total_tokens": 159,
+    "prompt_tokens": 97,
+    "completion_tokens": 62
+  },
+  {
+    "keyword": "서랍 잠금장치",
+    "expanded": [
+      "dresser lock",
+      "wardrobe lock",
+      "storage locker",
+      "desk organizer lock",
+      "file cabinet lock",
+      "secure storage solutions",
+      "lock for drawer",
+      "safe box for closet",
+      "security storage options"
+    ],
+    "latency_ms": 5737.154722213745,
+    "total_tokens": 165,
+    "prompt_tokens": 101,
+    "completion_tokens": 64
+  },
+  {
+    "keyword": "샤워기 헤드",
+    "expanded": [
+      "シャワーヘッド",
+      "シャowerヘッド",
+      "ヘッドシフォナー",
+      "ヘッドカバー",
+      "シャowerハンドル",
+      "シャ Showerヘッド",
+      "ビニールシャOWERヘッド",
+      "プラスティックシャOWERヘッド",
+      "シャOWERヘッド Replacement",
+      "シャOWERヘッドリピacement"
+    ],
+    "latency_ms": 5882.405757904053,
+    "total_tokens": 168,
+    "prompt_tokens": 100,
+    "completion_tokens": 68
+  },
+  {
+    "keyword": "정리용품",
+    "expanded": [
+      " organizers",
+      "storage solutions",
+      " desk organizers",
+      " office supplies",
+      " stationery",
+      " paper organizers",
+      " file holders",
+      " cable management",
+      " desk trays",
+      " desk accessories"
+    ],
+    "latency_ms": 5349.34139251709,
+    "total_tokens": 158,
+    "prompt_tokens": 99,
+    "completion_tokens": 59
+  },
+  {
+    "keyword": "클레이",
+    "expanded": [
+      " Modeling clay",
+      "Air-dry clay",
+      "Modeling material",
+      "Toy making clay",
+      "Craft supply",
+      "Korean art supplies",
+      "Pottery making tools",
+      "DIY craft kit",
+      "Children's art projects",
+      "Handmade craft materials"
+    ],
+    "latency_ms": 6452.367544174194,
+    "total_tokens": 171,
+    "prompt_tokens": 97,
+    "completion_tokens": 74
+  },
+  {
+    "keyword": "기름종이",
+    "expanded": [
+      "oil",
+      "lubricant",
+      "engine oil",
+      "motor oil",
+      "automotive oil",
+      "industrial lubricants",
+      "grease",
+      "synthetic oil",
+      "diesel oil",
+      "lubricating oils"
+    ],
+    "latency_ms": 6935.710906982422,
+    "total_tokens": 175,
+    "prompt_tokens": 99,
+    "completion_tokens": 76
+  },
+  {
+    "keyword": "운동화 끈 고정",
+    "expanded": [
+      "運動鞋綁帶",
+      "運動靴綁帶",
+      "跑步鞋綁帶",
+      "運動足wear綁帶",
+      "運動機器綁帶"
+    ],
+    "latency_ms": 4301.3293743133545,
+    "total_tokens": 140,
+    "prompt_tokens": 101,
+    "completion_tokens": 39
+  },
+  {
+    "keyword": "휴대폰 거치대",
+    "expanded": [
+      "携帯電話 抱持器",
+      "携帯電話 竹立",
+      "携帯電話 床下座",
+      "携帯電話 押し台",
+      "携帯電話 叩子",
+      "携帯電話 座位器",
+      "携帯電話 休息台",
+      "携帯電話 抱持器具"
+    ],
+    "latency_ms": 6687.593460083008,
+    "total_tokens": 190,
+    "prompt_tokens": 101,
+    "completion_tokens": 89
+  },
+  {
+    "keyword": "렌즈 세척액",
+    "expanded": [
+      "lens cleaning solution",
+      "眼镜清洁剂",
+      "eyeglass cleaner",
+      "glasses cleaner",
+      "contact lens cleaner",
+      "レンズ清洁液",
+      "Lens Care Fluid"
+    ],
+    "latency_ms": 5051.932811737061,
+    "total_tokens": 146,
+    "prompt_tokens": 101,
+    "completion_tokens": 45
+  },
+  {
+    "keyword": "컵",
+    "expanded": [
+      "cup",
+      "coffee cup",
+      "tea cup",
+      "mug",
+      "plate",
+      "bowl",
+      "snack container",
+      "lunch box",
+      "gift box"
+    ],
+    "latency_ms": 5950.931549072266,
+    "total_tokens": 152,
+    "prompt_tokens": 97,
+    "completion_tokens": 55
+  },
+  {
+    "keyword": "식탁매트",
+    "expanded": [
+      "tablecloth",
+      "rug",
+      "floor mat",
+      "indoor rug",
+      "mat",
+      "carpet",
+      "decorative mat",
+      "thrift store finds",
+      "affordable rugs"
+    ],
+    "latency_ms": 4878.458738327026,
+    "total_tokens": 143,
+    "prompt_tokens": 99,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "휴지케이스",
+    "expanded": [
+      "tissue box",
+      "paper cup holder",
+      "stationery case",
+      "office supply container",
+      "desk organizer",
+      "waste basket",
+      "recycling bin",
+      " stationery storage",
+      "pencil holder"
+    ],
+    "latency_ms": 5506.76155090332,
+    "total_tokens": 162,
+    "prompt_tokens": 99,
+    "completion_tokens": 63
+  },
+  {
+    "keyword": "생활용품",
+    "expanded": [
+      "生活用具",
+      "日用品",
+      "家用製品",
+      "日用品購買",
+      "生活必需品",
+      "家庭用品",
+      "日常用品",
+      "生活館",
+      "日用品購入",
+      "生活用具購買"
+    ],
+    "latency_ms": 6367.166757583618,
+    "total_tokens": 171,
+    "prompt_tokens": 98,
+    "completion_tokens": 73
+  },
+  {
+    "keyword": "선물 포장 리본",
+    "expanded": [
+      "선물 포장",
+      "포장용 리본",
+      "선물 포장에 사용하는 리본",
+      "선물 포장 accessory",
+      "선물 포장 용품",
+      "선물 포장 데coration",
+      "선물 포장 아이템",
+      "선물 포장 phụ",
+      "선물 포장 용지",
+      "선물 포장 가위"
+    ],
+    "latency_ms": 7692.608833312988,
+    "total_tokens": 199,
+    "prompt_tokens": 101,
+    "completion_tokens": 98
+  },
+  {
+    "keyword": "물병 고정대",
+    "expanded": [
+      "water bottle holder",
+      "desk water bottle stand",
+      "office supply",
+      "stationery organizer",
+      "desktop water container",
+      "cup holder",
+      "office desk accessory",
+      "workplace organizer",
+      "stationary holder",
+      "water bottle rack"
+    ],
+    "latency_ms": 5852.412939071655,
+    "total_tokens": 169,
+    "prompt_tokens": 100,
+    "completion_tokens": 69
+  },
+  {
+    "keyword": "전자레인지용 그릇",
+    "expanded": [
+      "전자레인저 용 부엌",
+      "에스ential 용 부엌",
+      "전자레인저용 dish",
+      "전자레인저용 plate",
+      "dish for electronic range",
+      "electric range dish",
+      "plate for electric oven",
+      "electronic range cookware",
+      "cooking vessel for electronic range"
+    ],
+    "latency_ms": 6636.667013168335,
+    "total_tokens": 189,
+    "prompt_tokens": 103,
+    "completion_tokens": 86
+  },
+  {
+    "keyword": "헤어드라이기",
+    "expanded": [
+      "hair dryer",
+      "electrical hair dryer",
+      "hair styling tools",
+      "beauty appliances",
+      "salon quality hair dryers"
+    ],
+    "latency_ms": 4118.048667907715,
+    "total_tokens": 133,
+    "prompt_tokens": 100,
+    "completion_tokens": 33
+  },
+  {
+    "keyword": "젤리",
+    "expanded": [
+      "gel polish",
+      "nail art supplies",
+      "colorful nail polish",
+      "acrylic gel",
+      "nail gel sticks",
+      "glossy gel polish",
+      "long-lasting gel polish",
+      "gel base coat"
+    ],
+    "latency_ms": 6032.559633255005,
+    "total_tokens": 168,
+    "prompt_tokens": 98,
+    "completion_tokens": 70
+  },
+  {
+    "keyword": "콧받침",
+    "expanded": [
+      "Nasal Strips",
+      "Snore Relief",
+      "Sleep Aid",
+      "Allergy Relief",
+      "Sneezing Help",
+      "Cold and Flu Treatment",
+      "Congestion Relief",
+      "Sinus Care",
+      "Respiratory Health",
+      "Snore Reducer"
+    ],
+    "latency_ms": 7118.054628372192,
+    "total_tokens": 183,
+    "prompt_tokens": 99,
+    "completion_tokens": 84
+  },
+  {
+    "keyword": "욕실 실리콘",
+    "expanded": [
+      "bathtub silicone",
+      "bath mat",
+      "shower curtain",
+      "sink basin sealant",
+      "bathroom caulk",
+      "silicone bath trim",
+      "yotserul silicon",
+      "bathroom silicone accessories",
+      "kitchen sink silicone seal"
+    ],
+    "latency_ms": 6003.467798233032,
+    "total_tokens": 172,
+    "prompt_tokens": 100,
+    "completion_tokens": 72
+  },
+  {
+    "keyword": "문 스토퍼",
+    "expanded": [
+      "문 스토퍼 가격",
+      "문 스토퍼ขนาด",
+      "문 스토퍼 종류",
+      "문 스토퍼 구매",
+      "문 스토퍼 재 chế",
+      "문 스토퍼 판매",
+      "문 스토퍼 리뷰"
+    ],
+    "latency_ms": 6292.69552230835,
+    "total_tokens": 186,
+    "prompt_tokens": 101,
+    "completion_tokens": 85
+  },
+  {
+    "keyword": "방향제",
+    "expanded": [
+      "incense",
+      "fragrance oil",
+      "smokeless incense",
+      "scented stick incense",
+      "traditional incense",
+      "Japanese incense",
+      "aroma powder",
+      "incense sticks for home",
+      "office air freshener",
+      "gift ideas"
+    ],
+    "latency_ms": 6625.663757324219,
+    "total_tokens": 174,
+    "prompt_tokens": 98,
+    "completion_tokens": 76
+  },
+  {
+    "keyword": "스테인리스 빨대",
+    "expanded": [
+      "stainless steel pipe",
+      "galvanized pipe",
+      "black pipe",
+      "copper pipe",
+      "pipe fittings",
+      "pipe wrench",
+      "drain cleaner",
+      "plumbing supplies",
+      "handheld showerhead",
+      "shower head attachment"
+    ],
+    "latency_ms": 6398.406744003296,
+    "total_tokens": 172,
+    "prompt_tokens": 102,
+    "completion_tokens": 70
+  },
+  {
+    "keyword": "발매트",
+    "expanded": [
+      "release belt",
+      "waist trainer",
+      "corset",
+      "tight waist",
+      "slimming belt",
+      "belly cincher",
+      "postpartum support",
+      "back support"
+    ],
+    "latency_ms": 4756.555795669556,
+    "total_tokens": 140,
+    "prompt_tokens": 97,
+    "completion_tokens": 43
+  },
+  {
+    "keyword": "샴푸통",
+    "expanded": [
+      "shampoo bottle",
+      "hand wash bottle",
+      "soap dispenser",
+      "face wash container",
+      "body wash jar",
+      "kitchen sink organizer",
+      "bathroom storage"
+    ],
+    "latency_ms": 4233.072280883789,
+    "total_tokens": 139,
+    "prompt_tokens": 99,
+    "completion_tokens": 40
+  },
+  {
+    "keyword": "물기 닦는 거",
+    "expanded": [
+      "ink remover",
+      "waterproof marker cleaner",
+      "pen cleaning liquid",
+      "ink stain remover",
+      "tombow waterbased eraser"
+    ],
+    "latency_ms": 4107.470273971558,
+    "total_tokens": 135,
+    "prompt_tokens": 101,
+    "completion_tokens": 34
+  },
+  {
+    "keyword": "헤어밴드",
+    "expanded": [
+      "hair clips",
+      "barrette",
+      "hair pins",
+      "hair ties",
+      "clips for hair",
+      "hair accessories",
+      "headband",
+      "hair holder",
+      "styling clips"
+    ],
+    "latency_ms": 5213.640928268433,
+    "total_tokens": 158,
+    "prompt_tokens": 100,
+    "completion_tokens": 58
+  },
+  {
+    "keyword": "전선정리",
+    "expanded": [
+      "cableorganizer",
+      "cablemanagement",
+      "cordholder",
+      "chargerstand",
+      "phoneadapter",
+      "computeradapter",
+      "powerbankholder",
+      "headphonestand",
+      "earbudsstand",
+      "travelaccessory"
+    ],
+    "latency_ms": 6133.707284927368,
+    "total_tokens": 168,
+    "prompt_tokens": 99,
+    "completion_tokens": 69
+  },
+  {
+    "keyword": "강아지 간식",
+    "expanded": [
+      "dog treats",
+      "korean dog snacks",
+      "puppy food",
+      "canine treats",
+      "dog biscuits",
+      "pet food",
+      "animal snacks",
+      "dog chews",
+      "korean pet food"
+    ],
+    "latency_ms": 5606.1882972717285,
+    "total_tokens": 162,
+    "prompt_tokens": 100,
+    "completion_tokens": 62
+  },
+  {
+    "keyword": "수건걸이",
+    "expanded": [
+      "face mask",
+      "korean face mask",
+      "beauty mask",
+      "skincare mask",
+      "silk face mask",
+      "cotton face mask",
+      "makeup remover",
+      "skin toner",
+      "cleansing wipe"
+    ],
+    "latency_ms": 6573.40931892395,
+    "total_tokens": 175,
+    "prompt_tokens": 99,
+    "completion_tokens": 76
+  },
+  {
+    "keyword": "메꿈이",
+    "expanded": [
+      "improvement",
+      "self-improvement",
+      "personal growth",
+      "motivation",
+      "inspiration",
+      "goal setting",
+      "productivity",
+      "mental health",
+      "wellness"
+    ],
+    "latency_ms": 5121.773242950439,
+    "total_tokens": 146,
+    "prompt_tokens": 99,
+    "completion_tokens": 47
+  },
+  {
+    "keyword": "우산",
+    "expanded": [
+      " parasol",
+      "umbrella",
+      "sun shelter",
+      "weather protection",
+      "outdoor shade",
+      "gift item",
+      "accessory",
+      "spring and summer accessory"
+    ],
+    "latency_ms": 4326.132774353027,
+    "total_tokens": 137,
+    "prompt_tokens": 97,
+    "completion_tokens": 40
+  },
+  {
+    "keyword": "층간소음 방지 패드",
+    "expanded": [
+      "earplugs",
+      "noise-cancelling pad",
+      "soundproofing pad",
+      "study aid",
+      "office accessory",
+      "headphone pad",
+      "background noise reduction",
+      "quiet time tool",
+      "focus enhancer",
+      "concentration aid"
+    ],
+    "latency_ms": 6260.191917419434,
+    "total_tokens": 175,
+    "prompt_tokens": 104,
+    "completion_tokens": 71
+  },
+  {
+    "keyword": "용기",
+    "expanded": [
+      "inkwell",
+      "desk pen holder",
+      "stationery container",
+      "writing desk organizer",
+      "office supply box",
+      "paperweight",
+      "pen tray",
+      "pencil case",
+      "desk accessories"
+    ],
+    "latency_ms": 5340.654373168945,
+    "total_tokens": 157,
+    "prompt_tokens": 97,
+    "completion_tokens": 60
+  },
+  {
+    "keyword": "빨래망",
+    "expanded": [
+      "laundry basket",
+      "washing container",
+      "drying rack",
+      "clothing hanger",
+      "hanging organizer",
+      "storage basket",
+      "foldable laundry stand",
+      "mesh laundry bag",
+      "carpet drying mat"
+    ],
+    "latency_ms": 6024.395704269409,
+    "total_tokens": 163,
+    "prompt_tokens": 98,
+    "completion_tokens": 65
+  },
+  {
+    "keyword": "나무 뒤집개",
+    "expanded": [
+      "pencil sharpener",
+      "wooden pencil sharpener",
+      "office supply store",
+      "stationery shop",
+      "crafting tools",
+      "art supplies",
+      "school desk accessories",
+      "writing utensils",
+      "office organization",
+      "stationery storage"
+    ],
+    "latency_ms": 6604.823350906372,
+    "total_tokens": 180,
+    "prompt_tokens": 100,
+    "completion_tokens": 80
+  },
+  {
+    "keyword": "압축팩",
+    "expanded": [
+      "air freshener",
+      "air freshening packets",
+      "car air fresheners",
+      "room deodorizer",
+      "indoor air purifier",
+      "smoke detector",
+      "ventilation stickers",
+      "air quality indicator",
+      "fresh air booster",
+      "air freshness booster"
+    ],
+    "latency_ms": 6063.685655593872,
+    "total_tokens": 174,
+    "prompt_tokens": 99,
+    "completion_tokens": 75
+  },
+  {
+    "keyword": "하수구 뚫는 세제",
+    "expanded": [
+      "hair cutting soap",
+      "scissors cleaning soap",
+      "hair dye removal soap",
+      "barber scissors cleaner",
+      "scissor sharpener soap"
+    ],
+    "latency_ms": 4215.722322463989,
+    "total_tokens": 138,
+    "prompt_tokens": 104,
+    "completion_tokens": 34
+  },
+  {
+    "keyword": "선정리함",
+    "expanded": [
+      "pen holder",
+      "desk organizer",
+      "stationery box",
+      "office supply box",
+      "stationery cup",
+      "desk tray",
+      "paperclip container",
+      "notebook stand",
+      "desk caddy",
+      "stationery storage"
+    ],
+    "latency_ms": 6248.757362365723,
+    "total_tokens": 166,
+    "prompt_tokens": 99,
+    "completion_tokens": 67
+  },
+  {
+    "keyword": "귀마개",
+    "expanded": [
+      "window blind",
+      " curtains",
+      "shoji screen",
+      "foldable window panel",
+      "sliding door panel",
+      "room divider",
+      "decorative wall hanging",
+      "traditional Japanese decor"
+    ],
+    "latency_ms": 4812.238931655884,
+    "total_tokens": 142,
+    "prompt_tokens": 98,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "에어프라이어 종이",
+    "expanded": [
+      "종이 에어프라이어",
+      "인스턴트 에어프ライ어 종이",
+      "에어프라이어 종이",
+      "종이 에어프라이어",
+      "인스턴트 에어프라이어",
+      "에어프라이어",
+      "종이 인스턴트 에어프라이어",
+      "종이 에어프라이어용 종이",
+      "인스턴트 종이"
+    ],
+    "latency_ms": 9267.441272735596,
+    "total_tokens": 220,
+    "prompt_tokens": 102,
+    "completion_tokens": 118
+  },
+  {
+    "keyword": "아기용품",
+    "expanded": [
+      "Infant products",
+      "Baby care",
+      "Kids stationery",
+      "Kiddie supplies",
+      "Toy storage",
+      "Baby essentials",
+      "Childcare items",
+      "Diapering accessories",
+      "Baby nursery furniture"
+    ],
+    "latency_ms": 5094.607591629028,
+    "total_tokens": 148,
+    "prompt_tokens": 99,
+    "completion_tokens": 49
+  },
+  {
+    "keyword": "숨김 용품",
+    "expanded": [
+      "secret storage",
+      "hidden compartment",
+      "discreet bag",
+      "travel accessories",
+      "organization tools",
+      "mini storage containers",
+      "small storage boxes",
+      "travel organizers",
+      "personal storage",
+      "mobile desk organizers"
+    ],
+    "latency_ms": 6083.432674407959,
+    "total_tokens": 164,
+    "prompt_tokens": 99,
+    "completion_tokens": 65
+  },
+  {
+    "keyword": "고데기받침",
+    "expanded": [
+      "Orthopedic pillow",
+      "Slipper cushion",
+      "Footrest pillow",
+      "Elderly care products",
+      "Comforting sleeping aid",
+      "Korean orthopedic pillow",
+      "Home care accessories"
+    ],
+    "latency_ms": 4626.9471645355225,
+    "total_tokens": 148,
+    "prompt_tokens": 100,
+    "completion_tokens": 48
+  },
+  {
+    "keyword": "네임 스티커",
+    "expanded": [
+      "label maker",
+      "stickers",
+      "name tag",
+      "tag maker",
+      "address label",
+      "sticky note",
+      "adhesive dot",
+      "postage stamp",
+      "index card holder",
+      "office supply"
+    ],
+    "latency_ms": 6414.864301681519,
+    "total_tokens": 174,
+    "prompt_tokens": 102,
+    "completion_tokens": 72
+  },
+  {
+    "keyword": "침대 시트 고정 집게",
+    "expanded": [
+      "bed sheet fixer",
+      "fitted sheet clip",
+      "bed frame clip",
+      "mattress clip",
+      "sheet stabilizer"
+    ],
+    "latency_ms": 4150.367259979248,
+    "total_tokens": 135,
+    "prompt_tokens": 103,
+    "completion_tokens": 32
+  },
+  {
+    "keyword": "화장품 공병",
+    "expanded": [
+      "beauty products",
+      "cosmetics containers",
+      "makeup bottles",
+      "eyeshadow palettes",
+      "lip gloss containers",
+      "hair care containers",
+      "skincare samples",
+      "sample size cosmetics",
+      "mini beauty products"
+    ],
+    "latency_ms": 4806.873321533203,
+    "total_tokens": 151,
+    "prompt_tokens": 100,
+    "completion_tokens": 51
+  },
+  {
+    "keyword": "무선 마우스",
+    "expanded": [
+      "wireless mouse",
+      "electric mouse",
+      "mouse pointer",
+      "computer mouse",
+      "laptop mouse",
+      "touchpad replacement",
+      "mouse accessories",
+      "mouse cases",
+      "gaming mouse",
+      " wireless gaming mouse"
+    ],
+    "latency_ms": 4977.700233459473,
+    "total_tokens": 148,
+    "prompt_tokens": 99,
+    "completion_tokens": 49
+  },
+  {
+    "keyword": "집게",
+    "expanded": [
+      "house opener",
+      "key holder",
+      "door stopper",
+      "door knob cover",
+      "key holder for door",
+      "house key holder",
+      "door catch",
+      "door hardware",
+      "house key holder with hook",
+      "door handle accessory"
+    ],
+    "latency_ms": 5863.385200500488,
+    "total_tokens": 166,
+    "prompt_tokens": 97,
+    "completion_tokens": 69
+  },
+  {
+    "keyword": "스트레스 해소 용품",
+    "expanded": [
+      "스트레스 해소 제품",
+      "stress relief products",
+      "안정화 용품",
+      "calming products",
+      " relaxation tools",
+      "스트레스 해소 도구",
+      "stress management products",
+      "안정화 도구",
+      "mindfulness products",
+      "스트레스 해소 물품"
+    ],
+    "latency_ms": 6900.803804397583,
+    "total_tokens": 182,
+    "prompt_tokens": 101,
+    "completion_tokens": 81
+  },
+  {
+    "keyword": "안경 닦는 천",
+    "expanded": [
+      "안경 청소 도구",
+      "안경 닦아 주기",
+      "안경 소독",
+      "안경 수리품",
+      "안경 청소용지",
+      "안경 보호 장치",
+      "안경 교체 용도",
+      "안경 자제品"
+    ],
+    "latency_ms": 7055.331707000732,
+    "total_tokens": 185,
+    "prompt_tokens": 101,
+    "completion_tokens": 84
+  },
+  {
+    "keyword": "양면테이프",
+    "expanded": [
+      "double-sided tape",
+      "adhesive roll",
+      "crafting tape",
+      "hobby tape",
+      "scrapbooking adhesive",
+      "packaging tape",
+      "DIY tape"
+    ],
+    "latency_ms": 4258.5768699646,
+    "total_tokens": 141,
+    "prompt_tokens": 100,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "냄비손잡이",
+    "expanded": [
+      "Japanese pot",
+      "Stainless steel pot",
+      "Handy pot",
+      "Portable stove pot",
+      "Travel pot",
+      "Pot lid",
+      "Cooking pot for camping",
+      "Small cooking pot",
+      "Collapsible pot"
+    ],
+    "latency_ms": 5800.583600997925,
+    "total_tokens": 165,
+    "prompt_tokens": 101,
+    "completion_tokens": 64
+  },
+  {
+    "keyword": "덧신",
+    "expanded": [
+      " phụ kiện",
+      " trang sức",
+      " đồ trang sức",
+      " đồ đeo",
+      " phụ kiện nữ",
+      " phụ kiện nam",
+      " trang sức nữ",
+      " trang sức nam",
+      " đồ trang sức nữ",
+      " đồ trang sức nam"
+    ],
+    "latency_ms": 6365.125417709351,
+    "total_tokens": 168,
+    "prompt_tokens": 98,
+    "completion_tokens": 70
+  },
+  {
+    "keyword": "종이 쇼핑백",
+    "expanded": [
+      "paper shopping bag",
+      "plastic shopping bag",
+      "reusable shopping bag",
+      "shopping tote bag",
+      "packaging material",
+      "gift wrapping paper",
+      "stationery supplies",
+      "office organizers",
+      "crafting materials",
+      "ecological packaging"
+    ],
+    "latency_ms": 6383.340835571289,
+    "total_tokens": 171,
+    "prompt_tokens": 100,
+    "completion_tokens": 71
+  },
+  {
+    "keyword": "립밤",
+    "expanded": [
+      "nightlight",
+      "table lamp",
+      "reading light",
+      "string light",
+      "mason jar nightlight",
+      "glass jar nightlight",
+      "candle holder"
+    ],
+    "latency_ms": 4075.4964351654053,
+    "total_tokens": 137,
+    "prompt_tokens": 99,
+    "completion_tokens": 38
+  },
+  {
+    "keyword": "돌돌이 리필",
+    "expanded": [
+      " refill",
+      "dol Dol refill",
+      "Dol refill",
+      "Rice refills",
+      "Japanese rice refills",
+      "Asian food refills",
+      "Ceramic refill containers",
+      "Kitchen storage"
+    ],
+    "latency_ms": 4844.536066055298,
+    "total_tokens": 147,
+    "prompt_tokens": 100,
+    "completion_tokens": 47
+  },
+  {
+    "keyword": "발뒤꿈치 미는 거",
+    "expanded": [
+      "足部护理",
+      "脚趾清洁",
+      "발목疼痛",
+      "足部干燥",
+      "足底疼痛",
+      "足部护肤",
+      "腓骨疼痛",
+      "足部 moisturizing",
+      " 발뒤꿈치 습식제",
+      "足部护理产品"
+    ],
+    "latency_ms": 6958.88876914978,
+    "total_tokens": 200,
+    "prompt_tokens": 105,
+    "completion_tokens": 95
+  },
+  {
+    "keyword": "메모판",
+    "expanded": [
+      "notebook",
+      "memo book",
+      "notepad",
+      "stationery notebook",
+      "office supplies notebook",
+      "writing pad",
+      "paper notebook",
+      "planner notebook",
+      "paper memo"
+    ],
+    "latency_ms": 5690.662622451782,
+    "total_tokens": 156,
+    "prompt_tokens": 98,
+    "completion_tokens": 58
+  },
+  {
+    "keyword": "탈취제",
+    "expanded": [
+      "catching agent",
+      "detective kit",
+      "bug catcher",
+      "insect trap",
+      "ant control",
+      "pest repellent",
+      "detector spray",
+      "trap solution",
+      "insecticide spray",
+      "household pest control"
+    ],
+    "latency_ms": 4307.679653167725,
+    "total_tokens": 142,
+    "prompt_tokens": 98,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "손톱 정리 세트",
+    "expanded": [
+      "手指夾",
+      "手指夾套",
+      "指甲削除器",
+      "手指清潔kit",
+      "指甲切断工具",
+      "手指雜碎",
+      "指甲修整-kit",
+      "手指美容道具"
+    ],
+    "latency_ms": 6757.887125015259,
+    "total_tokens": 185,
+    "prompt_tokens": 102,
+    "completion_tokens": 83
+  },
+  {
+    "keyword": "방충망 스티커",
+    "expanded": [
+      "mosquito net",
+      "insect screen sticker",
+      "screen protector",
+      "room mosquito repellent",
+      "window insect barrier",
+      "sticker window guard",
+      "door fly repellent",
+      "house insect netting",
+      "sticker room divider",
+      "indoor outdoor insect net"
+    ],
+    "latency_ms": 6805.14931678772,
+    "total_tokens": 180,
+    "prompt_tokens": 103,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "가방커버",
+    "expanded": [
+      "가방 커버 사치가방",
+      "가방 커버 스타일",
+      "가방 커버 색상",
+      "가방 커버 가격",
+      "가방 커버 mẫu",
+      "가방 커버 디자인",
+      "가방 커버용품",
+      "가방 커버 가위",
+      "가방 커버 지문",
+      "가방 커버 교환"
+    ],
+    "latency_ms": 8136.492729187012,
+    "total_tokens": 201,
+    "prompt_tokens": 99,
+    "completion_tokens": 102
+  },
+  {
+    "keyword": "다이어리 펀치",
+    "expanded": [
+      "notebook",
+      "pencil case",
+      "stationery set",
+      "diary",
+      "school supplies",
+      "office accessories",
+      "writing utensils",
+      "notebook paper",
+      "ink pens"
+    ],
+    "latency_ms": 5825.006484985352,
+    "total_tokens": 160,
+    "prompt_tokens": 101,
+    "completion_tokens": 59
+  },
+  {
+    "keyword": "도시락틀",
+    "expanded": [
+      "bento box",
+      "lunchbox",
+      "container",
+      "insulated lunch bag",
+      "thermal lunch box",
+      "school lunch box",
+      "work lunch box",
+      "gift lunch box",
+      "travel lunch box"
+    ],
+    "latency_ms": 6263.597726821899,
+    "total_tokens": 164,
+    "prompt_tokens": 98,
+    "completion_tokens": 66
+  },
+  {
+    "keyword": "고무",
+    "expanded": [
+      "rubber",
+      "eraser",
+      "pencil top",
+      "stationery",
+      "office supply",
+      "school supplies",
+      "art supplies",
+      "crafting materials",
+      "DIY"
+    ],
+    "latency_ms": 4765.50555229187,
+    "total_tokens": 140,
+    "prompt_tokens": 97,
+    "completion_tokens": 43
+  },
+  {
+    "keyword": "그물망",
+    "expanded": [
+      "mesh net",
+      "wire mesh",
+      "wire grid",
+      "grill net",
+      "garden mesh",
+      "insect screen",
+      "window mesh",
+      "baby room divider",
+      "wall decor"
+    ],
+    "latency_ms": 4995.038747787476,
+    "total_tokens": 143,
+    "prompt_tokens": 98,
+    "completion_tokens": 45
+  },
+  {
+    "keyword": "실내화 주머니",
+    "expanded": [
+      "inside shoe bag",
+      "shoe organizer",
+      "shoe holder",
+      "shoe storage",
+      "indoor shoe rack",
+      "shoe shelf",
+      "slipper storage",
+      "shoe compartment",
+      "shoe case",
+      "home shoe storage"
+    ],
+    "latency_ms": 6578.796863555908,
+    "total_tokens": 172,
+    "prompt_tokens": 100,
+    "completion_tokens": 72
+  },
+  {
+    "keyword": "자석 후크",
+    "expanded": [
+      "magnet hook",
+      "magnetic hook",
+      "hook for magnet",
+      "magnet clip",
+      "magnets and hooks",
+      "magnet storage",
+      "magnetic holder",
+      "adhesive magnets",
+      "magnet hanger"
+    ],
+    "latency_ms": 5084.317684173584,
+    "total_tokens": 149,
+    "prompt_tokens": 99,
+    "completion_tokens": 50
+  },
+  {
+    "keyword": "테이프",
+    "expanded": [
+      "tape",
+      "dai-ichi tape",
+      "masking tape",
+      "duct tape",
+      "packing tape",
+      "cassette tape",
+      "recording tape",
+      "music tape",
+      " electrical tape"
+    ],
+    "latency_ms": 4706.207990646362,
+    "total_tokens": 145,
+    "prompt_tokens": 98,
+    "completion_tokens": 47
+  },
+  {
+    "keyword": "미끄럼 방지 매트",
+    "expanded": [
+      "fall prevention mat",
+      "anti-slip mat",
+      "mat for falls prevention",
+      " slip-resistant mat",
+      "floor mat for safety",
+      "non-slip mat",
+      "grip mat",
+      "mat with non-slip bottom",
+      "easy-grip mat",
+      "mat for preventing slips"
+    ],
+    "latency_ms": 6885.284662246704,
+    "total_tokens": 182,
+    "prompt_tokens": 103,
+    "completion_tokens": 79
+  },
+  {
+    "keyword": "타이머",
+    "expanded": [
+      "clock",
+      "watch",
+      "timer watch",
+      "countdown timer",
+      "digital timer",
+      "analog clock",
+      "alarm clock",
+      "timer device",
+      "timekeeping tool"
+    ],
+    "latency_ms": 5778.525829315186,
+    "total_tokens": 153,
+    "prompt_tokens": 97,
+    "completion_tokens": 56
+  },
+  {
+    "keyword": "아기들 칫솔",
+    "expanded": [
+      "아기용 칫솔",
+      "아기용 유니버설 칫솔",
+      "아기용 크림 칫솔",
+      "아기용 화장품 칫솔",
+      "아기용 치과 칫솔"
+    ],
+    "latency_ms": 6208.24670791626,
+    "total_tokens": 168,
+    "prompt_tokens": 101,
+    "completion_tokens": 67
+  },
+  {
+    "keyword": "냉장고 탈취제",
+    "expanded": [
+      "냉장고 cleaner",
+      "냉동清潔劑",
+      "冰箱除霜劑",
+      "冷藏清潔劑",
+      "防霜劑",
+      "冷藏器官清潔劑",
+      " 냉存品清潔劑",
+      "冰箱清潔劑",
+      "除霜剂",
+      "냉藏品清潔劑"
+    ],
+    "latency_ms": 8320.11103630066,
+    "total_tokens": 212,
+    "prompt_tokens": 102,
+    "completion_tokens": 110
+  },
+  {
+    "keyword": "안전 콘센트 덮개",
+    "expanded": [
+      "安全コンセプト",
+      "コンセプトシート",
+      "コンセプトカバー",
+      "コンセプトケース",
+      "コンセプトボックス",
+      "コンセプト箱",
+      "デスクコンセプト",
+      "オフィスコンセプト",
+      "ワークスペースコンセプT",
+      "コンセプトシートセット"
+    ],
+    "latency_ms": 8696.13242149353,
+    "total_tokens": 212,
+    "prompt_tokens": 102,
+    "completion_tokens": 110
+  },
+  {
+    "keyword": "여행용 치약 칫솔 세트",
+    "expanded": [
+      "travel toothbrush set",
+      "packing toothpaste",
+      "portable dental kit",
+      "trip-sized toiletries",
+      "mini oral care",
+      "travel oral care",
+      "dental hygiene kit",
+      "personal travel care",
+      "packing oral care"
+    ],
+    "latency_ms": 5801.468849182129,
+    "total_tokens": 172,
+    "prompt_tokens": 104,
+    "completion_tokens": 68
+  },
+  {
+    "keyword": "싱크대 배수구 거름망",
+    "expanded": [
+      "sink drain",
+      "garbage disposal unit",
+      "drainage system",
+      "faucet drain assembly",
+      "drain pipe kit",
+      "garbage disposal accessories",
+      "drain cleaning brush",
+      "clog remover",
+      "plumbing supply",
+      "kitchen sink plumbing"
+    ],
+    "latency_ms": 6585.529088973999,
+    "total_tokens": 181,
+    "prompt_tokens": 104,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "통",
+    "expanded": [
+      "tea cup",
+      "rice bowl",
+      "sushi plate",
+      "candle holder",
+      "planter",
+      "vase",
+      "inkwell",
+      "inkstone",
+      "calligraphy brush holder"
+    ],
+    "latency_ms": 5715.388774871826,
+    "total_tokens": 152,
+    "prompt_tokens": 96,
+    "completion_tokens": 56
+  },
+  {
+    "keyword": "문콕방지",
+    "expanded": [
+      "문딜러",
+      "文고",
+      "문서용기",
+      "문서보관용기",
+      " văn자筆"
+    ],
+    "latency_ms": 4864.015102386475,
+    "total_tokens": 144,
+    "prompt_tokens": 100,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "선풍기",
+    "expanded": [
+      "风机",
+      "空气 purified air purifier",
+      "呼吸道通气器",
+      "室外风机",
+      "天花板风机",
+      "床边风机",
+      "工作台风机",
+      "家庭风机",
+      "室内风机"
+    ],
+    "latency_ms": 5385.851860046387,
+    "total_tokens": 159,
+    "prompt_tokens": 100,
+    "completion_tokens": 59
+  },
+  {
+    "keyword": "효자손",
+    "expanded": [
+      "efficiency organizer",
+      "paper tray",
+      "file holder",
+      "desk organizer",
+      "office supply",
+      "stationery box",
+      "cable management",
+      "work desk accessory",
+      "paper management system"
+    ],
+    "latency_ms": 5851.824998855591,
+    "total_tokens": 158,
+    "prompt_tokens": 98,
+    "completion_tokens": 60
+  },
+  {
+    "keyword": "넘어짐 방지 스티커",
+    "expanded": [
+      "room divider sticker",
+      "wall separator sticker",
+      "door separator sticker",
+      "partition sticker",
+      "decorative room divider sticker",
+      "wall decoration stickers",
+      "door decoration stickers",
+      " partition stickers",
+      "separation stickers",
+      "diy room divider stickers"
+    ],
+    "latency_ms": 6068.896770477295,
+    "total_tokens": 178,
+    "prompt_tokens": 106,
+    "completion_tokens": 72
+  },
+  {
+    "keyword": "가죽 가방 닦는 크림",
+    "expanded": [
+      "가방 닦이 방법",
+      "가방 가수리",
+      "가방 수리품",
+      "가방 닦기 비용",
+      "가방 보관 방법",
+      "가방 스타일",
+      "가방 색상",
+      "가방 종류",
+      "가방 사용 방법",
+      "가죽 가방 수리"
+    ],
+    "latency_ms": 7456.359386444092,
+    "total_tokens": 206,
+    "prompt_tokens": 104,
+    "completion_tokens": 102
+  },
+  {
+    "keyword": "우산 물받이",
+    "expanded": [
+      "sunshade",
+      "umbrella",
+      "rain protector",
+      "beach umbrella",
+      "picnic set",
+      "portable sun shelter",
+      "outdoor canopy",
+      "travel sun shade",
+      "sun hat with umbrella"
+    ],
+    "latency_ms": 5922.499895095825,
+    "total_tokens": 163,
+    "prompt_tokens": 100,
+    "completion_tokens": 63
+  },
+  {
+    "keyword": "탄 거 닦는 가루",
+    "expanded": [
+      "cleaning powder",
+      "dust remover",
+      "tang gu dry powder",
+      "carpet cleaner",
+      "furniture polish",
+      "tile cleaner",
+      "kitchen sink cleaner",
+      "bathroom cleaner",
+      "all-purpose cleaning powder"
+    ],
+    "latency_ms": 5299.579620361328,
+    "total_tokens": 153,
+    "prompt_tokens": 102,
+    "completion_tokens": 51
+  },
+  {
+    "keyword": "물티슈통",
+    "expanded": [
+      "plastic bucket",
+      "water container",
+      "bucket storage",
+      "sunglasses case",
+      "cosmetic organizer",
+      "makeup storage",
+      "travel accessories",
+      "gift ideas",
+      "storage solutions",
+      "organizers for small spaces"
+    ],
+    "latency_ms": 4576.157093048096,
+    "total_tokens": 142,
+    "prompt_tokens": 99,
+    "completion_tokens": 43
+  },
+  {
+    "keyword": "뒤꿈치 보호 패드",
+    "expanded": [
+      "ear protection pad",
+      "earplug",
+      "protection ear cushion",
+      "back scratcher",
+      "behind-the-ear protector",
+      "ear muffs",
+      "behind-the-head protection",
+      "ear cushions",
+      "headgear for hearing loss",
+      "back scratcher pad"
+    ],
+    "latency_ms": 6793.06697845459,
+    "total_tokens": 179,
+    "prompt_tokens": 102,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "전자레인지용 덮개",
+    "expanded": [
+      "전자기기 덮개",
+      "전자레인지 덮개",
+      "전자레인지용 보호대",
+      "전화전류 덮개",
+      "전자레인지 보조 ",
+      "전자기기 보호대",
+      "전자레인지 전기 보호",
+      "전자레인지 사용 후 가스",
+      "전자레인지 사용 전에"
+    ],
+    "latency_ms": 7548.717498779297,
+    "total_tokens": 199,
+    "prompt_tokens": 103,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "문닫힘 방지 쿠션",
+    "expanded": [
+      "cushion cover",
+      "case cover",
+      "kitchen cushion cover",
+      "table leg protector",
+      "ottoman cover",
+      "chair leg sleeve",
+      "bar stool cover",
+      "couch slipcover",
+      "furniture cover",
+      "decorative pillow"
+    ],
+    "latency_ms": 5518.129825592041,
+    "total_tokens": 161,
+    "prompt_tokens": 104,
+    "completion_tokens": 57
+  },
+  {
+    "keyword": "학용품",
+    "expanded": [
+      "학습 용품",
+      "학업용품",
+      "공부 도구",
+      "학습 자본",
+      "도서",
+      "노트북",
+      "스마트ปेन",
+      "기호",
+      "과학적 도구"
+    ],
+    "latency_ms": 4430.5925369262695,
+    "total_tokens": 143,
+    "prompt_tokens": 98,
+    "completion_tokens": 45
+  },
+  {
+    "keyword": "장난감 정리 박스",
+    "expanded": [
+      "playroom storage box",
+      "toy organizer",
+      "child toy box",
+      "laser pointer container",
+      "crafting table storage",
+      "office supply box",
+      "stationery organizer",
+      "desk organizer box",
+      "storage container for kids",
+      "organization box for toys"
+    ],
+    "latency_ms": 6342.024326324463,
+    "total_tokens": 176,
+    "prompt_tokens": 102,
+    "completion_tokens": 74
+  },
+  {
+    "keyword": "퐁퐁",
+    "expanded": [
+      "pon pon",
+      "keychain",
+      "charms",
+      "keyring",
+      "bag charm",
+      "jewelry",
+      "accessory",
+      "trinket",
+      "toy"
+    ],
+    "latency_ms": 5224.355936050415,
+    "total_tokens": 157,
+    "prompt_tokens": 101,
+    "completion_tokens": 56
+  },
+  {
+    "keyword": "안전 잠금 장치",
+    "expanded": [
+      "安全鎖",
+      "鎖具",
+      "鎖環",
+      "鎖匙",
+      "安全鎖",
+      "鎖機",
+      "鎖設施",
+      "鎖保護",
+      "鎖管理",
+      "鎖品"
+    ],
+    "latency_ms": 5845.513582229614,
+    "total_tokens": 172,
+    "prompt_tokens": 100,
+    "completion_tokens": 72
+  },
+  {
+    "keyword": "면 마스크",
+    "expanded": [
+      "masks",
+      "face masks",
+      "nose filters",
+      "face protection masks",
+      "medical face masks",
+      "surgical face masks",
+      "cosmetic face masks",
+      "beauty masks",
+      "anti-pollution masks"
+    ],
+    "latency_ms": 6052.537679672241,
+    "total_tokens": 164,
+    "prompt_tokens": 98,
+    "completion_tokens": 66
+  },
+  {
+    "keyword": "햇빛가리개",
+    "expanded": [
+      "UV shield",
+      "sun hat",
+      "sun visor",
+      "sunglasses strap",
+      "hats for outdoor",
+      "glasses holder",
+      "travel accessories",
+      "summer fashion",
+      "outdoor gear"
+    ],
+    "latency_ms": 4584.950923919678,
+    "total_tokens": 148,
+    "prompt_tokens": 101,
+    "completion_tokens": 47
+  },
+  {
+    "keyword": "장난감",
+    "expanded": [
+      "toy",
+      "plaything",
+      "children's play equipment",
+      "indoor toys",
+      "outdoor games",
+      "kiddie fun",
+      "amusement items"
+    ],
+    "latency_ms": 4422.209978103638,
+    "total_tokens": 137,
+    "prompt_tokens": 98,
+    "completion_tokens": 39
+  },
+  {
+    "keyword": "수건",
+    "expanded": [
+      "handkerchief",
+      "face mask",
+      "tissue paper",
+      "facial tissue",
+      "cotton cloth",
+      "cellulose acetate",
+      "nose clip",
+      "earplugs",
+      "eye mask"
+    ],
+    "latency_ms": 5033.926963806152,
+    "total_tokens": 147,
+    "prompt_tokens": 97,
+    "completion_tokens": 50
+  },
+  {
+    "keyword": "틈새 스펀지",
+    "expanded": [
+      "spiral sponge",
+      "cotton ball",
+      "crafting material",
+      "art supply",
+      "DIY kit",
+      "paintbrush cleaner",
+      "scrapbooking material",
+      "paper crafting supply",
+      "mineral sponge",
+      "painting tool"
+    ],
+    "latency_ms": 5839.990854263306,
+    "total_tokens": 173,
+    "prompt_tokens": 103,
+    "completion_tokens": 70
+  },
+  {
+    "keyword": "고무장갑",
+    "expanded": [
+      "고무 가방",
+      "고무 지갑",
+      "가방",
+      "지갑",
+      "가방류",
+      "전화집지",
+      "가방용품",
+      "장갑",
+      "고무 장갑",
+      "가방Accessory"
+    ],
+    "latency_ms": 5952.596664428711,
+    "total_tokens": 171,
+    "prompt_tokens": 99,
+    "completion_tokens": 72
+  },
+  {
+    "keyword": "다용도 제품",
+    "expanded": [
+      "multifunctional product",
+      "dual-purpose item",
+      "utility store item",
+      "handy tool",
+      "crafting supply",
+      "DIY material",
+      "organization tool",
+      "hobby kit",
+      "maker's accessory",
+      "handy gadget"
+    ],
+    "latency_ms": 5145.455360412598,
+    "total_tokens": 156,
+    "prompt_tokens": 99,
+    "completion_tokens": 57
+  },
+  {
+    "keyword": "오일",
+    "expanded": [
+      "oil refresher",
+      "hair oil",
+      "skin oil",
+      "hand cream oil",
+      "cuticle oil",
+      "nail oil",
+      "beauty oil",
+      "skin care oil",
+      "oil-based products",
+      "fragrance oils"
+    ],
+    "latency_ms": 6092.473268508911,
+    "total_tokens": 165,
+    "prompt_tokens": 97,
+    "completion_tokens": 68
+  },
+  {
+    "keyword": "덧버선",
+    "expanded": [
+      " phụ kiện xe ô tô",
+      "hàn gạt",
+      "trang trí xe ô tô",
+      "tự làm trang trí xe",
+      "mua phụ kiện xe ô tô",
+      "hàn dính",
+      "phụ kiện xe hơi",
+      "hàn gót",
+      "xe ô tô trang trí",
+      "hàn kẹo"
+    ],
+    "latency_ms": 7013.000249862671,
+    "total_tokens": 192,
+    "prompt_tokens": 99,
+    "completion_tokens": 93
+  },
+  {
+    "keyword": "양말",
+    "expanded": [
+      "slipper socks",
+      "socks with grip",
+      "anti-slip socks",
+      "slip resistant socks",
+      "grip soled shoes",
+      "summer slipper socks",
+      "winter slipper socks",
+      "thick slippers",
+      "waterproof slippers",
+      "easy to clean slippers"
+    ],
+    "latency_ms": 6324.447154998779,
+    "total_tokens": 179,
+    "prompt_tokens": 97,
+    "completion_tokens": 82
+  },
+  {
+    "keyword": "와인 오프너",
+    "expanded": [
+      "wine opener",
+      "wine bottle opener",
+      "wine corkscrew",
+      "wine bottle stopper",
+      "red wine opener",
+      "white wine opener",
+      "vinyl wine corkscrew",
+      "wine key",
+      "wine bottle remover",
+      "cork puller"
+    ],
+    "latency_ms": 6347.662687301636,
+    "total_tokens": 174,
+    "prompt_tokens": 100,
+    "completion_tokens": 74
+  },
+  {
+    "keyword": "안전용품",
+    "expanded": [
+      "安全配件",
+      "防護物品",
+      "防毒衣",
+      "防毒面具",
+      "保護手套",
+      "安全眼鏡",
+      "防護頭盔",
+      "防毒服",
+      "安全帶",
+      "防護鞋"
+    ],
+    "latency_ms": 6395.138740539551,
+    "total_tokens": 171,
+    "prompt_tokens": 98,
+    "completion_tokens": 73
+  },
+  {
+    "keyword": "방충망 보수 테이프",
+    "expanded": [
+      "mosquito net repair tape",
+      "insect net cord replacement",
+      "outdoor net repair kit",
+      "tent mosquito net patch",
+      "garden insect net fix",
+      "awning repair tape",
+      "sun shelter mosquito netting",
+      "beach tent net repair",
+      "greenhouse insect net repair",
+      "netting cord splicing tape"
+    ],
+    "latency_ms": 7031.126976013184,
+    "total_tokens": 191,
+    "prompt_tokens": 103,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "아이스박스",
+    "expanded": [
+      "ice box",
+      "cool box",
+      "frozen storage container",
+      "cold storage bin",
+      "insulated storage basket",
+      "refrigerated storage unit",
+      "dry ice storage container",
+      "ice chest",
+      "ice coolers",
+      "frozen food storage"
+    ],
+    "latency_ms": 5274.62363243103,
+    "total_tokens": 155,
+    "prompt_tokens": 99,
+    "completion_tokens": 56
+  },
+  {
+    "keyword": "핸드폰 충전선 정리대",
+    "expanded": [
+      "핸드폰충전线",
+      "usb충전线",
+      "chargercord",
+      "phoneaccessory",
+      "phonecharger",
+      "chargecord",
+      "phonecable",
+      "iphonecharger",
+      "chargeadapter",
+      "phoneaccessories"
+    ],
+    "latency_ms": 4316.198825836182,
+    "total_tokens": 150,
+    "prompt_tokens": 105,
+    "completion_tokens": 45
+  },
+  {
+    "keyword": "창문 닦는 밀대",
+    "expanded": [
+      "window cleaning roller",
+      " curtain cleaning tool",
+      "dust removal tool",
+      "window squeegee",
+      "curtain squeegee",
+      "blinds cleaning tool",
+      "window blinds cleaning"
+    ],
+    "latency_ms": 4612.779140472412,
+    "total_tokens": 146,
+    "prompt_tokens": 102,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "선반",
+    "expanded": [
+      "slats",
+      "shelves",
+      "bookcases",
+      "storage units",
+      "wardrobe organizers"
+    ],
+    "latency_ms": 3591.806650161743,
+    "total_tokens": 123,
+    "prompt_tokens": 97,
+    "completion_tokens": 26
+  },
+  {
+    "keyword": "컵받침",
+    "expanded": [
+      "cup warmer",
+      "coffee cup warmer",
+      "tea cup warmer",
+      "hot beverage warmer",
+      "electric cup warmer",
+      "heated cup holder",
+      "electric mug warmer",
+      "cozy cup warmer",
+      "temperature-controlled cup warmer"
+    ],
+    "latency_ms": 6034.000873565674,
+    "total_tokens": 165,
+    "prompt_tokens": 99,
+    "completion_tokens": 66
+  },
+  {
+    "keyword": "설거지망",
+    "expanded": [
+      "DIY decoration",
+      "paper lanterns",
+      "party decorations",
+      "home decor",
+      "craft supplies",
+      "kraft paper",
+      "string lights"
+    ],
+    "latency_ms": 4058.234214782715,
+    "total_tokens": 135,
+    "prompt_tokens": 99,
+    "completion_tokens": 36
+  },
+  {
+    "keyword": "반찬통",
+    "expanded": [
+      "rice bowl",
+      "bento box",
+      "meal container",
+      "lunch box",
+      "snack container",
+      "serving dish",
+      "food container",
+      "kitchen storage",
+      "tableware set"
+    ],
+    "latency_ms": 5607.977867126465,
+    "total_tokens": 159,
+    "prompt_tokens": 98,
+    "completion_tokens": 61
+  },
+  {
+    "keyword": "신발정리대",
+    "expanded": [
+      "shoe organizer",
+      "shoe rack",
+      "sneaker storage",
+      "shoe stand",
+      "foot locker"
+    ],
+    "latency_ms": 3698.6348628997803,
+    "total_tokens": 130,
+    "prompt_tokens": 100,
+    "completion_tokens": 30
+  },
+  {
+    "keyword": "욕실 실리콘 곰팡이 지우는 젤",
+    "expanded": [
+      "실리콘 곰팡이",
+      "욕실 지우물",
+      "젤",
+      "실리콘 젤",
+      "욕실 청소",
+      "산뜻한 청소",
+      "실리акон 스파"
+    ],
+    "latency_ms": 5080.177545547485,
+    "total_tokens": 165,
+    "prompt_tokens": 110,
+    "completion_tokens": 55
+  },
+  {
+    "keyword": "캠핑용 조명",
+    "expanded": [
+      "camping light",
+      "portable lantern",
+      "torch",
+      "tent lighting",
+      "outdoor lamp",
+      "camping lantern",
+      "flashlight",
+      "camping gear",
+      "outdoor lighting",
+      "emergency light"
+    ],
+    "latency_ms": 6129.46081161499,
+    "total_tokens": 175,
+    "prompt_tokens": 101,
+    "completion_tokens": 74
+  },
+  {
+    "keyword": "여권 커버",
+    "expanded": [
+      "여권 가위",
+      "여권 절단기",
+      "여권 커버 대체",
+      "여권 가위 대체",
+      "여권 절단기 대체",
+      "국제 여권",
+      "여권 가위용지",
+      "여권 절단기용지",
+      "여권 커버 교환",
+      "여권 가위를 구입"
+    ],
+    "latency_ms": 7647.1662521362305,
+    "total_tokens": 198,
+    "prompt_tokens": 99,
+    "completion_tokens": 99
+  },
+  {
+    "keyword": "소리",
+    "expanded": [
+      "DIY",
+      "crafting tools",
+      "art supplies",
+      "japanese paper",
+      "scrapbooking materials",
+      "paper crafting",
+      "sticker paper",
+      "stickers",
+      "notebook paper",
+      "stationery"
+    ],
+    "latency_ms": 5787.83917427063,
+    "total_tokens": 164,
+    "prompt_tokens": 96,
+    "completion_tokens": 68
+  },
+  {
+    "keyword": "빨래집게",
+    "expanded": [
+      "laundry drying rack",
+      "clothesline",
+      "drying stand",
+      "laundry line",
+      "indoor clothesline",
+      "portable laundry drying rack",
+      "hanging clothes dryer",
+      "drying station",
+      "laundry drying system"
+    ],
+    "latency_ms": 6086.51065826416,
+    "total_tokens": 169,
+    "prompt_tokens": 99,
+    "completion_tokens": 70
+  },
+  {
+    "keyword": "포스트잇",
+    "expanded": [
+      "post-it",
+      "stickers",
+      "note tags",
+      "adhesive paper",
+      "office supply",
+      " organizational tools",
+      "paper notes",
+      " desk accessories",
+      "sticky notes",
+      "label maker"
+    ],
+    "latency_ms": 5838.178873062134,
+    "total_tokens": 160,
+    "prompt_tokens": 99,
+    "completion_tokens": 61
+  },
+  {
+    "keyword": "스티커",
+    "expanded": [
+      "stickers",
+      "labels",
+      "tags",
+      "decals",
+      "sticker sheets",
+      "label rolls",
+      "paper stickers",
+      "vinyl decals",
+      "stick-on notes"
+    ],
+    "latency_ms": 5585.399627685547,
+    "total_tokens": 156,
+    "prompt_tokens": 100,
+    "completion_tokens": 56
+  },
+  {
+    "keyword": "실내화",
+    "expanded": [
+      "indoor shoes",
+      "slip-on shoes",
+      "house shoes",
+      "home shoes",
+      "casual shoes",
+      "comfort shoes",
+      "slip resistant shoes"
+    ],
+    "latency_ms": 4488.89684677124,
+    "total_tokens": 137,
+    "prompt_tokens": 98,
+    "completion_tokens": 39
+  },
+  {
+    "keyword": "빨래 주머니",
+    "expanded": [
+      "laundry bag",
+      "wash bag",
+      "dryer bag",
+      "red washing bag",
+      "hand-washing laundry bag"
+    ],
+    "latency_ms": 3789.5734310150146,
+    "total_tokens": 130,
+    "prompt_tokens": 99,
+    "completion_tokens": 31
+  },
+  {
+    "keyword": "뽁뽁이",
+    "expanded": [
+      "plastic container",
+      "cute storage",
+      "small plastic box",
+      " desk organizer",
+      " office supply",
+      " desk accessory",
+      " cute storage container",
+      "mini storage box",
+      "crafting supply"
+    ],
+    "latency_ms": 5617.305517196655,
+    "total_tokens": 163,
+    "prompt_tokens": 102,
+    "completion_tokens": 61
+  },
+  {
+    "keyword": "수납함",
+    "expanded": [
+      "storage bins",
+      "plastic containers",
+      "organization systems",
+      "file organizers",
+      "desk organizers",
+      "office supplies",
+      " Desk accessories",
+      "Supply storage",
+      "Storage solutions",
+      "Household organization"
+    ],
+    "latency_ms": 3991.133689880371,
+    "total_tokens": 136,
+    "prompt_tokens": 99,
+    "completion_tokens": 37
+  },
+  {
+    "keyword": "신발 주머니",
+    "expanded": [
+      "sock bag",
+      "sneaker pouch",
+      "shoe organizer",
+      "sole keeper",
+      "shoe storage bag",
+      "travel sock bag",
+      "hiking shoe bag",
+      "sporty sock bag"
+    ],
+    "latency_ms": 5547.656297683716,
+    "total_tokens": 159,
+    "prompt_tokens": 99,
+    "completion_tokens": 60
+  },
+  {
+    "keyword": "철 수세미",
+    "expanded": [
+      "iron filings",
+      "ferric oxide powder",
+      "rust remover",
+      "black iron powder",
+      "metal filings"
+    ],
+    "latency_ms": 3756.9243907928467,
+    "total_tokens": 128,
+    "prompt_tokens": 99,
+    "completion_tokens": 29
+  },
+  {
+    "keyword": "일회용 면도기",
+    "expanded": [
+      "Disposable Razor",
+      "One-time Use Shaver",
+      "Face Trimmer",
+      "Men's Grooming Kit",
+      "Personal Care Products",
+      "Shaving Accessories",
+      "Korean Beauty Supplies",
+      "Japanese Store Finds",
+      "Variety Store Essentials"
+    ],
+    "latency_ms": 5214.112997055054,
+    "total_tokens": 157,
+    "prompt_tokens": 101,
+    "completion_tokens": 56
+  },
+  {
+    "keyword": "색연필통",
+    "expanded": [
+      "colorful pencil case",
+      "stationery box",
+      "pencil holder",
+      "art supply storage",
+      "office organization",
+      " desk organizer",
+      "pen cup",
+      "school supplies",
+      " stationery accessories"
+    ],
+    "latency_ms": 5783.190965652466,
+    "total_tokens": 160,
+    "prompt_tokens": 99,
+    "completion_tokens": 61
+  },
+  {
+    "keyword": "긁힘 방지 패드",
+    "expanded": [
+      "tackling pad",
+      "grip enhancer",
+      "grip aid",
+      "handle grip tape",
+      "non-slip handle pad",
+      "combat grip tape",
+      "martial arts grip tape",
+      "sporting goods grip pad",
+      "utility grip tape"
+    ],
+    "latency_ms": 6380.451202392578,
+    "total_tokens": 176,
+    "prompt_tokens": 103,
+    "completion_tokens": 73
+  },
+  {
+    "keyword": "와인 마개",
+    "expanded": [
+      "wine bottle holder",
+      "wine rack",
+      "wine glass stand",
+      "barware",
+      "wine accessories",
+      "glassware storage",
+      "wine cooler",
+      "wine gift set",
+      "table wine stand"
+    ],
+    "latency_ms": 5787.756681442261,
+    "total_tokens": 159,
+    "prompt_tokens": 99,
+    "completion_tokens": 60
+  },
+  {
+    "keyword": "정리함",
+    "expanded": [
+      "organization box",
+      "file organizer",
+      "desk organizer",
+      "office supply box",
+      " desk drawer",
+      "paper tray",
+      "card holder",
+      "notebook stand",
+      "cable management box",
+      "stationery box"
+    ],
+    "latency_ms": 6121.594667434692,
+    "total_tokens": 163,
+    "prompt_tokens": 98,
+    "completion_tokens": 65
+  },
+  {
+    "keyword": "자취용품",
+    "expanded": [
+      "하우스 수리용품",
+      "가게 수리용품",
+      "호스팅 수리용품",
+      "방수리용품",
+      "집 정리용품",
+      "가구 수리용품",
+      "인테리어 용품",
+      "실내 용품",
+      "공간 조성 용품"
+    ],
+    "latency_ms": 6705.019950866699,
+    "total_tokens": 186,
+    "prompt_tokens": 99,
+    "completion_tokens": 87
+  },
+  {
+    "keyword": "안전덮개",
+    "expanded": [
+      "防霉 덮개",
+      "安全 덮개",
+      "防霉布",
+      "가스 덮개",
+      "화재 덮개",
+      "방화 덤",
+      "전기 덮개",
+      "방화물 덮개",
+      "이산 덮개",
+      "건축용 덾대"
+    ],
+    "latency_ms": 5358.017921447754,
+    "total_tokens": 164,
+    "prompt_tokens": 99,
+    "completion_tokens": 65
+  },
+  {
+    "keyword": "옷정리",
+    "expanded": [
+      "clothing organizer",
+      "wardrobe organizer",
+      "shirt hanger",
+      "pants divider",
+      "shoe rack",
+      "file folder",
+      " desk organizer",
+      "tray container",
+      " storage box",
+      " closet organizer"
+    ],
+    "latency_ms": 6085.193872451782,
+    "total_tokens": 163,
+    "prompt_tokens": 98,
+    "completion_tokens": 65
+  },
+  {
+    "keyword": "수도꼭지",
+    "expanded": [
+      "tap adapter",
+      "korea plumbing",
+      "water tap",
+      "faucet adapter",
+      "plumbing fixtures",
+      "korean home goods",
+      "sink faucet",
+      "faucet",
+      "tap water adapter"
+    ],
+    "latency_ms": 5991.4186000823975,
+    "total_tokens": 162,
+    "prompt_tokens": 99,
+    "completion_tokens": 63
+  },
+  {
+    "keyword": "보풀제거기",
+    "expanded": [
+      "bo-pool remover",
+      "pool cleaner",
+      "beach cleaning tool",
+      "sand sifter",
+      "seaweed scraper",
+      "shoreline maintenance",
+      "ocean cleanup",
+      "beachcomber's friend",
+      "tidal zone tools",
+      "marine debris removal"
+    ],
+    "latency_ms": 6238.5218143463135,
+    "total_tokens": 177,
+    "prompt_tokens": 101,
+    "completion_tokens": 76
+  },
+  {
+    "keyword": "물티슈 뚜껑",
+    "expanded": [
+      "Daiso water bottle lid",
+      "Tupperware-like storage container",
+      "Travel cup lid",
+      "Lunch box lid",
+      "Storage container for snacks",
+      "Bento box lid",
+      "Reusable water bottle cap",
+      "Insulated food container lid"
+    ],
+    "latency_ms": 5817.468881607056,
+    "total_tokens": 173,
+    "prompt_tokens": 103,
+    "completion_tokens": 70
+  },
+  {
+    "keyword": "물티슈",
+    "expanded": [
+      "Miniature typewriter",
+      "Portable typewriter",
+      "Travel typewriter",
+      "Small typewriter",
+      "Typing set"
+    ],
+    "latency_ms": 4162.495136260986,
+    "total_tokens": 129,
+    "prompt_tokens": 98,
+    "completion_tokens": 31
+  },
+  {
+    "keyword": "유리테이프",
+    "expanded": [
+      "Glass Tape",
+      "Double-sided tape",
+      "Adhesive tape",
+      "Clear adhesive tape",
+      "Sticky tape"
+    ],
+    "latency_ms": 4286.178350448608,
+    "total_tokens": 139,
+    "prompt_tokens": 100,
+    "completion_tokens": 39
+  },
+  {
+    "keyword": "연필",
+    "expanded": [
+      "pen",
+      "pencil",
+      "office supply",
+      "stationery",
+      "school supplies",
+      "writing instrument",
+      "sketching tool",
+      "art supplies",
+      "notebook pen",
+      " stationery set"
+    ],
+    "latency_ms": 4158.513069152832,
+    "total_tokens": 135,
+    "prompt_tokens": 97,
+    "completion_tokens": 38
+  },
+  {
+    "keyword": "먼지 제거제",
+    "expanded": [
+      "dust cleaner",
+      "air purifier",
+      "electric duster",
+      "carpet cleaner",
+      "furniture polish",
+      "cabinet cleaner",
+      "shelf cleaner",
+      "floor cleaner",
+      "all-purpose cleaner"
+    ],
+    "latency_ms": 5811.744928359985,
+    "total_tokens": 168,
+    "prompt_tokens": 100,
+    "completion_tokens": 68
+  },
+  {
+    "keyword": "모서리 보호대",
+    "expanded": [
+      "corner protector",
+      "edge protection",
+      "table edge guard",
+      "desk corner cover",
+      "shelf edge strip",
+      "furniture corner cushion",
+      "office desk edge shield",
+      "computer desk corner guard",
+      "workstation edge sleeve",
+      "home office corner blocker"
+    ],
+    "latency_ms": 5369.058132171631,
+    "total_tokens": 157,
+    "prompt_tokens": 100,
+    "completion_tokens": 57
+  },
+  {
+    "keyword": "전선 정리 타이",
+    "expanded": [
+      "wire organizer",
+      "electrical cord holder",
+      "tyre organiser",
+      "cable management",
+      "accessory storage",
+      "stationery box",
+      "office supply box",
+      "desk organizer",
+      "workshop storage"
+    ],
+    "latency_ms": 5551.5546798706055,
+    "total_tokens": 160,
+    "prompt_tokens": 100,
+    "completion_tokens": 60
+  },
+  {
+    "keyword": "바구니",
+    "expanded": [
+      "bag",
+      "storage container",
+      "bin",
+      "baskets",
+      "plastic basket",
+      "wicker basket",
+      "container organizer",
+      "shelf storage",
+      "file folder",
+      "office supply"
+    ],
+    "latency_ms": 5821.116924285889,
+    "total_tokens": 158,
+    "prompt_tokens": 98,
+    "completion_tokens": 60
+  },
+  {
+    "keyword": "박스테이프",
+    "expanded": [
+      "박스",
+      "stationery box",
+      "office supply box",
+      "file organizer box",
+      "desk organizer box",
+      "paper tray box",
+      "file folder box",
+      "storage box",
+      "organization system box",
+      "workspace accessory box"
+    ],
+    "latency_ms": 6621.448993682861,
+    "total_tokens": 176,
+    "prompt_tokens": 99,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "화분망",
+    "expanded": [
+      "화물통",
+      "그물용화분",
+      "화분 grate",
+      "화분 스타일",
+      "화분 크기",
+      "화분 디자인",
+      "그물용 화분",
+      "화분 대여",
+      "화분 임대",
+      "화분 예술"
+    ],
+    "latency_ms": 6886.675834655762,
+    "total_tokens": 186,
+    "prompt_tokens": 98,
+    "completion_tokens": 88
+  },
+  {
+    "keyword": "세탁망",
+    "expanded": [
+      "세탁기 가구",
+      "세탁용 가방",
+      "아동 세탁망",
+      "건조기 가구",
+      "세탁용 보관대",
+      "세탁용 주변기구",
+      "어린이 세탁망",
+      "실내 건조기 가구",
+      "아동용 세탁망",
+      "세탁용 가방"
+    ],
+    "latency_ms": 7753.083229064941,
+    "total_tokens": 194,
+    "prompt_tokens": 98,
+    "completion_tokens": 96
+  },
+  {
+    "keyword": "이어폰 정리",
+    "expanded": [
+      "earbuds organizer",
+      "earbud storage",
+      "earphone holder",
+      "headset case",
+      "cable management box",
+      "port charging stand",
+      "earphone cleaning kit",
+      "earbud carrying pouch",
+      "audio accessory box"
+    ],
+    "latency_ms": 6041.066884994507,
+    "total_tokens": 163,
+    "prompt_tokens": 99,
+    "completion_tokens": 64
+  },
+  {
+    "keyword": "장갑",
+    "expanded": [
+      "hand gloves",
+      "work gloves",
+      "industrial gloves",
+      "crafting gloves",
+      "toolbox gloves",
+      "gardening gloves",
+      "hot works gloves",
+      "heat resistant gloves",
+      "insulated gloves",
+      "workshop gloves"
+    ],
+    "latency_ms": 6222.2864627838135,
+    "total_tokens": 165,
+    "prompt_tokens": 97,
+    "completion_tokens": 68
+  },
+  {
+    "keyword": "압축봉",
+    "expanded": [
+      "air freshener",
+      "deodorizer",
+      "car air fresheners",
+      "desk deodorizer",
+      "travel accessory",
+      "room deodorizer",
+      "office supply",
+      "gift idea",
+      "small accessories"
+    ],
+    "latency_ms": 5671.462059020996,
+    "total_tokens": 161,
+    "prompt_tokens": 98,
+    "completion_tokens": 63
+  },
+  {
+    "keyword": "이어폰",
+    "expanded": [
+      "earbuds",
+      "headphones",
+      "audio accessories",
+      "wireless earphones",
+      "Bluetooth headphones"
+    ],
+    "latency_ms": 3690.9778118133545,
+    "total_tokens": 125,
+    "prompt_tokens": 97,
+    "completion_tokens": 28
+  },
+  {
+    "keyword": "정리용 통",
+    "expanded": [
+      "organization container",
+      "file organizer",
+      "desk organizer",
+      "office supply",
+      " desk tray",
+      "storage container",
+      " office file holder",
+      "paper tray",
+      "office desk accessory"
+    ],
+    "latency_ms": 5314.23282623291,
+    "total_tokens": 152,
+    "prompt_tokens": 99,
+    "completion_tokens": 53
+  },
+  {
+    "keyword": "머리카락 정리 도구",
+    "expanded": [
+      "hair comb",
+      "hair brush",
+      "detangling tool",
+      "hair accessories",
+      "beauty storage",
+      "hair care tools",
+      "hair styling aid",
+      "combs for curly hair",
+      "paddle brush"
+    ],
+    "latency_ms": 5576.704978942871,
+    "total_tokens": 165,
+    "prompt_tokens": 102,
+    "completion_tokens": 63
+  },
+  {
+    "keyword": "화장품 보관 용기",
+    "expanded": [
+      "cosmetic storage",
+      "makeup container",
+      "beauty organizer",
+      "skincare accessories",
+      "japanesebathroomstorage",
+      "asia beauty supply",
+      "koreanbeauty products",
+      "beautystore"
+    ],
+    "latency_ms": 4971.688747406006,
+    "total_tokens": 152,
+    "prompt_tokens": 102,
+    "completion_tokens": 50
+  },
+  {
+    "keyword": "장바구니",
+    "expanded": [
+      "shopping basket",
+      "plastic basket",
+      "reusable shopping bag",
+      "canvas storage bag",
+      "cloth shopping tote",
+      "basket organizer",
+      "storage container",
+      "craft supply box",
+      "organization bin",
+      "paper goods holder"
+    ],
+    "latency_ms": 5909.677743911743,
+    "total_tokens": 166,
+    "prompt_tokens": 99,
+    "completion_tokens": 67
+  },
+  {
+    "keyword": "문 틈 막이",
+    "expanded": [
+      "wall sticker",
+      "decorative wall covering",
+      "masking paper",
+      "wall divider",
+      "partition decoration",
+      "kitchen decor",
+      "bathroom decor",
+      "room divider",
+      "hanging curtain",
+      "wall embellishment"
+    ],
+    "latency_ms": 6216.639995574951,
+    "total_tokens": 167,
+    "prompt_tokens": 100,
+    "completion_tokens": 67
+  },
+  {
+    "keyword": "자전거 자물쇠",
+    "expanded": [
+      " bicycle accessory",
+      "bike lock",
+      "spare bike cable",
+      "bicycle chain",
+      "cycle chain lube",
+      "bicycle quick release",
+      "bike wheel lock",
+      "road bike accessories",
+      "mountain bike locks",
+      "bicycle security"
+    ],
+    "latency_ms": 6556.605100631714,
+    "total_tokens": 174,
+    "prompt_tokens": 102,
+    "completion_tokens": 72
+  },
+  {
+    "keyword": "여행용품",
+    "expanded": [
+      "여행기구",
+      "여행용품",
+      "여행가방",
+      "여행용전기",
+      "여행용품 구매",
+      "여행용품 추천",
+      "여행용품 쇼핑",
+      "여행용품 구매 GUIDE",
+      "여행용품리스트",
+      "여행용품 정보"
+    ],
+    "latency_ms": 8120.663166046143,
+    "total_tokens": 197,
+    "prompt_tokens": 98,
+    "completion_tokens": 99
+  },
+  {
+    "keyword": "계절용품",
+    "expanded": [
+      "seasonal goods",
+      "winter accessories",
+      "summer accessories",
+      "spring accessories",
+      "autumn goods",
+      "halloween decorations",
+      "thrift store finds",
+      "second-hand items",
+      "vintage decor",
+      "kawaii gifts"
+    ],
+    "latency_ms": 4981.133937835693,
+    "total_tokens": 151,
+    "prompt_tokens": 99,
+    "completion_tokens": 52
+  },
+  {
+    "keyword": "소음 방지 캡",
+    "expanded": [
+      "Noise-cancelling cup",
+      "Earplugs",
+      "Cup with earplug",
+      "Travel ear protection",
+      "Flight ear protection",
+      "Earpad",
+      "Anti-noise earcup",
+      "Silent cup",
+      "Noise-reducing mug"
+    ],
+    "latency_ms": 6133.163928985596,
+    "total_tokens": 170,
+    "prompt_tokens": 101,
+    "completion_tokens": 69
+  },
+  {
+    "keyword": "가구 긁힘 보수펜",
+    "expanded": [
+      "furniture repair pen",
+      "gadok glue stick",
+      "woodworking glue",
+      "crafting adhesive",
+      " DIY furniture fix",
+      "furniture restoration supplies",
+      "handyman tools",
+      "DIY home improvement"
+    ],
+    "latency_ms": 5093.677282333374,
+    "total_tokens": 156,
+    "prompt_tokens": 105,
+    "completion_tokens": 51
+  },
+  {
+    "keyword": "습기 제거제",
+    "expanded": [
+      "dehydration spray",
+      "perspiration remover",
+      "sweat wipe",
+      "antiperspirant spray",
+      "deodorizing wipes",
+      "moisture-absorbing spray",
+      "sweat reduction product",
+      "freshness booster",
+      "personal hygiene wipes"
+    ],
+    "latency_ms": 6234.936714172363,
+    "total_tokens": 175,
+    "prompt_tokens": 101,
+    "completion_tokens": 74
+  },
+  {
+    "keyword": "머리 감을 때 쓰는 브러쉬",
+    "expanded": [
+      "hair brush",
+      "brush for combing hair",
+      "detangling brush",
+      "styling brush",
+      "hair care products",
+      "beauty brushes",
+      "brushes for fine hair",
+      "brushes for curly hair",
+      "travel-sized hair brushes"
+    ],
+    "latency_ms": 4552.089691162109,
+    "total_tokens": 152,
+    "prompt_tokens": 105,
+    "completion_tokens": 47
+  },
+  {
+    "keyword": "욕실 청소용 솔",
+    "expanded": [
+      "sol",
+      "hairbrush",
+      "shampoo brush",
+      "scalp massager",
+      "scalp roller",
+      "detoxifying brush",
+      "head and scalp care",
+      "hair cleaning products",
+      "skincare tools"
+    ],
+    "latency_ms": 6941.871404647827,
+    "total_tokens": 173,
+    "prompt_tokens": 101,
+    "completion_tokens": 72
+  },
+  {
+    "keyword": "등받이",
+    "expanded": [
+      "bed frame",
+      "headboard",
+      "footboard",
+      "mattress support",
+      "sleeping bed",
+      "bunk bed",
+      "sofa bed",
+      "storage bed",
+      "wooden bed frame"
+    ],
+    "latency_ms": 6413.908958435059,
+    "total_tokens": 160,
+    "prompt_tokens": 98,
+    "completion_tokens": 62
+  },
+  {
+    "keyword": "접이식 의자",
+    "expanded": [
+      "interfoldable chair",
+      "portable stool",
+      "folding chair",
+      "travel chair",
+      "indoor outdoor chair",
+      "camping chair",
+      "backpack chair",
+      "desk chair",
+      " office folding chair",
+      "folding sofa"
+    ],
+    "latency_ms": 6457.110404968262,
+    "total_tokens": 170,
+    "prompt_tokens": 100,
+    "completion_tokens": 70
+  },
+  {
+    "keyword": "돌돌이",
+    "expanded": [
+      "Daiso ceramic doll",
+      "Japanese porcelain figurine",
+      "Decorative charm",
+      "Korean-style good luck charm",
+      "Collectible doll",
+      "Doll figurine",
+      "Small decorative item",
+      "Porcelain collectible",
+      "Good luck charm",
+      "Miniature figurine"
+    ],
+    "latency_ms": 6852.951765060425,
+    "total_tokens": 177,
+    "prompt_tokens": 98,
+    "completion_tokens": 79
+  },
+  {
+    "keyword": "양치컵",
+    "expanded": [
+      "Yangchi cup",
+      "Yanxi cup",
+      "Korean hair wash cup",
+      "Hair wash bowl",
+      "Bamboo hair wash container",
+      "Small bamboo cup for hair",
+      "Easy to clean hair cup",
+      "Portable hair wash container"
+    ],
+    "latency_ms": 6714.248418807983,
+    "total_tokens": 171,
+    "prompt_tokens": 98,
+    "completion_tokens": 73
+  },
+  {
+    "keyword": "자동차 바퀴 휠 닦는 거",
+    "expanded": [
+      "automobile wheel cleaning",
+      "car tire cleaning",
+      "wheel cleaning products",
+      "car tire maintenance",
+      "vehicle wheel cleaning",
+      "tire dressing",
+      "car wheel wax",
+      "automobile wheel care"
+    ],
+    "latency_ms": 4811.553955078125,
+    "total_tokens": 153,
+    "prompt_tokens": 106,
+    "completion_tokens": 47
+  },
+  {
+    "keyword": "재단 매트",
+    "expanded": [
+      "재단 가방",
+      "가방",
+      "수건",
+      "수건용 가방",
+      "가방 용품",
+      "재단 용품",
+      "가방용품",
+      "주화 가방",
+      "주화용품",
+      "수건 용품"
+    ],
+    "latency_ms": 6640.237331390381,
+    "total_tokens": 176,
+    "prompt_tokens": 99,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "책갈피",
+    "expanded": [
+      "bookcase",
+      "shelf",
+      "desk organizer",
+      "study desk accessory",
+      "office storage",
+      "file organizer",
+      "paper tray",
+      "book stand",
+      "document holder",
+      "writing desk accessory"
+    ],
+    "latency_ms": 5872.727394104004,
+    "total_tokens": 159,
+    "prompt_tokens": 98,
+    "completion_tokens": 61
+  },
+  {
+    "keyword": "냄새 제거제",
+    "expanded": [
+      "냄새 제거기",
+      "오도리제거",
+      "냄새 제거용품",
+      "냄새除去",
+      "스마그 제거",
+      "오도리除去",
+      "냄새 제거 수단",
+      "냄새 제거 용지",
+      "냄새 제거 스폰지"
+    ],
+    "latency_ms": 6946.267604827881,
+    "total_tokens": 195,
+    "prompt_tokens": 101,
+    "completion_tokens": 94
+  },
+  {
+    "keyword": "에어컨 세정제",
+    "expanded": [
+      "에어컨 청소제",
+      "에어컨 정수제",
+      "에어컨 vệ sinh제",
+      "에어컨 필터清洁",
+      "에어컨 디스플레이 청소",
+      "에어컨 세정기",
+      " cooler cleaner",
+      "aircon filter cleaning",
+      "aircon maintenance",
+      "aircon servicing"
+    ],
+    "latency_ms": 7218.988418579102,
+    "total_tokens": 193,
+    "prompt_tokens": 101,
+    "completion_tokens": 92
+  },
+  {
+    "keyword": "보관",
+    "expanded": [
+      "Storage",
+      "Container",
+      "Box",
+      "Bottle",
+      "Jar",
+      "Basket",
+      "Crate",
+      "Bin",
+      "Vase",
+      "Dish"
+    ],
+    "latency_ms": 5458.092927932739,
+    "total_tokens": 151,
+    "prompt_tokens": 97,
+    "completion_tokens": 54
+  },
+  {
+    "keyword": "신발 탈취제",
+    "expanded": [
+      "신발 탈취제",
+      "foot odor remover",
+      "smell-absorbing spray",
+      "anti-fungal spray",
+      "foot powder",
+      "foot spray",
+      "stinky shoe solution",
+      "foot deodorizer",
+      "sole deodorant",
+      "foot freshener"
+    ],
+    "latency_ms": 6233.128786087036,
+    "total_tokens": 177,
+    "prompt_tokens": 100,
+    "completion_tokens": 77
+  },
+  {
+    "keyword": "매트",
+    "expanded": [
+      "mattress",
+      "bedding",
+      "pillow",
+      "sleeping bag",
+      "blanket",
+      "throw pillow",
+      "headboard",
+      "furniture"
+    ],
+    "latency_ms": 4371.731281280518,
+    "total_tokens": 136,
+    "prompt_tokens": 97,
+    "completion_tokens": 39
+  },
+  {
+    "keyword": "앞치마",
+    "expanded": [
+      "blouse",
+      "t-shirt",
+      "dress",
+      "top",
+      "upper garment",
+      "kawaii blouse",
+      "cute dress",
+      "simple top",
+      " casual wear"
+    ],
+    "latency_ms": 5207.984209060669,
+    "total_tokens": 154,
+    "prompt_tokens": 98,
+    "completion_tokens": 56
+  },
+  {
+    "keyword": "찍찍이",
+    "expanded": [
+      "ink pen",
+      "pen nib",
+      "calligraphy pen",
+      "office supply",
+      "art supplies",
+      "writing instrument",
+      "ink brush",
+      "painting tool",
+      "calligraphy set"
+    ],
+    "latency_ms": 5672.983646392822,
+    "total_tokens": 158,
+    "prompt_tokens": 100,
+    "completion_tokens": 58
+  },
+  {
+    "keyword": "자석 화이트보드",
+    "expanded": [
+      "magnetic whiteboard",
+      "whiteboard with adhesive sheet",
+      "sticky note board",
+      "magnetic board for office use",
+      "adhesive surface whiteboard",
+      "office supply whiteboard",
+      "student desk accessory",
+      " Desk organizer with magnetic surface",
+      "Whiteboard for classroom decor"
+    ],
+    "latency_ms": 6048.669815063477,
+    "total_tokens": 174,
+    "prompt_tokens": 101,
+    "completion_tokens": 73
+  },
+  {
+    "keyword": "파우치",
+    "expanded": [
+      "pouch",
+      "bag",
+      "shopping bag",
+      "store bag",
+      "handbag",
+      "cloth bag",
+      "travel pouch",
+      "backpack",
+      "school bag",
+      " tote bag"
+    ],
+    "latency_ms": 4119.715929031372,
+    "total_tokens": 132,
+    "prompt_tokens": 98,
+    "completion_tokens": 34
+  },
+  {
+    "keyword": "벌레 물린데 바르는 약",
+    "expanded": [
+      "pest control",
+      "insecticide spray",
+      "vermifuge",
+      "flea and tick repellent",
+      "bed bug spray",
+      "ant Killer",
+      "dirt and dust cleaning products",
+      "carpet deodorizer",
+      "pet care products"
+    ],
+    "latency_ms": 6185.6818199157715,
+    "total_tokens": 180,
+    "prompt_tokens": 103,
+    "completion_tokens": 77
   }
 ]
