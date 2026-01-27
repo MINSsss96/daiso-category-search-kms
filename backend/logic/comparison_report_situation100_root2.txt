@@ -1,0 +1,57 @@
+=== Keyword Extraction Evaluation ===
+
+[MISMATCH] Q: 물에 젖어도 냄새 안 나는 거 있어요?
+  Intention: 항균 매트 / 속건 타월 구매
+  Keyword: 세탁용품
+  Note: MISMATCH | "세탁용품" (laundry products) is related to cleaning and maintaining items, but it doesn't directly address the user's intention of finding antibacterial mats or quick-drying towels that won't smell when wet. The user is looking for specific product features (antibacterial, quick-drying), not necessarily items used for washing.
+
+[MISMATCH] Q: 붙였다 떼도 자국 안 남는 거 뭐 있어요?
+  Intention: 무자국 후크 / 제거형 양면테이프 구매
+  Keyword: **네, 고객님의 문의를 분석한 결과, 다음과 같은 상품을 추천합니다.**
+  Note: MISMATCH | The extracted keyword is a generic chatbot response, not a relevant search term for finding "non-marking hooks or removable double-sided tape." It does not reflect the user's intention to purchase these items.
+
+[MISMATCH] Q: 열 받아도 안 녹는 거 있어요?
+  Intention: 내열 매트 / 실리콘 받침 구매
+  Keyword: **분석:**
+  Note: MISMATCH | "분석:" is not a search term related to heat-resistant mats or silicone coasters. It appears to be a label or heading, not a keyword.
+
+[MISMATCH] Q: 떨어뜨려도 잘 안 깨지는 거 있나요?
+  Intention: 실리콘 용기 / 완충 케이스 구매
+  Keyword: **Keyword:** 식기/그릇/트레이
+  Note: MISMATCH | The extracted keyword "식기/그릇/트레이" (tableware/dishes/tray) is too broad and doesn't directly address the intention of finding durable, drop-resistant containers or protective cases, implied by "떨어뜨려도 잘 안 깨지는 거" (something that doesn't break easily when dropped). While some 식기/그릇/트레이 might be made of durable materials, the keyword doesn't specifically target that aspect.
+
+[MATCH] Q: 미끄러운 데 붙이면 안 미끄럽게 되는 거 있어요?
+  Intention: 논슬립 패드 / 미끄럼 방지 테이프 구매
+  Keyword: 미끄럼방지패드
+  Note: MATCH | "미끄럼방지패드" is a reasonable search term for someone looking for "논슬립 패드 / 미끄럼 방지 테이프". It directly addresses the intention of preventing slipping.
+
+[MISMATCH] Q: 얇은데 튼튼한 거 있어요?
+  Intention: 강화 수납함 / 압축 파우치 구매
+  Keyword: **Thinking Strategy:**
+  Note: MISMATCH | The extracted keyword "Thinking Strategy:" is not a relevant search term for finding 강화 수납함 (reinforced storage box) or 압축 파우치 (compression pouch). It seems like a placeholder or an error in the extraction process.
+
+[MATCH] Q: 손에 안 미끄러지고 잘 잡히는 거 있어요?
+  Intention: 논슬립 손잡이 커버 / 미끄럼 방지 그립 구매
+  Keyword: **Keyword:** 미끄럼방지패드
+  Note: MATCH | "미끄럼방지패드" (anti-slip pad) can be used on handles or other surfaces to improve grip and prevent slipping, which aligns with the intention of finding a non-slip handle cover or grip.
+
+[MISMATCH] Q: 가볍고 접히는 거 뭐 있어요?
+  Intention: 접이식 장바구니 / 접이식 바구니 구매
+  Keyword: 수납정리함
+  Note: MISMATCH | 수납정리함 (Storage Organizer) is a broader category and doesn't necessarily imply "foldable" or "lightweight shopping basket/basket". It's possible to find foldable storage organizers, but it's not the primary characteristic the user is looking for.
+
+[MATCH] Q: 물 안 새는 거 있어요?
+  Intention: 방수 파우치 / 밀폐용기 구매
+  Keyword: 밀폐/보관/저장용기
+  Note: MATCH | "밀폐/보관/저장용기" implies a container that can prevent leaks, aligning with the intention of finding "방수 파우치 / 밀폐용기" to prevent water leakage.
+
+[MATCH] Q: 냄새 오래 잡아주는 거 있어요?
+  Intention: 지속형 탈취제 / 방향제 구매
+  Keyword: 방향제
+  Note: MATCH | 방향제 is a type of 탈취제/방향제 (deodorizer/air freshener) and can lead to products that have 오래 잡아주는 (long-lasting) effect.
+
+[MISMATCH] Q: 세척하기 쉬운 거 뭐 있어요?
+  Intention: 분리형 용기 / 실리콘 주방용품 구매
+  Keyword: **1. 대분류/중분류 판단:** 주방용품 > 조리도구
+  Note: MISMATCH | The extracted keyword "주방용품 > 조리도구" is too broad and doesn't directly relate to the user's intention of finding easy-to-clean items, specifically "분리형 용기 / 실리콘 주방용품 구매". While 조리도구 falls under 주방용품, it doesn't narrow down the search to products with easy cleaning features or the specific types of products mentioned.
+

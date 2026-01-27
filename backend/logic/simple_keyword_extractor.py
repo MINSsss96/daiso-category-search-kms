@@ -20,7 +20,7 @@ model = genai.GenerativeModel("gemini-2.0-flash") # Updated to 2.0-flash as per 
 
 # Paths
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-JSON_PATH = os.path.join(BASE_DIR, "database", "question3.json")
+JSON_PATH = os.path.join(BASE_DIR, "database", "question_situation100.json")
 
 def load_questions():
     if not os.path.exists(JSON_PATH):
@@ -28,7 +28,8 @@ def load_questions():
         return []
     
     with open(JSON_PATH, "r", encoding="utf-8") as f:
-        return json.load(f)
+        data = json.load(f)
+        return data.get("questions", [])
 
 def extract_keyword(query):
     prompt = f"""
@@ -76,7 +77,7 @@ def main():
     print(f"Loaded {len(questions)} questions.")
     print("-" * 50)
     
-    output_txt_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "extracted_keywords.txt")
+    output_txt_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "extracted_keywords_real_root.txt")
     print(f"Saving results to: {output_txt_path}")
 
     with open(output_txt_path, "w", encoding="utf-8") as f:
