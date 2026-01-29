@@ -12,6 +12,7 @@ if not api_key:
     exit(1)
 
 genai.configure(api_key=api_key)
+# Reverted to 2.0-flash as 2.5 is likely invalid/unavailable
 model = genai.GenerativeModel("gemini-2.0-flash")
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -28,9 +29,7 @@ def load_extracted_keywords():
         for line in f:
             # Format: Q: ... -> Keyword: ... (Latency: ...)
             if "-> Keyword:" in line:
-                # Remove metric info if present
                 clean_line = line.split("(Latency:")[0].strip()
-                
                 parts = clean_line.split("-> Keyword:")
                 if len(parts) >= 2:
                     q = parts[0].replace("Q: ", "").strip()
@@ -41,6 +40,7 @@ def load_extracted_keywords():
 def load_intentions():
     with open(INTENTION_FILE, "r", encoding="utf-8") as f:
         data = json.load(f)
+        # Handle list structure directly
         if isinstance(data, list):
             return data
         return data.get("questions", [])
@@ -101,13 +101,9 @@ def main():
             if not q:
                 continue
 
-            # Simple normalization for matching keys
-            # Extracted keys might differ slightly in whitespace or quotes
-            # We try exact match first
+            # Keys lookups
             keyword = extracted_map.get(q)
-            
             if not keyword:
-                # Try finding key that contains this question text
                 for k, v in extracted_map.items():
                     if q in k or k in q:
                         keyword = v

@@ -3,24 +3,23 @@ import os
 import json
 import time
 from dotenv import load_dotenv
-import google.generativeai as genai
+from openai import OpenAI
 
 # Load environment variables
 load_dotenv()
-api_key = os.getenv("GEMINI_API_KEY")
+api_key = os.getenv("OPENAI_API_KEY")
 
 if not api_key:
-    print("Error: GEMINI_API_KEY not found in .env")
+    print("Error: OPENAI_API_KEY not found in .env")
     exit(1)
 
-# Configure Gemini
-genai.configure(api_key=api_key)
-model = genai.GenerativeModel("gemini-2.0-flash") # Reverted to 2.0-flash for optimized prompt performance
-
+# Configure OpenAI
+client = OpenAI(api_key=api_key)
+MODEL_NAME = "gpt-4o-mini"
 
 # Paths
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-JSON_PATH = os.path.join(BASE_DIR, "database", "question_situation100.json")
+JSON_PATH = os.path.join(BASE_DIR, "database", "question3.json")
 
 def load_questions():
     if not os.path.exists(JSON_PATH):
@@ -29,6 +28,8 @@ def load_questions():
     
     with open(JSON_PATH, "r", encoding="utf-8") as f:
         data = json.load(f)
+        if isinstance(data, list):
+            return data
         return data.get("questions", [])
 
 def extract_keyword(query):
@@ -179,12 +180,22 @@ Keyword: 꼭꼬핀
     """
     try:
         start_time = time.time()
-        response = model.generate_content(prompt)
+        
+        # OpenAI API Call
+        response = client.chat.completions.create(
+            model=MODEL_NAME,
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.0
+        )
+        
         end_time = time.time()
         latency = end_time - start_time
         
         # Parse output
-        response_text = response.text.strip()
+        response_text = response.choices[0].message.content.strip()
         keyword = ""
         
         # New parsing logic for "Primary Keyword:"
@@ -209,11 +220,10 @@ Keyword: 꼭꼬핀
                     keyword = raw_keyword
                     break
 
-
-        usage = response.usage_metadata
-        prompt_tokens = usage.prompt_token_count
-        candidates_tokens = usage.candidates_token_count
-        total_tokens = usage.total_token_count
+        usage = response.usage
+        prompt_tokens = usage.prompt_tokens
+        candidates_tokens = usage.completion_tokens
+        total_tokens = usage.total_tokens
 
         return {
             "keyword": keyword,
@@ -235,11 +245,21 @@ def main():
     print(f"Loaded {len(questions)} questions.")
     print("-" * 50)
     
-    output_txt_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "extracted_keywords_situation100_prompt2.txt")
+    # Save to extracted_keywords_part_refill_questions_100_openai.txt to distinguish
+    output_txt_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "extracted_keywords_question3_openai.txt")
     print(f"Saving results to: {output_txt_path}")
 
     with open(output_txt_path, "w", encoding="utf-8") as f:
-        for i, q in enumerate(questions):
+        for i, item in enumerate(questions):
+            # Handle item being either a string or dict (robustness)
+            if isinstance(item, dict):
+                q = item.get("query", item.get("question", ""))
+            else:
+                q = item
+                
+            if not q:
+                continue
+
             result = extract_keyword(q)
             
             if "error" in result:

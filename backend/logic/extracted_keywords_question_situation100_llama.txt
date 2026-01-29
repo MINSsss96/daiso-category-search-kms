@@ -1,0 +1,3 @@
+Q: 물에 젖어도 냄새 안 나는 거 있어요? -> Keyword:  (Latency: 31.533s, Tokens: [P:3277, C:154, T:3431])
+Q: 붙였다 떼도 자국 안 남는 거 뭐 있어요? -> Keyword: ** 방수파우치 (Latency: 27.358s, Tokens: [P:3278, C:122, T:3400])
+Q: 열 받아도 안 녹는 거 있어요? -> Keyword: 내열유리용기 (Latency: 20.633s, Tokens: [P:3272, C:626, T:3898])
