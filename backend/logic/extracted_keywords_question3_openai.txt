@@ -394,3 +394,6 @@ Q: 붙이는 핫팩 어디 있어요? -> Keyword: 붙이는 핫팩 (Latency: 1.4
 Q: 방충망 보수 테이프 어디 있죠? -> Keyword: 방충망 보수 테이프 (Latency: 1.594s, Tokens: [P:3161, C:61, T:3222])
 Q: 욕실 청소용 솔 어디 있어요? -> Keyword: 청소솔 (Latency: 1.549s, Tokens: [P:3159, C:53, T:3212])
 Q: 자석 화이트보드 어디 있나요? -> Keyword: 자석화이트보드 (Latency: 1.741s, Tokens: [P:3159, C:61, T:3220])
+Q: 렌즈 세척액 어디 있어요? -> Keyword: 렌즈세척액 (Latency: 1.573s, Tokens: [P:3158, C:74, T:3232])
+Q: 바느질 세트 어디 있나요? -> Keyword: 바느질완구 (Latency: 1.517s, Tokens: [P:3158, C:57, T:3215])
+Q: 자동차 흠집 제거제 어디 있어요? -> Keyword: 자동차 흠집 제거제 (Latency: 1.208s, Tokens: [P:3160, C:39, T:3199])
