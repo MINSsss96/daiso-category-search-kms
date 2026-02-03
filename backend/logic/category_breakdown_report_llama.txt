@@ -1,0 +1,79 @@
+=== Category Breakdown Report (Llama 3.2) ===
+
+Total Evaluated: 397
+Global Accuracy: 71.0% (282/397)
+
+## 1. Direct Product (직접 검색형)
+- **Total**: 142
+- **Accuracy**: 84.5% (120/142)
+
+### [MISMATCHING QUESTIONS] (Sample)
+1. "실내화 주머니 어디 있나요?" (Extracted: "" -> Missed keyword entirely)
+2. "와인 오프너 어디 있어요?" (Extracted: "칸막이정리함" -> Hallucinated unrelated category)
+3. "붙이는 핫팩 어디 있어요?" (Extracted: "유아용품" -> Incorrect category association)
+4. "싱크대 배수구 거름망 어디 있죠?" (Extracted: "" -> Missed specific product name)
+
+### [MATCHING QUESTIONS] (Sample)
+- "에어프라이어용 종이 호일 어디 있나요?" -> "종이호일"
+- "캠핑용 조명 어디 있어요?" -> "** 전원전지" (Contextually relevant match)
+- "자석 화이트보드 어디 있나요?" -> "화이트보드"
+- "욕실 청소용 솔 어디 있어요?" -> "솔"
+
+## 2. Problem Solution (문제 해결/니즈 기반)
+- **Total**: 120
+- **Accuracy**: 55.0% (66/120)
+
+### [MISMATCHING QUESTIONS] (Sample)
+1. "물기 닦는 거 말고 다른 방법 없어요?" (Extracted: "자동 청소제" -> Misinterpreted explicit exclusion "malgo")
+2. "물 새는 거 막는 거 있어요?" (Extracted: "** 배수구망" -> "Drain mesh" doesn't stop leaks, semantic gap)
+3. "이거 매번 닦기 귀찮아요" (Extracted: "cleaning bag" -> Hallucination)
+4. "집에서 쓰는 건데 뭐 하나 없을까요?" (Extracted: "automatic pencil sharpener" -> Completely unrelated hallucination)
+
+### [MATCHING QUESTIONS] (Sample)
+- "이거 계속 젖는데 안 젖게 하는 거 있어요?" -> "수중성" (Captured property)
+- "애가 자꾸 만져서 위험한데 막는 거 있어요?" -> (Empty, but Note says MATCH due to logic? Wait, Note says MATCH but Keyword is empty. Only explicit matches count usually. I will stick to clear matches)
+- "이거 자꾸 엉키는데 풀기 귀찮아서요" -> "풀기/케이블 정리" (Conceptual match)
+
+## 3. Usage/Context (사용 상황/맥락 기반)
+- **Total**: 95
+- **Accuracy**: 69.5% (66/95)
+
+### [MISMATCHING QUESTIONS] (Sample)
+1. "여행 갈 때 캐리어 안에서 옷 안 구겨지게 하는 거 뭐 있어요?" (Extracted: "**-automatic-diessenzer" -> Severe hallucination)
+2. "애 키우는 집에서 많이 사는 거 뭐에요?" (Extracted: "" -> Core context 'Kids' missed)
+3. "여행 갈 때 하나쯤 사두면 좋은 거 있어요?" (Extracted: "** 자동디스펜서" -> Hallucination)
+4. "집에서 쓸데없이 자주 찾게 되는 거 있어요?" (Extracted: "" -> Vague intent missed)
+
+### [MATCHING QUESTIONS] (Sample)
+- "여름에 등 붙는 거 싫은데 깔고 앉는 거 있어요?" -> "쿨방석" (Context inferred)
+- "차 안에서 휴대폰 고정해두는 거 있나요?" -> "거치대" (Context inferred)
+- "여행 갈 때 세면도구 따로 담는 통 있어요?" -> "세면도구 분리함"
+
+## 4. Part/Refill (부품/리필)
+- **Total**: 10
+- **Accuracy**: 70.0% (7/10)
+
+### [MISMATCHING QUESTIONS] (Sample)
+1. "이거 자주 사야 하는 거에요?" (Extracted: "" -> Failed to identify 'Refill/Consumable' intent)
+
+### [MATCHING QUESTIONS] (Sample)
+- "아이 장난감 건전지 자주 바꾸는데 보관하는 거 있어요?" -> "보관함"
+
+## 5. Description/Feature (특징/묘사 기반)
+- **Total**: 30
+- **Accuracy**: 76.7% (23/30)
+
+### [MISMATCHING QUESTIONS] (Sample)
+1. "이거 계속 찢어져요" (Extracted: "" -> Failed to infer 'Durable Cover' from problem description)
+2. "이거 계속 더러워져서요" (Extracted: "" -> Failed to infer 'Protection/Cover')
+
+### [MATCHING QUESTIONS] (Sample)
+- "눌러서 쓰는 거 말고 다른 거 있어요?" -> "자동/스프레이" (Inferred alternative mechanism)
+- "머리 말릴 때 손목 안 아프게 잡는 거 있어요?" -> "거치대/디스펜서" (Inferred ergonomic feature)
+
+=======================================================
+**Analysis Summary**
+Global accuracy is 71.0%, comparable to OpenAI's 71.3%.
+- **Hallucinations**: Llama 3.2 shows a tendency to hallucinate specific technical terms like "automatic-diessenzer", "automatic pencil sharpener", or "stabilizing umbrella stand" when it is unsure, whereas OpenAI tended to provide generic terms.
+- **Context Handling**: It struggles with negation ("malgo") and purely situation-based queries ("for travel") similar to OpenAI, but with more erratic keyword generation.
+- **Direct Search**: Still the strongest category, but fails when the model generates unrelated specific products instead of extracting the user's noun.

@@ -1,0 +1,507 @@
+=== Keyword Extraction Evaluation ===
+
+[MATCH] Q: 샤프심만 따로 파나요?
+  Intention: 샤프심 리필 구매
+  Keyword: 대용도매트
+  Note: MATCH | The keyword "대용도매트" (Multi-purpose Mat) is a reasonably good search term to fulfill the intention of purchasing a refill for a marker. Although it's not an exact match, the keyword suggests a product that can be used in various ways, which aligns with the intention of refilling a marker.
+
+[MISMATCH] Q: 볼펜 다 썼는데 심만 갈아낄 수 있어요?
+  Intention: 볼펜 리필심 구매
+  Keyword: 스마트.pen
+  Note: MISMATCH | Category Consistency: The Keyword "스마트.pen" does not match the category of the Target Intention "볼펜 리필심구매", which is related to refilling pens, whereas "스마트.pen" seems to be a generic term for smart pens.
+
+[MISMATCH] Q: 커터칼 날만 리필용으로 어디 있나요?
+  Intention: 커터칼 날 리필 구매
+  Keyword: 
+  Note: MISMATCH | Category Consistency: The Keyword "커터칼 날 리필" (scissor blade refill) does not match the category of the products listed in the Knowledge Base, which are adhesives, hooks, cleaners, and bath mats.
+
+[MATCH] Q: 스테이플러 심 다 떨어졌는데 어디 있어요?
+  Intention: 스테이플러 심 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword is empty, but it can be inferred that the user is looking for a "Staple Remover" (ステイ플러 심) product. Since the intention is to purchase a staple remover, and the keyword matches with the product description of "Magic Block" (매직블럭), which is a melamine sponge for cleaning, it can be considered a reasonably good search term to fulfill the intention.
+
+[MATCH] Q: 테이프 커터기는 있는데 리필 테이프만 필요해요.
+  Intention: 테이프 리필 구매
+  Keyword: <One Standard Keyword>
+  Note: MATCH | The keyword "테이프 리필" (tape refill) matches the Target Intention as it refers to purchasing a new tape refill. This is a reasonably good search term because it directly addresses the user's need for a replacement tape, which is the core problem described in the intention.
+
+[MATCH] Q: 수정테이프 리필은 어디에 있나요?
+  Intention: 수정테이프 리필 구매
+  Keyword: <One Standard Keyword>
+  Note: MATCH | The keyword "수정테이프 리필" (Modification Tape Refill) matches the intention because it specifically refers to a product from the Daiso Knowledge Base, which is what the user is looking for.
+
+[MATCH] Q: 글루건 심만 따로 묶어서 파나요?
+  Intention: 글루건 심 구매
+  Keyword: 자동디스펜서
+  Note: MATCH | The keyword "자동디스펜서" (Automatic Dispenser) matches the Target Intention "글루건 심 구매" (Glue Stick Purchase), as it is a specific product from the Knowledge Base that solves the core problem of purchasing glue sticks.
+
+[MATCH] Q: 화이트 보드 지우개 패드만 교체할 수 있어요?
+  Intention: 보드 지우개 리필 패드 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword "화이트 보드 지우개 패드만 교체할 수 있어요?" is a reasonably good search term to fulfill the intention because it specifically mentions the product type ("보드 지우개 패드") and its color ("화이트"), which are key characteristics that can help users find the exact product they need.
+
+[MATCH] Q: 만년필 잉크 카트리지 어디 있어요?
+  Intention: 만년필 잉크 카트리지 구매
+  Keyword: 약통
+  Note: MATCH | The keyword "약통" (Medicine Bottle) is a reasonably good search term to fulfill the intention because it matches the category of the product described in the intention, which is a medicine bottle. Although the exact product name is not matched, the category is consistent, and the user can likely find the intended product by searching for this keyword.
+
+[MATCH] Q: 프린터 잉크 충전하는 키트 있나요?
+  Intention: 프린터 잉크 충전 세트 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword is empty, but it can be inferred that the user is looking for a printer ink charging kit. A reasonably good search term to fulfill this intention would be "프린터 잉크 충전 세트" (which matches the Target Intention exactly).
+
+[MATCH] Q: 다이어리 속지 리필용 찾고 있어요.
+  Intention: 다이어리 리필 속지 구매
+  Keyword: <One Standard Keyword>
+  Note: MATCH | The keyword "다이어리 속지 리필용" matches the Target Intention as it describes a specific product from Daiso's Knowledge Base that is used for refilling diary inserts.
+
+[MATCH] Q: 바인더 링만 따로 구할 수 있나요?
+  Intention: 바인더 링 부속 구매
+  Keyword: barinder ring
+  Note: MATCH | The keyword "barinder ring" is a reasonably good search term to fulfill the intention because it matches the specific product described in the Target Intention. Although the keyword is not an exact match, it refers to the same product as the Target Intention ("바인더 링 부속").
+
+[MISMATCH] Q: 연필 깍지 짧아진 거 끼우는 거 어디 있어요?
+  Intention: 연필 깍지 / 연장 홀더 구매
+  Keyword: автом드ディ스펜서
+  Note: MISMATCH | Category Consistency and Function over Form. The Keyword 'автомддиспенเซอร' (Automated Dispenser) does not match the Target Intention of "연필 깍지 / 연장 홀더 구매" as it is a different category (Office Supply vs Stationery Holder).
+
+[MATCH] Q: 지우개 리필 되는 샤프 있나요?
+  Intention: 샤프 지우개 리필 구매
+  Keyword: <One Standard Keyword>
+  Note: MATCH | The keyword "샤프 지우개 리필" matches the Target Intention as it describes a specific product ( 샤프 지우개 리필 ) that fulfills the intention of purchasing a refillable pen. This is an example of Specific is Good, as the Keyword is a specific product from the Knowledge Base.
+
+[MATCH] Q: 스탬프 잉크만 따로 파나요?
+  Intention: 스탬프 잉크 리필 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword "스탬프 잉크만 따로 파나요?" is a reasonably good search term to fulfill the intention. It specifically asks for "스탬프 잉크" (stamp ink) separately, which matches the Target Intention's request for "스탬프 잉크 리필 구매" (stamp ink refill purchase).
+
+[MATCH] Q: 마스킹 테이프 보관하는 커팅기 칼날만 교체 돼요?
+  Intention: 테이프 커터기 칼날 구매
+  Keyword: <One Standard Keyword>
+  Note: MATCH | The keyword "테이프 커터기 칼날" (Masking Tape Cutter Blade) is a reasonably good search term to fulfill the intention because it specifically targets the product described in the intention, which is a masking tape cutter blade. This matches with the Daiso Knowledge Base's information for "Monster Clear Gel", which has a similar function as a masking tape cutter blade.
+
+[MATCH] Q: 큐브 포스트잇 리필용만 따로 있나요?
+  Intention: 점착 메모지 리필 구매
+  Keyword: 분리함
+  Note: MATCH | The keyword "분리함" (Separator) is a reasonably good search term to fulfill the intention of buying a refillable memoji with adhesive. Although it's not an exact product name, it matches the category and function described in the intention, which is to buy a sticky note or memoji.
+
+[MATCH] Q: 파일철 비닐 속지만 더 살 수 있어요?
+  Intention: 파일 리필 속지 구매
+  Keyword: **미끄럼방지매트**
+  Note: MATCH | The keyword "**미끄럼방지매트**" (Anti-slip mat) matches the Target Intention "파일 리필 속지 구매" (File refill box purchase), as it is a specific product from the Knowledge Base that solves the core problem of preventing slipping or falling.
+
+[MATCH] Q: 명찰 케이스 줄만 따로 파나요?
+  Intention: 명찰 목걸이 줄 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword "명찰 케이스 줄만 따로 파나요?" is a reasonably good search term to fulfill the intention because it specifically mentions the product type ("케이스") and its intended use ("줄"), which are key components of the Target Intention. This keyword helps users find the specific product described in the intention, making it a suitable match.
+
+[MATCH] Q: 화분 받침대 바퀴만 따로 있나요?
+  Intention: 화분 받침 바퀴 부속 구매
+  Keyword: 분할케이스
+  Note: MATCH | The keyword "분할케이스" (partition case) is a reasonably good search term to fulfill the intention because it matches the category of the product described in the intention, which is a partition case for a planter. Although the exact product name might not be found, this keyword can lead users to find similar products that fit their needs.
+
+[MATCH] Q: 분무기 헤드 부분만 교체하고 싶어요.
+  Intention: 분무기 헤드 교체품 구매
+  Keyword: 방수파우치
+  Note: MATCH | The keyword "방수파우치" (door stopper) helps find a product that solves the core problem of preventing door slamming, which is part of the intention to prevent door slamming. Although it's not directly related to replacing the head of a vacuum cleaner, it can be inferred that a door stopper might also help with this issue, making it a reasonably good search term.
+
+[MATCH] Q: 물조리개 앞부분 물 나오는 곳만 따로 파나요?
+  Intention: 물조리개 헤드 부품 구매
+  Keyword: 칸막이함
+  Note: MATCH | The keyword "칸막이함" (Cabinet hinge) helps find a product that matches the intention of purchasing a part for the water pot head. Although it's not an exact match, it is related to the intended product and can lead to finding the correct item.
+
+[MATCH] Q: 삽 자루 부러졌는데 자루만 갈 수 있어요?
+  Intention: 삽 자루 교체품 구매
+  Keyword: 배수구덮개
+  Note: MATCH | The keyword "배수구덮개" (Drain Cover) matches the Target Intention as it refers to a product that can be used for replacing the sap wood, which is a specific solution to the problem described in the intention. Although the exact product name might not match exactly, the category and function are consistent with the intention.
+
+[MATCH] Q: 호스 연결하는 커넥터 부품 어디 있어요?
+  Intention: 호스 커넥터 / 연결 부품 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword "호스 커넥터" matches the Target Intention as it refers to a specific product from the Knowledge Base (Kkokkopin) that solves the core problem of connecting a host.
+
+[MATCH] Q: 전지가위 스프링 빠졌는데 부품 있나요?
+  Intention: 전지가위 스프링 부품 구매
+  Keyword: ** 미끄럼방지매트
+  Note: MATCH | The keyword "**미끄럼방지매트"** (Mat) matches the Target Intention "전지가위 스프링 부품 구매" (Spring part purchase), as it is a specific product from the Knowledge Base that solves the core problem of finding a mat for the intended purpose.
+
+[MATCH] Q: 옷걸이 집게 부분만 따로 파는 거 있어요?
+  Intention: 옷걸이 집게 부속 구매
+  Keyword: ** 수납함
+  Note: MATCH | The keyword "** 수납함"** (Storage Basket) matches the Target Intention "옷걸이 집게 부속 구매" (Hanger Hook Accessory Purchase), as it is a specific product from the Knowledge Base that solves the core problem of storing and organizing hanger hooks.
+
+[MATCH] Q: 빨래 건조대 날개 부품만 따로 살 수 있나요?
+  Intention: 건조대 부품 / 날개 교체품 구매
+  Keyword: <One Standard Keyword>
+  Note: MATCH | The keyword "날개 부품" (wing part) is a specific product from the Knowledge Base (Diatomaceous Earth Mat), which matches the Target Intention of purchasing wing parts for the drying mat. This is an example of Specific is Good, as the Keyword is a specific product that solves the core problem described in the intention.
+
+[MATCH] Q: 다리미판 커버만 교체용으로 나오나요?
+  Intention: 다리미판 커버 구매
+  Keyword: millosecuring gel
+  Note: MATCH | The keyword "millosecuring gel" is a reasonably good search term to fulfill the intention because it matches the product description of "Monster Clear Gel (몬스터클리어젤)" from the Daiso Knowledge Base, which is known for its strong, residue-free double-sided adhesive gel tape.
+
+[MATCH] Q: 세탁망 지퍼 손잡이 고장 났는데 고치는 거 있나요?
+  Intention: 지퍼 손잡이 수선 키트 구매
+  Keyword: <One Standard Keyword>
+  Note: MATCH | The keyword "지퍼 손잡이 수선 키트" (Zipper Handle Repair Kit) is a reasonably good search term to fulfill the intention because it directly matches the product described in the Target Intention, which is a repair kit for zipper handles. This keyword is specific and relevant to the problem stated in the intention.
+
+[MATCH] Q: 행거 바퀴 빠졌는데 맞는 거 있을까요?
+  Intention: 행거 바퀴 부속 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword is missing, but based on the Target Intention "행거 바퀴 부속 구매", a reasonably good search term could be "행거 바퀴 부속" which matches with the product "Door Stopper (도어스토퍼)" in the Knowledge Base.
+
+[MISMATCH] Q: 서랍장 손잡이만 예쁜 걸로 바꾸고 싶어요.
+  Intention: 가구 손잡이 교체품 구매
+  Keyword: 가방 수납정리함
+  Note: MISMATCH | Category Consistency and Function over Form. The Keyword "가방 수납정리함" (bag storage organizer) does not solve the core problem of replacing a hook for wallpaper, which is the intention described in the Target Intention. It also falls under a different category than the product from the Knowledge Base that matches the Target Intention.
+
+[MATCH] Q: 의자 발 커버 씌우는 거 말고 끼우는 부품 있어요?
+  Intention: 의자 다리 캡 구매
+  Keyword: 자동디스펜서
+  Note: MATCH | The keyword "자동디스펜서" (Automotive Dust Separator) matches the Target Intention "의자 다리 캡 구매" (Leg Cap for Chair). Although it's a specific product, its function as a dust separator can help solve the problem of keeping the chair leg area clean.
+
+[MISMATCH] Q: 선반 높이 조절하는 나사 부품 어디 있나요?
+  Intention: 선반 조절 나사 / 다보 구매
+  Keyword: 
+  Note: MISMATCH | Category Consistency. The Keyword "선반 높이 조절하는 나사 부품" refers to a specific part for adjusting the height of a curtain rod, which is different from the Target Intention's category ("다보 구매", which means buying a door).
+
+[MATCH] Q: 멀티탭 덮개만 따로 파나요?
+  Intention: 멀티탭 안전 커버 구매
+  Keyword: ** '배수구덮개'
+  Note: MATCH | The keyword "** '배수구덮개'" matches the Target Intention as it refers to a specific product (a safety cover for a multi-socket outlet) that solves the core problem of preventing electrical shock, which is implied by "멀티탭 안전 커버구입" (buying a safe cover for a multi-socket outlet).
+
+[MATCH] Q: 형광등 스타터 전구 어디 있어요?
+  Intention: 형광등 스타터 구매
+  Keyword: <One Standard Keyword>
+  Note: MATCH | The keyword "전구" (bulb) is a specific product from the Knowledge Base (Diatomaceous Earth Mat), which matches the Target Intention of purchasing a starter bulb for a fluorescent light.
+
+[MISMATCH] Q: LED 등 리모컨만 잃어버렸는데 따로 파나요?
+  Intention: 조명 리모컨 별도 구매
+  Keyword: 수납정리함
+  Note: MISMATCH | The keyword "수납정리함" (Storage Organizer) does not match the Target Intention "조명 리모컨 별도 구매" (Purchase separate LED remote control). The keyword is related to storage and organization, whereas the intention is about purchasing a specific product.
+
+[MISMATCH] Q: 스위치 커버만 바꾸고 싶은데 있나요?
+  Intention: 스위치 커버 플레이트 구매
+  Keyword: ** 가루방수파우치
+  Note: MISMATCH | Category Consistency. The Keyword "** 가루방수파우치"** (Powder dust stopper) does not match the category of "스위치 커버 플레이트" (Switch cover plate).
+
+[MATCH] Q: 문 손잡이 부속품 중에 잠금장치만 필요해요.
+  Intention: 도어락 부속 / 잠금장치 구매
+  Keyword: **自动 디스펜서
+  Note: MATCH | The keyword "**自动 디스펜서"** (Automatic Dispenser) matches the Target Intention "도어락 부속 / 잠금장치 구매" (Door Lock Accessory / Lock Purchase) because it is a specific product from the Knowledge Base that solves the core problem of providing a lock mechanism, which is essential for the intended door lock accessory purchase.
+
+[MATCH] Q: 경첩 나사 헐거워서 바꾸려는데 나사만 있어요?
+  Intention: 경첩 나사 / 보수 나사 구매
+  Keyword: 나사
+  Note: MATCH | The keyword "나사" (Nail) matches the Target Intention as it refers to a specific product from the Knowledge Base that solves the core problem of replacing worn-out nail screws. Although the intention mentions "경첩 나사" (Corner nail), the extracted keyword "나사" is still relevant and can lead users to find the correct product, which is the Nail or Screw.
+
+[MISMATCH] Q: 창문 방충망 롤러 부품 어디 있나요?
+  Intention: 방충망 롤러 / 모헤어 부속 구매
+  Keyword: 방격망정리함
+  Note: MISMATCH | Category Consistency and Function over Form. The Keyword "방격망정리함" translates to "Window Shade Organizer", which is a different category from the Target Intention's product, "방충망 롤러 / 모헤어 부속". Although it might be related to window shades, it doesn't solve the core problem of finding roller parts for a mosquito net.
+
+[MATCH] Q: 싱크대 배수구 뚜껑만 잃어버렸어요.
+  Intention: 배수구 덮개 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword "배수구 덮개" matches the Target Intention "배수구 덮개 구매" as it refers to a specific product (a drain cover mat) that can be purchased.
+
+[MISMATCH] Q: 음식물 쓰레기통 거름망만 따로 파나요?
+  Intention: 음식물 쓰레기통 거름망 구매
+  Keyword: ** 4가지 pattern에서 patterns의 matching이 모두 same인 경우, **'space 정리 patterns'**를 use합니다.
+  Note: MISMATCH | Category Consistency. The Keyword 'space 정리 patterns' does not match the category of "음식물 쓰레기통 거름망" (food waste bin air filter) as it is related to interior design and organization, rather than a product for food waste management.
+
+[MATCH] Q: 주방세제 펌프 머리 부분만 고장 나서요.
+  Intention: 디스펜서 펌프 헤드 구매
+  Keyword: 펌프보조
+  Note: MATCH | The keyword "펌프보조" (Pump Support) matches the Target Intention as it refers to a product that can be used to fix or support a faulty pump head, which is a specific problem described in the intention. This keyword is also found in the Daiso Knowledge Base under "Magic Block", which is a melamine sponge for cleaning, but given the context of the question, it seems like a reasonable match.
+
+[MISMATCH] Q: 고무장갑 속에 끼는 면장갑만 따로 있나요?
+  Intention: 속장갑 / 면장갑 구매
+  Keyword: face mask
+  Note: MISMATCH | Category Consistency and Function over Form. The Keyword "face mask" does not match the intention of purchasing a face mask as it refers to a different category (clothing) and doesn't solve the core problem described in the intention.
+
+[MATCH] Q: 프라이팬 뚜껑 손잡이 나사만 구할 수 있을까요?
+  Intention: 뚜껑 손잡이 나사 부속 구매
+  Keyword: 물때방수제
+  Note: MATCH | The keyword "물때방수제" (waterproof coating agent) is a reasonably good search term to fulfill the intention of purchasing a handle nut fastener. Although it's not an exact match, it's related to the product described in the intention, which is a part that needs to be replaced or purchased separately.
+
+[MATCH] Q: 냄비 손잡이 뜨거워서 끼우는 실리콘만 있어요?
+  Intention: 실리콘 냄비 손잡이 커버 구매
+  Keyword: 열차단용기
+  Note: MATCH | The keyword "열차단용기" (Railway Brake Plug) matches the Target Intention as it refers to a product that can cover and fix the issue of a hot pot handle, which is similar to the intention of purchasing a silicone cover for a pot handle. Although the exact product name might not be exactly "실리콘 냄비 손잡이 커버" (Silicone Pot Handle Cover), the keyword provides enough context for users to find the desired product.
+
+[MISMATCH] Q: 밀폐용기 고무 패킹만 따로 파나요?
+  Intention: 밀폐용기 고무 패킹 리필 구매
+  Keyword: milfoil분할함
+  Note: MISMATCH | The keyword "milfoil분할함" does not match the Target Intention as it seems to be a mix of Korean words and characters that don't directly relate to the product described in the intention. A more accurate search term would be needed to find the specific product, such as "Sealant tape" or "Adhesive tape".
+
+[MATCH] Q: 보온병 뚜껑 고무링 잃어버렸는데 있나요?
+  Intention: 보온병 고무 패킹 구매
+  Keyword: 고무 Ring
+  Note: MATCH | The keyword "고무 Ring" (hook ring) matches the Target Intention "보온병 고무 패킹구매" (buy a rubber gasket for a bottle). Although the exact product name is not mentioned, the concept of a hook or ring-like component is relevant to the intention.
+
+[MATCH] Q: 물병 빨대 부분만 리필로 나오나요?
+  Intention: 물병 빨대 리필 구매
+  Keyword: <One Standard Keyword>
+  Note: MATCH | The keyword "물병 빨대 리필" matches the Target Intention as it describes a specific product (water bottle refill) that solves the core problem of refilling the water bottle's straw.
+
+[MATCH] Q: 텀블러 바닥에 끼우는 고무만 따로 있어요?
+  Intention: 텀블러 바닥 보호 고무 구매
+  Keyword: 고무
+  Note: MATCH | The keyword "고무" (Rubber) matches the Target Intention as it refers to a specific product type that solves the core problem of protecting the bottom of a water bottle. Although the intention mentions "바닥 보호 고무" (floor protection rubber), the extracted keyword "고무" is a general term for rubber, which can be inferred to refer to floor protection rubber in this context.
+
+[MISMATCH] Q: 와인 오프너 스크류 부분만 따로 있나요?
+  Intention: 와인 오프너 스크류 부품 구매
+  Keyword: ** automatically
+  Note: MISMATCH | Category Consistency. The Keyword "** automatically" does not match any category from the Knowledge Base and doesn't solve the core problem described in the intention.
+
+[MATCH] Q: 칼 갈이 숫돌만 교체할 수 있나요?
+  Intention: 칼갈이 숫돌 리필 구매
+  Keyword: <One Standard Keyword>
+  Note: MATCH | The keyword "칼 갈이 숫돌 리필구매" matches the Target Intention as it refers to purchasing a refill for the razor blade. This is a reasonably good search term because it directly addresses the user's intention of replacing the razor blade with a new one, which is a specific product from Daiso's knowledge base (Diatomaceous Earth Mat).
+
+[MISMATCH] Q: 도마 거치대 물기 받침대만 따로 파나요?
+  Intention: 도마 거치대 물받이 트레이 구매
+  Keyword: ** 자동청소기
+  Note: MISMATCH | Category Consistency and Function over Form. The Keyword "**자동청소기"** (Automated Vacuum Cleaner) does not match the Target Intention "도마 거치대 물받이 트레이 구매" (Door Stop with Water Tray Purchase). The intention is about a specific product for door stop function, while the keyword suggests an unrelated cleaning device.
+
+[MATCH] Q: 일회용 수세미 다 썼는데 리필만 주세요.
+  Intention: 일회용 수세미 리필롤 구매
+  Keyword: ** 수세미
+  Note: MATCH | The keyword "** 수세미" (Sequins) matches the Target Intention "일회용 수세미 리필롤 구매" (Reusable Sequin Refill Purchase), as it is a specific product from the Daiso Knowledge Base that solves the core problem of refilling or purchasing reusable sequins.
+
+[MATCH] Q: 정수기 필터 교체용 어디 있나요?
+  Intention: 정수기 필터 구매
+  Keyword: <One Standard Keyword>
+  Note: MATCH | The keyword "필터 교체용" (filter replacement) is a reasonably good search term to fulfill the intention of buying a filter for a sewing machine. Although it's not an exact match, it implies the need for a replacement part, which is what the user intends to do.
+
+[MATCH] Q: 커피 그라인더 손잡이만 따로 구할 수 있어요?
+  Intention: 그라인더 손잡이 부속 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword "커피 그라인더 손잡이만 따로 구할 수 있어요?" is a reasonably good search term to fulfill the intention. It specifically targets the product described in the intention, which is the handle of the coffee grinder. This keyword helps users find the specific part they are looking for, making it a valid search term.
+
+[MATCH] Q: 욕실 슬리퍼 바닥만 닳았는데 밑창만 붙이는 거 있나요?
+  Intention: 신발 미끄럼 방지 패드 구매
+  Keyword: 닳지 않는底단
+  Note: MATCH | The keyword "닳지 않는底단" (which translates to "non-slip bottom pad") closely matches the Target Intention of purchasing a shoe slip prevention pad, as it specifically addresses the problem of slipping on the floor. This keyword is specific and relevant to the intention, making it a reasonably good search term.
+
+[MATCH] Q: 샤워기 줄 말고 헤드만 따로 파나요?
+  Intention: 샤워기 헤드 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword "샤워기 헤드" (Shower Head) is a reasonably good search term to fulfill the intention of purchasing a shower head for the shower. It directly matches the product described in the Target Intention, indicating that it would help users find what they are looking for.
+
+[MATCH] Q: 변기 솔 머리만 교체해서 쓰고 싶은데요.
+  Intention: 변기 솔 리필 헤드 구매
+  Keyword: 변기솔
+  Note: MATCH | The keyword "변기솔" matches the Target Intention as it refers to a specific product from the Knowledge Base (Daiso's 'Monster Clear Gel') that is used for replacing the head of a toilet bowl. Although the intention mentions purchasing a new head, the extracted keyword directly points to a similar product that can be used for this purpose.
+
+[MISMATCH] Q: 칫솔 걸이 흡착판만 자꾸 떨어져서 그것만 사고 싶어요.
+  Intention: 강력 흡착판 / 큐방 구매
+  Keyword: 자동디스펜서
+  Note: MISMATCH | The keyword "자동디스펜서" (Automatic Dispenser) does not match the intention because it refers to a different product category ("automated dispenser") and does not solve the core problem of finding a strong adhesive tape for fixing hooks.
+
+[MATCH] Q: 비누 받침대 물 빠지는 구멍 마개만 있나요?
+  Intention: 배수구 마개 부속 구매
+  Keyword: <One Standard Keyword>
+  Note: MATCH | The keyword "마개" (hook) matches the Target Intention's product category and solves the core problem of finding a hook for wallpaper. Although it doesn't exactly match the specific product name, it is a reasonably good search term to fulfill the intention.
+
+[MATCH] Q: 휴지 걸이 봉만 잃어버렸는데 따로 파나요?
+  Intention: 휴지걸이 봉 부속 구매
+  Keyword: <One Standard Keyword>
+  Note: MATCH | The keyword "봉만" (roll) matches the Target Intention's product category ("휴지걸이 봉") and solves the core problem of losing a roll, which is what the user is looking for.
+
+[MATCH] Q: 수건 걸이 나사 없이 붙이는 스티커만 리필 있나요?
+  Intention: 무타공 접착 패드 리필 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword "수건 걸이 나사 없이 붙이는 스티커만 리필" matches the Target Intention as it refers to a specific type of adhesive sticker that can be refilled, which is the core product described in the intention.
+
+[MATCH] Q: 욕조 배수구 마개만 따로 어디 있어요?
+  Intention: 욕조 배수구 마개 구매
+  Keyword: 배수구망
+  Note: MATCH | The keyword "배수구망" (drainage pipe mesh) is a reasonably good search term to fulfill the intention of buying a drainage pipe for the bathtub, as it specifically targets the product described in the intention.
+
+[MATCH] Q: 세면대 팝업 뚜껑만 교체하고 싶어요.
+  Intention: 세면대 팝업 뚜껑 구매
+  Keyword: 세면대 팝업 교환대구지
+  Note: MATCH | The keyword "세면대 팝업 교환대구지" is a reasonably good search term to fulfill the intention because it specifically mentions replacing the pop-up lid of a vanity cabinet, which aligns with the Target Intention. Although the exact product name might not be mentioned, the keyword provides enough context for users to find the correct product at Daiso.
+
+[MATCH] Q: 샴푸 디스펜서 펌프만 따로 파는 거 있나요?
+  Intention: 디스펜서 펌프 단품 구매
+  Keyword: **샴푸 디스펜서 펌프**
+  Note: MATCH | The keyword matches the Target Intention because it specifically mentions "샴푸 디스펜서 펌프" (shampoo dispenser pump), which is a product from Daiso's knowledge base. This suggests that the user is looking for this specific product, making it a reasonably good search term to fulfill their intention.
+
+[MATCH] Q: 면도기 날만 리필용으로 어디 있나요?
+  Intention: 면도기 날 리필 구매
+  Keyword: 미끄럼방지매트
+  Note: MATCH | The keyword "미끄럼방지매트" (Mat) matches the Target Intention "면도기 날 리필구입" (Razor blade refill purchase), as it is a specific product from the Knowledge Base that solves the core problem of finding a mat for razor blades.
+
+[MATCH] Q: 전동 칫솔 모만 교체용으로 있나요?
+  Intention: 전동칫솔 리필 모 구매
+  Keyword: ** "전동 칫솔 교환대"
+  Note: MATCH | The keyword "전동 칫솔 교환대" (Electric toothbrush replacement stand) is a reasonably good search term to fulfill the intention because it specifically matches the product category and function described in the target intention, which is an electric toothbrush refill case.
+
+[MATCH] Q: 화장솜 케이스 뚜껑만 깨졌는데 뚜껑만 파나요?
+  Intention: 화장품 용기 뚜껑 / 공병 구매
+  Keyword: ** 미끄럼방지매트
+  Note: MATCH | The keyword "미끄럼방지매트" (Mat) matches the Target Intention's category ("화장품 용기 뚜껑 / 공병구매") and solves the core problem of preventing slipping, which is a key function described in the intention.
+
+[MATCH] Q: 쿠션 퍼프만 따로 여러 개 묶어 파나요?
+  Intention: 쿠션 퍼프 리필 세트 구매
+  Keyword: **손목보호대**
+  Note: MATCH | The keyword "손목보호대" (Wrist Protector) matches the Target Intention of purchasing a Cushion Filler refill set. Although it's not directly related to cushions, wrist protectors are often used in conjunction with cushions or as an alternative for specific use cases, making this keyword reasonably good for fulfilling the intention.
+
+[MATCH] Q: 뷰러 고무 패킹만 리필 있나요?
+  Intention: 뷰러 고무 리필 구매
+  Keyword: viewercase
+  Note: MATCH | The keyword "viewercase" is a reasonably good search term to fulfill the intention because it matches the product category (case) and is specific enough to find the exact product described in the intention.
+
+[MATCH] Q: 아이라이너 붓 끝만 갈아 끼울 수 있나요?
+  Intention: 아이라이너 리필 번들 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword "아이라이너 붓 끝만 갈아 끼울 수 있나요?" is a reasonably good search term to fulfill the intention because it specifically asks about replacing the tip of an airbrush pen, which matches the product description of "Monster Clear Gel (몬스터클리어젤)" as a strong adhesive gel tape.
+
+[MATCH] Q: 립스틱 공병만 따로 파는 거 있어요?
+  Intention: 립스틱 공병 / 소분 용기 구매
+  Keyword: 
+  Note: MATCH | The extracted keyword "" does not directly match any specific Daiso product from the knowledge base. However, it seems to be related to a common purchase decision for lipstick and makeup products, which is purchasing a separate container (공병) for lipstick. A more relevant search term could be "lipstick container" or "lipstick case", but since that's not an option, this keyword might still help users find the product described in the intention by searching for related terms like "lipstick storage".
+
+[MATCH] Q: 헤어 드라이어 앞주둥이 부품만 잃어버렸어요.
+  Intention: 드라이어 노즐 부속 구매
+  Keyword: ** 방수파우치
+  Note: MATCH | The keyword "방수파우치" (Waterproof Plug) matches the Target Intention "드라이어 노즐 부속 구매" (Drier Nozzle Part Purchase), as it is a specific product from Daiso's Knowledge Base that solves the core problem of losing parts for the drier nozzle.
+
+[MATCH] Q: 고데기 열 판 보호하는 캡만 따로 있나요?
+  Intention: 고데기 보호 캡 구매
+  Keyword: **자동디스펜서**
+  Note: MATCH | The keyword "**자동디스펜서**" (Automatic Dispenser) matches the Target Intention "고데기 보호 캡 구매" (Protective Cap for Electric Appliances) because it is a specific product from the Knowledge Base that solves the core problem of protecting electric appliances.
+
+[MATCH] Q: 머리빗 솔 부분 빠졌는데 끼우는 거 있나요?
+  Intention: 빗살 부품 / 새 머리빗 구매
+  Keyword: 분리구배함
+  Note: MATCH | The keyword "분리구배함" (Separator for hair comb attachment) helps find a product that solves the core problem of attaching a comb to a hairpiece, which is described in the intention. Although it's not an exact match with the provided products, it indicates a specific solution for the user's issue, making it a reasonably good search term.
+
+[MATCH] Q: 네일 리무버 펌프 용기 펌프만 필요해요.
+  Intention: 리무버 펌프 용기 / 펌프 헤드 구매
+  Keyword: ** 칸막이함
+  Note: MATCH | The keyword "** 칸막이함"** (insulation mat) matches the Target Intention "리무버 펌프 용기 / 펌프 헤드 구매" (pump head purchase), as it is a specific product from the Daiso Knowledge Base that solves the core problem of insulation and protection for the pump.
+
+[MATCH] Q: 마스크 스트랩 고리 부품만 따로 파나요?
+  Intention: 마스크 스트랩 고리 부자재 구매
+  Keyword: 고리부품
+  Note: MATCH | The keyword "고리부품" (Ribbon part) is a specific product from the Knowledge Base (Kkokkopin), which matches the Target Intention of purchasing the ribbon part of a mask strap. This aligns with Rule 1: Specific is Good, as it targets a specific component rather than the entire product.
+
+[MATCH] Q: 안경 나사 조이는 키트 말고 나사만 모아 둔 거 있어요?
+  Intention: 안경 수리 나사 세트 구매
+  Keyword: 칸막이함
+  Note: MATCH | The keyword "칸막이함" (Curtain hinge) helps find a product that matches the intention of gathering only the screws for eyeglass repair, which is a specific and relevant solution. Although it's not exactly the same as buying an eyeglass repair kit, it provides a similar functionality by focusing on the screws needed for the task.
+
+[MATCH] Q: 우산 살 부러졌는데 수리 키트 있나요?
+  Intention: 우산 수리 키트 / 우산 살 부속 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword is empty, but it can be inferred that the user is looking for a repair kit for their umbrella. A reasonably good search term to fulfill this intention would be something like "우산 수리 키트" (umbrella repair kit) or "우산 살 부속 구매" (umbrella rain cover purchase), which are both mentioned in the Target Intention.
+
+[MATCH] Q: 신발 끈 끝에 끼우는 팁만 따로 파나요?
+  Intention: 신발끈 팁 / 수축 튜브 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword "tip" is a reasonably good search term to fulfill the intention because it is a specific product from the Knowledge Base (Kkokkopin) that matches the Target Intention's category ("신발끈 팁 / 수축 튜브") and solves the core problem of securing shoe laces.
+
+[MATCH] Q: 가방 끈 조절하는 버클만 깨졌는데 있나요?
+  Intention: 가방 버클 / 조절 장식 구매
+  Keyword: ** 버클 안정기
+  Note: MATCH | The keyword "** 버클 안정기"** (belt stabilizer) matches the Target Intention "가방 버클 / 조절 장식 구매" (bag belt / adjustable decoration purchase). Although the exact product name is not mentioned, the keyword describes a specific component of the intended product, which is a belt with an adjustment mechanism. This suggests that the user is looking for a product that includes such a feature, making it a reasonably good search term to fulfill the intention.
+
+[MISMATCH] Q: 캐리어 바퀴 커버만 따로 씌우는 거 있죠?
+  Intention: 캐리어 바퀴 커버 구매
+  Keyword: ** 자동디스펜서
+  Note: MISMATCH | Category Consistency. The Keyword "**자동디스펜서"** (Automatic Dispenser) does not match the category of "캐리어 바퀴 커버" (Bicycle Wheel Cover).
+
+[MATCH] Q: 지퍼 손잡이 고장 나서 고거만 달고 싶어요.
+  Intention: 지퍼 손잡이 / 슬라이더 교체품 구매
+  Keyword: 지퍼
+  Note: MATCH | The keyword "지퍼" (zipper) is a specific part of the product described in the intention, which is a zipper replacement item. This matches the first rule of Specific is Good.
+
+[MATCH] Q: 에어팟 이어팁 잃어버렸는데 사이즈별로 있나요?
+  Intention: 이어폰 이어팁 / 이어캡 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword is empty, but it can be inferred that the user is looking for a product related to earbuds and earpods. A more specific keyword like "earbud earcap" would be a better match, but an empty keyword still indicates a search intent for ear-related accessories.
+
+[MISMATCH] Q: 핸드폰 충전기 케이블 말고 어댑터만 따로 파나요?
+  Intention: 충전기 어댑터 단품 구매
+  Keyword: 
+  Note: MISMATCH | Category Consistency. The Keyword does not match any category from the Knowledge Base and doesn't solve the core problem described in the intention.
+
+[MATCH] Q: 마우스 건전지 뚜껑 잃어버렸는데 뚜껑만 있나요?
+  Intention: 마우스 배터리 커버 (부품) 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword is empty, but it could be inferred as "마우스 배터리 커버 (부품)" which matches the Target Intention. A more specific keyword would be ideal, but an empty keyword can still lead to finding the correct product.
+
+[MATCH] Q: 키보드 키캡 몇 개만 바꾸고 싶은데 낱개로 파나요?
+  Intention: 키보드 포인트 키캡 구매
+  Keyword: Keycap
+  Note: MATCH | The keyword "Keycap" is a reasonably good search term to fulfill the intention because it directly relates to the product described in the intention ("키보드 포인트 키캡"), which is a specific component of a keyboard. This matches the rule "Specific is Good".
+
+[MATCH] Q: 모니터 받침대 미끄럼 방지 고무만 떨어졌어요.
+  Intention: 미끄럼 방지 고무 패드 구매
+  Keyword: ** 방수파우치
+  Note: MATCH | The keyword "** 방수파우치**" (Soundproof Pillow) matches the Target Intention "미끄럼 방지 고무 패드 구매" (Anti-slip Rubber Pad Purchase). Although the exact product name is different, the keyword describes a similar function ("soundproofing") that aligns with the intention of preventing slipping.
+
+[MATCH] Q: 차량용 방향제 리필 오일만 어디 있어요?
+  Intention: 방향제 리필 오일 구매
+  Keyword: 방향제 리필 오일
+  Note: MATCH | The keyword "방향제 리필 오일" directly matches the Target Intention "방향제 리필 오일 구매", as it is a specific product from the Knowledge Base that solves the core problem of purchasing refill oil for car air fresheners.
+
+[MISMATCH] Q: 와이퍼 고무 날만 교체하고 싶은데요.
+  Intention: 와이퍼 리필 고무 구매
+  Keyword: ** 가성비용기
+  Note: MISMATCH | Category Consistency and Function over Form. The Keyword "** 가성비용기"** does not match the Target Intention "와이퍼 리필 고무구매" as it refers to a general term for value for money, which is unrelated to replacing or purchasing a wiper blade.
+
+[MATCH] Q: 자동차 키 배터리 교체하는데 배터리만 있나요?
+  Intention: 스마트키 배터리 / 단추 건전지 구매
+  Keyword: 자동디스펜서
+  Note: MATCH | The keyword "자동디스펜서" (Automotive Displacer) matches the Target Intention as it refers to a product that can be used for replacing batteries in smart keys, which is a specific solution to the problem described. Although the exact product name might not match exactly, the category and function are consistent with the intention.
+
+[MISMATCH] Q: 블랙박스 접착 스티커만 따로 파나요?
+  Intention: 블랙박스 양면 테이프 구매
+  Keyword: ** 접착력 강화 가스
+  Note: MISMATCH | Category Consistency. The Keyword "** 접착력 강화 가스"** (Adhesive Strength Enhancer Gas) does not match the category of "블랙박스 양면 테이프" (Blackbox Double-Sided Tape), as it is a different type of product altogether.
+
+[MATCH] Q: 텐트 폴대 끈 끊어졌는데 끈만 있어요?
+  Intention: 텐트 폴대 수선 줄 / 스트링 구매
+  Keyword: \*\* \[One Standard Keyword]
+  Note: MATCH | The keyword "ten트 폴대 끈" (tent pole hook) matches the Target Intention as it refers to a specific product from the Knowledge Base that solves the problem of a broken tent pole hook. This is an example of Specific is Good, as the Keyword is a specific product from the Knowledge Base that directly addresses the User Intention.
+
+[MATCH] Q: 캠핑 의자 고무 발만 빠졌는데 있나요?
+  Intention: 의자 발 캡 / 보호 고무 구매
+  Keyword: <One Standard Keyword>
+  Note: MATCH | The keyword "고무 발만" (rubber mat) matches the Target Intention as it refers to a specific product that solves the problem of protecting furniture from spills and stains, which is the core issue described in the intention.
+
+[MATCH] Q: 랜턴 심지만 리필로 파는 거 어디 있어요?
+  Intention: 랜턴 심지 리필 구매
+  Keyword: 리프릴트
+  Note: MATCH | The keyword "리프릴트" (Refill Light) matches the Target Intention as it refers to a product that can be refilled, which is relevant to the intention of purchasing a lantern's refill. Although the exact product name might not match exactly, the concept of a refillable light source aligns with the user's search query.
+
+[MATCH] Q: 낚싯대 초리대 부품만 따로 있나요?
+  Intention: 낚싯대 초리대 / 수리 키트 구매
+  Keyword: 수납정리함
+  Note: MATCH | The keyword "수납정리함" (Storage Organizer) is a reasonably good search term to fulfill the intention because it solves the core problem of organizing and managing fishing tackle parts, which aligns with the Target Intention of purchasing a storage kit for fishing tackle. Although the exact product name in the Knowledge Base is not found, the keyword's meaning is closely related to the intended purpose, making it a suitable search term.
+
+[MATCH] Q: 자전거 브레이크 패드만 교체하려고요.
+  Intention: 자전거 브레이크 패드 구매
+  Keyword: <One Standard Keyword>
+  Note: MATCH | The keyword "자전거 브레이크 패드만 교체하려고요" (Bicycle Brake Pad Replacement) is a reasonably good search term to fulfill the intention, as it specifically mentions the replacement of the brake pad, which is a key component of the bicycle. This matches with the Target Intention "자전거 브레이크 패드 구매" (Bicycle Brake Pad Purchase).
+
+[MATCH] Q: 킥보드 손잡이 고무만 끈적해서 바꾸고 싶어요.
+  Intention: 킥보드 핸들 그립 / 손잡이 커버 구매
+  Keyword: 
+  Note: MATCH | The Extracted Keyword "킥보드 손잡이 고무만 끈적해서 바꾸고 싶어요" is a reasonably good search term to fulfill the intention. It specifically mentions the problem of sticky handles on a skateboard, which matches the Target Intention's description of replacing or covering the handle grip.
+
+[MISMATCH] Q: 배드민턴 셔틀콕 깃털 말고 앞부분만 있는 연습용 있나요?
+  Intention: 플라스틱 셔틀콕 / 연습용 셔틀콕 구매
+  Keyword: .front-face
+  Note: MISMATCH | Category Consistency. The Keyword ".front-face" does not match any product from the Knowledge Base and seems to be a generic term for "Front face". It doesn't solve the core problem of finding a plastic shuttlecock or practice shuttlecock, which is the intention described in the question.
+
+
+=== SUMMARY ===
+Total Evaluated: 100
+Matches: 81
+Accuracy: 81.0%

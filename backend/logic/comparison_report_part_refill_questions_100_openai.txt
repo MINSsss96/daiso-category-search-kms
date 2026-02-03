@@ -1,0 +1,507 @@
+=== Keyword Extraction Evaluation ===
+
+[MISMATCH] Q: 샤프심만 따로 파나요?
+  Intention: 샤프심 리필 구매
+  Keyword: 샤프심
+  Note: MISMATCH | The extracted keyword "샤프심" (pencil lead) is too generic and does not specifically indicate a refill purchase, which is the core intention of "샤프심 리필 구매" (buying pencil lead refills).
+
+[MATCH] Q: 볼펜 다 썼는데 심만 갈아낄 수 있어요?
+  Intention: 볼펜 리필심 구매
+  Keyword: 볼펜심
+  Note: MATCH | The keyword "볼펜심" (ballpoint pen refill) is a specific term that directly relates to the intention of purchasing a ballpoint pen refill, fulfilling the user's request effectively.
+
+[MATCH] Q: 커터칼 날만 리필용으로 어디 있나요?
+  Intention: 커터칼 날 리필 구매
+  Keyword: 커터칼 리필날
+  Note: MATCH | The extracted keyword "커터칼 리필날" directly refers to the replacement blades for a cutter knife, which aligns perfectly with the target intention of purchasing cutter knife blades.
+
+[MISMATCH] Q: 스테이플러 심 다 떨어졌는데 어디 있어요?
+  Intention: 스테이플러 심 구매
+  Keyword: 스테이플러 심
+  Note: MISMATCH | The extracted keyword "스테이플러 심" refers to the staple itself, while the target intention is about purchasing a stapler refill. The keyword does not directly indicate a purchase action or the specific product type needed (refill), making it less relevant to the intention.
+
+[MATCH] Q: 테이프 커터기는 있는데 리필 테이프만 필요해요.
+  Intention: 테이프 리필 구매
+  Keyword: 리필테이프
+  Note: MATCH | The extracted keyword "리필테이프" (refill tape) directly corresponds to the target intention of purchasing tape refills, fulfilling the user's need.
+
+[MATCH] Q: 수정테이프 리필은 어디에 있나요?
+  Intention: 수정테이프 리필 구매
+  Keyword: 수정테이프 리필
+  Note: MATCH | The extracted keyword "수정테이프 리필" directly corresponds to the target intention of purchasing "수정테이프 리필" (correction tape refill), making it a valid search term for the intention.
+
+[MISMATCH] Q: 글루건 심만 따로 묶어서 파나요?
+  Intention: 글루건 심 구매
+  Keyword: 분할케이스
+  Note: MISMATCH | The extracted keyword "분할케이스" (partition case) does not directly relate to the intention of purchasing glue gun sticks ("글루건 심 구매"). It refers to a storage solution rather than the specific product needed, which is glue gun sticks.
+
+[MATCH] Q: 화이트 보드 지우개 패드만 교체할 수 있어요?
+  Intention: 보드 지우개 리필 패드 구매
+  Keyword: 화이트보드지우개패드
+  Note: MATCH | The extracted keyword "화이트보드지우개패드" is a specific term that directly relates to the intention of purchasing a "보드 지우개 리필 패드". It accurately describes the product the user is looking for, fulfilling the search intent.
+
+[MISMATCH] Q: 만년필 잉크 카트리지 어디 있어요?
+  Intention: 만년필 잉크 카트리지 구매
+  Keyword: 잉크 카트리지
+  Note: MISMATCH | The extracted keyword "잉크 카트리지" is too generic and does not specifically refer to a product available at Daiso, which is focused on specific items like the ones in the Knowledge Base. The intention is to purchase a specific type of ink cartridge for a fountain pen, which is not covered by the products listed.
+
+[MISMATCH] Q: 프린터 잉크 충전하는 키트 있나요?
+  Intention: 프린터 잉크 충전 세트 구매
+  Keyword: 잉크충전키트
+  Note: MISMATCH | The extracted keyword "잉크충전키트" refers to an ink charging kit, which is not a product listed in the Daiso Knowledge Base. The target intention is to purchase a printer ink charging set, but since there is no relevant product in the provided information, it does not fulfill the intention.
+
+[MATCH] Q: 다이어리 속지 리필용 찾고 있어요.
+  Intention: 다이어리 리필 속지 구매
+  Keyword: 다이어리 리필 속지
+  Note: MATCH | The extracted keyword "다이어리 리필 속지" directly corresponds to the target intention of purchasing "다이어리 리필 속지", making it a specific and relevant search term for the intended product.
+
+[MATCH] Q: 바인더 링만 따로 구할 수 있나요?
+  Intention: 바인더 링 부속 구매
+  Keyword: 바인더링
+  Note: MATCH | The extracted keyword "바인더링" (binder ring) is a specific product related to the target intention of purchasing binder ring accessories, thus fulfilling the user's request effectively.
+
+[MISMATCH] Q: 연필 깍지 짧아진 거 끼우는 거 어디 있어요?
+  Intention: 연필 깍지 / 연장 홀더 구매
+  Keyword: 연필꽂이
+  Note: MISMATCH | The extracted keyword "연필꽂이" (pencil holder) does not directly relate to the intention of purchasing a "연필 깍지" (pencil grip) or "연장 홀더" (extension holder). While both are related to pencils, they serve different functions, making this a mismatch in terms of category consistency.
+
+[MISMATCH] Q: 지우개 리필 되는 샤프 있나요?
+  Intention: 샤프 지우개 리필 구매
+  Keyword: 리필샤프
+  Note: MISMATCH | The extracted keyword "리필샤프" (refill sharp) does not specifically indicate a product that matches the intention of purchasing a "샤프 지우개 리필" (sharp eraser refill). The keyword suggests a refillable sharp pencil rather than a refill for an eraser, which is the core need expressed in the intention.
+
+[MATCH] Q: 스탬프 잉크만 따로 파나요?
+  Intention: 스탬프 잉크 리필 구매
+  Keyword: 스탬프 잉크
+  Note: MATCH | The extracted keyword "스탬프 잉크" is a specific term that directly relates to the target intention of purchasing "스탬프 잉크 리필". It helps in finding the product described in the intention.
+
+[MISMATCH] Q: 마스킹 테이프 보관하는 커팅기 칼날만 교체 돼요?
+  Intention: 테이프 커터기 칼날 구매
+  Keyword: 테이프커팅기
+  Note: MISMATCH | The extracted keyword "테이프커팅기" refers to a tape cutter, while the target intention is specifically about purchasing replacement blades for a tape cutter. The keyword does not directly address the need for blades, making it a mismatch.
+
+[MATCH] Q: 큐브 포스트잇 리필용만 따로 있나요?
+  Intention: 점착 메모지 리필 구매
+  Keyword: 포스트잇 리필
+  Note: MATCH | The extracted keyword "포스트잇 리필" (Post-it refill) is a specific product that directly relates to the target intention of purchasing sticky note refills (점착 메모지 리필 구매). It matches the category and function of the intended search.
+
+[MATCH] Q: 파일철 비닐 속지만 더 살 수 있어요?
+  Intention: 파일 리필 속지 구매
+  Keyword: 파일철 속지
+  Note: MATCH | The extracted keyword "파일철 속지" is a specific product related to the intention of purchasing "파일 리필 속지". It directly addresses the need for refill sheets for file folders, making it a valid search term.
+
+[MISMATCH] Q: 명찰 케이스 줄만 따로 파나요?
+  Intention: 명찰 목걸이 줄 구매
+  Keyword: 명찰케이스
+  Note: MISMATCH | The extracted keyword "명찰케이스" refers to a name tag case, which is a different product category than the intended search for a name tag necklace strap ("명찰 목걸이 줄"). The keyword does not address the specific need for a strap, making it irrelevant to the target intention.
+
+[MISMATCH] Q: 화분 받침대 바퀴만 따로 있나요?
+  Intention: 화분 받침 바퀴 부속 구매
+  Keyword: 화분받침대
+  Note: MISMATCH | The extracted keyword "화분받침대" refers to a plant pot stand, which is a different category than the specific intention of purchasing wheels for a plant pot stand. The intention is looking for a specific accessory (wheels), while the keyword is more generic and does not directly address the user's need.
+
+[MATCH] Q: 분무기 헤드 부분만 교체하고 싶어요.
+  Intention: 분무기 헤드 교체품 구매
+  Keyword: 분무기 헤드 교체용 부품
+  Note: MATCH | The extracted keyword "분무기 헤드 교체용 부품" directly relates to the target intention of purchasing a replacement for the spray head, as it specifies the part needed for replacement.
+
+[MISMATCH] Q: 물조리개 앞부분 물 나오는 곳만 따로 파나요?
+  Intention: 물조리개 헤드 부품 구매
+  Keyword: 물조리개
+  Note: MISMATCH | The extracted keyword "물조리개" (watering can) is too generic and does not specifically refer to the "물조리개 헤드 부품" (watering can head part) that the user intends to purchase. The intention is looking for a specific part, while the keyword is a broader category.
+
+[MISMATCH] Q: 삽 자루 부러졌는데 자루만 갈 수 있어요?
+  Intention: 삽 자루 교체품 구매
+  Keyword: 삽 자루
+  Note: MISMATCH | The extracted keyword "삽 자루" (shovel handle) is too generic and does not specifically indicate a product available at Daiso for purchasing a replacement handle. The intention is to find a specific replacement product, which is not clearly represented by the keyword.
+
+[MISMATCH] Q: 호스 연결하는 커넥터 부품 어디 있어요?
+  Intention: 호스 커넥터 / 연결 부품 구매
+  Keyword: 호스커넥터
+  Note: MISMATCH | The extracted keyword "호스커넥터" refers to a hose connector, which is not listed in the Daiso Knowledge Base. The target intention is for purchasing a hose connector or connecting parts, but since the keyword does not match any specific product from the Daiso offerings, it is considered irrelevant.
+
+[MISMATCH] Q: 전지가위 스프링 빠졌는데 부품 있나요?
+  Intention: 전지가위 스프링 부품 구매
+  Keyword: 스프링
+  Note: MISMATCH | The keyword "스프링" (spring) is too generic and does not specifically refer to a product from the Daiso Knowledge Base that would fulfill the intention of purchasing a part for a specific item (전지가위). The intention is looking for a specific replacement part, while the keyword does not directly lead to a product that matches that need.
+
+[MATCH] Q: 옷걸이 집게 부분만 따로 파는 거 있어요?
+  Intention: 옷걸이 집게 부속 구매
+  Keyword: 옷걸이 집게
+  Note: MATCH | The extracted keyword "옷걸이 집게" (clothes hanger clip) is a specific product that aligns with the target intention of purchasing a part of the clothes hanger, which is the clip. This matches the user's request for a specific component.
+
+[MISMATCH] Q: 빨래 건조대 날개 부품만 따로 살 수 있나요?
+  Intention: 건조대 부품 / 날개 교체품 구매
+  Keyword: 빨래 건조대 부품
+  Note: MISMATCH | The extracted keyword "빨래 건조대 부품" refers to a general category of laundry drying rack parts, but it does not specifically match any product in the Daiso Knowledge Base. The intention is about purchasing specific replacement parts for a drying rack, which is not addressed by the available products.
+
+[MATCH] Q: 다리미판 커버만 교체용으로 나오나요?
+  Intention: 다리미판 커버 구매
+  Keyword: 다리미판 커버
+  Note: MATCH | The extracted keyword "다리미판 커버" directly relates to the target intention of purchasing an "다리미판 커버" (ironing board cover), fulfilling the user's request effectively.
+
+[MATCH] Q: 세탁망 지퍼 손잡이 고장 났는데 고치는 거 있나요?
+  Intention: 지퍼 손잡이 수선 키트 구매
+  Keyword: 지퍼손잡이 교체용품
+  Note: MATCH | The extracted keyword "지퍼손잡이 교체용품" (zipper handle replacement item) is specific to the intention of purchasing a "지퍼 손잡이 수선 키트" (zipper handle repair kit). Both terms relate to fixing or replacing zipper handles, thus fulfilling the user's intention effectively.
+
+[MATCH] Q: 행거 바퀴 빠졌는데 맞는 거 있을까요?
+  Intention: 행거 바퀴 부속 구매
+  Keyword: 행거바퀴
+  Note: MATCH | The extracted keyword "행거바퀴" (hanger wheel) is a specific product that directly relates to the target intention of purchasing a replacement for a hanger wheel. It addresses the user's need for a specific part, making it a valid search term.
+
+[MATCH] Q: 서랍장 손잡이만 예쁜 걸로 바꾸고 싶어요.
+  Intention: 가구 손잡이 교체품 구매
+  Keyword: 서랍장 손잡이
+  Note: MATCH | The extracted keyword "서랍장 손잡이" (drawer handle) is specific to the intention of purchasing furniture handles, which aligns with the target intention of "가구 손잡이 교체품 구매" (purchasing replacement furniture handles).
+
+[MISMATCH] Q: 의자 발 커버 씌우는 거 말고 끼우는 부품 있어요?
+  Intention: 의자 다리 캡 구매
+  Keyword: 의자발커버
+  Note: MISMATCH | The extracted keyword "의자발커버" refers to a chair leg cover, which is not the same as a chair leg cap. The intention is specifically looking for a chair leg cap, which is a different product category.
+
+[MISMATCH] Q: 선반 높이 조절하는 나사 부품 어디 있나요?
+  Intention: 선반 조절 나사 / 다보 구매
+  Keyword: 나사
+  Note: MISMATCH | The keyword "나사" (screw) is too generic and does not specifically refer to the adjustable shelf screws or parts that the user is looking for. It does not match the specific product category or function described in the target intention.
+
+[MATCH] Q: 멀티탭 덮개만 따로 파나요?
+  Intention: 멀티탭 안전 커버 구매
+  Keyword: 멀티탭 덮개
+  Note: MATCH | The extracted keyword "멀티탭 덮개" (multi-tap cover) is a specific term that directly relates to the target intention of purchasing a "멀티탭 안전 커버" (multi-tap safety cover). Both terms refer to the same product category, making it a valid search term.
+
+[MATCH] Q: 형광등 스타터 전구 어디 있어요?
+  Intention: 형광등 스타터 구매
+  Keyword: 형광등 스타터
+  Note: MATCH | The extracted keyword "형광등 스타터" directly relates to the target intention of purchasing a "형광등 스타터," making it a valid search term for fulfilling the intention.
+
+[MISMATCH] Q: LED 등 리모컨만 잃어버렸는데 따로 파나요?
+  Intention: 조명 리모컨 별도 구매
+  Keyword: 리모컨
+  Note: MISMATCH | The extracted keyword "리모컨" (remote control) is too generic and does not specifically refer to the type of remote control for lighting that the target intention describes. The intention is looking for a specific product (lighting remote control) rather than just any remote control.
+
+[MATCH] Q: 스위치 커버만 바꾸고 싶은데 있나요?
+  Intention: 스위치 커버 플레이트 구매
+  Keyword: 스위치커버
+  Note: MATCH | The extracted keyword "스위치커버" (switch cover) is a specific term that directly relates to the target intention of purchasing a "스위치 커버 플레이트" (switch cover plate). It effectively helps find the product described in the intention.
+
+[MATCH] Q: 문 손잡이 부속품 중에 잠금장치만 필요해요.
+  Intention: 도어락 부속 / 잠금장치 구매
+  Keyword: 잠금장치
+  Note: MATCH | The extracted keyword "잠금장치" (lock mechanism) directly relates to the target intention of purchasing a door lock accessory, fulfilling the user's need for a locking device.
+
+[MATCH] Q: 경첩 나사 헐거워서 바꾸려는데 나사만 있어요?
+  Intention: 경첩 나사 / 보수 나사 구매
+  Keyword: 경첩용 나사
+  Note: MATCH | The extracted keyword "경첩용 나사" (hinge screw) is specific to the user's intention of purchasing screws for hinges, which aligns directly with the target intention of "경첩 나사 / 보수 나사 구매" (purchasing hinge screws/repair screws).
+
+[MATCH] Q: 창문 방충망 롤러 부품 어디 있나요?
+  Intention: 방충망 롤러 / 모헤어 부속 구매
+  Keyword: 방충망롤러부품
+  Note: MATCH | The extracted keyword "방충망롤러부품" directly relates to the target intention of purchasing parts for a window screen roller, as it specifies the product type and its components.
+
+[MATCH] Q: 싱크대 배수구 뚜껑만 잃어버렸어요.
+  Intention: 배수구 덮개 구매
+  Keyword: 배수구덮개
+  Note: MATCH | The extracted keyword "배수구덮개" directly corresponds to the target intention of purchasing a "배수구 덮개" (drain cover), making it a valid search term for the intended product.
+
+[MATCH] Q: 음식물 쓰레기통 거름망만 따로 파나요?
+  Intention: 음식물 쓰레기통 거름망 구매
+  Keyword: 음식물 쓰레기통 거름망
+  Note: MATCH | The extracted keyword "음식물 쓰레기통 거름망" directly corresponds to the target intention of purchasing a food waste bin filter, fulfilling the user's request effectively.
+
+[MISMATCH] Q: 주방세제 펌프 머리 부분만 고장 나서요.
+  Intention: 디스펜서 펌프 헤드 구매
+  Keyword: 자동디스펜서
+  Note: MISMATCH | The extracted keyword "자동디스펜서" (automatic dispenser) does not specifically refer to the "디스펜서 펌프 헤드" (dispenser pump head) that the user intends to purchase. While it is related to dispensers, it does not match the specific part (pump head) that is needed, making it a mismatch.
+
+[MATCH] Q: 고무장갑 속에 끼는 면장갑만 따로 있나요?
+  Intention: 속장갑 / 면장갑 구매
+  Keyword: 면장갑
+  Note: MATCH | The extracted keyword "면장갑" (cotton gloves) directly corresponds to the target intention of purchasing "속장갑 / 면장갑" (inner gloves / cotton gloves), fulfilling the user's request effectively.
+
+[MATCH] Q: 프라이팬 뚜껑 손잡이 나사만 구할 수 있을까요?
+  Intention: 뚜껑 손잡이 나사 부속 구매
+  Keyword: 프라이팬 손잡이 나사
+  Note: MATCH | The extracted keyword "프라이팬 손잡이 나사" is specific and directly relates to the target intention of purchasing a "뚜껑 손잡이 나사 부속". It addresses the core problem of finding a replacement part for the frying pan handle, making it a valid search term.
+
+[MISMATCH] Q: 냄비 손잡이 뜨거워서 끼우는 실리콘만 있어요?
+  Intention: 실리콘 냄비 손잡이 커버 구매
+  Keyword: 실리콘손잡이
+  Note: MISMATCH | The extracted keyword "실리콘손잡이" (silicone handle) does not specifically match the intention of purchasing a "실리콘 냄비 손잡이 커버" (silicone pot handle cover). While it is related, it is too generic and does not directly indicate the specific product type (cover) that the user intends to buy.
+
+[MATCH] Q: 밀폐용기 고무 패킹만 따로 파나요?
+  Intention: 밀폐용기 고무 패킹 리필 구매
+  Keyword: 밀폐용기 패킹
+  Note: MATCH | The extracted keyword "밀폐용기 패킹" is specific to the product category of sealing container packing, which aligns with the target intention of purchasing a refill for sealing container rubber packing.
+
+[MATCH] Q: 보온병 뚜껑 고무링 잃어버렸는데 있나요?
+  Intention: 보온병 고무 패킹 구매
+  Keyword: 보온병 고무링
+  Note: MATCH | The extracted keyword "보온병 고무링" refers to a rubber ring for a thermos, which aligns with the target intention of purchasing a rubber packing for a thermos. It is a specific product that addresses the user's need.
+
+[MISMATCH] Q: 물병 빨대 부분만 리필로 나오나요?
+  Intention: 물병 빨대 리필 구매
+  Keyword: 빨대 리필용품
+  Note: MISMATCH | The extracted keyword "빨대 리필용품" (straw refill supplies) is too generic and does not specifically refer to a product from the Daiso Knowledge Base that matches the intention of purchasing a refill for a water bottle straw. The intention is looking for a specific product related to water bottle straws, while the keyword does not directly align with that specific need.
+
+[MATCH] Q: 텀블러 바닥에 끼우는 고무만 따로 있어요?
+  Intention: 텀블러 바닥 보호 고무 구매
+  Keyword: 고무발받침
+  Note: MATCH | The extracted keyword "고무발받침" (rubber base support) is relevant to the target intention of purchasing a rubber protector for the bottom of a tumbler, as it addresses the need for a protective rubber item.
+
+[MISMATCH] Q: 와인 오프너 스크류 부분만 따로 있나요?
+  Intention: 와인 오프너 스크류 부품 구매
+  Keyword: 와인 오프너
+  Note: MISMATCH | The extracted keyword "와인 오프너" refers to a wine opener in general, while the target intention specifically seeks to purchase a screw part for a wine opener. The keyword does not address the specific need for a replacement part, making it irrelevant to the intention.
+
+[MISMATCH] Q: 칼 갈이 숫돌만 교체할 수 있나요?
+  Intention: 칼갈이 숫돌 리필 구매
+  Keyword: 칼갈이기
+  Note: MISMATCH | The extracted keyword "칼갈이기" refers to a knife sharpener, which is a different product category than the intention of purchasing a replacement stone for a knife sharpener. The intention is specifically about refills, while the keyword does not address that need.
+
+[MATCH] Q: 도마 거치대 물기 받침대만 따로 파나요?
+  Intention: 도마 거치대 물받이 트레이 구매
+  Keyword: 도마 거치대
+  Note: MATCH | The extracted keyword "도마 거치대" (cutting board holder) is a specific product that aligns with the target intention of purchasing a "도마 거치대 물받이 트레이" (cutting board holder drip tray). It directly relates to the user's request for a product that serves a similar function.
+
+[MATCH] Q: 일회용 수세미 다 썼는데 리필만 주세요.
+  Intention: 일회용 수세미 리필롤 구매
+  Keyword: 수세미 리필
+  Note: MATCH | The extracted keyword "수세미 리필" (sponge refill) is specific and directly relates to the target intention of purchasing a refill for disposable sponges. It addresses the core need of finding a refill product, making it a valid search term.
+
+[MATCH] Q: 정수기 필터 교체용 어디 있나요?
+  Intention: 정수기 필터 구매
+  Keyword: 정수기 필터
+  Note: MATCH | The extracted keyword "정수기 필터" directly relates to the target intention of purchasing a "정수기 필터", as it specifies the product needed for the intention.
+
+[MISMATCH] Q: 커피 그라인더 손잡이만 따로 구할 수 있어요?
+  Intention: 그라인더 손잡이 부속 구매
+  Keyword: 그라인더 손잡이
+  Note: MISMATCH | The extracted keyword "그라인더 손잡이" refers specifically to the handle of a grinder, while the target intention is about purchasing a part for a grinder. The keyword does not match the specific product category or intention of buying a part, making it irrelevant.
+
+[MATCH] Q: 욕실 슬리퍼 바닥만 닳았는데 밑창만 붙이는 거 있나요?
+  Intention: 신발 미끄럼 방지 패드 구매
+  Keyword: 슬리퍼 밑창 보호대
+  Note: MATCH | The extracted keyword "슬리퍼 밑창 보호대" (slipper sole protector) is specific to the intention of purchasing a non-slip pad for shoes, as it addresses the need to protect the bottom of slippers, which aligns with the intention of preventing slipping.
+
+[MATCH] Q: 샤워기 줄 말고 헤드만 따로 파나요?
+  Intention: 샤워기 헤드 구매
+  Keyword: 샤워기 헤드
+  Note: MATCH | The extracted keyword "샤워기 헤드" directly corresponds to the target intention of purchasing a "샤워기 헤드" (shower head), fulfilling the user's request effectively.
+
+[MATCH] Q: 변기 솔 머리만 교체해서 쓰고 싶은데요.
+  Intention: 변기 솔 리필 헤드 구매
+  Keyword: 변기솔 교체용 헤드
+  Note: MATCH | The extracted keyword "변기솔 교체용 헤드" directly refers to a replacement head for a toilet brush, which aligns perfectly with the target intention of purchasing a toilet brush refill head.
+
+[MISMATCH] Q: 칫솔 걸이 흡착판만 자꾸 떨어져서 그것만 사고 싶어요.
+  Intention: 강력 흡착판 / 큐방 구매
+  Keyword: 흡착후크
+  Note: MISMATCH | The extracted keyword "흡착후크" (adhesive hook) does not match the target intention of "강력 흡착판 / 큐방 구매" (strong adhesive pad / hook purchase) because it refers to a different product category. The intention is specifically looking for a strong adhesive pad, while the keyword suggests a hook, which does not fulfill the core problem described.
+
+[MISMATCH] Q: 비누 받침대 물 빠지는 구멍 마개만 있나요?
+  Intention: 배수구 마개 부속 구매
+  Keyword: 비누받침대
+  Note: MISMATCH | The extracted keyword "비누받침대" (soap dish) does not directly relate to the intention of purchasing a "배수구 마개 부속" (drain plug accessory). The keyword refers to a different category of product, which is not aligned with the user's intention.
+
+[MATCH] Q: 휴지 걸이 봉만 잃어버렸는데 따로 파나요?
+  Intention: 휴지걸이 봉 부속 구매
+  Keyword: 휴지걸이봉
+  Note: MATCH | The extracted keyword "휴지걸이봉" (toilet paper holder rod) is a specific product that directly relates to the user's intention of purchasing a replacement part for a toilet paper holder.
+
+[MISMATCH] Q: 수건 걸이 나사 없이 붙이는 스티커만 리필 있나요?
+  Intention: 무타공 접착 패드 리필 구매
+  Keyword: 흡착후크
+  Note: MISMATCH | The extracted keyword "흡착후크" (suction hook) does not directly match the intention of purchasing a "무타공 접착 패드 리필" (non-drill adhesive pad refill). While both are adhesive solutions, they serve different functions; the intention is specifically for adhesive pads, not hooks.
+
+[MATCH] Q: 욕조 배수구 마개만 따로 어디 있어요?
+  Intention: 욕조 배수구 마개 구매
+  Keyword: 배수구마개
+  Note: MATCH | The extracted keyword "배수구마개" (drain plug) directly relates to the target intention of purchasing a "욕조 배수구 마개" (bathtub drain plug), fulfilling the user's request effectively.
+
+[MISMATCH] Q: 세면대 팝업 뚜껑만 교체하고 싶어요.
+  Intention: 세면대 팝업 뚜껑 구매
+  Keyword: 배수구덮개
+  Note: MISMATCH | The extracted keyword "배수구덮개" (drain cover) does not specifically match the intention of purchasing a "세면대 팝업 뚜껑" (sink pop-up cover). While both are related to drainage, they refer to different products, and the keyword does not directly address the specific need for a pop-up cover.
+
+[MISMATCH] Q: 샴푸 디스펜서 펌프만 따로 파는 거 있나요?
+  Intention: 디스펜서 펌프 단품 구매
+  Keyword: 자동디스펜서
+  Note: MISMATCH | The extracted keyword "자동디스펜서" refers to an automatic dispenser, which is a different category than a "디스펜서 펌프 단품" (dispenser pump). The intention is specifically looking for a single pump, not a complete dispenser.
+
+[MATCH] Q: 면도기 날만 리필용으로 어디 있나요?
+  Intention: 면도기 날 리필 구매
+  Keyword: 면도기 날 리필
+  Note: MATCH | The extracted keyword "면도기 날 리필" directly corresponds to the target intention of purchasing "면도기 날 리필", as it specifies the same product type the user is looking for.
+
+[MATCH] Q: 전동 칫솔 모만 교체용으로 있나요?
+  Intention: 전동칫솔 리필 모 구매
+  Keyword: 전동 칫솔모
+  Note: MATCH | The extracted keyword "전동 칫솔모" (electric toothbrush head) is a specific product that directly relates to the target intention of purchasing a refill for an electric toothbrush. It addresses the user's need for a replacement part, making it a valid search term.
+
+[MISMATCH] Q: 화장솜 케이스 뚜껑만 깨졌는데 뚜껑만 파나요?
+  Intention: 화장품 용기 뚜껑 / 공병 구매
+  Keyword: 화장솜 케이스
+  Note: MISMATCH | The extracted keyword "화장솜 케이스" refers to a cotton pad case, which is a different category from the intended search for a cosmetic container lid or bottle. The keyword does not align with the specific product type the user is looking for.
+
+[MISMATCH] Q: 쿠션 퍼프만 따로 여러 개 묶어 파나요?
+  Intention: 쿠션 퍼프 리필 세트 구매
+  Keyword: 분할케이스
+  Note: MISMATCH | The extracted keyword "분할케이스" (partition case) does not directly relate to the intention of purchasing a "쿠션 퍼프 리필 세트" (cushion puff refill set). It refers to a storage solution rather than the specific product needed.
+
+[MATCH] Q: 뷰러 고무 패킹만 리필 있나요?
+  Intention: 뷰러 고무 리필 구매
+  Keyword: 뷰러 고무패킹
+  Note: MATCH | The extracted keyword "뷰러 고무패킹" refers to the rubber packing for a curler, which aligns with the target intention of purchasing a refill for the rubber part of a curler. It is specific to the product being sought.
+
+[MATCH] Q: 아이라이너 붓 끝만 갈아 끼울 수 있나요?
+  Intention: 아이라이너 리필 번들 구매
+  Keyword: 아이라이너 리필 붓
+  Note: MATCH | The extracted keyword "아이라이너 리필 붓" is a specific product related to the intention of purchasing an eyeliner refill bundle. It directly addresses the user's need for a refillable brush for eyeliner, aligning with the target intention.
+
+[MISMATCH] Q: 립스틱 공병만 따로 파는 거 있어요?
+  Intention: 립스틱 공병 / 소분 용기 구매
+  Keyword: 립스틱 정리함
+  Note: MISMATCH | The extracted keyword "립스틱 정리함" (lipstick organizer) does not directly match the target intention of purchasing "립스틱 공병 / 소분 용기" (lipstick containers or small containers). While it relates to organizing lipsticks, it does not fulfill the specific need for purchasing containers.
+
+[MISMATCH] Q: 헤어 드라이어 앞주둥이 부품만 잃어버렸어요.
+  Intention: 드라이어 노즐 부속 구매
+  Keyword: 헤어 드라이어 부품
+  Note: MISMATCH | The extracted keyword "헤어 드라이어 부품" is too generic and does not specifically refer to the nozzle part of the hair dryer that the user intends to purchase. The intention is for a specific component (the nozzle), while the keyword could refer to any part of the hair dryer.
+
+[MATCH] Q: 고데기 열 판 보호하는 캡만 따로 있나요?
+  Intention: 고데기 보호 캡 구매
+  Keyword: 고데기 보호캡
+  Note: MATCH | The extracted keyword "고데기 보호캡" directly corresponds to the target intention of purchasing a "고데기 보호 캡", making it a valid search term for the intended product.
+
+[MISMATCH] Q: 머리빗 솔 부분 빠졌는데 끼우는 거 있나요?
+  Intention: 빗살 부품 / 새 머리빗 구매
+  Keyword: 머리빗 수리용 부품
+  Note: MISMATCH | The extracted keyword "머리빗 수리용 부품" (hair comb repair parts) does not match the target intention of "빗살 부품 / 새 머리빗 구매" (comb parts / new hair comb purchase) because it is focused on repair parts rather than the purchase of a new comb or its components. The intention is more about acquiring a new product rather than fixing an existing one.
+
+[MATCH] Q: 네일 리무버 펌프 용기 펌프만 필요해요.
+  Intention: 리무버 펌프 용기 / 펌프 헤드 구매
+  Keyword: 펌프 용기
+  Note: MATCH | The extracted keyword "펌프 용기" (pump container) is a specific product that aligns with the target intention of purchasing a "리무버 펌프 용기 / 펌프 헤드" (remover pump container / pump head). It directly addresses the need for a pump container, fulfilling the user's request.
+
+[MISMATCH] Q: 마스크 스트랩 고리 부품만 따로 파나요?
+  Intention: 마스크 스트랩 고리 부자재 구매
+  Keyword: 마스크 스트랩 고리
+  Note: MISMATCH | The extracted keyword "마스크 스트랩 고리" refers to a specific product (mask strap hook), but it does not indicate that the user is looking for parts or components specifically. The intention is to purchase "부자재" (accessories or parts), which is not directly addressed by the keyword.
+
+[MISMATCH] Q: 안경 나사 조이는 키트 말고 나사만 모아 둔 거 있어요?
+  Intention: 안경 수리 나사 세트 구매
+  Keyword: 나사정리함
+  Note: MISMATCH | The extracted keyword "나사정리함" (screw organizer) does not directly match the intention of purchasing a "안경 수리 나사 세트" (glasses repair screw set). While it relates to screws, it does not indicate a complete set for repairing glasses, which is what the user is looking for.
+
+[MATCH] Q: 우산 살 부러졌는데 수리 키트 있나요?
+  Intention: 우산 수리 키트 / 우산 살 부속 구매
+  Keyword: 우산 수리 키트
+  Note: MATCH | The extracted keyword "우산 수리 키트" directly matches the target intention of finding an "우산 수리 키트" or umbrella repair kit, fulfilling the user's request for a product related to umbrella repair.
+
+[MATCH] Q: 신발 끈 끝에 끼우는 팁만 따로 파나요?
+  Intention: 신발끈 팁 / 수축 튜브 구매
+  Keyword: 신발끈팁
+  Note: MATCH | The extracted keyword "신발끈팁" directly corresponds to the target intention of purchasing "신발끈 팁" (shoelace tips), fulfilling the user's request for a specific product related to shoelaces.
+
+[MATCH] Q: 가방 끈 조절하는 버클만 깨졌는데 있나요?
+  Intention: 가방 버클 / 조절 장식 구매
+  Keyword: 가방버클
+  Note: MATCH | The extracted keyword "가방버클" (bag buckle) is a specific product that directly relates to the target intention of purchasing a bag buckle or adjustment accessory. It aligns with the user's need for a replacement part for their bag.
+
+[MATCH] Q: 캐리어 바퀴 커버만 따로 씌우는 거 있죠?
+  Intention: 캐리어 바퀴 커버 구매
+  Keyword: 캐리어 바퀴 커버
+  Note: MATCH | The extracted keyword "캐리어 바퀴 커버" directly relates to the target intention of purchasing a "캐리어 바퀴 커버", making it a specific and relevant search term for the intended product.
+
+[MATCH] Q: 지퍼 손잡이 고장 나서 고거만 달고 싶어요.
+  Intention: 지퍼 손잡이 / 슬라이더 교체품 구매
+  Keyword: 지퍼손잡이
+  Note: MATCH | The extracted keyword "지퍼손잡이" (zipper handle) is a specific product that directly relates to the target intention of purchasing a replacement for a zipper handle or slider. It aligns with the user's need to find a specific item for their zipper issue.
+
+[MISMATCH] Q: 에어팟 이어팁 잃어버렸는데 사이즈별로 있나요?
+  Intention: 이어폰 이어팁 / 이어캡 구매
+  Keyword: 이어폰케이스
+  Note: MISMATCH | The extracted keyword "이어폰케이스" (earphone case) does not directly relate to the intention of purchasing earphone tips or caps. The intention is specifically looking for ear tips, while the keyword refers to a case, which is a different category of product.
+
+[MISMATCH] Q: 핸드폰 충전기 케이블 말고 어댑터만 따로 파나요?
+  Intention: 충전기 어댑터 단품 구매
+  Keyword: 충전기 어댑터
+  Note: MISMATCH | The extracted keyword "충전기 어댑터" refers to a charger adapter, but it does not specify that the user is looking for a standalone purchase, which is the core of the target intention. The keyword is relevant to the product category but does not fully align with the specific request for a single item purchase.
+
+[MISMATCH] Q: 마우스 건전지 뚜껑 잃어버렸는데 뚜껑만 있나요?
+  Intention: 마우스 배터리 커버 (부품) 구매
+  Keyword: 건전지 케이스
+  Note: MISMATCH | The extracted keyword "건전지 케이스" (battery case) does not specifically refer to a mouse battery cover, which is the intended product. The keyword is too generic and does not directly address the specific need for a mouse battery cover.
+
+[MISMATCH] Q: 키보드 키캡 몇 개만 바꾸고 싶은데 낱개로 파나요?
+  Intention: 키보드 포인트 키캡 구매
+  Keyword: 키보드 키캡
+  Note: MISMATCH | The extracted keyword "키보드 키캡" is not a specific product from the Daiso Knowledge Base and does not match the intention of purchasing keyboard point keycaps. The intention is specific to a type of keycap, while the keyword is more generic and does not directly relate to any product offered by Daiso.
+
+[MATCH] Q: 모니터 받침대 미끄럼 방지 고무만 떨어졌어요.
+  Intention: 미끄럼 방지 고무 패드 구매
+  Keyword: 미끄럼방지패드
+  Note: MATCH | The extracted keyword "미끄럼방지패드" (non-slip pad) directly relates to the target intention of purchasing a non-slip rubber pad, fulfilling the user's need for a specific product that addresses their issue.
+
+[MATCH] Q: 차량용 방향제 리필 오일만 어디 있어요?
+  Intention: 방향제 리필 오일 구매
+  Keyword: 차량용 방향제 리필 오일
+  Note: MATCH | The extracted keyword "차량용 방향제 리필 오일" directly relates to the target intention of purchasing "방향제 리필 오일", as it specifies the type of product (car air freshener refill oil) that the user is looking for.
+
+[MATCH] Q: 와이퍼 고무 날만 교체하고 싶은데요.
+  Intention: 와이퍼 리필 고무 구매
+  Keyword: 와이퍼 고무 날 교체용 고무 날
+  Note: MATCH | The extracted keyword "와이퍼 고무 날 교체용 고무 날" specifically refers to a replacement rubber blade for a wiper, which directly aligns with the target intention of purchasing a wiper refill rubber.
+
+[MISMATCH] Q: 자동차 키 배터리 교체하는데 배터리만 있나요?
+  Intention: 스마트키 배터리 / 단추 건전지 구매
+  Keyword: 자동차 키 배터리
+  Note: MISMATCH | The extracted keyword "자동차 키 배터리" refers to a car key battery, which is not specific to the type of battery (smart key or button cell) that the target intention is asking for. The intention is focused on purchasing a specific type of battery for smart keys, while the keyword is more generic and does not directly address that need.
+
+[MISMATCH] Q: 블랙박스 접착 스티커만 따로 파나요?
+  Intention: 블랙박스 양면 테이프 구매
+  Keyword: 접착스티커
+  Note: MISMATCH | The extracted keyword "접착스티커" (adhesive sticker) does not specifically refer to the double-sided tape for black boxes that the target intention is seeking. While it is related to adhesive products, it does not match the specific product type (double-sided tape) that the user intends to purchase.
+
+[MATCH] Q: 텐트 폴대 끈 끊어졌는데 끈만 있어요?
+  Intention: 텐트 폴대 수선 줄 / 스트링 구매
+  Keyword: 텐트 폴대 수리용 끈
+  Note: MATCH | The extracted keyword "텐트 폴대 수리용 끈" (tent pole repair string) is specific and directly addresses the user's intention to purchase a string for repairing a tent pole. It aligns with the core problem of needing a replacement string for repair, making it a valid search term.
+
+[MATCH] Q: 캠핑 의자 고무 발만 빠졌는데 있나요?
+  Intention: 의자 발 캡 / 보호 고무 구매
+  Keyword: 의자발커버
+  Note: MATCH | The extracted keyword "의자발커버" (chair leg cover) is a specific product that aligns with the target intention of purchasing a "의자 발 캡 / 보호 고무" (chair leg cap / protective rubber). It addresses the need for a protective cover for the chair legs, fulfilling the user's request effectively.
+
+[MATCH] Q: 랜턴 심지만 리필로 파는 거 어디 있어요?
+  Intention: 랜턴 심지 리필 구매
+  Keyword: 랜턴심지
+  Note: MATCH | The extracted keyword "랜턴심지" (lantern wick) directly relates to the target intention of purchasing a lantern wick refill, fulfilling the user's request effectively.
+
+[MISMATCH] Q: 낚싯대 초리대 부품만 따로 있나요?
+  Intention: 낚싯대 초리대 / 수리 키트 구매
+  Keyword: 분할케이스
+  Note: MISMATCH | The extracted keyword "분할케이스" (partition case) does not directly relate to the intention of purchasing a fishing rod tip or repair kit. It falls into a different category and does not address the core problem of finding specific fishing rod parts or repair items.
+
+[MATCH] Q: 자전거 브레이크 패드만 교체하려고요.
+  Intention: 자전거 브레이크 패드 구매
+  Keyword: 자전거 브레이크 패드
+  Note: MATCH | The extracted keyword "자전거 브레이크 패드" directly corresponds to the target intention of purchasing "자전거 브레이크 패드", making it a valid search term for the intended product.
+
+[MATCH] Q: 킥보드 손잡이 고무만 끈적해서 바꾸고 싶어요.
+  Intention: 킥보드 핸들 그립 / 손잡이 커버 구매
+  Keyword: 고무손잡이
+  Note: MATCH | The keyword "고무손잡이" (rubber handle) is a specific term that relates directly to the intention of purchasing a kickboard handle grip or cover. It addresses the user's need to replace the rubber part of the handle, making it a suitable search term.
+
+[MATCH] Q: 배드민턴 셔틀콕 깃털 말고 앞부분만 있는 연습용 있나요?
+  Intention: 플라스틱 셔틀콕 / 연습용 셔틀콕 구매
+  Keyword: 연습용 셔틀콕
+  Note: MATCH | The extracted keyword "연습용 셔틀콕" directly matches the target intention of purchasing "플라스틱 셔틀콕 / 연습용 셔틀콕", as it specifies the type of shuttlecock the user is looking for.
+
+
+=== SUMMARY ===
+Total Evaluated: 100
+Matches: 57
+Accuracy: 57.0%
