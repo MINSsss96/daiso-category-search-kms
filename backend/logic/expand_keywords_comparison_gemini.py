@@ -14,8 +14,8 @@ from backend.logic.nlu import expand_search_keywords as expand_gemini_func
 
 load_dotenv()
 
-COMPARISON_REPORT_PATH = r"c:\Users\301\dev\daiso-category-search-kms\backend\logic\comparison_report.txt"
-OUTPUT_REPORT_PATH = r"c:\Users\301\dev\daiso-category-search-kms\backend\logic\expansion_result_gemini.json"
+COMPARISON_REPORT_PATH = r"c:\Users\301\dev\daiso-category-search-kms\backend\logic\comparison_report copy.txt"
+OUTPUT_REPORT_PATH = r"c:\Users\301\dev\daiso-category-search-kms\backend\logic\expansion_result_gemini_latency_400.json"
 
 def parse_comparison_report(file_path: str) -> List[str]:
     keywords = set()
@@ -36,35 +36,44 @@ def parse_comparison_report(file_path: str) -> List[str]:
     return list(keywords)
 
 async def main():
+    script_start_time = time.time()
     print(f"Reading matched keywords from {COMPARISON_REPORT_PATH}...")
     keywords = parse_comparison_report(COMPARISON_REPORT_PATH)
     print(f"Found {len(keywords)} unique keywords.")
     
     results = []
+    api_latencies = []
+    processing_times = []
     
     # Process all keywords
     for i, kw in enumerate(keywords):
-        print(f"[Gemini] Processing {i+1}/{len(keywords)}: {kw}")
-        start_time = time.time()
+        func_start_time = time.time()
         
         # Call Gemini expansion (using existing nlu logic)
-        # Note: Ideally nlu.py should support Daiso-specific prompt adjustments.
-        # If nlu.py's prompt is generic, we might need to modify nlu.py OR override here.
-        # Since nlu.py is shared, let's rely on its existing logic but assuming it's reasonably aligned.
-        # However, user asked for "Daiso related". nlu.py KEYWORD_EXPANSION_PROMPT likely handles this.
-        
         try:
-             # Assuming expand_search_keywords returns (keywords, usage) tuple if return_usage=True
-             # We need to verify if nlu.py actually supports return_usage.
-             # Based on previous context, I added return_usage support in nlu.py.
+             # usage now contains 'latency_seconds' from nlu.py modification
              expanded_list, usage = await expand_gemini_func(kw, return_usage=True)
              
-             latency = (time.time() - start_time) * 1000
+             func_end_time = time.time()
+             total_time = func_end_time - func_start_time # Total time including wrapper overhead
+             
+             api_time = usage.get("latency_seconds", total_time) # Fallback to total if not found
+             processing_time = total_time - api_time
+             if processing_time < 0: processing_time = 0
+
+             api_latencies.append(api_time)
+             processing_times.append(processing_time)
+             
+             # Log immediately
+             print(f"[Gemini] {i+1}/{len(keywords)}: '{kw}' -> {len(expanded_list)} items")
+             print(f"    ↳ API Call: {api_time:.3f}s | Processing/Overhead: {processing_time:.3f}s")
              
              results.append({
                  "keyword": kw,
                  "expanded": expanded_list,
-                 "latency_ms": latency,
+                 "total_time_seconds": total_time,
+                 "api_latency_seconds": api_time,
+                 "processing_overhead_seconds": processing_time,
                  "total_tokens": usage.get("total_tokens", 0),
                  "prompt_tokens": usage.get("prompt_tokens", 0),
                  "completion_tokens": usage.get("completion_tokens", 0)
@@ -78,12 +87,35 @@ async def main():
     with open(OUTPUT_REPORT_PATH, 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
         
-    # Summary
-    valid = [r for r in results if "error" not in r]
-    if valid:
-        avg_lat = sum(r['latency_ms'] for r in valid) / len(valid)
-        avg_tok = sum(r['total_tokens'] for r in valid) / len(valid)
-        print(f"\n[Gemini Summary] Avg Latency: {avg_lat:.2f}ms | Avg Tokens: {avg_tok:.1f}")
+    script_end_time = time.time()
+    total_duration = script_end_time - script_start_time
+
+    # Summary Statistics
+    valid_count = len(api_latencies)
+    if valid_count > 0:
+        # API Stats
+        max_api = max(api_latencies)
+        min_api = min(api_latencies)
+        avg_api = sum(api_latencies) / valid_count
+        
+        # Processing Stats
+        max_proc = max(processing_times)
+        min_proc = min(processing_times)
+        avg_proc = sum(processing_times) / valid_count
+        
+        stats_msg = (
+            f"\n[Gemini Expansion Analysis (N={valid_count})]\n"
+            f"1. API Call Latency (Network + Model):\n"
+            f"   - AVG: {avg_api:.3f}s (Min: {min_api:.3f}s, Max: {max_api:.3f}s)\n"
+            f"2. Processing/Overhead Time (Script Logic):\n"
+            f"   - AVG: {avg_proc:.3f}s (Min: {min_proc:.3f}s, Max: {max_proc:.3f}s)\n"
+        )
+    else:
+        stats_msg = "\n[Gemini Stats] No successful requests."
+
+    print(stats_msg)
+    print(f"Total Script Execution Time: {total_duration:.2f} seconds")
+    print(f"Results saved to {OUTPUT_REPORT_PATH}")
 
 if __name__ == "__main__":
     asyncio.run(main())

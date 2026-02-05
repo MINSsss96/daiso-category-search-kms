@@ -191,9 +191,17 @@ async def expand_search_keywords(product_name: str, return_usage: bool = False) 
         )
         prompt = KEYWORD_EXPANSION_PROMPT.format(product_name=product_name)
         
+        start_time = time.time()
         response = await asyncio.to_thread(model.generate_content, prompt)
+        end_time = time.time()
+        latency = end_time - start_time
         
-        usage = {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}
+        usage = {
+            "prompt_tokens": 0, 
+            "completion_tokens": 0, 
+            "total_tokens": 0,
+            "latency_seconds": latency
+        }
         if hasattr(response, "usage_metadata"):
              usage["prompt_tokens"] = response.usage_metadata.prompt_token_count
              usage["completion_tokens"] = response.usage_metadata.candidates_token_count

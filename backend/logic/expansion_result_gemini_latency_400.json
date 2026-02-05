@@ -1,0 +1,4866 @@
+[
+  {
+    "keyword": "여행용 치약 칫솔 세트",
+    "expanded": [
+      "여행용 치약 칫솔 세트",
+      "여행",
+      "치약 칫솔 세트",
+      "세트",
+      "여행용품",
+      "위생용품",
+      "휴대용"
+    ],
+    "total_time_seconds": 2.559659481048584,
+    "api_latency_seconds": 1.1196982860565186,
+    "processing_overhead_seconds": 1.4399611949920654,
+    "total_tokens": 407,
+    "prompt_tokens": 364,
+    "completion_tokens": 43
+  },
+  {
+    "keyword": "용기",
+    "expanded": [
+      "용기",
+      "보관",
+      "정리",
+      "수납",
+      "생활용품"
+    ],
+    "total_time_seconds": 0.9611625671386719,
+    "api_latency_seconds": 0.9611053466796875,
+    "processing_overhead_seconds": 5.7220458984375e-05,
+    "total_tokens": 391,
+    "prompt_tokens": 357,
+    "completion_tokens": 34
+  },
+  {
+    "keyword": "설거지망",
+    "expanded": [
+      "설거지망",
+      "주방",
+      "망",
+      "주방용품",
+      "설거지"
+    ],
+    "total_time_seconds": 0.7662954330444336,
+    "api_latency_seconds": 0.7662954330444336,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 383,
+    "prompt_tokens": 359,
+    "completion_tokens": 24
+  },
+  {
+    "keyword": "발판",
+    "expanded": [
+      "발판",
+      "신발",
+      "매트",
+      "바닥",
+      "인테리어",
+      "미끄럼방지"
+    ],
+    "total_time_seconds": 0.9508063793182373,
+    "api_latency_seconds": 0.9508063793182373,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 385,
+    "prompt_tokens": 357,
+    "completion_tokens": 28
+  },
+  {
+    "keyword": "아기용품",
+    "expanded": [
+      "아기용품",
+      "아기",
+      "용품",
+      "육아용품"
+    ],
+    "total_time_seconds": 0.7713191509246826,
+    "api_latency_seconds": 0.7702908515930176,
+    "processing_overhead_seconds": 0.001028299331665039,
+    "total_tokens": 379,
+    "prompt_tokens": 359,
+    "completion_tokens": 20
+  },
+  {
+    "keyword": "면 마스크",
+    "expanded": [
+      "면 마스크",
+      "마스크",
+      "위생용품",
+      "페이스 마스크",
+      "얼굴 마스크"
+    ],
+    "total_time_seconds": 0.8591225147247314,
+    "api_latency_seconds": 0.8591225147247314,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 384,
+    "prompt_tokens": 358,
+    "completion_tokens": 26
+  },
+  {
+    "keyword": "종이 필터",
+    "expanded": [
+      "종이 필터",
+      "필터",
+      "주방",
+      "커피용품",
+      "필터"
+    ],
+    "total_time_seconds": 0.967829704284668,
+    "api_latency_seconds": 0.967829704284668,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 391,
+    "prompt_tokens": 359,
+    "completion_tokens": 32
+  },
+  {
+    "keyword": "김장용 비닐봉투",
+    "expanded": [
+      "김장용 비닐봉투",
+      "김장",
+      "비닐봉투",
+      "주방용품",
+      "식품 보관"
+    ],
+    "total_time_seconds": 0.9606494903564453,
+    "api_latency_seconds": 0.9606494903564453,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 406,
+    "prompt_tokens": 362,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "이어폰 고무",
+    "expanded": [
+      "이어폰 고무",
+      "이어폰",
+      "고무",
+      "음향기기",
+      "이어폰 부품",
+      "미끄럼방지",
+      "소음차단",
+      "이어팁"
+    ],
+    "total_time_seconds": 1.2318730354309082,
+    "api_latency_seconds": 1.2311973571777344,
+    "processing_overhead_seconds": 0.0006756782531738281,
+    "total_tokens": 421,
+    "prompt_tokens": 359,
+    "completion_tokens": 62
+  },
+  {
+    "keyword": "문 틈 막이",
+    "expanded": [
+      "문 틈 막이",
+      "현관",
+      "틈 막이",
+      "생활용품",
+      "바람막이",
+      "먼지"
+    ],
+    "total_time_seconds": 0.8657381534576416,
+    "api_latency_seconds": 0.8657381534576416,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 391,
+    "prompt_tokens": 360,
+    "completion_tokens": 31
+  },
+  {
+    "keyword": "전자레인지용 그릇",
+    "expanded": [
+      "전자레인지용 그릇",
+      "전자레인지",
+      "그릇",
+      "주방용품",
+      "식기",
+      "전자레인지 사용가능"
+    ],
+    "total_time_seconds": 0.956212043762207,
+    "api_latency_seconds": 0.956212043762207,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 404,
+    "prompt_tokens": 361,
+    "completion_tokens": 43
+  },
+  {
+    "keyword": "운동화 세탁망",
+    "expanded": [
+      "운동화 세탁망",
+      "세탁망",
+      "세탁용품",
+      "신발",
+      "세탁"
+    ],
+    "total_time_seconds": 0.9515032768249512,
+    "api_latency_seconds": 0.9508500099182129,
+    "processing_overhead_seconds": 0.0006532669067382812,
+    "total_tokens": 399,
+    "prompt_tokens": 360,
+    "completion_tokens": 39
+  },
+  {
+    "keyword": "구두주걱",
+    "expanded": [
+      "구두주걱",
+      "신발",
+      "주걱",
+      "생활용품",
+      "신발 용품",
+      "편리"
+    ],
+    "total_time_seconds": 0.8573787212371826,
+    "api_latency_seconds": 0.8573787212371826,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 388,
+    "prompt_tokens": 359,
+    "completion_tokens": 29
+  },
+  {
+    "keyword": "돌돌이",
+    "expanded": [
+      "돌돌이",
+      "청소",
+      "청소용품",
+      "테이프 클리너"
+    ],
+    "total_time_seconds": 0.8571386337280273,
+    "api_latency_seconds": 0.8571386337280273,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 358,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "그릇받침",
+    "expanded": [
+      "그릇받침",
+      "주방",
+      "받침",
+      "주방용품",
+      "식기"
+    ],
+    "total_time_seconds": 0.856048583984375,
+    "api_latency_seconds": 0.856048583984375,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 383,
+    "prompt_tokens": 359,
+    "completion_tokens": 24
+  },
+  {
+    "keyword": "손목 보호대",
+    "expanded": [
+      "손목 보호대",
+      "손목",
+      "보호대",
+      "보호용품",
+      "스포츠용품",
+      "부상 방지",
+      "손목 지지"
+    ],
+    "total_time_seconds": 1.150313377380371,
+    "api_latency_seconds": 1.150313377380371,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 407,
+    "prompt_tokens": 359,
+    "completion_tokens": 48
+  },
+  {
+    "keyword": "휴대폰 거치대",
+    "expanded": [
+      "휴대폰 거치대",
+      "휴대폰",
+      "거치대",
+      "디지털",
+      "핸드폰 용품"
+    ],
+    "total_time_seconds": 1.0405325889587402,
+    "api_latency_seconds": 1.0394165515899658,
+    "processing_overhead_seconds": 0.001116037368774414,
+    "total_tokens": 397,
+    "prompt_tokens": 360,
+    "completion_tokens": 37
+  },
+  {
+    "keyword": "다용도 제품",
+    "expanded": [
+      "다용도 제품",
+      "다용도",
+      "제품",
+      "생활용품",
+      "수납"
+    ],
+    "total_time_seconds": 0.967379093170166,
+    "api_latency_seconds": 0.967379093170166,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 390,
+    "prompt_tokens": 359,
+    "completion_tokens": 31
+  },
+  {
+    "keyword": "자전거 자물쇠",
+    "expanded": [
+      "자전거 자물쇠",
+      "자전거",
+      "자물쇠",
+      "보안용품",
+      "잠금"
+    ],
+    "total_time_seconds": 1.049835205078125,
+    "api_latency_seconds": 1.049835205078125,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 394,
+    "prompt_tokens": 360,
+    "completion_tokens": 34
+  },
+  {
+    "keyword": "냉장고 탈취제",
+    "expanded": [
+      "냉장고 탈취제",
+      "냉장고",
+      "탈취제",
+      "주방용품",
+      "냄새 제거",
+      "탈취"
+    ],
+    "total_time_seconds": 0.8590760231018066,
+    "api_latency_seconds": 0.8590760231018066,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 394,
+    "prompt_tokens": 361,
+    "completion_tokens": 33
+  },
+  {
+    "keyword": "손톱 정리 세트",
+    "expanded": [
+      "손톱 정리 세트",
+      "손톱",
+      "정리 세트",
+      "세트",
+      "미용용품",
+      "네일케어"
+    ],
+    "total_time_seconds": 1.0589768886566162,
+    "api_latency_seconds": 1.0579757690429688,
+    "processing_overhead_seconds": 0.001001119613647461,
+    "total_tokens": 408,
+    "prompt_tokens": 360,
+    "completion_tokens": 48
+  },
+  {
+    "keyword": "미끄럼 방지 패드",
+    "expanded": [
+      "미끄럼 방지 패드",
+      "미끄럼방지패드",
+      "패드",
+      "생활용품",
+      "미끄럼방지"
+    ],
+    "total_time_seconds": 0.9509716033935547,
+    "api_latency_seconds": 0.9509716033935547,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 404,
+    "prompt_tokens": 362,
+    "completion_tokens": 42
+  },
+  {
+    "keyword": "종이컵",
+    "expanded": [
+      "종이컵",
+      "주방",
+      "컵",
+      "주방용품",
+      "일회용"
+    ],
+    "total_time_seconds": 0.8571243286132812,
+    "api_latency_seconds": 0.8571243286132812,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 358,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "층간소음 방지 패드",
+    "expanded": [
+      "층간소음 방지 패드",
+      "층간소음",
+      "방지 패드",
+      "패드",
+      "생활용품",
+      "소음방지"
+    ],
+    "total_time_seconds": 1.0410864353179932,
+    "api_latency_seconds": 1.0410864353179932,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 416,
+    "prompt_tokens": 364,
+    "completion_tokens": 52
+  },
+  {
+    "keyword": "반찬통",
+    "expanded": [
+      "반찬통",
+      "주방",
+      "통",
+      "주방용품",
+      "밀폐",
+      "보관"
+    ],
+    "total_time_seconds": 0.9597399234771729,
+    "api_latency_seconds": 0.9583292007446289,
+    "processing_overhead_seconds": 0.0014107227325439453,
+    "total_tokens": 399,
+    "prompt_tokens": 358,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "바람막이",
+    "expanded": [
+      "바람막이",
+      "아웃도어",
+      "의류",
+      "방풍",
+      "휴대용"
+    ],
+    "total_time_seconds": 0.8642277717590332,
+    "api_latency_seconds": 0.8642277717590332,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 383,
+    "prompt_tokens": 358,
+    "completion_tokens": 25
+  },
+  {
+    "keyword": "숨김 용품",
+    "expanded": [
+      "숨김 용품",
+      "정리",
+      "수납",
+      "생활용품",
+      "정리정돈"
+    ],
+    "total_time_seconds": 0.9525957107543945,
+    "api_latency_seconds": 0.9525957107543945,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 384,
+    "prompt_tokens": 359,
+    "completion_tokens": 25
+  },
+  {
+    "keyword": "화장품 보관 용기",
+    "expanded": [
+      "화장품 보관 용기",
+      "화장대",
+      "용기",
+      "화장품",
+      "정리",
+      "수납"
+    ],
+    "total_time_seconds": 0.9568986892700195,
+    "api_latency_seconds": 0.9568986892700195,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 402,
+    "prompt_tokens": 362,
+    "completion_tokens": 40
+  },
+  {
+    "keyword": "페디큐어 세퍼레이터",
+    "expanded": [
+      "페디큐어 세퍼레이터",
+      "페디큐어",
+      "발가락 교정기",
+      "세퍼레이터",
+      "미용",
+      "뷰티",
+      "발 관리"
+    ],
+    "total_time_seconds": 1.0340993404388428,
+    "api_latency_seconds": 1.0340993404388428,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 415,
+    "prompt_tokens": 363,
+    "completion_tokens": 52
+  },
+  {
+    "keyword": "라이터",
+    "expanded": [
+      "라이터",
+      "담배",
+      "불",
+      "주방",
+      "캠핑",
+      "라이터",
+      "성냥",
+      "잡화"
+    ],
+    "total_time_seconds": 1.0843408107757568,
+    "api_latency_seconds": 1.0843408107757568,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 388,
+    "prompt_tokens": 357,
+    "completion_tokens": 31
+  },
+  {
+    "keyword": "욕실 실리콘 곰팡이 지우는 젤",
+    "expanded": [
+      "욕실 실리콘 곰팡이 지우는 젤",
+      "곰팡이 제거제",
+      "실리콘 곰팡이 제거제",
+      "욕실 곰팡이 제거제",
+      "젤",
+      "청소용품",
+      "욕실용품",
+      "곰팡이 제거"
+    ],
+    "total_time_seconds": 1.141153335571289,
+    "api_latency_seconds": 1.1401569843292236,
+    "processing_overhead_seconds": 0.0009963512420654297,
+    "total_tokens": 445,
+    "prompt_tokens": 369,
+    "completion_tokens": 76
+  },
+  {
+    "keyword": "스티커",
+    "expanded": [
+      "스티커",
+      "다이어리",
+      "문구",
+      "문구류",
+      "장식",
+      "꾸미기"
+    ],
+    "total_time_seconds": 0.9551479816436768,
+    "api_latency_seconds": 0.9545459747314453,
+    "processing_overhead_seconds": 0.0006020069122314453,
+    "total_tokens": 400,
+    "prompt_tokens": 358,
+    "completion_tokens": 42
+  },
+  {
+    "keyword": "이어폰",
+    "expanded": [
+      "이어폰",
+      "음향기기",
+      "디지털",
+      "핸드폰 용품"
+    ],
+    "total_time_seconds": 0.8517129421234131,
+    "api_latency_seconds": 0.8507177829742432,
+    "processing_overhead_seconds": 0.0009951591491699219,
+    "total_tokens": 378,
+    "prompt_tokens": 357,
+    "completion_tokens": 21
+  },
+  {
+    "keyword": "아이스박스",
+    "expanded": [
+      "아이스박스",
+      "캠핑",
+      "박스",
+      "캠핑용품",
+      "보관"
+    ],
+    "total_time_seconds": 0.8525974750518799,
+    "api_latency_seconds": 0.8525974750518799,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 383,
+    "prompt_tokens": 359,
+    "completion_tokens": 24
+  },
+  {
+    "keyword": "덧버선",
+    "expanded": [
+      "덧버선",
+      "실내",
+      "양말",
+      "의류",
+      "보온",
+      "미끄럼방지"
+    ],
+    "total_time_seconds": 0.9551634788513184,
+    "api_latency_seconds": 0.9541141986846924,
+    "processing_overhead_seconds": 0.0010492801666259766,
+    "total_tokens": 396,
+    "prompt_tokens": 359,
+    "completion_tokens": 37
+  },
+  {
+    "keyword": "가리개",
+    "expanded": [
+      "가리개",
+      "생활",
+      "가림막",
+      "커튼",
+      "장식"
+    ],
+    "total_time_seconds": 0.9550414085388184,
+    "api_latency_seconds": 0.9550414085388184,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 387,
+    "prompt_tokens": 358,
+    "completion_tokens": 29
+  },
+  {
+    "keyword": "전화번호 판",
+    "expanded": [
+      "전화번호 판",
+      "차량",
+      "판",
+      "자동차용품",
+      "주차",
+      "알림"
+    ],
+    "total_time_seconds": 1.0546019077301025,
+    "api_latency_seconds": 1.0546019077301025,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 393,
+    "prompt_tokens": 358,
+    "completion_tokens": 35
+  },
+  {
+    "keyword": "공병",
+    "expanded": [
+      "공병",
+      "화장품",
+      "병",
+      "미용",
+      "여행용"
+    ],
+    "total_time_seconds": 0.95353102684021,
+    "api_latency_seconds": 0.95353102684021,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 390,
+    "prompt_tokens": 357,
+    "completion_tokens": 33
+  },
+  {
+    "keyword": "박스테이프",
+    "expanded": [
+      "박스테이프",
+      "포장",
+      "테이프",
+      "문구",
+      "사무용품",
+      "포장용"
+    ],
+    "total_time_seconds": 0.8773336410522461,
+    "api_latency_seconds": 0.8773336410522461,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 389,
+    "prompt_tokens": 359,
+    "completion_tokens": 30
+  },
+  {
+    "keyword": "제습제",
+    "expanded": [
+      "제습제",
+      "옷장",
+      "습기 제거제",
+      "생활용품",
+      "습기 제거",
+      "탈취"
+    ],
+    "total_time_seconds": 1.1451539993286133,
+    "api_latency_seconds": 1.1451539993286133,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 396,
+    "prompt_tokens": 358,
+    "completion_tokens": 38
+  },
+  {
+    "keyword": "방법",
+    "expanded": [
+      "방법"
+    ],
+    "total_time_seconds": 0.6685192584991455,
+    "api_latency_seconds": 0.6676826477050781,
+    "processing_overhead_seconds": 0.0008366107940673828,
+    "total_tokens": 359,
+    "prompt_tokens": 356,
+    "completion_tokens": 3
+  },
+  {
+    "keyword": "선물 포장 리본",
+    "expanded": [
+      "선물 포장 리본",
+      "선물",
+      "포장 리본",
+      "리본",
+      "포장용품",
+      "장식"
+    ],
+    "total_time_seconds": 1.047351360321045,
+    "api_latency_seconds": 1.0452544689178467,
+    "processing_overhead_seconds": 0.002096891403198242,
+    "total_tokens": 401,
+    "prompt_tokens": 360,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "탁상용 거울",
+    "expanded": [
+      "탁상용 거울",
+      "탁상",
+      "거울",
+      "화장품",
+      "미용용품"
+    ],
+    "total_time_seconds": 0.958050012588501,
+    "api_latency_seconds": 0.958050012588501,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 386,
+    "prompt_tokens": 360,
+    "completion_tokens": 26
+  },
+  {
+    "keyword": "통",
+    "expanded": [
+      "통",
+      "수납",
+      "정리용품"
+    ],
+    "total_time_seconds": 0.7599384784698486,
+    "api_latency_seconds": 0.7594099044799805,
+    "processing_overhead_seconds": 0.0005285739898681641,
+    "total_tokens": 369,
+    "prompt_tokens": 356,
+    "completion_tokens": 13
+  },
+  {
+    "keyword": "이어폰 정리",
+    "expanded": [
+      "이어폰 정리",
+      "이어폰",
+      "정리",
+      "디지털",
+      "핸드폰 용품",
+      "정리용품"
+    ],
+    "total_time_seconds": 0.9561905860900879,
+    "api_latency_seconds": 0.9561905860900879,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 403,
+    "prompt_tokens": 358,
+    "completion_tokens": 45
+  },
+  {
+    "keyword": "젤리",
+    "expanded": [
+      "젤리",
+      "간식",
+      "식품",
+      "달콤한"
+    ],
+    "total_time_seconds": 0.7659237384796143,
+    "api_latency_seconds": 0.7649121284484863,
+    "processing_overhead_seconds": 0.0010116100311279297,
+    "total_tokens": 375,
+    "prompt_tokens": 358,
+    "completion_tokens": 17
+  },
+  {
+    "keyword": "자석 화이트보드",
+    "expanded": [
+      "자석 화이트보드",
+      "화이트보드",
+      "보드",
+      "사무용품",
+      "자석"
+    ],
+    "total_time_seconds": 0.9582223892211914,
+    "api_latency_seconds": 0.9582223892211914,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 397,
+    "prompt_tokens": 361,
+    "completion_tokens": 36
+  },
+  {
+    "keyword": "양말",
+    "expanded": [
+      "양말",
+      "발",
+      "양말",
+      "의류",
+      "보온"
+    ],
+    "total_time_seconds": 0.865994930267334,
+    "api_latency_seconds": 0.865994930267334,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 376,
+    "prompt_tokens": 357,
+    "completion_tokens": 19
+  },
+  {
+    "keyword": "메모판",
+    "expanded": [
+      "메모판",
+      "사무실",
+      "게시판",
+      "문구",
+      "사무용품",
+      "메모"
+    ],
+    "total_time_seconds": 1.0554585456848145,
+    "api_latency_seconds": 1.0554585456848145,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 401,
+    "prompt_tokens": 357,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "자전거 체인 기름",
+    "expanded": [
+      "자전거 체인 기름",
+      "자전거",
+      "체인 기름",
+      "기름",
+      "아웃도어",
+      "스포츠",
+      "체인 윤활",
+      "자전거 용품"
+    ],
+    "total_time_seconds": 1.0502655506134033,
+    "api_latency_seconds": 1.0498695373535156,
+    "processing_overhead_seconds": 0.0003960132598876953,
+    "total_tokens": 412,
+    "prompt_tokens": 360,
+    "completion_tokens": 52
+  },
+  {
+    "keyword": "낚시의자",
+    "expanded": [
+      "낚시의자",
+      "낚시",
+      "의자",
+      "레저",
+      "캠핑용품",
+      "휴대용"
+    ],
+    "total_time_seconds": 0.9568734169006348,
+    "api_latency_seconds": 0.9563078880310059,
+    "processing_overhead_seconds": 0.0005655288696289062,
+    "total_tokens": 398,
+    "prompt_tokens": 360,
+    "completion_tokens": 38
+  },
+  {
+    "keyword": "탄 거 닦는 가루",
+    "expanded": [
+      "탄 거 닦는 가루",
+      "주방",
+      "세제",
+      "청소용품",
+      "탄 자국 제거"
+    ],
+    "total_time_seconds": 0.8642494678497314,
+    "api_latency_seconds": 0.8642494678497314,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 391,
+    "prompt_tokens": 362,
+    "completion_tokens": 29
+  },
+  {
+    "keyword": "창문 잠금 장치",
+    "expanded": [
+      "창문 잠금 장치",
+      "창문",
+      "잠금 장치",
+      "안전용품",
+      "잠금"
+    ],
+    "total_time_seconds": 0.8535940647125244,
+    "api_latency_seconds": 0.8535940647125244,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 389,
+    "prompt_tokens": 361,
+    "completion_tokens": 28
+  },
+  {
+    "keyword": "콧받침",
+    "expanded": [
+      "콧받침",
+      "안경",
+      "안경 부품",
+      "패션잡화",
+      "안경 수리"
+    ],
+    "total_time_seconds": 0.9532797336578369,
+    "api_latency_seconds": 0.9528906345367432,
+    "processing_overhead_seconds": 0.00038909912109375,
+    "total_tokens": 386,
+    "prompt_tokens": 359,
+    "completion_tokens": 27
+  },
+  {
+    "keyword": "정리함",
+    "expanded": [
+      "정리함",
+      "수납",
+      "정리",
+      "수납함",
+      "생활용품",
+      "정리용품"
+    ],
+    "total_time_seconds": 1.042539119720459,
+    "api_latency_seconds": 1.041595458984375,
+    "processing_overhead_seconds": 0.0009436607360839844,
+    "total_tokens": 395,
+    "prompt_tokens": 357,
+    "completion_tokens": 38
+  },
+  {
+    "keyword": "베개 솜",
+    "expanded": [
+      "베개 솜",
+      "침실",
+      "솜",
+      "침구류",
+      "베개",
+      "수면"
+    ],
+    "total_time_seconds": 0.9523036479949951,
+    "api_latency_seconds": 0.9512710571289062,
+    "processing_overhead_seconds": 0.0010325908660888672,
+    "total_tokens": 400,
+    "prompt_tokens": 359,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "종량제 봉투",
+    "expanded": [
+      "종량제 봉투",
+      "쓰레기 봉투",
+      "봉투",
+      "생활용품",
+      "쓰레기 처리"
+    ],
+    "total_time_seconds": 0.8554315567016602,
+    "api_latency_seconds": 0.8553004264831543,
+    "processing_overhead_seconds": 0.00013113021850585938,
+    "total_tokens": 389,
+    "prompt_tokens": 360,
+    "completion_tokens": 29
+  },
+  {
+    "keyword": "신발정리대",
+    "expanded": [
+      "신발정리대",
+      "신발",
+      "정리대",
+      "수납용품",
+      "정리"
+    ],
+    "total_time_seconds": 0.853299617767334,
+    "api_latency_seconds": 0.853299617767334,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 386,
+    "prompt_tokens": 360,
+    "completion_tokens": 26
+  },
+  {
+    "keyword": "선반",
+    "expanded": [
+      "선반",
+      "수납",
+      "선반",
+      "정리용품",
+      "다용도"
+    ],
+    "total_time_seconds": 0.8535702228546143,
+    "api_latency_seconds": 0.8535702228546143,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 393,
+    "prompt_tokens": 357,
+    "completion_tokens": 36
+  },
+  {
+    "keyword": "문풍지",
+    "expanded": [
+      "문풍지",
+      "창문",
+      "틈막이",
+      "생활용품",
+      "단열",
+      "방풍",
+      "외풍차단"
+    ],
+    "total_time_seconds": 1.0485761165618896,
+    "api_latency_seconds": 1.0485761165618896,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 401,
+    "prompt_tokens": 358,
+    "completion_tokens": 43
+  },
+  {
+    "keyword": "돼지코",
+    "expanded": [
+      "돼지코",
+      "콘센트",
+      "전기 어댑터",
+      "생활용품",
+      "변환"
+    ],
+    "total_time_seconds": 0.9693934917449951,
+    "api_latency_seconds": 0.9686288833618164,
+    "processing_overhead_seconds": 0.0007646083831787109,
+    "total_tokens": 384,
+    "prompt_tokens": 358,
+    "completion_tokens": 26
+  },
+  {
+    "keyword": "퐁퐁",
+    "expanded": [
+      "퐁퐁",
+      "주방",
+      "세제",
+      "주방세제",
+      "세척"
+    ],
+    "total_time_seconds": 0.7584779262542725,
+    "api_latency_seconds": 0.7584779262542725,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 380,
+    "prompt_tokens": 358,
+    "completion_tokens": 22
+  },
+  {
+    "keyword": "바느질 세트",
+    "expanded": [
+      "바느질 세트",
+      "바느질",
+      "세트",
+      "DIY",
+      "수예용품",
+      "바느질 키트"
+    ],
+    "total_time_seconds": 0.9513335227966309,
+    "api_latency_seconds": 0.9503324031829834,
+    "processing_overhead_seconds": 0.001001119613647461,
+    "total_tokens": 392,
+    "prompt_tokens": 360,
+    "completion_tokens": 32
+  },
+  {
+    "keyword": "물티슈통",
+    "expanded": [
+      "물티슈통",
+      "물티슈",
+      "통",
+      "생활용품",
+      "정리",
+      "수납"
+    ],
+    "total_time_seconds": 0.9589526653289795,
+    "api_latency_seconds": 0.9578909873962402,
+    "processing_overhead_seconds": 0.0010616779327392578,
+    "total_tokens": 395,
+    "prompt_tokens": 359,
+    "completion_tokens": 36
+  },
+  {
+    "keyword": "고데기받침",
+    "expanded": [
+      "고데기받침",
+      "고데기",
+      "받침",
+      "미용",
+      "헤어",
+      "고데기 용품",
+      "열 방지"
+    ],
+    "total_time_seconds": 0.954512357711792,
+    "api_latency_seconds": 0.9535865783691406,
+    "processing_overhead_seconds": 0.0009257793426513672,
+    "total_tokens": 396,
+    "prompt_tokens": 360,
+    "completion_tokens": 36
+  },
+  {
+    "keyword": "미술용품",
+    "expanded": [
+      "미술용품",
+      "미술",
+      "학용품",
+      "사무용품",
+      "문구"
+    ],
+    "total_time_seconds": 0.8480319976806641,
+    "api_latency_seconds": 0.8480319976806641,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 383,
+    "prompt_tokens": 358,
+    "completion_tokens": 25
+  },
+  {
+    "keyword": "운동화 끈 고정",
+    "expanded": [
+      "운동화 끈 고정",
+      "신발",
+      "운동화 끈",
+      "끈",
+      "신발 용품",
+      "고정"
+    ],
+    "total_time_seconds": 1.0602920055389404,
+    "api_latency_seconds": 1.0602920055389404,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 401,
+    "prompt_tokens": 361,
+    "completion_tokens": 40
+  },
+  {
+    "keyword": "가방커버",
+    "expanded": [
+      "가방커버",
+      "가방",
+      "커버",
+      "여행용품",
+      "보호",
+      "방수"
+    ],
+    "total_time_seconds": 0.9552724361419678,
+    "api_latency_seconds": 0.9542648792266846,
+    "processing_overhead_seconds": 0.0010075569152832031,
+    "total_tokens": 401,
+    "prompt_tokens": 359,
+    "completion_tokens": 42
+  },
+  {
+    "keyword": "에어프라이어 종이",
+    "expanded": [
+      "에어프라이어 종이",
+      "에어프라이어",
+      "종이",
+      "주방용품",
+      "튀김",
+      "요리"
+    ],
+    "total_time_seconds": 0.9558439254760742,
+    "api_latency_seconds": 0.9558439254760742,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 411,
+    "prompt_tokens": 362,
+    "completion_tokens": 49
+  },
+  {
+    "keyword": "선정리함",
+    "expanded": [
+      "선정리함",
+      "책상",
+      "정리함",
+      "수납용품",
+      "정리",
+      "수납"
+    ],
+    "total_time_seconds": 1.0257360935211182,
+    "api_latency_seconds": 1.0257360935211182,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 402,
+    "prompt_tokens": 358,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "냄비손잡이",
+    "expanded": [
+      "냄비손잡이",
+      "주방",
+      "손잡이",
+      "주방용품",
+      "조리도구",
+      "안전"
+    ],
+    "total_time_seconds": 0.7930536270141602,
+    "api_latency_seconds": 0.7930536270141602,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 393,
+    "prompt_tokens": 361,
+    "completion_tokens": 32
+  },
+  {
+    "keyword": "등받이",
+    "expanded": [
+      "등받이",
+      "의자",
+      "인테리어",
+      "쿠션",
+      "편안함"
+    ],
+    "total_time_seconds": 0.8122274875640869,
+    "api_latency_seconds": 0.8122274875640869,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 358,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "가방정리함",
+    "expanded": [
+      "가방정리함",
+      "정리함",
+      "수납",
+      "정리",
+      "가방",
+      "리빙",
+      "수납용품"
+    ],
+    "total_time_seconds": 0.9925582408905029,
+    "api_latency_seconds": 0.9925582408905029,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 411,
+    "prompt_tokens": 360,
+    "completion_tokens": 51
+  },
+  {
+    "keyword": "신발 주머니",
+    "expanded": [
+      "신발 주머니",
+      "신발",
+      "주머니",
+      "가방",
+      "정리",
+      "수납"
+    ],
+    "total_time_seconds": 0.9570817947387695,
+    "api_latency_seconds": 0.9570817947387695,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 400,
+    "prompt_tokens": 359,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "방향제",
+    "expanded": [
+      "방향제",
+      "실내",
+      "탈취제",
+      "방향",
+      "향기",
+      "냄새 제거"
+    ],
+    "total_time_seconds": 0.9468004703521729,
+    "api_latency_seconds": 0.9457612037658691,
+    "processing_overhead_seconds": 0.001039266586303711,
+    "total_tokens": 399,
+    "prompt_tokens": 357,
+    "completion_tokens": 42
+  },
+  {
+    "keyword": "문콕방지",
+    "expanded": [
+      "문콕방지",
+      "자동차",
+      "보호",
+      "자동차 용품",
+      "보호 용품"
+    ],
+    "total_time_seconds": 1.0442793369293213,
+    "api_latency_seconds": 1.0442793369293213,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 396,
+    "prompt_tokens": 359,
+    "completion_tokens": 37
+  },
+  {
+    "keyword": "욕실 실리콘",
+    "expanded": [
+      "욕실 실리콘",
+      "욕실",
+      "실리콘",
+      "욕실용품",
+      "방수",
+      "틈새 메꿈"
+    ],
+    "total_time_seconds": 1.0407946109771729,
+    "api_latency_seconds": 1.0407946109771729,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 401,
+    "prompt_tokens": 360,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "나무 뒤집개",
+    "expanded": [
+      "나무 뒤집개",
+      "주방",
+      "뒤집개",
+      "주방용품",
+      "조리도구"
+    ],
+    "total_time_seconds": 0.8596324920654297,
+    "api_latency_seconds": 0.8596324920654297,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 386,
+    "prompt_tokens": 359,
+    "completion_tokens": 27
+  },
+  {
+    "keyword": "무선 마우스",
+    "expanded": [
+      "무선 마우스",
+      "마우스",
+      "컴퓨터",
+      "사무용품",
+      "디지털",
+      "무선"
+    ],
+    "total_time_seconds": 1.045006513595581,
+    "api_latency_seconds": 1.045006513595581,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 397,
+    "prompt_tokens": 359,
+    "completion_tokens": 38
+  },
+  {
+    "keyword": "부직포",
+    "expanded": [
+      "부직포",
+      "정리",
+      "수납",
+      "생활용품",
+      "다용도"
+    ],
+    "total_time_seconds": 0.9464471340179443,
+    "api_latency_seconds": 0.9464471340179443,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 389,
+    "prompt_tokens": 358,
+    "completion_tokens": 31
+  },
+  {
+    "keyword": "기름막이",
+    "expanded": [
+      "기름막이",
+      "주방",
+      "막이",
+      "주방용품",
+      "기름 방지"
+    ],
+    "total_time_seconds": 0.8508250713348389,
+    "api_latency_seconds": 0.8508250713348389,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 384,
+    "prompt_tokens": 358,
+    "completion_tokens": 26
+  },
+  {
+    "keyword": "매트",
+    "expanded": [
+      "매트",
+      "바닥",
+      "깔개",
+      "인테리어",
+      "미끄럼방지"
+    ],
+    "total_time_seconds": 0.8711555004119873,
+    "api_latency_seconds": 0.8711555004119873,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 357,
+    "completion_tokens": 24
+  },
+  {
+    "keyword": "포스트잇",
+    "expanded": [
+      "포스트잇",
+      "사무실",
+      "메모지",
+      "문구",
+      "접착식"
+    ],
+    "total_time_seconds": 0.8614978790283203,
+    "api_latency_seconds": 0.8614978790283203,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 382,
+    "prompt_tokens": 358,
+    "completion_tokens": 24
+  },
+  {
+    "keyword": "장갑",
+    "expanded": [
+      "장갑",
+      "주방",
+      "청소",
+      "작업",
+      "장갑",
+      "주방용품",
+      "청소용품",
+      "보호",
+      "미끄럼방지"
+    ],
+    "total_time_seconds": 0.9547042846679688,
+    "api_latency_seconds": 0.9537138938903809,
+    "processing_overhead_seconds": 0.0009903907775878906,
+    "total_tokens": 400,
+    "prompt_tokens": 357,
+    "completion_tokens": 43
+  },
+  {
+    "keyword": "종이 호일",
+    "expanded": [
+      "종이 호일",
+      "주방",
+      "호일",
+      "주방용품",
+      "조리",
+      "베이킹"
+    ],
+    "total_time_seconds": 1.0455074310302734,
+    "api_latency_seconds": 1.0455074310302734,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 403,
+    "prompt_tokens": 359,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "접이식 의자",
+    "expanded": [
+      "접이식 의자",
+      "의자",
+      "캠핑",
+      "아웃도어",
+      "휴대용",
+      "간편한"
+    ],
+    "total_time_seconds": 1.0440869331359863,
+    "api_latency_seconds": 1.0440869331359863,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 406,
+    "prompt_tokens": 360,
+    "completion_tokens": 46
+  },
+  {
+    "keyword": "효자손",
+    "expanded": [
+      "효자손",
+      "등",
+      "막대",
+      "건강용품",
+      "안마"
+    ],
+    "total_time_seconds": 0.8639492988586426,
+    "api_latency_seconds": 0.8639492988586426,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 380,
+    "prompt_tokens": 358,
+    "completion_tokens": 22
+  },
+  {
+    "keyword": "김서림 방지 거울",
+    "expanded": [
+      "김서림 방지 거울",
+      "거울",
+      "욕실",
+      "욕실용품",
+      "김서림방지"
+    ],
+    "total_time_seconds": 0.9529876708984375,
+    "api_latency_seconds": 0.9529876708984375,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 405,
+    "prompt_tokens": 362,
+    "completion_tokens": 43
+  },
+  {
+    "keyword": "옷정리",
+    "expanded": [
+      "옷정리",
+      "옷 정리",
+      "정리",
+      "수납",
+      "생활용품",
+      "정리 용품",
+      "수납 용품"
+    ],
+    "total_time_seconds": 0.9597094058990479,
+    "api_latency_seconds": 0.9593629837036133,
+    "processing_overhead_seconds": 0.0003464221954345703,
+    "total_tokens": 409,
+    "prompt_tokens": 358,
+    "completion_tokens": 51
+  },
+  {
+    "keyword": "집게",
+    "expanded": [
+      "집게",
+      "주방",
+      "요리",
+      "조리도구",
+      "다용도"
+    ],
+    "total_time_seconds": 0.8614916801452637,
+    "api_latency_seconds": 0.8614916801452637,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 380,
+    "prompt_tokens": 357,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "머리카락 정리 도구",
+    "expanded": [
+      "머리카락 정리 도구",
+      "헤어",
+      "정리 도구",
+      "미용",
+      "헤어 액세서리",
+      "머리 정리"
+    ],
+    "total_time_seconds": 1.054452657699585,
+    "api_latency_seconds": 1.054452657699585,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 410,
+    "prompt_tokens": 361,
+    "completion_tokens": 49
+  },
+  {
+    "keyword": "압축봉",
+    "expanded": [
+      "압축봉",
+      "다용도",
+      "봉",
+      "수납용품",
+      "길이조절",
+      "고정"
+    ],
+    "total_time_seconds": 0.9526863098144531,
+    "api_latency_seconds": 0.9516885280609131,
+    "processing_overhead_seconds": 0.000997781753540039,
+    "total_tokens": 402,
+    "prompt_tokens": 358,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "물티슈 뚜껑",
+    "expanded": [
+      "물티슈 뚜껑",
+      "물티슈",
+      "뚜껑",
+      "생활용품",
+      "위생용품",
+      "리필용"
+    ],
+    "total_time_seconds": 1.0419285297393799,
+    "api_latency_seconds": 1.0409324169158936,
+    "processing_overhead_seconds": 0.0009961128234863281,
+    "total_tokens": 403,
+    "prompt_tokens": 361,
+    "completion_tokens": 42
+  },
+  {
+    "keyword": "꽃 가위",
+    "expanded": [
+      "꽃 가위",
+      "가드닝",
+      "가위",
+      "원예용품",
+      "꽃",
+      "정원"
+    ],
+    "total_time_seconds": 0.9548249244689941,
+    "api_latency_seconds": 0.9548249244689941,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 400,
+    "prompt_tokens": 358,
+    "completion_tokens": 42
+  },
+  {
+    "keyword": "헤어드라이기",
+    "expanded": [
+      "헤어드라이기",
+      "드라이기",
+      "미용용품",
+      "헤어",
+      "전자기기",
+      "머리",
+      "건조"
+    ],
+    "total_time_seconds": 1.0548479557037354,
+    "api_latency_seconds": 1.0548479557037354,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 395,
+    "prompt_tokens": 360,
+    "completion_tokens": 35
+  },
+  {
+    "keyword": "싱크대 선반",
+    "expanded": [
+      "싱크대 선반",
+      "싱크대",
+      "선반",
+      "주방용품",
+      "수납"
+    ],
+    "total_time_seconds": 0.8552689552307129,
+    "api_latency_seconds": 0.8552689552307129,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 386,
+    "prompt_tokens": 360,
+    "completion_tokens": 26
+  },
+  {
+    "keyword": "여권 커버",
+    "expanded": [
+      "여권 커버",
+      "여권",
+      "커버",
+      "여행용품",
+      "보호"
+    ],
+    "total_time_seconds": 0.776613712310791,
+    "api_latency_seconds": 0.776613712310791,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 382,
+    "prompt_tokens": 359,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "곰팡이 제거제",
+    "expanded": [
+      "곰팡이 제거제",
+      "욕실",
+      "세정제",
+      "청소용품",
+      "곰팡이 제거"
+    ],
+    "total_time_seconds": 0.9612917900085449,
+    "api_latency_seconds": 0.9612917900085449,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 402,
+    "prompt_tokens": 361,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "팔굽혀펴기 기구",
+    "expanded": [
+      "팔굽혀펴기 기구",
+      "운동",
+      "기구",
+      "스포츠용품",
+      "헬스",
+      "근력운동"
+    ],
+    "total_time_seconds": 0.9627113342285156,
+    "api_latency_seconds": 0.9601278305053711,
+    "processing_overhead_seconds": 0.0025835037231445312,
+    "total_tokens": 407,
+    "prompt_tokens": 362,
+    "completion_tokens": 45
+  },
+  {
+    "keyword": "벽지낙서제거제",
+    "expanded": [
+      "벽지낙서제거제",
+      "벽",
+      "낙서제거제",
+      "제거제",
+      "청소용품",
+      "낙서 지우개"
+    ],
+    "total_time_seconds": 0.8534648418426514,
+    "api_latency_seconds": 0.8534648418426514,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 399,
+    "prompt_tokens": 362,
+    "completion_tokens": 37
+  },
+  {
+    "keyword": "수도꼭지",
+    "expanded": [
+      "수도꼭지",
+      "주방",
+      "수도",
+      "생활용품",
+      "배관"
+    ],
+    "total_time_seconds": 0.7719285488128662,
+    "api_latency_seconds": 0.7719285488128662,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 358,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "양치컵",
+    "expanded": [
+      "양치컵",
+      "욕실",
+      "컵",
+      "욕실용품",
+      "위생용품"
+    ],
+    "total_time_seconds": 0.9527664184570312,
+    "api_latency_seconds": 0.9527664184570312,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 395,
+    "prompt_tokens": 358,
+    "completion_tokens": 37
+  },
+  {
+    "keyword": "클리어파일",
+    "expanded": [
+      "클리어파일",
+      "파일",
+      "문구",
+      "서류정리",
+      "사무용품"
+    ],
+    "total_time_seconds": 0.8499593734741211,
+    "api_latency_seconds": 0.8499593734741211,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 390,
+    "prompt_tokens": 358,
+    "completion_tokens": 32
+  },
+  {
+    "keyword": "주방용 타이머",
+    "expanded": [
+      "주방용 타이머",
+      "주방",
+      "타이머",
+      "주방용품",
+      "시간측정"
+    ],
+    "total_time_seconds": 0.8613426685333252,
+    "api_latency_seconds": 0.8613426685333252,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 400,
+    "prompt_tokens": 360,
+    "completion_tokens": 40
+  },
+  {
+    "keyword": "실내화 주머니",
+    "expanded": [
+      "실내화 주머니",
+      "주머니",
+      "신발",
+      "가방",
+      "학생용품",
+      "휴대용"
+    ],
+    "total_time_seconds": 0.9388420581817627,
+    "api_latency_seconds": 0.9388420581817627,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 404,
+    "prompt_tokens": 360,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "핫팩",
+    "expanded": [
+      "핫팩",
+      "겨울",
+      "찜질",
+      "생활용품",
+      "보온"
+    ],
+    "total_time_seconds": 0.869922399520874,
+    "api_latency_seconds": 0.869922399520874,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 379,
+    "prompt_tokens": 358,
+    "completion_tokens": 21
+  },
+  {
+    "keyword": "실내화",
+    "expanded": [
+      "실내화",
+      "거실",
+      "신발",
+      "패션",
+      "편안한"
+    ],
+    "total_time_seconds": 0.9553878307342529,
+    "api_latency_seconds": 0.9553878307342529,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 393,
+    "prompt_tokens": 358,
+    "completion_tokens": 35
+  },
+  {
+    "keyword": "립밤",
+    "expanded": [
+      "립밤",
+      "입술",
+      "밤",
+      "화장품",
+      "보습"
+    ],
+    "total_time_seconds": 0.8487379550933838,
+    "api_latency_seconds": 0.8487379550933838,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 378,
+    "prompt_tokens": 358,
+    "completion_tokens": 20
+  },
+  {
+    "keyword": "장바구니",
+    "expanded": [
+      "장바구니",
+      "마트",
+      "바구니",
+      "생활용품",
+      "수납",
+      "정리"
+    ],
+    "total_time_seconds": 0.96285080909729,
+    "api_latency_seconds": 0.9619004726409912,
+    "processing_overhead_seconds": 0.0009503364562988281,
+    "total_tokens": 401,
+    "prompt_tokens": 359,
+    "completion_tokens": 42
+  },
+  {
+    "keyword": "양면테이프",
+    "expanded": [
+      "양면테이프",
+      "테이프",
+      "접착",
+      "사무용품",
+      "다용도",
+      "접착제"
+    ],
+    "total_time_seconds": 1.0434138774871826,
+    "api_latency_seconds": 1.0431489944458008,
+    "processing_overhead_seconds": 0.00026488304138183594,
+    "total_tokens": 401,
+    "prompt_tokens": 360,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "하수구 뚫는 세제",
+    "expanded": [
+      "하수구 뚫는 세제",
+      "하수구",
+      "세제",
+      "청소용품",
+      "뚫는세제"
+    ],
+    "total_time_seconds": 0.9491026401519775,
+    "api_latency_seconds": 0.9491026401519775,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 402,
+    "prompt_tokens": 363,
+    "completion_tokens": 39
+  },
+  {
+    "keyword": "부탄가스",
+    "expanded": [
+      "부탄가스",
+      "가스",
+      "캠핑용품",
+      "취사",
+      "연료"
+    ],
+    "total_time_seconds": 0.9616954326629639,
+    "api_latency_seconds": 0.9616954326629639,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 396,
+    "prompt_tokens": 359,
+    "completion_tokens": 37
+  },
+  {
+    "keyword": "냄비선반",
+    "expanded": [
+      "냄비선반",
+      "주방",
+      "선반",
+      "주방용품",
+      "정리",
+      "수납"
+    ],
+    "total_time_seconds": 0.8704526424407959,
+    "api_latency_seconds": 0.8704526424407959,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 397,
+    "prompt_tokens": 360,
+    "completion_tokens": 37
+  },
+  {
+    "keyword": "보풀 제거기",
+    "expanded": [
+      "보풀 제거기",
+      "옷",
+      "제거기",
+      "청소용품",
+      "보풀제거"
+    ],
+    "total_time_seconds": 0.8583133220672607,
+    "api_latency_seconds": 0.8583133220672607,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 398,
+    "prompt_tokens": 359,
+    "completion_tokens": 39
+  },
+  {
+    "keyword": "유리창 닦이",
+    "expanded": [
+      "유리창 닦이",
+      "유리창",
+      "청소 도구",
+      "청소용품",
+      "창문 닦이",
+      "청소"
+    ],
+    "total_time_seconds": 0.858384370803833,
+    "api_latency_seconds": 0.858384370803833,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 396,
+    "prompt_tokens": 360,
+    "completion_tokens": 36
+  },
+  {
+    "keyword": "인테리어 소품",
+    "expanded": [
+      "인테리어 소품",
+      "장식",
+      "소품",
+      "인테리어",
+      "장식용"
+    ],
+    "total_time_seconds": 0.8566312789916992,
+    "api_latency_seconds": 0.8566312789916992,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 385,
+    "prompt_tokens": 360,
+    "completion_tokens": 25
+  },
+  {
+    "keyword": "스트레스 해소 용품",
+    "expanded": [
+      "스트레스 해소 용품",
+      "스트레스 해소",
+      "해소 용품",
+      "생활용품",
+      "팬시",
+      "선물"
+    ],
+    "total_time_seconds": 1.060805082321167,
+    "api_latency_seconds": 1.060805082321167,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 403,
+    "prompt_tokens": 361,
+    "completion_tokens": 42
+  },
+  {
+    "keyword": "바구니",
+    "expanded": [
+      "바구니",
+      "정리",
+      "수납",
+      "다용도",
+      "정리용품",
+      "수납용품"
+    ],
+    "total_time_seconds": 1.0516431331634521,
+    "api_latency_seconds": 1.0516431331634521,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 403,
+    "prompt_tokens": 358,
+    "completion_tokens": 45
+  },
+  {
+    "keyword": "비닐 매트",
+    "expanded": [
+      "비닐 매트",
+      "매트",
+      "바닥",
+      "생활용품",
+      "방수"
+    ],
+    "total_time_seconds": 0.9479219913482666,
+    "api_latency_seconds": 0.9466376304626465,
+    "processing_overhead_seconds": 0.0012843608856201172,
+    "total_tokens": 390,
+    "prompt_tokens": 359,
+    "completion_tokens": 31
+  },
+  {
+    "keyword": "신발 탈취제",
+    "expanded": [
+      "신발 탈취제",
+      "신발",
+      "탈취제",
+      "방향제",
+      "탈취",
+      "냄새 제거"
+    ],
+    "total_time_seconds": 0.9509463310241699,
+    "api_latency_seconds": 0.948699951171875,
+    "processing_overhead_seconds": 0.002246379852294922,
+    "total_tokens": 405,
+    "prompt_tokens": 360,
+    "completion_tokens": 45
+  },
+  {
+    "keyword": "휴지케이스",
+    "expanded": [
+      "휴지케이스",
+      "휴지",
+      "케이스",
+      "생활용품",
+      "정리"
+    ],
+    "total_time_seconds": 0.8517825603485107,
+    "api_latency_seconds": 0.8517825603485107,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 382,
+    "prompt_tokens": 359,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "종이 쇼핑백",
+    "expanded": [
+      "종이 쇼핑백",
+      "쇼핑백",
+      "가방",
+      "포장용품",
+      "종이"
+    ],
+    "total_time_seconds": 0.955679178237915,
+    "api_latency_seconds": 0.955679178237915,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 399,
+    "prompt_tokens": 360,
+    "completion_tokens": 39
+  },
+  {
+    "keyword": "먼지 제거 스프레이",
+    "expanded": [
+      "먼지 제거 스프레이",
+      "스프레이",
+      "청소용품",
+      "세척",
+      "청소"
+    ],
+    "total_time_seconds": 0.8570096492767334,
+    "api_latency_seconds": 0.8570096492767334,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 386,
+    "prompt_tokens": 360,
+    "completion_tokens": 26
+  },
+  {
+    "keyword": "소음 방지 캡",
+    "expanded": [
+      "소음 방지 캡",
+      "가구",
+      "캡",
+      "인테리어",
+      "소음방지"
+    ],
+    "total_time_seconds": 1.1605186462402344,
+    "api_latency_seconds": 1.1595706939697266,
+    "processing_overhead_seconds": 0.0009479522705078125,
+    "total_tokens": 395,
+    "prompt_tokens": 361,
+    "completion_tokens": 34
+  },
+  {
+    "keyword": "수건걸이",
+    "expanded": [
+      "수건걸이",
+      "욕실",
+      "걸이",
+      "수납용품",
+      "수건"
+    ],
+    "total_time_seconds": 1.0279591083526611,
+    "api_latency_seconds": 1.0279591083526611,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 391,
+    "prompt_tokens": 359,
+    "completion_tokens": 32
+  },
+  {
+    "keyword": "덧신",
+    "expanded": [
+      "덧신",
+      "신발",
+      "패션",
+      "양말"
+    ],
+    "total_time_seconds": 0.8665363788604736,
+    "api_latency_seconds": 0.8660252094268799,
+    "processing_overhead_seconds": 0.00051116943359375,
+    "total_tokens": 374,
+    "prompt_tokens": 358,
+    "completion_tokens": 16
+  },
+  {
+    "keyword": "도시락틀",
+    "expanded": [
+      "도시락틀",
+      "도시락",
+      "틀",
+      "주방용품",
+      "데코레이션"
+    ],
+    "total_time_seconds": 0.8668162822723389,
+    "api_latency_seconds": 0.8668162822723389,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 395,
+    "prompt_tokens": 358,
+    "completion_tokens": 37
+  },
+  {
+    "keyword": "안전 콘센트 덮개",
+    "expanded": [
+      "안전 콘센트 덮개",
+      "콘센트 덮개",
+      "덮개",
+      "안전용품",
+      "안전",
+      "유아",
+      "어린이"
+    ],
+    "total_time_seconds": 0.9485652446746826,
+    "api_latency_seconds": 0.9485652446746826,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 403,
+    "prompt_tokens": 362,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "압축팩",
+    "expanded": [
+      "압축팩",
+      "옷 정리",
+      "정리",
+      "수납",
+      "여행용품",
+      "의류정리"
+    ],
+    "total_time_seconds": 1.056222915649414,
+    "api_latency_seconds": 1.053619146347046,
+    "processing_overhead_seconds": 0.002603769302368164,
+    "total_tokens": 401,
+    "prompt_tokens": 358,
+    "completion_tokens": 43
+  },
+  {
+    "keyword": "빨래집게",
+    "expanded": [
+      "빨래집게",
+      "세탁",
+      "집게",
+      "세탁용품",
+      "고정"
+    ],
+    "total_time_seconds": 1.0327200889587402,
+    "api_latency_seconds": 1.0327200889587402,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 396,
+    "prompt_tokens": 359,
+    "completion_tokens": 37
+  },
+  {
+    "keyword": "차량용 충전 잭",
+    "expanded": [
+      "차량용 충전 잭",
+      "차량",
+      "충전 잭",
+      "잭",
+      "차량용품",
+      "디지털",
+      "충전"
+    ],
+    "total_time_seconds": 0.9550774097442627,
+    "api_latency_seconds": 0.9550774097442627,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 397,
+    "prompt_tokens": 361,
+    "completion_tokens": 36
+  },
+  {
+    "keyword": "컵받침",
+    "expanded": [
+      "컵받침",
+      "식탁",
+      "컵",
+      "주방용품",
+      "미끄럼방지",
+      "테이블매트"
+    ],
+    "total_time_seconds": 0.9639043807983398,
+    "api_latency_seconds": 0.9639043807983398,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 390,
+    "prompt_tokens": 359,
+    "completion_tokens": 31
+  },
+  {
+    "keyword": "발뒤꿈치 미는 거",
+    "expanded": [
+      "발뒤꿈치 미는 거",
+      "발",
+      "미는 도구",
+      "뷰티",
+      "풋케어"
+    ],
+    "total_time_seconds": 0.9464895725250244,
+    "api_latency_seconds": 0.9464895725250244,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 402,
+    "prompt_tokens": 362,
+    "completion_tokens": 40
+  },
+  {
+    "keyword": "캠핑용 조명",
+    "expanded": [
+      "캠핑용 조명",
+      "캠핑",
+      "조명",
+      "캠핑용품",
+      "야외용품"
+    ],
+    "total_time_seconds": 1.042527675628662,
+    "api_latency_seconds": 1.042527675628662,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 400,
+    "prompt_tokens": 360,
+    "completion_tokens": 40
+  },
+  {
+    "keyword": "모서리 보호대",
+    "expanded": [
+      "모서리 보호대",
+      "가구",
+      "보호대",
+      "안전용품",
+      "보호"
+    ],
+    "total_time_seconds": 0.9533178806304932,
+    "api_latency_seconds": 0.9523100852966309,
+    "processing_overhead_seconds": 0.0010077953338623047,
+    "total_tokens": 394,
+    "prompt_tokens": 360,
+    "completion_tokens": 34
+  },
+  {
+    "keyword": "생활용품",
+    "expanded": [
+      "생활용품"
+    ],
+    "total_time_seconds": 0.8602087497711182,
+    "api_latency_seconds": 0.8601405620574951,
+    "processing_overhead_seconds": 6.818771362304688e-05,
+    "total_tokens": 363,
+    "prompt_tokens": 358,
+    "completion_tokens": 5
+  },
+  {
+    "keyword": "수건",
+    "expanded": [
+      "수건",
+      "욕실",
+      "수건",
+      "생활용품",
+      "부드러운",
+      "흡수성 좋은"
+    ],
+    "total_time_seconds": 0.861414909362793,
+    "api_latency_seconds": 0.86031174659729,
+    "processing_overhead_seconds": 0.0011031627655029297,
+    "total_tokens": 386,
+    "prompt_tokens": 357,
+    "completion_tokens": 29
+  },
+  {
+    "keyword": "재단 매트",
+    "expanded": [
+      "재단 매트",
+      "책상",
+      "매트",
+      "문구",
+      "사무용품",
+      "DIY",
+      "공예"
+    ],
+    "total_time_seconds": 1.0477800369262695,
+    "api_latency_seconds": 1.0477800369262695,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 400,
+    "prompt_tokens": 359,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "솔",
+    "expanded": [
+      "솔",
+      "청소",
+      "청소용품",
+      "브러쉬"
+    ],
+    "total_time_seconds": 0.8549926280975342,
+    "api_latency_seconds": 0.8549926280975342,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 374,
+    "prompt_tokens": 356,
+    "completion_tokens": 18
+  },
+  {
+    "keyword": "전자레인지용 덮개",
+    "expanded": [
+      "전자레인지용 덮개",
+      "전자레인지",
+      "덮개",
+      "주방용품",
+      "식품보관"
+    ],
+    "total_time_seconds": 0.8600413799285889,
+    "api_latency_seconds": 0.8600413799285889,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 392,
+    "prompt_tokens": 362,
+    "completion_tokens": 30
+  },
+  {
+    "keyword": "찍찍이",
+    "expanded": [
+      "찍찍이",
+      "다용도",
+      "생활용품",
+      "잡화",
+      "고정"
+    ],
+    "total_time_seconds": 0.8678512573242188,
+    "api_latency_seconds": 0.8678512573242188,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 358,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "패치",
+    "expanded": [
+      "패치",
+      "의류",
+      "수선용품",
+      "DIY"
+    ],
+    "total_time_seconds": 0.9511337280273438,
+    "api_latency_seconds": 0.9511337280273438,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 374,
+    "prompt_tokens": 357,
+    "completion_tokens": 17
+  },
+  {
+    "keyword": "물감 팔레트",
+    "expanded": [
+      "물감 팔레트",
+      "팔레트",
+      "미술용품",
+      "그림",
+      "물감"
+    ],
+    "total_time_seconds": 0.862602710723877,
+    "api_latency_seconds": 0.862602710723877,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 386,
+    "prompt_tokens": 360,
+    "completion_tokens": 26
+  },
+  {
+    "keyword": "쓰레기통",
+    "expanded": [
+      "쓰레기통",
+      "주방",
+      "쓰레기통",
+      "생활용품",
+      "정리"
+    ],
+    "total_time_seconds": 0.8552794456481934,
+    "api_latency_seconds": 0.8552794456481934,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 384,
+    "prompt_tokens": 359,
+    "completion_tokens": 25
+  },
+  {
+    "keyword": "물병 고정대",
+    "expanded": [
+      "물병 고정대",
+      "물병",
+      "고정대",
+      "수납용품",
+      "정리"
+    ],
+    "total_time_seconds": 0.9525165557861328,
+    "api_latency_seconds": 0.9525165557861328,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 394,
+    "prompt_tokens": 360,
+    "completion_tokens": 34
+  },
+  {
+    "keyword": "계절용품",
+    "expanded": [
+      "계절용품",
+      "시즌",
+      "용품",
+      "생활",
+      "인테리어"
+    ],
+    "total_time_seconds": 0.8701355457305908,
+    "api_latency_seconds": 0.8701355457305908,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 359,
+    "completion_tokens": 22
+  },
+  {
+    "keyword": "동전지갑",
+    "expanded": [
+      "동전지갑",
+      "지갑",
+      "악세서리",
+      "동전 보관"
+    ],
+    "total_time_seconds": 0.9616248607635498,
+    "api_latency_seconds": 0.9616248607635498,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 388,
+    "prompt_tokens": 359,
+    "completion_tokens": 29
+  },
+  {
+    "keyword": "다이어리 펀치",
+    "expanded": [
+      "다이어리 펀치",
+      "다이어리",
+      "펀치",
+      "문구",
+      "사무용품",
+      "제본"
+    ],
+    "total_time_seconds": 0.9536099433898926,
+    "api_latency_seconds": 0.9536099433898926,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 401,
+    "prompt_tokens": 361,
+    "completion_tokens": 40
+  },
+  {
+    "keyword": "화분망",
+    "expanded": [
+      "화분망",
+      "화분",
+      "망",
+      "원예용품",
+      "식물",
+      "보호망"
+    ],
+    "total_time_seconds": 0.9523274898529053,
+    "api_latency_seconds": 0.9523274898529053,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 394,
+    "prompt_tokens": 358,
+    "completion_tokens": 36
+  },
+  {
+    "keyword": "플라스틱 바구니",
+    "expanded": [
+      "플라스틱 바구니",
+      "바구니",
+      "정리용품",
+      "수납",
+      "플라스틱"
+    ],
+    "total_time_seconds": 0.9493708610534668,
+    "api_latency_seconds": 0.9493708610534668,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 397,
+    "prompt_tokens": 361,
+    "completion_tokens": 36
+  },
+  {
+    "keyword": "욕실 청소용 솔",
+    "expanded": [
+      "욕실 청소용 솔",
+      "청소용 솔",
+      "솔",
+      "욕실",
+      "청소용품",
+      "욕실용품",
+      "청소솔"
+    ],
+    "total_time_seconds": 1.0472040176391602,
+    "api_latency_seconds": 1.0472040176391602,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 409,
+    "prompt_tokens": 361,
+    "completion_tokens": 48
+  },
+  {
+    "keyword": "클레이",
+    "expanded": [
+      "클레이",
+      "점토",
+      "미술용품",
+      "만들기"
+    ],
+    "total_time_seconds": 0.7643051147460938,
+    "api_latency_seconds": 0.7633066177368164,
+    "processing_overhead_seconds": 0.0009984970092773438,
+    "total_tokens": 376,
+    "prompt_tokens": 357,
+    "completion_tokens": 19
+  },
+  {
+    "keyword": "병",
+    "expanded": [
+      "병",
+      "주방",
+      "용기",
+      "주방용품",
+      "보관"
+    ],
+    "total_time_seconds": 0.8592305183410645,
+    "api_latency_seconds": 0.8592305183410645,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 377,
+    "prompt_tokens": 356,
+    "completion_tokens": 21
+  },
+  {
+    "keyword": "자동차 바퀴 휠 닦는 거",
+    "expanded": [
+      "자동차 바퀴 휠 닦는 거",
+      "자동차",
+      "바퀴 휠 닦는 거",
+      "청소용품",
+      "세차용품",
+      "휠 청소",
+      "자동차 용품"
+    ],
+    "total_time_seconds": 1.0533292293548584,
+    "api_latency_seconds": 1.0533292293548584,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 427,
+    "prompt_tokens": 364,
+    "completion_tokens": 63
+  },
+  {
+    "keyword": "상토",
+    "expanded": [
+      "상토",
+      "원예",
+      "흙",
+      "원예용품",
+      "배양토"
+    ],
+    "total_time_seconds": 0.8665647506713867,
+    "api_latency_seconds": 0.8665647506713867,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 379,
+    "prompt_tokens": 357,
+    "completion_tokens": 22
+  },
+  {
+    "keyword": "가구 긁힘 보수펜",
+    "expanded": [
+      "가구 긁힘 보수펜",
+      "가구",
+      "보수펜",
+      "생활용품",
+      "긁힘방지",
+      "보수"
+    ],
+    "total_time_seconds": 0.9488861560821533,
+    "api_latency_seconds": 0.9488861560821533,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 406,
+    "prompt_tokens": 363,
+    "completion_tokens": 43
+  },
+  {
+    "keyword": "서랍 잠금장치",
+    "expanded": [
+      "서랍 잠금장치",
+      "서랍",
+      "잠금장치",
+      "가구",
+      "안전용품",
+      "잠금"
+    ],
+    "total_time_seconds": 1.0414643287658691,
+    "api_latency_seconds": 1.0414199829101562,
+    "processing_overhead_seconds": 4.4345855712890625e-05,
+    "total_tokens": 408,
+    "prompt_tokens": 361,
+    "completion_tokens": 47
+  },
+  {
+    "keyword": "샤워기 헤드",
+    "expanded": [
+      "샤워기 헤드",
+      "샤워기",
+      "헤드",
+      "욕실용품",
+      "샤워"
+    ],
+    "total_time_seconds": 0.9644215106964111,
+    "api_latency_seconds": 0.9644215106964111,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 394,
+    "prompt_tokens": 360,
+    "completion_tokens": 34
+  },
+  {
+    "keyword": "빨래 바구니",
+    "expanded": [
+      "빨래 바구니",
+      "세탁실",
+      "바구니",
+      "세탁용품",
+      "수납"
+    ],
+    "total_time_seconds": 1.046860694885254,
+    "api_latency_seconds": 1.046860694885254,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 400,
+    "prompt_tokens": 360,
+    "completion_tokens": 40
+  },
+  {
+    "keyword": "미끄럼방지패드",
+    "expanded": [
+      "미끄럼방지패드",
+      "미끄럼방지",
+      "패드",
+      "안전용품",
+      "미끄럼 방지"
+    ],
+    "total_time_seconds": 0.9618659019470215,
+    "api_latency_seconds": 0.9618659019470215,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 403,
+    "prompt_tokens": 362,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "얼룩 제거 펜",
+    "expanded": [
+      "얼룩 제거 펜",
+      "얼룩 제거",
+      "펜",
+      "문구",
+      "사무용품",
+      "얼룩제거용"
+    ],
+    "total_time_seconds": 1.0336322784423828,
+    "api_latency_seconds": 1.0336322784423828,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 401,
+    "prompt_tokens": 360,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "기름종이",
+    "expanded": [
+      "기름종이",
+      "얼굴",
+      "종이",
+      "미용소품",
+      "기름 흡수"
+    ],
+    "total_time_seconds": 0.9020349979400635,
+    "api_latency_seconds": 0.9020349979400635,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 384,
+    "prompt_tokens": 358,
+    "completion_tokens": 26
+  },
+  {
+    "keyword": "냄새 방지 용품",
+    "expanded": [
+      "냄새 방지 용품",
+      "냄새 제거",
+      "탈취제",
+      "생활용품",
+      "냄새 방지",
+      "악취 제거"
+    ],
+    "total_time_seconds": 0.902799129486084,
+    "api_latency_seconds": 0.902799129486084,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 396,
+    "prompt_tokens": 362,
+    "completion_tokens": 34
+  },
+  {
+    "keyword": "스테인리스 빨대",
+    "expanded": [
+      "스테인리스 빨대",
+      "빨대",
+      "주방용품",
+      "스테인리스",
+      "재사용 가능"
+    ],
+    "total_time_seconds": 0.955817461013794,
+    "api_latency_seconds": 0.955817461013794,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 400,
+    "prompt_tokens": 360,
+    "completion_tokens": 40
+  },
+  {
+    "keyword": "고정하는 거",
+    "expanded": [
+      "고정하는 거",
+      "고정",
+      "잡화"
+    ],
+    "total_time_seconds": 0.7745587825775146,
+    "api_latency_seconds": 0.7745587825775146,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 379,
+    "prompt_tokens": 359,
+    "completion_tokens": 20
+  },
+  {
+    "keyword": "간식통",
+    "expanded": [
+      "간식통",
+      "주방",
+      "통",
+      "주방용품",
+      "보관통"
+    ],
+    "total_time_seconds": 0.959951639175415,
+    "api_latency_seconds": 0.9595410823822021,
+    "processing_overhead_seconds": 0.0004105567932128906,
+    "total_tokens": 389,
+    "prompt_tokens": 358,
+    "completion_tokens": 31
+  },
+  {
+    "keyword": "소리",
+    "expanded": [
+      "소리"
+    ],
+    "total_time_seconds": 0.6826615333557129,
+    "api_latency_seconds": 0.6826615333557129,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 361,
+    "prompt_tokens": 357,
+    "completion_tokens": 4
+  },
+  {
+    "keyword": "방충망",
+    "expanded": [
+      "방충망",
+      "창문",
+      "망",
+      "생활용품",
+      "해충차단"
+    ],
+    "total_time_seconds": 0.8594231605529785,
+    "api_latency_seconds": 0.858405590057373,
+    "processing_overhead_seconds": 0.0010175704956054688,
+    "total_tokens": 381,
+    "prompt_tokens": 358,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "캐리어 이름",
+    "expanded": [
+      "캐리어 이름",
+      "여행",
+      "이름 스티커",
+      "여행용품",
+      "네임택"
+    ],
+    "total_time_seconds": 0.7575042247772217,
+    "api_latency_seconds": 0.7575042247772217,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 383,
+    "prompt_tokens": 358,
+    "completion_tokens": 25
+  },
+  {
+    "keyword": "슬리퍼 주머니",
+    "expanded": [
+      "슬리퍼 주머니",
+      "신발",
+      "주머니",
+      "정리용품",
+      "수납"
+    ],
+    "total_time_seconds": 0.9482953548431396,
+    "api_latency_seconds": 0.9482953548431396,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 398,
+    "prompt_tokens": 360,
+    "completion_tokens": 38
+  },
+  {
+    "keyword": "수납함",
+    "expanded": [
+      "수납함",
+      "정리함",
+      "수납",
+      "정리",
+      "보관",
+      "다용도"
+    ],
+    "total_time_seconds": 0.8569986820220947,
+    "api_latency_seconds": 0.8560068607330322,
+    "processing_overhead_seconds": 0.0009918212890625,
+    "total_tokens": 385,
+    "prompt_tokens": 358,
+    "completion_tokens": 27
+  },
+  {
+    "keyword": "커튼",
+    "expanded": [
+      "커튼",
+      "창문",
+      "장식",
+      "인테리어",
+      "홈데코",
+      "햇빛 가리개"
+    ],
+    "total_time_seconds": 0.8670737743377686,
+    "api_latency_seconds": 0.8670737743377686,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 386,
+    "prompt_tokens": 357,
+    "completion_tokens": 29
+  },
+  {
+    "keyword": "먼지 제거제",
+    "expanded": [
+      "먼지 제거제",
+      "청소",
+      "제거제",
+      "생활용품",
+      "먼지 제거"
+    ],
+    "total_time_seconds": 0.9557681083679199,
+    "api_latency_seconds": 0.9557681083679199,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 397,
+    "prompt_tokens": 359,
+    "completion_tokens": 38
+  },
+  {
+    "keyword": "아기들 칫솔",
+    "expanded": [
+      "아기들 칫솔",
+      "아기 칫솔",
+      "칫솔",
+      "유아용품",
+      "구강 위생"
+    ],
+    "total_time_seconds": 0.9757840633392334,
+    "api_latency_seconds": 0.9757840633392334,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 400,
+    "prompt_tokens": 361,
+    "completion_tokens": 39
+  },
+  {
+    "keyword": "리빙박스",
+    "expanded": [
+      "리빙박스",
+      "정리",
+      "수납",
+      "수납용품",
+      "정리함",
+      "옷 정리",
+      "다용도"
+    ],
+    "total_time_seconds": 1.1380341053009033,
+    "api_latency_seconds": 1.1380341053009033,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 410,
+    "prompt_tokens": 359,
+    "completion_tokens": 51
+  },
+  {
+    "keyword": "아이폰 충전기",
+    "expanded": [
+      "아이폰 충전기",
+      "아이폰",
+      "충전기",
+      "디지털",
+      "핸드폰 용품",
+      "충전"
+    ],
+    "total_time_seconds": 0.8582358360290527,
+    "api_latency_seconds": 0.8573079109191895,
+    "processing_overhead_seconds": 0.0009279251098632812,
+    "total_tokens": 391,
+    "prompt_tokens": 360,
+    "completion_tokens": 31
+  },
+  {
+    "keyword": "빨래 주머니",
+    "expanded": [
+      "빨래 주머니",
+      "세탁",
+      "주머니",
+      "세탁용품",
+      "정리"
+    ],
+    "total_time_seconds": 0.7440788745880127,
+    "api_latency_seconds": 0.7440788745880127,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 383,
+    "prompt_tokens": 359,
+    "completion_tokens": 24
+  },
+  {
+    "keyword": "돗자리",
+    "expanded": [
+      "돗자리",
+      "야외",
+      "돗자리",
+      "캠핑용품",
+      "휴대용"
+    ],
+    "total_time_seconds": 0.8584043979644775,
+    "api_latency_seconds": 0.8584043979644775,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 358,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "여행용품",
+    "expanded": [
+      "여행용품",
+      "여행",
+      "용품",
+      "생활용품",
+      "휴대용"
+    ],
+    "total_time_seconds": 0.8562445640563965,
+    "api_latency_seconds": 0.8562445640563965,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 380,
+    "prompt_tokens": 358,
+    "completion_tokens": 22
+  },
+  {
+    "keyword": "가죽 가방 닦는 크림",
+    "expanded": [
+      "가죽 가방 닦는 크림",
+      "가죽",
+      "가방",
+      "크림",
+      "가죽관리용품",
+      "청소용품",
+      "세척",
+      "광택"
+    ],
+    "total_time_seconds": 1.041827917098999,
+    "api_latency_seconds": 1.041827917098999,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 427,
+    "prompt_tokens": 364,
+    "completion_tokens": 63
+  },
+  {
+    "keyword": "방충망 스티커",
+    "expanded": [
+      "방충망 스티커",
+      "방충망",
+      "스티커",
+      "생활용품",
+      "벌레 퇴치"
+    ],
+    "total_time_seconds": 0.9606831073760986,
+    "api_latency_seconds": 0.9606831073760986,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 402,
+    "prompt_tokens": 361,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "우산 커버",
+    "expanded": [
+      "우산 커버",
+      "우산",
+      "커버",
+      "장마철용품",
+      "생활용품",
+      "우산정리"
+    ],
+    "total_time_seconds": 1.1379315853118896,
+    "api_latency_seconds": 1.1368741989135742,
+    "processing_overhead_seconds": 0.0010573863983154297,
+    "total_tokens": 400,
+    "prompt_tokens": 359,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "철 수세미",
+    "expanded": [
+      "철 수세미",
+      "주방",
+      "수세미",
+      "청소용품",
+      "녹 제거"
+    ],
+    "total_time_seconds": 1.0453355312347412,
+    "api_latency_seconds": 1.044335126876831,
+    "processing_overhead_seconds": 0.0010004043579101562,
+    "total_tokens": 392,
+    "prompt_tokens": 359,
+    "completion_tokens": 33
+  },
+  {
+    "keyword": "방수테이프",
+    "expanded": [
+      "방수테이프",
+      "테이프",
+      "DIY",
+      "생활용품",
+      "방수"
+    ],
+    "total_time_seconds": 0.8642141819000244,
+    "api_latency_seconds": 0.8642141819000244,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 392,
+    "prompt_tokens": 360,
+    "completion_tokens": 32
+  },
+  {
+    "keyword": "미끄럼 방지 매트",
+    "expanded": [
+      "미끄럼 방지 매트",
+      "미끄럼방지 매트",
+      "매트",
+      "미끄럼방지",
+      "바닥매트",
+      "안전용품"
+    ],
+    "total_time_seconds": 0.8574492931365967,
+    "api_latency_seconds": 0.8574492931365967,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 403,
+    "prompt_tokens": 362,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "동전 건전지",
+    "expanded": [
+      "동전 건전지",
+      "건전지",
+      "전자제품",
+      "배터리"
+    ],
+    "total_time_seconds": 0.9580926895141602,
+    "api_latency_seconds": 0.9579708576202393,
+    "processing_overhead_seconds": 0.00012183189392089844,
+    "total_tokens": 392,
+    "prompt_tokens": 360,
+    "completion_tokens": 32
+  },
+  {
+    "keyword": "신발장 탈취제",
+    "expanded": [
+      "신발장 탈취제",
+      "신발장",
+      "탈취제",
+      "생활용품",
+      "탈취"
+    ],
+    "total_time_seconds": 0.8610239028930664,
+    "api_latency_seconds": 0.8610239028930664,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 396,
+    "prompt_tokens": 361,
+    "completion_tokens": 35
+  },
+  {
+    "keyword": "습기 제거제",
+    "expanded": [
+      "습기 제거제",
+      "습기",
+      "제거제",
+      "생활용품",
+      "습기제거"
+    ],
+    "total_time_seconds": 0.9482438564300537,
+    "api_latency_seconds": 0.9482438564300537,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 398,
+    "prompt_tokens": 359,
+    "completion_tokens": 39
+  },
+  {
+    "keyword": "필수템",
+    "expanded": [
+      "필수템"
+    ],
+    "total_time_seconds": 0.776857852935791,
+    "api_latency_seconds": 0.776857852935791,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 362,
+    "prompt_tokens": 357,
+    "completion_tokens": 5
+  },
+  {
+    "keyword": "빨래 건조대",
+    "expanded": [
+      "빨래 건조대",
+      "건조대",
+      "세탁",
+      "세탁용품",
+      "빨래"
+    ],
+    "total_time_seconds": 0.9414689540863037,
+    "api_latency_seconds": 0.9414689540863037,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 394,
+    "prompt_tokens": 360,
+    "completion_tokens": 34
+  },
+  {
+    "keyword": "우산 물받이",
+    "expanded": [
+      "우산 물받이",
+      "현관",
+      "물받이",
+      "우산",
+      "생활용품",
+      "우산꽂이",
+      "물받침"
+    ],
+    "total_time_seconds": 1.0541613101959229,
+    "api_latency_seconds": 1.0541613101959229,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 406,
+    "prompt_tokens": 360,
+    "completion_tokens": 46
+  },
+  {
+    "keyword": "발매트",
+    "expanded": [
+      "발매트",
+      "현관",
+      "매트",
+      "인테리어",
+      "미끄럼방지"
+    ],
+    "total_time_seconds": 0.8532752990722656,
+    "api_latency_seconds": 0.8532752990722656,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 383,
+    "prompt_tokens": 358,
+    "completion_tokens": 25
+  },
+  {
+    "keyword": "돌돌이 리필",
+    "expanded": [
+      "돌돌이 리필",
+      "돌돌이",
+      "리필",
+      "청소용품",
+      "테이프 클리너"
+    ],
+    "total_time_seconds": 0.8489823341369629,
+    "api_latency_seconds": 0.848242998123169,
+    "processing_overhead_seconds": 0.0007393360137939453,
+    "total_tokens": 390,
+    "prompt_tokens": 360,
+    "completion_tokens": 30
+  },
+  {
+    "keyword": "대시보드커버",
+    "expanded": [
+      "대시보드커버",
+      "자동차",
+      "커버",
+      "자동차용품",
+      "차량용품",
+      "먼지방지",
+      "미끄럼방지"
+    ],
+    "total_time_seconds": 0.9499995708465576,
+    "api_latency_seconds": 0.9499995708465576,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 400,
+    "prompt_tokens": 361,
+    "completion_tokens": 39
+  },
+  {
+    "keyword": "네임 스티커",
+    "expanded": [
+      "네임 스티커",
+      "이름 스티커",
+      "스티커",
+      "문구",
+      "학용품",
+      "라벨",
+      "이름표"
+    ],
+    "total_time_seconds": 1.0468378067016602,
+    "api_latency_seconds": 1.0468378067016602,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 413,
+    "prompt_tokens": 360,
+    "completion_tokens": 53
+  },
+  {
+    "keyword": "옷걸이",
+    "expanded": [
+      "옷걸이",
+      "옷장",
+      "행거",
+      "수납용품",
+      "정리"
+    ],
+    "total_time_seconds": 0.7552707195281982,
+    "api_latency_seconds": 0.7552707195281982,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 358,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "목베개",
+    "expanded": [
+      "목베개",
+      "베개",
+      "휴대용품",
+      "여행용품",
+      "목 보호",
+      "편안함"
+    ],
+    "total_time_seconds": 0.9557952880859375,
+    "api_latency_seconds": 0.9557952880859375,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 396,
+    "prompt_tokens": 358,
+    "completion_tokens": 38
+  },
+  {
+    "keyword": "앞치마",
+    "expanded": [
+      "앞치마",
+      "주방",
+      "의류",
+      "주방용품",
+      "생활용품",
+      "작업복",
+      "요리"
+    ],
+    "total_time_seconds": 1.0485472679138184,
+    "api_latency_seconds": 1.0485472679138184,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 401,
+    "prompt_tokens": 358,
+    "completion_tokens": 43
+  },
+  {
+    "keyword": "연필",
+    "expanded": [
+      "연필",
+      "필기도구",
+      "문구",
+      "학용품",
+      "사무용품"
+    ],
+    "total_time_seconds": 0.8664469718933105,
+    "api_latency_seconds": 0.8664469718933105,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 357,
+    "completion_tokens": 24
+  },
+  {
+    "keyword": "벌레 물린데 바르는 약",
+    "expanded": [
+      "벌레 물린데 바르는 약",
+      "벌레 물린데",
+      "바르는 약",
+      "약",
+      "의약품",
+      "벌레 물림",
+      "가려움 완화"
+    ],
+    "total_time_seconds": 1.0391650199890137,
+    "api_latency_seconds": 1.0391650199890137,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 423,
+    "prompt_tokens": 363,
+    "completion_tokens": 60
+  },
+  {
+    "keyword": "슬리퍼",
+    "expanded": [
+      "슬리퍼",
+      "실내",
+      "신발",
+      "잡화",
+      "편안함"
+    ],
+    "total_time_seconds": 0.7645900249481201,
+    "api_latency_seconds": 0.7645900249481201,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 380,
+    "prompt_tokens": 358,
+    "completion_tokens": 22
+  },
+  {
+    "keyword": "노트북 받침대",
+    "expanded": [
+      "노트북 받침대",
+      "노트북",
+      "받침대",
+      "디지털",
+      "사무용품",
+      "거치대"
+    ],
+    "total_time_seconds": 1.0481109619140625,
+    "api_latency_seconds": 1.0481109619140625,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 401,
+    "prompt_tokens": 359,
+    "completion_tokens": 42
+  },
+  {
+    "keyword": "침대 시트 고정 집게",
+    "expanded": [
+      "침대 시트 고정 집게",
+      "침대",
+      "시트 고정 집게",
+      "집게",
+      "침구",
+      "정리용품",
+      "고정"
+    ],
+    "total_time_seconds": 1.0453791618347168,
+    "api_latency_seconds": 1.0453791618347168,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 413,
+    "prompt_tokens": 363,
+    "completion_tokens": 50
+  },
+  {
+    "keyword": "어항돌",
+    "expanded": [
+      "어항돌",
+      "어항",
+      "돌",
+      "애완용품",
+      "장식"
+    ],
+    "total_time_seconds": 0.8692824840545654,
+    "api_latency_seconds": 0.8692824840545654,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 393,
+    "prompt_tokens": 358,
+    "completion_tokens": 35
+  },
+  {
+    "keyword": "세면도구통",
+    "expanded": [
+      "세면도구통",
+      "세면대",
+      "수납통",
+      "정리용품",
+      "욕실용품",
+      "수납"
+    ],
+    "total_time_seconds": 0.945143461227417,
+    "api_latency_seconds": 0.945143461227417,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 408,
+    "prompt_tokens": 360,
+    "completion_tokens": 48
+  },
+  {
+    "keyword": "색연필통",
+    "expanded": [
+      "색연필통",
+      "책상",
+      "필통",
+      "문구",
+      "정리",
+      "보관"
+    ],
+    "total_time_seconds": 0.9614734649658203,
+    "api_latency_seconds": 0.9614734649658203,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 400,
+    "prompt_tokens": 359,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "전선 정리 타이",
+    "expanded": [
+      "전선 정리 타이",
+      "전선 정리",
+      "타이",
+      "케이블 정리",
+      "정리용품",
+      "다용도",
+      "전선"
+    ],
+    "total_time_seconds": 1.150036096572876,
+    "api_latency_seconds": 1.1490087509155273,
+    "processing_overhead_seconds": 0.0010273456573486328,
+    "total_tokens": 404,
+    "prompt_tokens": 359,
+    "completion_tokens": 45
+  },
+  {
+    "keyword": "핸드폰 거치대",
+    "expanded": [
+      "핸드폰 거치대",
+      "핸드폰",
+      "거치대",
+      "디지털",
+      "핸드폰 용품",
+      "스마트폰",
+      "휴대폰"
+    ],
+    "total_time_seconds": 1.044196367263794,
+    "api_latency_seconds": 1.044196367263794,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 417,
+    "prompt_tokens": 361,
+    "completion_tokens": 56
+  },
+  {
+    "keyword": "고리",
+    "expanded": [
+      "고리",
+      "다용도",
+      "걸이",
+      "수납용품",
+      "정리"
+    ],
+    "total_time_seconds": 0.7648310661315918,
+    "api_latency_seconds": 0.7648310661315918,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 380,
+    "prompt_tokens": 357,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "바지 걸이",
+    "expanded": [
+      "바지 걸이",
+      "옷장",
+      "걸이",
+      "정리용품",
+      "옷걸이",
+      "수납"
+    ],
+    "total_time_seconds": 1.0429573059082031,
+    "api_latency_seconds": 1.0429573059082031,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 403,
+    "prompt_tokens": 359,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "문 스토퍼",
+    "expanded": [
+      "문 스토퍼",
+      "현관",
+      "스토퍼",
+      "안전용품",
+      "문 보호"
+    ],
+    "total_time_seconds": 0.951077938079834,
+    "api_latency_seconds": 0.950078010559082,
+    "processing_overhead_seconds": 0.0009999275207519531,
+    "total_tokens": 392,
+    "prompt_tokens": 359,
+    "completion_tokens": 33
+  },
+  {
+    "keyword": "먼지떨이",
+    "expanded": [
+      "먼지떨이",
+      "청소",
+      "청소용품",
+      "먼지 제거"
+    ],
+    "total_time_seconds": 0.9654755592346191,
+    "api_latency_seconds": 0.9654755592346191,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 391,
+    "prompt_tokens": 359,
+    "completion_tokens": 32
+  },
+  {
+    "keyword": "빨래망",
+    "expanded": [
+      "빨래망",
+      "세탁",
+      "망",
+      "세탁용품",
+      "세탁망"
+    ],
+    "total_time_seconds": 0.7310779094696045,
+    "api_latency_seconds": 0.7300798892974854,
+    "processing_overhead_seconds": 0.0009980201721191406,
+    "total_tokens": 381,
+    "prompt_tokens": 358,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "순간접착제",
+    "expanded": [
+      "순간접착제",
+      "접착제",
+      "문구",
+      "사무용품",
+      "공예용품",
+      "접착"
+    ],
+    "total_time_seconds": 0.9956870079040527,
+    "api_latency_seconds": 0.9956870079040527,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 400,
+    "prompt_tokens": 359,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "탈취제",
+    "expanded": [
+      "탈취제",
+      "냄새 제거제",
+      "방향제",
+      "생활용품",
+      "탈취",
+      "냄새 제거",
+      "향기"
+    ],
+    "total_time_seconds": 0.9562861919403076,
+    "api_latency_seconds": 0.9562861919403076,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 392,
+    "prompt_tokens": 358,
+    "completion_tokens": 34
+  },
+  {
+    "keyword": "멀티탭",
+    "expanded": [
+      "멀티탭",
+      "전기",
+      "탭",
+      "생활용품",
+      "전자기기",
+      "콘센트"
+    ],
+    "total_time_seconds": 0.9520688056945801,
+    "api_latency_seconds": 0.9520688056945801,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 385,
+    "prompt_tokens": 358,
+    "completion_tokens": 27
+  },
+  {
+    "keyword": "이름표 테이프",
+    "expanded": [
+      "이름표 테이프",
+      "이름표",
+      "테이프",
+      "사무용품",
+      "문구",
+      "접착",
+      "표시"
+    ],
+    "total_time_seconds": 1.0626859664916992,
+    "api_latency_seconds": 1.0626859664916992,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 406,
+    "prompt_tokens": 360,
+    "completion_tokens": 46
+  },
+  {
+    "keyword": "싱크대 배수구 거름망",
+    "expanded": [
+      "싱크대 배수구 거름망",
+      "싱크대",
+      "거름망",
+      "주방용품",
+      "배수구",
+      "청결"
+    ],
+    "total_time_seconds": 0.9633660316467285,
+    "api_latency_seconds": 0.9633660316467285,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 409,
+    "prompt_tokens": 364,
+    "completion_tokens": 45
+  },
+  {
+    "keyword": "와인 오프너",
+    "expanded": [
+      "와인 오프너",
+      "주방",
+      "오프너",
+      "주방용품",
+      "병따개"
+    ],
+    "total_time_seconds": 0.883765697479248,
+    "api_latency_seconds": 0.883765697479248,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 395,
+    "prompt_tokens": 360,
+    "completion_tokens": 35
+  },
+  {
+    "keyword": "건전지",
+    "expanded": [
+      "건전지",
+      "전자제품",
+      "배터리"
+    ],
+    "total_time_seconds": 0.7662661075592041,
+    "api_latency_seconds": 0.7653024196624756,
+    "processing_overhead_seconds": 0.0009636878967285156,
+    "total_tokens": 372,
+    "prompt_tokens": 358,
+    "completion_tokens": 14
+  },
+  {
+    "keyword": "선풍기",
+    "expanded": [
+      "선풍기",
+      "여름",
+      "가전제품",
+      "쿨",
+      "냉방"
+    ],
+    "total_time_seconds": 0.7780234813690186,
+    "api_latency_seconds": 0.7770271301269531,
+    "processing_overhead_seconds": 0.0009963512420654297,
+    "total_tokens": 379,
+    "prompt_tokens": 358,
+    "completion_tokens": 21
+  },
+  {
+    "keyword": "자전거 바람 넣는 기계",
+    "expanded": [
+      "자전거 바람 넣는 기계",
+      "자전거",
+      "바람 넣는 기계",
+      "기계",
+      "자전거 용품",
+      "바람 주입"
+    ],
+    "total_time_seconds": 1.0458316802978516,
+    "api_latency_seconds": 1.0458316802978516,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 408,
+    "prompt_tokens": 362,
+    "completion_tokens": 46
+  },
+  {
+    "keyword": "신발건조대",
+    "expanded": [
+      "신발건조대",
+      "현관",
+      "건조대",
+      "수납용품",
+      "신발 정리"
+    ],
+    "total_time_seconds": 0.876378059387207,
+    "api_latency_seconds": 0.876378059387207,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 387,
+    "prompt_tokens": 360,
+    "completion_tokens": 27
+  },
+  {
+    "keyword": "안전용품",
+    "expanded": [
+      "안전용품",
+      "안전",
+      "용품",
+      "안전/보안",
+      "보호"
+    ],
+    "total_time_seconds": 0.8547229766845703,
+    "api_latency_seconds": 0.8547229766845703,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 383,
+    "prompt_tokens": 358,
+    "completion_tokens": 25
+  },
+  {
+    "keyword": "여권케이스",
+    "expanded": [
+      "여권케이스",
+      "여행",
+      "케이스",
+      "여행용품",
+      "여권"
+    ],
+    "total_time_seconds": 0.8895728588104248,
+    "api_latency_seconds": 0.8893632888793945,
+    "processing_overhead_seconds": 0.00020956993103027344,
+    "total_tokens": 381,
+    "prompt_tokens": 359,
+    "completion_tokens": 22
+  },
+  {
+    "keyword": "세탁망",
+    "expanded": [
+      "세탁망",
+      "세탁",
+      "망",
+      "세탁용품",
+      "세탁물 보호",
+      "빨래망"
+    ],
+    "total_time_seconds": 0.9362258911132812,
+    "api_latency_seconds": 0.935230016708374,
+    "processing_overhead_seconds": 0.0009958744049072266,
+    "total_tokens": 402,
+    "prompt_tokens": 358,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "걸이",
+    "expanded": [
+      "걸이",
+      "옷걸이",
+      "다용도 걸이",
+      "정리용품",
+      "수납용품",
+      "고리"
+    ],
+    "total_time_seconds": 0.95815110206604,
+    "api_latency_seconds": 0.95815110206604,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 404,
+    "prompt_tokens": 357,
+    "completion_tokens": 47
+  },
+  {
+    "keyword": "우산",
+    "expanded": [
+      "우산",
+      "비",
+      "우산",
+      "패션잡화",
+      "비 피하기"
+    ],
+    "total_time_seconds": 0.8539745807647705,
+    "api_latency_seconds": 0.8529815673828125,
+    "processing_overhead_seconds": 0.0009930133819580078,
+    "total_tokens": 379,
+    "prompt_tokens": 357,
+    "completion_tokens": 22
+  },
+  {
+    "keyword": "안전덮개",
+    "expanded": [
+      "안전덮개",
+      "덮개",
+      "안전용품"
+    ],
+    "total_time_seconds": 0.7710773944854736,
+    "api_latency_seconds": 0.770327091217041,
+    "processing_overhead_seconds": 0.0007503032684326172,
+    "total_tokens": 374,
+    "prompt_tokens": 358,
+    "completion_tokens": 16
+  },
+  {
+    "keyword": "헤어밴드",
+    "expanded": [
+      "헤어밴드",
+      "머리",
+      "헤어 액세서리",
+      "액세서리",
+      "패션",
+      "머리띠"
+    ],
+    "total_time_seconds": 0.9456565380096436,
+    "api_latency_seconds": 0.9452316761016846,
+    "processing_overhead_seconds": 0.0004248619079589844,
+    "total_tokens": 391,
+    "prompt_tokens": 359,
+    "completion_tokens": 32
+  },
+  {
+    "keyword": "정리용 통",
+    "expanded": [
+      "정리용 통",
+      "정리",
+      "수납",
+      "정리용품",
+      "수납용품",
+      "다용도"
+    ],
+    "total_time_seconds": 1.0518386363983154,
+    "api_latency_seconds": 1.0518386363983154,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 404,
+    "prompt_tokens": 358,
+    "completion_tokens": 46
+  },
+  {
+    "keyword": "장난감 정리 박스",
+    "expanded": [
+      "장난감 정리 박스",
+      "장난감박스",
+      "정리 박스",
+      "박스",
+      "장난감",
+      "수납용품",
+      "정리",
+      "수납"
+    ],
+    "total_time_seconds": 1.1527073383331299,
+    "api_latency_seconds": 1.152064323425293,
+    "processing_overhead_seconds": 0.0006430149078369141,
+    "total_tokens": 424,
+    "prompt_tokens": 361,
+    "completion_tokens": 63
+  },
+  {
+    "keyword": "신발",
+    "expanded": [
+      "신발",
+      "신발",
+      "패션",
+      "잡화"
+    ],
+    "total_time_seconds": 0.7650692462921143,
+    "api_latency_seconds": 0.7650692462921143,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 373,
+    "prompt_tokens": 357,
+    "completion_tokens": 16
+  },
+  {
+    "keyword": "커튼봉",
+    "expanded": [
+      "커튼봉",
+      "커튼",
+      "봉",
+      "인테리어",
+      "커튼 부자재",
+      "설치",
+      "고정"
+    ],
+    "total_time_seconds": 1.0475587844848633,
+    "api_latency_seconds": 1.0475587844848633,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 407,
+    "prompt_tokens": 358,
+    "completion_tokens": 49
+  },
+  {
+    "keyword": "긁힘 방지 패드",
+    "expanded": [
+      "긁힘 방지 패드",
+      "긁힘 방지",
+      "패드",
+      "생활용품",
+      "가구 보호",
+      "미끄럼 방지"
+    ],
+    "total_time_seconds": 1.0481197834014893,
+    "api_latency_seconds": 1.0481197834014893,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 412,
+    "prompt_tokens": 362,
+    "completion_tokens": 50
+  },
+  {
+    "keyword": "기름 방지",
+    "expanded": [
+      "기름 방지",
+      "주방",
+      "방지",
+      "주방용품",
+      "기름",
+      "청소"
+    ],
+    "total_time_seconds": 1.141096830368042,
+    "api_latency_seconds": 1.141096830368042,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 395,
+    "prompt_tokens": 358,
+    "completion_tokens": 37
+  },
+  {
+    "keyword": "핸드폰 충전선 정리대",
+    "expanded": [
+      "핸드폰 충전선 정리대",
+      "핸드폰",
+      "충전선 정리대",
+      "정리대",
+      "디지털",
+      "핸드폰 용품",
+      "정리"
+    ],
+    "total_time_seconds": 1.048332929611206,
+    "api_latency_seconds": 1.048332929611206,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 422,
+    "prompt_tokens": 363,
+    "completion_tokens": 59
+  },
+  {
+    "keyword": "그물망",
+    "expanded": [
+      "그물망",
+      "수납",
+      "정리",
+      "다용도"
+    ],
+    "total_time_seconds": 0.7626101970672607,
+    "api_latency_seconds": 0.7616109848022461,
+    "processing_overhead_seconds": 0.0009992122650146484,
+    "total_tokens": 376,
+    "prompt_tokens": 358,
+    "completion_tokens": 18
+  },
+  {
+    "keyword": "창문 닦는 밀대",
+    "expanded": [
+      "창문 닦는 밀대",
+      "창문",
+      "밀대",
+      "청소용품",
+      "청소",
+      "창문청소"
+    ],
+    "total_time_seconds": 0.9494524002075195,
+    "api_latency_seconds": 0.9450650215148926,
+    "processing_overhead_seconds": 0.004387378692626953,
+    "total_tokens": 404,
+    "prompt_tokens": 362,
+    "completion_tokens": 42
+  },
+  {
+    "keyword": "머리끈",
+    "expanded": [
+      "머리끈",
+      "헤어",
+      "끈",
+      "액세서리",
+      "머리"
+    ],
+    "total_time_seconds": 0.8518176078796387,
+    "api_latency_seconds": 0.8502054214477539,
+    "processing_overhead_seconds": 0.0016121864318847656,
+    "total_tokens": 380,
+    "prompt_tokens": 358,
+    "completion_tokens": 22
+  },
+  {
+    "keyword": "보풀제거기",
+    "expanded": [
+      "보풀제거기",
+      "옷",
+      "보풀 제거기",
+      "생활용품",
+      "의류 관리"
+    ],
+    "total_time_seconds": 0.8644211292266846,
+    "api_latency_seconds": 0.8644211292266846,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 386,
+    "prompt_tokens": 360,
+    "completion_tokens": 26
+  },
+  {
+    "keyword": "테이프",
+    "expanded": [
+      "테이프",
+      "사무실",
+      "테이프",
+      "문구",
+      "접착"
+    ],
+    "total_time_seconds": 0.8566727638244629,
+    "api_latency_seconds": 0.8566727638244629,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 358,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "고무장갑",
+    "expanded": [
+      "고무장갑",
+      "주방",
+      "장갑",
+      "주방용품",
+      "청소용품",
+      "미끄럼방지",
+      "방수"
+    ],
+    "total_time_seconds": 1.0413763523101807,
+    "api_latency_seconds": 1.0403802394866943,
+    "processing_overhead_seconds": 0.0009961128234863281,
+    "total_tokens": 406,
+    "prompt_tokens": 359,
+    "completion_tokens": 47
+  },
+  {
+    "keyword": "컵",
+    "expanded": [
+      "컵",
+      "주방",
+      "컵",
+      "주방용품",
+      "식기류"
+    ],
+    "total_time_seconds": 0.7677373886108398,
+    "api_latency_seconds": 0.7677373886108398,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 378,
+    "prompt_tokens": 357,
+    "completion_tokens": 21
+  },
+  {
+    "keyword": "허리 줄이는 핀",
+    "expanded": [
+      "허리 줄이는 핀",
+      "옷핀",
+      "핀",
+      "패션잡화",
+      "옷 수선",
+      "허리 조절"
+    ],
+    "total_time_seconds": 1.0511741638183594,
+    "api_latency_seconds": 1.0511741638183594,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 402,
+    "prompt_tokens": 361,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "안경 닦는 천",
+    "expanded": [
+      "안경 닦는 천",
+      "안경",
+      "천",
+      "청소용품",
+      "안경닦이"
+    ],
+    "total_time_seconds": 0.8560152053833008,
+    "api_latency_seconds": 0.8560152053833008,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 396,
+    "prompt_tokens": 361,
+    "completion_tokens": 35
+  },
+  {
+    "keyword": "문닫힘 방지 쿠션",
+    "expanded": [
+      "문닫힘 방지 쿠션",
+      "문",
+      "쿠션",
+      "생활용품",
+      "안전",
+      "끼임방지"
+    ],
+    "total_time_seconds": 0.957841157913208,
+    "api_latency_seconds": 0.957841157913208,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 402,
+    "prompt_tokens": 362,
+    "completion_tokens": 40
+  },
+  {
+    "keyword": "전선정리",
+    "expanded": [
+      "전선정리",
+      "책상",
+      "정리",
+      "수납용품",
+      "정리용품",
+      "케이블 정리"
+    ],
+    "total_time_seconds": 1.239140272140503,
+    "api_latency_seconds": 1.239140272140503,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 405,
+    "prompt_tokens": 359,
+    "completion_tokens": 46
+  },
+  {
+    "keyword": "보관",
+    "expanded": [
+      "보관",
+      "수납",
+      "정리",
+      "수납용품",
+      "정리용품"
+    ],
+    "total_time_seconds": 0.8516979217529297,
+    "api_latency_seconds": 0.8505668640136719,
+    "processing_overhead_seconds": 0.0011310577392578125,
+    "total_tokens": 381,
+    "prompt_tokens": 357,
+    "completion_tokens": 24
+  },
+  {
+    "keyword": "샴푸통",
+    "expanded": [
+      "샴푸통",
+      "욕실",
+      "통",
+      "세면용품",
+      "샴푸"
+    ],
+    "total_time_seconds": 0.7654118537902832,
+    "api_latency_seconds": 0.7654118537902832,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 359,
+    "completion_tokens": 22
+  },
+  {
+    "keyword": "에어컨 세정제",
+    "expanded": [
+      "에어컨 세정제",
+      "에어컨",
+      "세정제",
+      "청소용품",
+      "세척",
+      "청결"
+    ],
+    "total_time_seconds": 0.9503073692321777,
+    "api_latency_seconds": 0.9503073692321777,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 402,
+    "prompt_tokens": 361,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "귀마개",
+    "expanded": [
+      "귀마개",
+      "귀",
+      "마개",
+      "안전용품",
+      "소음방지"
+    ],
+    "total_time_seconds": 0.8494653701782227,
+    "api_latency_seconds": 0.8494653701782227,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 382,
+    "prompt_tokens": 358,
+    "completion_tokens": 24
+  },
+  {
+    "keyword": "햇빛가리개",
+    "expanded": [
+      "햇빛가리개",
+      "차량",
+      "가리개",
+      "자동차용품",
+      "햇빛차단"
+    ],
+    "total_time_seconds": 0.7638444900512695,
+    "api_latency_seconds": 0.7638444900512695,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 387,
+    "prompt_tokens": 360,
+    "completion_tokens": 27
+  },
+  {
+    "keyword": "주방 가위",
+    "expanded": [
+      "주방 가위",
+      "주방",
+      "가위",
+      "주방용품",
+      "칼"
+    ],
+    "total_time_seconds": 0.7711436748504639,
+    "api_latency_seconds": 0.7711436748504639,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 382,
+    "prompt_tokens": 359,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "물티슈",
+    "expanded": [
+      "물티슈",
+      "생활용품",
+      "티슈",
+      "청소용품",
+      "휴대용"
+    ],
+    "total_time_seconds": 0.7665855884552002,
+    "api_latency_seconds": 0.7655518054962158,
+    "processing_overhead_seconds": 0.001033782958984375,
+    "total_tokens": 383,
+    "prompt_tokens": 358,
+    "completion_tokens": 25
+  },
+  {
+    "keyword": "자취용품",
+    "expanded": [
+      "자취용품",
+      "생활",
+      "생활용품",
+      "간단",
+      "필수"
+    ],
+    "total_time_seconds": 0.9604039192199707,
+    "api_latency_seconds": 0.9604039192199707,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 389,
+    "prompt_tokens": 359,
+    "completion_tokens": 30
+  },
+  {
+    "keyword": "파우치",
+    "expanded": [
+      "파우치",
+      "다용도",
+      "가방",
+      "정리용품",
+      "수납"
+    ],
+    "total_time_seconds": 0.8559753894805908,
+    "api_latency_seconds": 0.8559753894805908,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 382,
+    "prompt_tokens": 358,
+    "completion_tokens": 24
+  },
+  {
+    "keyword": "안전 잠금 장치",
+    "expanded": [
+      "안전 잠금 장치",
+      "안전",
+      "잠금 장치",
+      "안전용품",
+      "잠금"
+    ],
+    "total_time_seconds": 0.9503483772277832,
+    "api_latency_seconds": 0.9503483772277832,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 396,
+    "prompt_tokens": 360,
+    "completion_tokens": 36
+  },
+  {
+    "keyword": "뽁뽁이",
+    "expanded": [
+      "뽁뽁이",
+      "포장재",
+      "포장용품",
+      "단열재",
+      "보호재"
+    ],
+    "total_time_seconds": 0.862339973449707,
+    "api_latency_seconds": 0.8617825508117676,
+    "processing_overhead_seconds": 0.0005574226379394531,
+    "total_tokens": 385,
+    "prompt_tokens": 359,
+    "completion_tokens": 26
+  },
+  {
+    "keyword": "액정 보호 필름",
+    "expanded": [
+      "액정 보호 필름",
+      "액정필름",
+      "보호필름",
+      "필름",
+      "핸드폰",
+      "핸드폰 용품",
+      "액정 보호",
+      "스크래치 방지"
+    ],
+    "total_time_seconds": 1.0547330379486084,
+    "api_latency_seconds": 1.0539004802703857,
+    "processing_overhead_seconds": 0.0008325576782226562,
+    "total_tokens": 426,
+    "prompt_tokens": 360,
+    "completion_tokens": 66
+  },
+  {
+    "keyword": "빨래 건조대 발",
+    "expanded": [
+      "빨래 건조대 발",
+      "빨래 건조대",
+      "건조대 발",
+      "발",
+      "세탁",
+      "세탁용품",
+      "건조대 부품"
+    ],
+    "total_time_seconds": 1.0565791130065918,
+    "api_latency_seconds": 1.0565791130065918,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 412,
+    "prompt_tokens": 361,
+    "completion_tokens": 51
+  },
+  {
+    "keyword": "정리용품",
+    "expanded": [
+      "정리용품",
+      "수납",
+      "정리",
+      "수납용품",
+      "생활용품",
+      "다용도",
+      "정돈"
+    ],
+    "total_time_seconds": 0.9529292583465576,
+    "api_latency_seconds": 0.9529292583465576,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 402,
+    "prompt_tokens": 358,
+    "completion_tokens": 44
+  },
+  {
+    "keyword": "일회용 면도기",
+    "expanded": [
+      "일회용 면도기",
+      "면도기",
+      "면도용품",
+      "생활용품",
+      "일회용"
+    ],
+    "total_time_seconds": 1.0549211502075195,
+    "api_latency_seconds": 1.0549211502075195,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 403,
+    "prompt_tokens": 361,
+    "completion_tokens": 42
+  },
+  {
+    "keyword": "반지 사이즈 조절링",
+    "expanded": [
+      "반지 사이즈 조절링",
+      "반지",
+      "조절링",
+      "악세사리",
+      "사이즈 조절"
+    ],
+    "total_time_seconds": 0.9684264659881592,
+    "api_latency_seconds": 0.9684264659881592,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 402,
+    "prompt_tokens": 360,
+    "completion_tokens": 42
+  },
+  {
+    "keyword": "점착제",
+    "expanded": [
+      "점착제",
+      "사무실",
+      "접착제",
+      "문구",
+      "접착"
+    ],
+    "total_time_seconds": 0.8579542636871338,
+    "api_latency_seconds": 0.8579542636871338,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 358,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "안대",
+    "expanded": [
+      "안대",
+      "눈",
+      "마스크",
+      "패션",
+      "수면",
+      "휴대용"
+    ],
+    "total_time_seconds": 0.86092209815979,
+    "api_latency_seconds": 0.86092209815979,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 357,
+    "completion_tokens": 24
+  },
+  {
+    "keyword": "메꿈이",
+    "expanded": [
+      "메꿈이",
+      "보수용품",
+      "틈새 메꿈",
+      "DIY용품"
+    ],
+    "total_time_seconds": 0.8605642318725586,
+    "api_latency_seconds": 0.8605642318725586,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 387,
+    "prompt_tokens": 358,
+    "completion_tokens": 29
+  },
+  {
+    "keyword": "머리카락 거름망",
+    "expanded": [
+      "머리카락 거름망",
+      "욕실",
+      "거름망",
+      "욕실용품",
+      "배수구",
+      "청소용품"
+    ],
+    "total_time_seconds": 1.0420291423797607,
+    "api_latency_seconds": 1.0407404899597168,
+    "processing_overhead_seconds": 0.0012886524200439453,
+    "total_tokens": 410,
+    "prompt_tokens": 361,
+    "completion_tokens": 49
+  },
+  {
+    "keyword": "뒤꿈치 보호 패드",
+    "expanded": [
+      "뒤꿈치 보호 패드",
+      "뒤꿈치",
+      "보호 패드",
+      "패드",
+      "보호용품",
+      "쿠션",
+      "통증 완화"
+    ],
+    "total_time_seconds": 0.9516580104827881,
+    "api_latency_seconds": 0.9506649971008301,
+    "processing_overhead_seconds": 0.0009930133819580078,
+    "total_tokens": 400,
+    "prompt_tokens": 361,
+    "completion_tokens": 39
+  },
+  {
+    "keyword": "오일",
+    "expanded": [
+      "오일",
+      "주방",
+      "오일",
+      "식품",
+      "요리"
+    ],
+    "total_time_seconds": 0.8566136360168457,
+    "api_latency_seconds": 0.8566136360168457,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 385,
+    "prompt_tokens": 357,
+    "completion_tokens": 28
+  },
+  {
+    "keyword": "강아지 간식",
+    "expanded": [
+      "강아지 간식",
+      "강아지",
+      "간식",
+      "애완용품",
+      "강아지용"
+    ],
+    "total_time_seconds": 0.857588529586792,
+    "api_latency_seconds": 0.857588529586792,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 388,
+    "prompt_tokens": 360,
+    "completion_tokens": 28
+  },
+  {
+    "keyword": "분무기",
+    "expanded": [
+      "분무기",
+      "다용도",
+      "스프레이",
+      "생활용품",
+      "청소용품",
+      "물뿌리개"
+    ],
+    "total_time_seconds": 0.9548957347869873,
+    "api_latency_seconds": 0.9548957347869873,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 399,
+    "prompt_tokens": 358,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "자석 후크",
+    "expanded": [
+      "자석 후크",
+      "자석",
+      "후크",
+      "다용도",
+      "정리용품",
+      "수납"
+    ],
+    "total_time_seconds": 1.059976577758789,
+    "api_latency_seconds": 1.059976577758789,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 397,
+    "prompt_tokens": 359,
+    "completion_tokens": 38
+  },
+  {
+    "keyword": "타이머",
+    "expanded": [
+      "타이머",
+      "주방",
+      "시계",
+      "주방용품",
+      "시간 측정"
+    ],
+    "total_time_seconds": 0.8544390201568604,
+    "api_latency_seconds": 0.8544390201568604,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 393,
+    "prompt_tokens": 357,
+    "completion_tokens": 36
+  },
+  {
+    "keyword": "틈새 스펀지",
+    "expanded": [
+      "틈새 스펀지",
+      "청소",
+      "스펀지",
+      "청소용품",
+      "틈새 청소"
+    ],
+    "total_time_seconds": 0.9477150440216064,
+    "api_latency_seconds": 0.9477150440216064,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 402,
+    "prompt_tokens": 361,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "물기 닦는 거",
+    "expanded": [
+      "물기 닦는 거",
+      "주방",
+      "청소용품",
+      "다용도",
+      "청소"
+    ],
+    "total_time_seconds": 0.854313850402832,
+    "api_latency_seconds": 0.854313850402832,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 388,
+    "prompt_tokens": 361,
+    "completion_tokens": 27
+  },
+  {
+    "keyword": "바닥 매트",
+    "expanded": [
+      "바닥 매트",
+      "바닥",
+      "매트",
+      "인테리어",
+      "미끄럼방지"
+    ],
+    "total_time_seconds": 0.8516929149627686,
+    "api_latency_seconds": 0.8516929149627686,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 393,
+    "prompt_tokens": 359,
+    "completion_tokens": 34
+  },
+  {
+    "keyword": "머리 감을 때 쓰는 브러쉬",
+    "expanded": [
+      "머리 감을 때 쓰는 브러쉬",
+      "머리 감을 때",
+      "브러쉬",
+      "미용용품",
+      "헤어",
+      "두피 마사지"
+    ],
+    "total_time_seconds": 0.95255446434021,
+    "api_latency_seconds": 0.95255446434021,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 419,
+    "prompt_tokens": 364,
+    "completion_tokens": 55
+  },
+  {
+    "keyword": "장난감",
+    "expanded": [
+      "장난감",
+      "놀이방",
+      "인형",
+      "팬시",
+      "어린이"
+    ],
+    "total_time_seconds": 0.8613607883453369,
+    "api_latency_seconds": 0.8613607883453369,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 358,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "S자 고리",
+    "expanded": [
+      "S자 고리",
+      "고리",
+      "다용도",
+      "정리용품",
+      "걸이"
+    ],
+    "total_time_seconds": 0.945969820022583,
+    "api_latency_seconds": 0.9449896812438965,
+    "processing_overhead_seconds": 0.0009801387786865234,
+    "total_tokens": 392,
+    "prompt_tokens": 359,
+    "completion_tokens": 33
+  },
+  {
+    "keyword": "렌즈 세척액",
+    "expanded": [
+      "렌즈 세척액",
+      "렌즈",
+      "세척액",
+      "세정제",
+      "눈",
+      "안경",
+      "세척"
+    ],
+    "total_time_seconds": 1.060619831085205,
+    "api_latency_seconds": 1.060619831085205,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 403,
+    "prompt_tokens": 361,
+    "completion_tokens": 42
+  },
+  {
+    "keyword": "넘어짐 방지 스티커",
+    "expanded": [
+      "넘어짐 방지 스티커",
+      "미끄럼 방지 스티커",
+      "안전 스티커",
+      "스티커",
+      "안전용품",
+      "미끄럼방지",
+      "넘어짐 방지"
+    ],
+    "total_time_seconds": 1.143890380859375,
+    "api_latency_seconds": 1.1428909301757812,
+    "processing_overhead_seconds": 0.00099945068359375,
+    "total_tokens": 423,
+    "prompt_tokens": 362,
+    "completion_tokens": 61
+  },
+  {
+    "keyword": "식탁매트",
+    "expanded": [
+      "식탁매트",
+      "식탁",
+      "매트",
+      "주방용품",
+      "식탁 보호",
+      "미끄럼방지"
+    ],
+    "total_time_seconds": 1.0495786666870117,
+    "api_latency_seconds": 1.0495786666870117,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 400,
+    "prompt_tokens": 359,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "화장품 공병",
+    "expanded": [
+      "화장품 공병",
+      "화장대",
+      "공병",
+      "미용",
+      "화장품 정리"
+    ],
+    "total_time_seconds": 0.9716994762420654,
+    "api_latency_seconds": 0.9705808162689209,
+    "processing_overhead_seconds": 0.0011186599731445312,
+    "total_tokens": 394,
+    "prompt_tokens": 360,
+    "completion_tokens": 34
+  },
+  {
+    "keyword": "연필꽂이",
+    "expanded": [
+      "연필꽂이",
+      "책상",
+      "꽂이",
+      "문구",
+      "정리"
+    ],
+    "total_time_seconds": 0.7537992000579834,
+    "api_latency_seconds": 0.7537992000579834,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 381,
+    "prompt_tokens": 359,
+    "completion_tokens": 22
+  },
+  {
+    "keyword": "고무",
+    "expanded": [
+      "고무",
+      "문구",
+      "사무용품",
+      "미술용품",
+      "탄성"
+    ],
+    "total_time_seconds": 0.8549995422363281,
+    "api_latency_seconds": 0.852992057800293,
+    "processing_overhead_seconds": 0.0020074844360351562,
+    "total_tokens": 381,
+    "prompt_tokens": 357,
+    "completion_tokens": 24
+  },
+  {
+    "keyword": "학용품",
+    "expanded": [
+      "학용품",
+      "사무실",
+      "학교",
+      "문구",
+      "필기구",
+      "학습"
+    ],
+    "total_time_seconds": 0.8587350845336914,
+    "api_latency_seconds": 0.8587350845336914,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 384,
+    "prompt_tokens": 358,
+    "completion_tokens": 26
+  },
+  {
+    "keyword": "와인 마개",
+    "expanded": [
+      "와인 마개",
+      "와인",
+      "마개",
+      "주방용품",
+      "밀봉"
+    ],
+    "total_time_seconds": 0.8812599182128906,
+    "api_latency_seconds": 0.8812599182128906,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 383,
+    "prompt_tokens": 359,
+    "completion_tokens": 24
+  },
+  {
+    "keyword": "책갈피",
+    "expanded": [
+      "책갈피",
+      "독서",
+      "문구",
+      "사무용품",
+      "책"
+    ],
+    "total_time_seconds": 0.7793142795562744,
+    "api_latency_seconds": 0.7793142795562744,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 380,
+    "prompt_tokens": 358,
+    "completion_tokens": 22
+  },
+  {
+    "keyword": "섬유유연제",
+    "expanded": [
+      "섬유유연제",
+      "세탁",
+      "유연제",
+      "세탁용품",
+      "향기",
+      "정전기방지"
+    ],
+    "total_time_seconds": 0.9551734924316406,
+    "api_latency_seconds": 0.9551734924316406,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 393,
+    "prompt_tokens": 360,
+    "completion_tokens": 33
+  },
+  {
+    "keyword": "유리테이프",
+    "expanded": [
+      "유리테이프",
+      "테이프",
+      "문구",
+      "포장"
+    ],
+    "total_time_seconds": 0.8574070930480957,
+    "api_latency_seconds": 0.8574070930480957,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 379,
+    "prompt_tokens": 359,
+    "completion_tokens": 20
+  },
+  {
+    "keyword": "냄새 제거제",
+    "expanded": [
+      "냄새 제거제",
+      "탈취제",
+      "방향제",
+      "생활용품",
+      "냄새제거",
+      "탈취"
+    ],
+    "total_time_seconds": 0.856907844543457,
+    "api_latency_seconds": 0.8508362770080566,
+    "processing_overhead_seconds": 0.006071567535400391,
+    "total_tokens": 391,
+    "prompt_tokens": 360,
+    "completion_tokens": 31
+  },
+  {
+    "keyword": "바구니 뚜껑",
+    "expanded": [
+      "바구니 뚜껑",
+      "바구니",
+      "뚜껑",
+      "수납용품",
+      "정리",
+      "보관"
+    ],
+    "total_time_seconds": 0.8557868003845215,
+    "api_latency_seconds": 0.8547859191894531,
+    "processing_overhead_seconds": 0.0010008811950683594,
+    "total_tokens": 401,
+    "prompt_tokens": 361,
+    "completion_tokens": 40
+  },
+  {
+    "keyword": "방충망 보수 테이프",
+    "expanded": [
+      "방충망 보수 테이프",
+      "방충망",
+      "보수 테이프",
+      "테이프",
+      "생활용품",
+      "보수용",
+      "수리"
+    ],
+    "total_time_seconds": 1.07206130027771,
+    "api_latency_seconds": 1.07206130027771,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 421,
+    "prompt_tokens": 363,
+    "completion_tokens": 58
+  },
+  {
+    "keyword": "방석",
+    "expanded": [
+      "방석",
+      "의자",
+      "쿠션",
+      "홈데코",
+      "인테리어",
+      "편안한"
+    ],
+    "total_time_seconds": 0.8740456104278564,
+    "api_latency_seconds": 0.8740456104278564,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 384,
+    "prompt_tokens": 357,
+    "completion_tokens": 27
+  }
+]

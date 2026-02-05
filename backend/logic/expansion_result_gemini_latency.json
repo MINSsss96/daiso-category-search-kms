@@ -1,0 +1,115 @@
+[
+  {
+    "keyword": "자동잠금장치 (Gemini Latency: 0.852s, Tokens: [P:2535, C:27, T:2562])",
+    "expanded": [
+      "자동잠금장치",
+      "안전",
+      "잠금장치",
+      "생활용품",
+      "안전장치",
+      "보안"
+    ],
+    "total_time_seconds": 2.6280910968780518,
+    "api_latency_seconds": 1.164095163345337,
+    "processing_overhead_seconds": 1.4639959335327148,
+    "total_tokens": 443,
+    "prompt_tokens": 396,
+    "completion_tokens": 47
+  },
+  {
+    "keyword": "흡착후크 (Gemini Latency: 0.953s, Tokens: [P:2534, C:32, T:2566])",
+    "expanded": [
+      "흡착후크",
+      "벽",
+      "후크",
+      "수납용품",
+      "다용도"
+    ],
+    "total_time_seconds": 0.9495522975921631,
+    "api_latency_seconds": 0.9493205547332764,
+    "processing_overhead_seconds": 0.00023174285888671875,
+    "total_tokens": 419,
+    "prompt_tokens": 395,
+    "completion_tokens": 24
+  },
+  {
+    "keyword": "압축파우치 (Gemini Latency: 0.946s, Tokens: [P:2536, C:26, T:2562])",
+    "expanded": [
+      "압축파우치",
+      "여행",
+      "파우치",
+      "수납용품",
+      "압축"
+    ],
+    "total_time_seconds": 0.9574038982391357,
+    "api_latency_seconds": 0.9574038982391357,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 429,
+    "prompt_tokens": 396,
+    "completion_tokens": 33
+  },
+  {
+    "keyword": "멜라민식기 (Gemini Latency: 0.955s, Tokens: [P:2536, C:28, T:2564])",
+    "expanded": [
+      "멜라민식기",
+      "식기",
+      "주방용품",
+      "멜라민"
+    ],
+    "total_time_seconds": 0.7633204460144043,
+    "api_latency_seconds": 0.7623414993286133,
+    "processing_overhead_seconds": 0.0009789466857910156,
+    "total_tokens": 419,
+    "prompt_tokens": 397,
+    "completion_tokens": 22
+  },
+  {
+    "keyword": "튜브짜개 (Gemini Latency: 0.954s, Tokens: [P:2536, C:35, T:2571])",
+    "expanded": [
+      "튜브짜개",
+      "욕실",
+      "주방",
+      "생활용품",
+      "튜브링거"
+    ],
+    "total_time_seconds": 0.8567006587982178,
+    "api_latency_seconds": 0.8567006587982178,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 418,
+    "prompt_tokens": 395,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "고정클립 (Gemini Latency: 0.938s, Tokens: [P:2536, C:32, T:2568])",
+    "expanded": [
+      "고정클립",
+      "클립",
+      "사무용품",
+      "문구",
+      "고정"
+    ],
+    "total_time_seconds": 0.9431629180908203,
+    "api_latency_seconds": 0.9421648979187012,
+    "processing_overhead_seconds": 0.0009980201721191406,
+    "total_tokens": 419,
+    "prompt_tokens": 395,
+    "completion_tokens": 24
+  },
+  {
+    "keyword": "칸막이정리함 (Gemini Latency: 0.865s, Tokens: [P:2538, C:30, T:2568])",
+    "expanded": [
+      "칸막이정리함",
+      "정리함",
+      "수납",
+      "수납용품",
+      "정리",
+      "칸막이"
+    ],
+    "total_time_seconds": 0.9486072063446045,
+    "api_latency_seconds": 0.9486072063446045,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 438,
+    "prompt_tokens": 397,
+    "completion_tokens": 41
+  }
+]

@@ -1,0 +1,17 @@
+Q: 손에 안 묻히고 버리는 거 있어요? -> Keyword: 청소집게 (Gemini Latency: 1.006s, Tokens: [P:2537, C:33, T:2570])
+Q: 아이가 던져도 안 깨지는 거 있어요? -> Keyword: 멜라민식기 (Gemini Latency: 0.955s, Tokens: [P:2536, C:28, T:2564])
+Q: 열면 바로 쓸 수 있는 거 있어요? -> Keyword: 건티슈 (Gemini Latency: 0.966s, Tokens: [P:2534, C:30, T:2564])
+Q: 가방 안에서 자리 안 차지하는 거 있어요? -> Keyword: 압축파우치 (Gemini Latency: 0.946s, Tokens: [P:2536, C:26, T:2562])
+Q: 냄새 안 섞이게 분리되는 거 있어요? -> Keyword: 칸막이정리함 (Gemini Latency: 0.865s, Tokens: [P:2538, C:30, T:2568])
+Q: 바람 불어도 안 날아가는 거 있어요? -> Keyword: 고정클립 (Gemini Latency: 0.938s, Tokens: [P:2536, C:32, T:2568])
+Q: 닫아두면 자동으로 잠기는 거 있어요? -> Keyword: 자동잠금장치 (Gemini Latency: 0.852s, Tokens: [P:2535, C:27, T:2562])
+Q: 손 안 더럽히고 짜는 거 있어요? -> Keyword: 튜브짜개 (Gemini Latency: 0.954s, Tokens: [P:2536, C:35, T:2571])
+Q: 물기 있어도 붙는 거 있어요? -> Keyword: 흡착후크 (Gemini Latency: 0.953s, Tokens: [P:2534, C:32, T:2566])
+Q: 한 번 붙이면 오래 가는 거 있어요? -> Keyword: 꼭꼬핀 (Gemini Latency: 0.954s, Tokens: [P:2534, C:24, T:2558])
+
+[Latency Statistics (N=10)]
+ - MAX: 1.006s
+ - MIN: 0.852s
+ - AVG: 0.939s
+
+Total Script Execution Time: 9.40 seconds
