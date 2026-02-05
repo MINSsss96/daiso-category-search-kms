@@ -1,0 +1,166 @@
+[
+  {
+    "keyword": "튜브짜개",
+    "expanded": [
+      "튜브짜개",
+      "욕실",
+      "주방",
+      "생활용품",
+      "튜브링거"
+    ],
+    "total_time_seconds": 4.5153820514678955,
+    "api_latency_seconds": 1.0264778137207031,
+    "processing_overhead_seconds": 3.4889042377471924,
+    "total_tokens": 382,
+    "prompt_tokens": 359,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "자동잠금장치",
+    "expanded": [
+      "자동잠금장치",
+      "잠금장치",
+      "안전용품",
+      "문단속",
+      "안전"
+    ],
+    "total_time_seconds": 0.8652832508087158,
+    "api_latency_seconds": 0.8652832508087158,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 388,
+    "prompt_tokens": 360,
+    "completion_tokens": 28
+  },
+  {
+    "keyword": "압축파우치",
+    "expanded": [
+      "압축파우치",
+      "여행",
+      "파우치",
+      "정리용품",
+      "압축"
+    ],
+    "total_time_seconds": 0.8621876239776611,
+    "api_latency_seconds": 0.8561434745788574,
+    "processing_overhead_seconds": 0.006044149398803711,
+    "total_tokens": 385,
+    "prompt_tokens": 360,
+    "completion_tokens": 25
+  },
+  {
+    "keyword": "고정클립",
+    "expanded": [
+      "고정클립",
+      "클립",
+      "정리용품",
+      "다용도"
+    ],
+    "total_time_seconds": 1.0560250282287598,
+    "api_latency_seconds": 1.0555028915405273,
+    "processing_overhead_seconds": 0.0005221366882324219,
+    "total_tokens": 387,
+    "prompt_tokens": 359,
+    "completion_tokens": 28
+  },
+  {
+    "keyword": "청소집게",
+    "expanded": [
+      "청소집게",
+      "청소",
+      "집게",
+      "청소용품",
+      "정리",
+      "청결"
+    ],
+    "total_time_seconds": 0.9477870464324951,
+    "api_latency_seconds": 0.9467926025390625,
+    "processing_overhead_seconds": 0.0009944438934326172,
+    "total_tokens": 396,
+    "prompt_tokens": 359,
+    "completion_tokens": 37
+  },
+  {
+    "keyword": "흡착후크",
+    "expanded": [
+      "흡착후크",
+      "욕실",
+      "후크",
+      "생활용품",
+      "수납용품",
+      "다용도",
+      "벽걸이"
+    ],
+    "total_time_seconds": 1.051321029663086,
+    "api_latency_seconds": 1.051321029663086,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 404,
+    "prompt_tokens": 359,
+    "completion_tokens": 45
+  },
+  {
+    "keyword": "꼭꼬핀",
+    "expanded": [
+      "꼭꼬핀",
+      "벽",
+      "핀",
+      "생활",
+      "인테리어",
+      "고정"
+    ],
+    "total_time_seconds": 0.7774531841278076,
+    "api_latency_seconds": 0.7767500877380371,
+    "processing_overhead_seconds": 0.0007030963897705078,
+    "total_tokens": 381,
+    "prompt_tokens": 358,
+    "completion_tokens": 23
+  },
+  {
+    "keyword": "멜라민식기",
+    "expanded": [
+      "멜라민식기",
+      "식기",
+      "주방",
+      "주방용품",
+      "식탁용품",
+      "멜라민"
+    ],
+    "total_time_seconds": 0.9666190147399902,
+    "api_latency_seconds": 0.9661076068878174,
+    "processing_overhead_seconds": 0.0005114078521728516,
+    "total_tokens": 402,
+    "prompt_tokens": 361,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "칸막이정리함",
+    "expanded": [
+      "칸막이정리함",
+      "정리함",
+      "정리용품",
+      "수납",
+      "칸막이"
+    ],
+    "total_time_seconds": 0.955467939376831,
+    "api_latency_seconds": 0.955467939376831,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 402,
+    "prompt_tokens": 361,
+    "completion_tokens": 41
+  },
+  {
+    "keyword": "건티슈",
+    "expanded": [
+      "건티슈",
+      "티슈",
+      "생활용품",
+      "청소용품",
+      "위생용품"
+    ],
+    "total_time_seconds": 0.9571902751922607,
+    "api_latency_seconds": 0.9571902751922607,
+    "processing_overhead_seconds": 0.0,
+    "total_tokens": 397,
+    "prompt_tokens": 358,
+    "completion_tokens": 39
+  }
+]
